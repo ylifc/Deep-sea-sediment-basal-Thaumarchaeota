@@ -1,0 +1,624 @@
+IQ-TREE 2.2.2.7 COVID-edition built Jun  7 2023
+
+Input file name: cat_added_fwdA_reformat_mafft_trimal.fa
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1500 replicates)
+Random seed number: 797724
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 108 sequences with 491 amino-acid sites
+Number of constant sites: 72 (= 14.664% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 72 (= 14.664% of all sites)
+Number of parsimony informative sites: 382
+Number of distinct site patterns: 460
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: LG+I+G4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+LG+I+G4          -27152.347   54726.693 +        1   55047.353 +        1   55612.143 +        1
+LG+G4            -27165.909   54751.818 -  3.5e-06   55068.318 -  2.8e-05   55633.072 - 2.85e-05
+Q.yeast+I+G4     -27198.163   54818.325 - 1.27e-20   55138.985 - 1.27e-20   55703.775 - 1.27e-20
+Q.insect+I+G4    -27198.772   54819.545 - 6.88e-21   55140.204 - 6.88e-21   55704.994 - 6.88e-21
+LG+F+I+G4        -27143.719   54747.437 - 3.13e-05   55156.129 -  2.4e-24   55712.619 - 1.52e-22
+Q.pfam+I+G4      -27255.315   54932.630 - 1.91e-45   55253.290 - 1.91e-45   55818.080 - 1.91e-45
+Q.plant+I+G4     -27256.884   54935.768 - 3.98e-46   55256.428 - 3.98e-46   55821.218 - 3.98e-46
+Q.yeast+F+I+G4   -27237.520   54935.041 - 5.73e-46   55343.733 - 4.38e-65   55900.223 - 2.78e-63
+Q.pfam+F+I+G4    -27247.375   54954.751 - 3.01e-50   55363.443 -  2.3e-69   55919.933 - 1.46e-67
+cpREV+I+G4       -27308.395   55038.790 - 1.69e-68   55359.449 - 1.69e-68   55924.240 - 1.69e-68
+Q.insect+F+I+G4  -27302.120   55064.241 - 5.04e-74   55472.933 - 3.86e-93   56029.423 - 2.45e-91
+cpREV+F+I+G4     -27305.692   55071.384 - 1.42e-75   55480.077 - 1.08e-94   56036.566 - 6.88e-93
+JTTDCMut+I+G4    -27384.745   55191.491 - 1.18e-101   55512.150 - 1.18e-101   56076.941 - 1.18e-101
+JTT+I+G4         -27388.967   55199.934 - 1.73e-103   55520.593 - 1.73e-103   56085.384 - 1.73e-103
+FLU+I+G4         -27410.964   55243.928 - 4.83e-113   55564.587 - 4.83e-113   56129.378 - 4.83e-113
+Q.plant+F+I+G4   -27354.355   55168.709 - 1.04e-96   55577.401 - 7.97e-116   56133.891 - 5.06e-114
+rtREV+F+I+G4     -27365.096   55190.193 - 2.25e-101   55598.885 - 1.72e-120   56155.375 - 1.09e-118
+JTTDCMut+F+I+G4  -27410.707   55281.414 - 3.5e-121   55690.106 - 2.68e-140   56246.596 - 1.7e-138
+JTT+F+I+G4       -27419.017   55298.035 - 8.61e-125   55706.727 - 6.59e-144   56263.217 - 4.18e-142
+WAG+F+I+G4       -27420.192   55300.384 - 2.66e-125   55709.077 - 2.03e-144   56265.567 - 1.29e-142
+WAG+I+G4         -27499.528   55421.056 - 1.66e-151   55741.715 - 1.66e-151   56306.506 - 1.66e-151
+FLU+F+I+G4       -27510.332   55480.664 - 1.89e-164   55889.356 - 1.45e-183   56445.846 - 9.2e-182
+rtREV+I+G4       -27589.184   55600.368 - 1.92e-190   55921.027 - 1.92e-190   56485.817 - 1.92e-190
+VT+I+G4          -27612.468   55646.935 - 1.49e-200   55967.595 - 1.49e-200   56532.385 - 1.49e-200
+Q.mammal+I+G4    -27614.067   55650.134 -   3e-201   55970.793 -   3e-201   56535.583 -   3e-201
+mtZOA+F+I+G4     -27555.891   55571.782 - 3.1e-184   55980.474 - 2.37e-203   56536.964 - 1.51e-201
+VT+F+I+G4        -27604.138   55668.276 - 3.45e-205   56076.968 - 2.64e-224   56633.458 - 1.68e-222
+mtInv+F+I+G4     -27631.156   55722.312 - 6.37e-217   56131.004 - 4.88e-236   56687.494 - 3.09e-234
+Q.mammal+F+I+G4  -27670.007   55800.014 - 8.54e-234   56208.706 - 6.54e-253   56765.196 - 4.15e-251
+HIVb+I+G4        -27735.954   55893.909 - 3.49e-254   56214.568 - 3.49e-254   56779.358 - 3.49e-254
+Q.bird+I+G4      -27769.176   55960.352 - 1.3e-268   56281.011 - 1.3e-268   56845.801 - 1.3e-268
+Blosum62+I+G4    -27785.921   55993.842 - 6.95e-276   56314.502 - 6.95e-276   56879.292 - 6.95e-276
+Blosum62+F+I+G4  -27802.832   56065.664 - 1.76e-291   56474.357 - 1.35e-310   57030.846 - 8.56e-309
+PMB+I+G4         -27863.244   56148.488 - 1.82e-309   56469.148 - 1.82e-309   57033.938 - 1.82e-309
+Dayhoff+F+I+G4   -27815.837   56091.675 - 3.96e-297   56500.367 - 3.03e-316   57056.857 - 1.92e-314
+DCMut+F+I+G4     -27820.680   56101.360 - 3.13e-299   56510.052 - 2.39e-318   57066.542 - 1.52e-316
+PMB+F+I+G4       -27830.550   56121.100 - 1.62e-303   56529.792 - 1.24e-322   57086.282 - 7.85e-321
+mtMet+F+I+G4     -27833.881   56127.762 - 5.78e-305   56536.454 - 4.94e-324   57092.944 - 2.82e-322
+Dayhoff+I+G4     -27901.517   56225.034 -        0   56545.694 -        0   57110.484 -        0
+DCMut+I+G4       -27906.389   56234.777 -        0   56555.437 -        0   57120.227 -        0
+HIVb+F+I+G4      -27849.976   56159.953 - 5.91e-312   56568.645 -        0   57125.135 -        0
+Q.bird+F+I+G4    -27858.013   56176.026 - 1.91e-315   56584.718 -        0   57141.208 -        0
+FLAVI+I+G4       -27996.903   56415.806 -        0   56736.465 -        0   57301.256 -        0
+mtART+F+I+G4     -27952.027   56364.054 -        0   56772.746 -        0   57329.236 -        0
+mtREV+F+I+G4     -28044.425   56548.849 -        0   56957.541 -        0   57514.031 -        0
+FLAVI+F+I+G4     -28132.216   56724.432 -        0   57133.124 -        0   57689.614 -        0
+mtZOA+I+G4       -28250.429   56922.857 -        0   57243.517 -        0   57808.307 -        0
+mtVer+F+I+G4     -28374.645   57209.289 -        0   57617.981 -        0   58174.471 -        0
+HIVw+F+I+G4      -28519.103   57498.207 -        0   57906.899 -        0   58463.389 -        0
+HIVw+I+G4        -28592.086   57606.172 -        0   57926.832 -        0   58491.622 -        0
+LG+I             -28699.871   57819.742 -        0   58136.242 -        0   58700.995 -        0
+mtMet+I+G4       -28722.466   57866.932 -        0   58187.592 -        0   58752.382 -        0
+mtMAM+F+I+G4     -28678.985   57817.971 -        0   58226.663 -        0   58783.153 -        0
+mtInv+I+G4       -28774.427   57970.854 -        0   58291.514 -        0   58856.304 -        0
+mtART+I+G4       -28983.340   58388.680 -        0   58709.340 -        0   59274.130 -        0
+mtREV+I+G4       -29049.651   58521.303 -        0   58841.962 -        0   59406.753 -        0
+mtVer+I+G4       -29220.433   58862.866 -        0   59183.525 -        0   59748.315 -        0
+LG               -29246.385   58910.769 -        0   59223.154 -        0   59787.826 -        0
+mtMAM+I+G4       -29539.345   59500.690 -        0   59821.349 -        0   60386.139 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+I+G4
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.0926
+Gamma shape alpha: 0.8503
+
+ Category  Relative_rate  Proportion
+  0         0              0.0926
+  1         0.1170         0.2269
+  2         0.4702         0.2269
+  3         1.0690         0.2269
+  4         2.7520         0.2269
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -27142.2706 (s.e. 1028.5327)
+Unconstrained log-likelihood (without tree): -2987.3600
+Number of free parameters (#branches + #model parameters): 211
+Akaike information criterion (AIC) score: 54706.5412
+Corrected Akaike information criterion (AICc) score: 55027.2007
+Bayesian information criterion (BIC) score: 55591.9909
+
+Total tree length (sum of branch lengths): 20.7314
+Sum of internal branch lengths: 6.4532 (31.1278% of tree length)
+
+WARNING: 1 near-zero internal branches (<0.0020) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'outgourp' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++-----------------------------------------------------------outgourp
+|
+|                                +--MCL4436233.1_Nitrososphaerota_archaeon
+|                             +--| (100)
+|                             |  |  +**MBI2937348.1_Nitrososphaerota_archaeon
+|                             |  +--| (100)
+|                             |     |  +--OHE55553.1_Thaumarchaeota_archaeon
+|                             |     +--| (100)
+|                             |        +**Thaumarchaeota_unknown_archaeon_sequence_RBG_16_49_8-contig34_2
+|                          +--| (96)
+|                          |  |  +--D197_2_contig53_6
+|                          |  +--| (98)
+|                          |     |  +**Mariana_Trench_sediment_5533m_4-6cm_Bin1
+|                          |     +--| (100)
+|                          |        +**XS84_Bin3_contig40_4
+|                       +--| (100)
+|                       |  +--D197_116_contig2_48
+|                    +--| (91)
+|                    |  +--MCS7116844.1_Nitrososphaerales_archaeon
+|                 +--| (98)
+|                 |  |        +--MCP8307130.1_unknown_archaeon_sequence
+|                 |  |     +--| (100)
+|                 |  |     |  |  +**MCP8309470.1_unknown_archaeon_sequence
+|                 |  |     |  +--| (100)
+|                 |  |     |     +--MCP8313675.1_unknown_archaeon_sequence
+|                 |  |  +--| (100)
+|                 |  |  |  +--NWG09310.1_Nitrososphaerales_archaeon
+|                 |  +--| (100)
+|                 |     |  +--MCP8323602.1_Candidatus_Methylarchaceae
+|                 |     +--| (100)
+|                 |        |     +**MCP8306026.1_unknown_archaeon_sequence
+|                 |        |  +--| (100)
+|                 |        |  |  +--MCP8305132.1_unknown_archaeon_sequence
+|                 |        +--| (100)
+|                 |           +--MCP8312677.1_Candidatus_Methylarchaceae
+|              +--| (100)
+|              |  +--NHV97165.1_Nitrososphaerota_archaeon
+|           +--| (100)
+|           |  +--MBS7644361.1_Candidatus_Bathyarchaeota
+|        +--| (97)
+|        |  |     +--NIM44119.1_Nitrososphaeria_archaeon
+|        |  |  +--| (93)
+|        |  |  |  |     +--MBS7658289.1_Candidatus_Bathyarchaeota
+|        |  |  |  |  +--| (100)
+|        |  |  |  |  |  +--MBS7655404.1_Candidatus_Bathyarchaeota
+|        |  |  |  +--| (96)
+|        |  |  |     |     +--MBS7625958.1_Candidatus_Bathyarchaeota
+|        |  |  |     |  +--| (100)
+|        |  |  |     |  |  +--MBS7650705.1_Candidatus_Bathyarchaeota
+|        |  |  |     +--| (100)
+|        |  |  |        +--OGD54519.1_Candidatus_Bathyarchaeota
+|        |  +--| (80)
+|        |     |  +--MCD6164328.1_Candidatus_Odinarchaeota
+|        |     +--| (97)
+|        |        |        +**RLI30396.1_Candidatus_Bathyarchaeota
+|        |        |     +--| (100)
+|        |        |     |  +--RLI34823.1_Candidatus_Bathyarchaeota
+|        |        |  +--| (100)
+|        |        |  |  +--HID18711.1_Candidatus
+|        |        +--| (95)
+|        |           |        +**MBS7610705.1_Candidatus_Bathyarchaeota
+|        |           |     +**| (71)
+|        |           |     |  +--MBS7613330.1_Candidatus_Bathyarchaeota
+|        |           |  +--| (100)
+|        |           |  |  +--MBS7617014.1_Candidatus_Bathyarchaeota
+|        |           +--| (100)
+|        |              |  +**KYH37045.1_Candidatus_Bathyarchaeota
+|        |              +--| (100)
+|        |                 +**RLI26066.1_Candidatus_Bathyarchaeota
+|     +--| (100)
+|     |  |     +--MBE0512360.1_Candidatus_Bathyarchaeota
+|     |  |  +--| (99)
+|     |  |  |  |  +**RLI33952.1_Candidatus_Bathyarchaeota
+|     |  |  |  +--| (100)
+|     |  |  |     +--RJS89785.1_Candidatus_Bathyarchaeota
+|     |  +--| (100)
+|     |     +--RLG55534.1_Candidatus_Korarchaeota
+|  +--| (84)
+|  |  |                       +--UCD26156.1_Candidatus_Bathyarchaeota
+|  |  |                    +--| (100)
+|  |  |                    |  +--UCE17000.1_Candidatus_Bathyarchaeota
+|  |  |                 +--| (100)
+|  |  |                 |  +--NIR87641.1_Candidatus_Bathyarchaeota
+|  |  |              +--| (99)
+|  |  |              |  |  +--UCC58649.1_Candidatus_Bathyarchaeota
+|  |  |              |  +--| (100)
+|  |  |              |     +--PVX24892.1_Candidatus_Bathyarchaeota
+|  |  |           +--| (43)
+|  |  |           |  |        +--MCK5592579.1_Candidatus_Bathyarchaeota
+|  |  |           |  |     +--| (100)
+|  |  |           |  |     |  |  +**TET19308.1_Candidatus_Bathyarchaeota
+|  |  |           |  |     |  +--| (100)
+|  |  |           |  |     |     +--TEU07168.1_Candidatus_Bathyarchaeota
+|  |  |           |  |  +--| (49)
+|  |  |           |  |  |  +--UCC34096.1_Candidatus_Bathyarchaeota
+|  |  |           |  +--| (27)
+|  |  |           |     +--KON27140.1_miscellaneous_Crenarchaeota
+|  |  |        +--| (62)
+|  |  |        |  +--MCJ7610128.1_Candidatus_Bathyarchaeota
+|  |  |     +--| (21)
+|  |  |     |  |                       +--MBS7635917.1_Candidatus_Bathyarchaeota
+|  |  |     |  |                    +--| (95)
+|  |  |     |  |                    |  |  +--MCS7124454.1_Candidatus_Bathyarchaeota
+|  |  |     |  |                    |  +--| (99)
+|  |  |     |  |                    |     |  +--MBS7608350.1_Candidatus_Bathyarchaeota
+|  |  |     |  |                    |     +--| (76)
+|  |  |     |  |                    |        +--MBS7646389.1_Candidatus_Bathyarchaeota
+|  |  |     |  |                 +--| (100)
+|  |  |     |  |                 |  +--MBX5321524.1_Candidatus_Bathyarchaeota
+|  |  |     |  |              +--| (100)
+|  |  |     |  |              |  +--MBS7616358.1_Candidatus_Bathyarchaeota
+|  |  |     |  |           +--| (100)
+|  |  |     |  |           |  |  +--MCL6578653.1_Candidatus_Bathyarchaeota
+|  |  |     |  |           |  +--| (100)
+|  |  |     |  |           |     +--MBX5329303.1_Candidatus_Bathyarchaeota
+|  |  |     |  |        +--| (51)
+|  |  |     |  |        |  |     +--NWG10883.1_Candidatus_Bathyarchaeota
+|  |  |     |  |        |  |  +--| (100)
+|  |  |     |  |        |  |  |  +--NWF87580.1_Candidatus_Bathyarchaeota
+|  |  |     |  |        |  +--| (49)
+|  |  |     |  |        |     |        +**RJS76450.1_Candidatus_Bathyarchaeota
+|  |  |     |  |        |     |     +--| (100)
+|  |  |     |  |        |     |     |  +--RLI17842.1_Candidatus_Bathyarchaeota
+|  |  |     |  |        |     |  +--| (100)
+|  |  |     |  |        |     |  |  +--HDD69578.1_Candidatus_Bathyarchaeota
+|  |  |     |  |        |     +--| (51)
+|  |  |     |  |        |        |  +--NIO37692.1_Candidatus_Bathyarchaeota
+|  |  |     |  |        |        +--| (99)
+|  |  |     |  |        |           |  +--MCK4440264.1_Candidatus_Bathyarchaeota
+|  |  |     |  |        |           +--| (71)
+|  |  |     |  |        |              +--MBE0519584.1_Candidatus_Bathyarchaeota
+|  |  |     |  |     +--| (100)
+|  |  |     |  |     |  |  +--OGD49700.1_Candidatus_Bathyarchaeota
+|  |  |     |  |     |  +--| (100)
+|  |  |     |  |     |     +--MBS7632139.1_Candidatus
+|  |  |     |  |  +--| (99)
+|  |  |     |  |  |  +--RLI22401.1_Candidatus_Bathyarchaeota
+|  |  |     |  +--| (96)
+|  |  |     |     |  +**MCD6445751.1_Candidatus_Bathyarchaeota
+|  |  |     |     +--| (100)
+|  |  |     |        +--RJS80068.1_Candidatus_Bathyarchaeota
+|  |  |  +--| (58)
+|  |  |  |  |        +--RLI35203.1_Candidatus_Bathyarchaeota
+|  |  |  |  |     +--| (99)
+|  |  |  |  |     |  |        +--RJS67718.1_Candidatus_Bathyarchaeota
+|  |  |  |  |     |  |     +--| (100)
+|  |  |  |  |     |  |     |  +--RJS79794.1_Candidatus_Bathyarchaeota
+|  |  |  |  |     |  |  +--| (100)
+|  |  |  |  |     |  |  |  +--KYH42154.1_Candidatus_Bathyarchaeota
+|  |  |  |  |     |  +--| (100)
+|  |  |  |  |     |     |  +--HIE14609.1_Candidatus_Bathyarchaeota
+|  |  |  |  |     |     +--| (100)
+|  |  |  |  |     |        +--RJS85245.1_Candidatus_Bathyarchaeota
+|  |  |  |  |  +--| (92)
+|  |  |  |  |  |  |     +--MCD6088440.1_Candidatus_Bathyarchaeota
+|  |  |  |  |  |  |  +--| (97)
+|  |  |  |  |  |  |  |  |  +--RJS94609.1_Candidatus_Bathyarchaeota
+|  |  |  |  |  |  |  |  +--| (98)
+|  |  |  |  |  |  |  |     +--RJS86916.1_Candidatus_Bathyarchaeota
+|  |  |  |  |  |  +--| (97)
+|  |  |  |  |  |     |  +--RJS76688.1_Candidatus_Bathyarchaeota
+|  |  |  |  |  |     +--| (100)
+|  |  |  |  |  |        |  +--MBS7656660.1_Candidatus_Bathyarchaeota
+|  |  |  |  |  |        +--| (100)
+|  |  |  |  |  |           +--MBS7614410.1_Candidatus_Bathyarchaeota
+|  |  |  |  +--| (100)
+|  |  |  |     |        +--MBS7605139.1_Candidatus_Bathyarchaeota
+|  |  |  |     |     +--| (100)
+|  |  |  |     |     |  +--MBS7641301.1_Candidatus_Bathyarchaeota
+|  |  |  |     |  +--| (95)
+|  |  |  |     |  |  +--MBS7624299.1_Candidatus_Bathyarchaeota
+|  |  |  |     +--| (100)
+|  |  |  |        |     +--MCD6470822.1_Candidatus_Bathyarchaeota
+|  |  |  |        |  +--| (80)
+|  |  |  |        |  |  |  +--MBS7648687.1_Candidatus_Bathyarchaeota
+|  |  |  |        |  |  +--| (95)
+|  |  |  |        |  |     |  +--MBS7606563.1_Candidatus_Bathyarchaeota
+|  |  |  |        |  |     +--| (100)
+|  |  |  |        |  |        +--MBS7638916.1_Candidatus_Bathyarchaeota
+|  |  |  |        +--| (87)
+|  |  |  |           |  +--MCD6469830.1_Candidatus_Bathyarchaeota
+|  |  |  |           +--| (100)
+|  |  |  |              +--MBS7653891.1_Candidatus_Bathyarchaeota
+|  |  +--| (85)
+|  |     +--PDM26455.1_Candidatus_Bathyarchaeota
++--| (70)
+|  |     +--HDI08010.1_Candidatus_Bathyarchaeota
+|  |  +--| (99)
+|  |  |  +**RLG92746.1_Candidatus_Bathyarchaeota
+|  +--| (72)
+|     |              +--MCK4477606.1_Candidatus_Bathyarchaeota
+|     |           +--| (48)
+|     |           |  |     +--MCK5631361.1_Candidatus_Bathyarchaeota
+|     |           |  |  +--| (100)
+|     |           |  |  |  +--MCK4497686.1_Candidatus_Bathyarchaeota
+|     |           |  +--| (54)
+|     |           |     +--UCE95623.1_Candidatus_Bathyarchaeota
+|     |        +--| (50)
+|     |        |  +--UCH31028.1_Candidatus_Bathyarchaeota
+|     |     +--| (47)
+|     |     |  |     +--TET57005.1_Candidatus_Bathyarchaeota
+|     |     |  |  +--| (87)
+|     |     |  |  |  +--MCK4435329.1_Candidatus_Bathyarchaeota
+|     |     |  +--| (100)
+|     |     |     +--MCK4633566.1_Candidatus_Bathyarchaeota
+|     |  +--| (100)
+|     |  |  +--UCG36718.1_Candidatus_Bathyarchaeota
+|     +--| (76)
+|        +--MBX5326885.1_Candidatus_Bathyarchaeota
+|
++--UCC28665.1_Candidatus_Bathyarchaeota
+
+Tree in newick format:
+
+(outgourp:5.6585500905,(((((((((((MCL4436233.1_Nitrososphaerota_archaeon:0.0324835092,(MBI2937348.1_Nitrososphaerota_archaeon:0.0000025437,(OHE55553.1_Thaumarchaeota_archaeon:0.0027326267,Thaumarchaeota_unknown_archaeon_sequence_RBG_16_49_8-contig34_2:0.0000026267)100:0.0214802408)100:0.0271863040)100:0.1229340103,(D197_2_contig53_6:0.0994552978,(Mariana_Trench_sediment_5533m_4-6cm_Bin1:0.0000010003,XS84_Bin3_contig40_4:0.0000010003)100:0.1028157951)98:0.0241147319)96:0.0286152768,D197_116_contig2_48:0.1778303663)100:0.3498860197,MCS7116844.1_Nitrososphaerales_archaeon:0.2618530145)91:0.0277771657,(((MCP8307130.1_unknown_archaeon_sequence:0.0257663160,(MCP8309470.1_unknown_archaeon_sequence:0.0000010003,MCP8313675.1_unknown_archaeon_sequence:0.0047895587)100:0.0306370581)100:0.0225364033,NWG09310.1_Nitrososphaerales_archaeon:0.0427159208)100:0.0869123874,(MCP8323602.1_Candidatus_Methylarchaceae:0.1103858254,((MCP8306026.1_unknown_archaeon_sequence:0.0000010003,MCP8305132.1_unknown_archaeon_sequence:0.0023424346)100:0.0178510292,MCP8312677.1_Candidatus_Methylarchaceae:0.0190656505)100:0.0368666565)100:0.0752910476)100:0.1781011974)98:0.0458589849,NHV97165.1_Nitrososphaerota_archaeon:0.3406962001)100:0.0634273098,MBS7644361.1_Candidatus_Bathyarchaeota:0.1934482034)100:0.0517810139,((NIM44119.1_Nitrososphaeria_archaeon:0.3299171714,((MBS7658289.1_Candidatus_Bathyarchaeota:0.0315302871,MBS7655404.1_Candidatus_Bathyarchaeota:0.0629216052)100:0.2021731390,((MBS7625958.1_Candidatus_Bathyarchaeota:0.0221209492,MBS7650705.1_Candidatus_Bathyarchaeota:0.0224420514)100:0.1109958461,OGD54519.1_Candidatus_Bathyarchaeota:0.1845753873)100:0.1542355748)96:0.0490109806)93:0.0522428425,(MCD6164328.1_Candidatus_Odinarchaeota:0.2762278751,(((RLI30396.1_Candidatus_Bathyarchaeota:0.0000029922,RLI34823.1_Candidatus_Bathyarchaeota:0.0024353177)100:0.0724159055,HID18711.1_Candidatus:0.1452816166)100:0.2391673694,(((MBS7610705.1_Candidatus_Bathyarchaeota:0.0000010003,MBS7613330.1_Candidatus_Bathyarchaeota:0.0023611880)71:0.0000010003,MBS7617014.1_Candidatus_Bathyarchaeota:0.0023632323)100:0.1716319599,(KYH37045.1_Candidatus_Bathyarchaeota:0.0000010003,RLI26066.1_Candidatus_Bathyarchaeota:0.0000010003)100:0.1087146339)100:0.2467881302)95:0.0336911081)97:0.0337729454)80:0.0222778263)97:0.0700520426,((MBE0512360.1_Candidatus_Bathyarchaeota:0.1863626202,(RLI33952.1_Candidatus_Bathyarchaeota:0.0000010003,RJS89785.1_Candidatus_Bathyarchaeota:0.0023831324)100:0.3269821059)99:0.0895424656,RLG55534.1_Candidatus_Korarchaeota:0.3482011474)100:0.0885695355)100:0.1472984684,((((((((UCD26156.1_Candidatus_Bathyarchaeota:0.0848051662,UCE17000.1_Candidatus_Bathyarchaeota:0.0689762694)100:0.0193079913,NIR87641.1_Candidatus_Bathyarchaeota:0.0604825524)100:0.0332974583,(UCC58649.1_Candidatus_Bathyarchaeota:0.0732586510,PVX24892.1_Candidatus_Bathyarchaeota:0.2416307062)100:0.1053460512)99:0.0518700984,(((MCK5592579.1_Candidatus_Bathyarchaeota:0.0751026839,(TET19308.1_Candidatus_Bathyarchaeota:0.0000029936,TEU07168.1_Candidatus_Bathyarchaeota:0.0046300589)100:0.0616240934)100:0.0771151277,UCC34096.1_Candidatus_Bathyarchaeota:0.1769391239)49:0.0140822082,KON27140.1_miscellaneous_Crenarchaeota:0.3593389756)27:0.0201326448)43:0.0260798196,MCJ7610128.1_Candidatus_Bathyarchaeota:0.3361524148)62:0.0298764376,((((((((MBS7635917.1_Candidatus_Bathyarchaeota:0.0321215468,(MCS7124454.1_Candidatus_Bathyarchaeota:0.0647241694,(MBS7608350.1_Candidatus_Bathyarchaeota:0.0212838343,MBS7646389.1_Candidatus_Bathyarchaeota:0.0378332791)76:0.0051188984)99:0.0154935593)95:0.0123085617,MBX5321524.1_Candidatus_Bathyarchaeota:0.0476838078)100:0.0291882254,MBS7616358.1_Candidatus_Bathyarchaeota:0.1092723921)100:0.0330567631,(MCL6578653.1_Candidatus_Bathyarchaeota:0.0228301168,MBX5329303.1_Candidatus_Bathyarchaeota:0.0271963738)100:0.0655357570)100:0.0411394849,((NWG10883.1_Candidatus_Bathyarchaeota:0.0491504768,NWF87580.1_Candidatus_Bathyarchaeota:0.0276272330)100:0.0496614388,(((RJS76450.1_Candidatus_Bathyarchaeota:0.0000010003,RLI17842.1_Candidatus_Bathyarchaeota:0.0046635664)100:0.0039533859,HDD69578.1_Candidatus_Bathyarchaeota:0.0055082819)100:0.0666155865,(NIO37692.1_Candidatus_Bathyarchaeota:0.1243465259,(MCK4440264.1_Candidatus_Bathyarchaeota:0.0775245285,MBE0519584.1_Candidatus_Bathyarchaeota:0.0898489070)71:0.0248308492)99:0.0431360941)51:0.0120507628)49:0.0215113229)51:0.0180526348,(OGD49700.1_Candidatus_Bathyarchaeota:0.1461919185,MBS7632139.1_Candidatus:0.1565942977)100:0.0287447750)100:0.0512995116,RLI22401.1_Candidatus_Bathyarchaeota:0.1320095155)99:0.0332261386,(MCD6445751.1_Candidatus_Bathyarchaeota:0.0007026790,RJS80068.1_Candidatus_Bathyarchaeota:0.0040064377)100:0.2571515003)96:0.0343567959)21:0.0063847458,(((RLI35203.1_Candidatus_Bathyarchaeota:0.1685114291,(((RJS67718.1_Candidatus_Bathyarchaeota:0.0023030778,RJS79794.1_Candidatus_Bathyarchaeota:0.0024221920)100:0.0622388295,KYH42154.1_Candidatus_Bathyarchaeota:0.0407665832)100:0.0699572783,(HIE14609.1_Candidatus_Bathyarchaeota:0.1079606808,RJS85245.1_Candidatus_Bathyarchaeota:0.1013351667)100:0.0499414412)100:0.0537297795)99:0.0322480506,((MCD6088440.1_Candidatus_Bathyarchaeota:0.1412557408,(RJS94609.1_Candidatus_Bathyarchaeota:0.0920825078,RJS86916.1_Candidatus_Bathyarchaeota:0.0735071782)98:0.0299552465)97:0.0157017173,(RJS76688.1_Candidatus_Bathyarchaeota:0.1333994390,(MBS7656660.1_Candidatus_Bathyarchaeota:0.0221706121,MBS7614410.1_Candidatus_Bathyarchaeota:0.0449960791)100:0.1957075203)100:0.0421363890)97:0.0217284400)92:0.0528266468,(((MBS7605139.1_Candidatus_Bathyarchaeota:0.0926968579,MBS7641301.1_Candidatus_Bathyarchaeota:0.0574984914)100:0.0409014397,MBS7624299.1_Candidatus_Bathyarchaeota:0.0742441507)95:0.0254712369,((MCD6470822.1_Candidatus_Bathyarchaeota:0.0954718742,(MBS7648687.1_Candidatus_Bathyarchaeota:0.1240097206,(MBS7606563.1_Candidatus_Bathyarchaeota:0.0346984370,MBS7638916.1_Candidatus_Bathyarchaeota:0.0465362068)100:0.0338406368)95:0.0234171666)80:0.0100018765,(MCD6469830.1_Candidatus_Bathyarchaeota:0.0896751467,MBS7653891.1_Candidatus_Bathyarchaeota:0.1061518459)100:0.0339368838)87:0.0170523079)100:0.0532772824)100:0.0730015650)58:0.0104045739,PDM26455.1_Candidatus_Bathyarchaeota:0.2484064343)85:0.0276995248)84:0.0458955827,((HDI08010.1_Candidatus_Bathyarchaeota:0.0047544925,RLG92746.1_Candidatus_Bathyarchaeota:0.0000029414)99:0.1916089628,(((((MCK4477606.1_Candidatus_Bathyarchaeota:0.0995131437,((MCK5631361.1_Candidatus_Bathyarchaeota:0.0067399657,MCK4497686.1_Candidatus_Bathyarchaeota:0.0101702555)100:0.2086230201,UCE95623.1_Candidatus_Bathyarchaeota:0.0959403602)54:0.0298307478)48:0.0178011317,UCH31028.1_Candidatus_Bathyarchaeota:0.1614314169)50:0.0182480332,((TET57005.1_Candidatus_Bathyarchaeota:0.0115730710,MCK4435329.1_Candidatus_Bathyarchaeota:0.0070256254)87:0.0025500703,MCK4633566.1_Candidatus_Bathyarchaeota:0.0115258240)100:0.1254229357)47:0.0094500366,UCG36718.1_Candidatus_Bathyarchaeota:0.1696151910)100:0.0963114039,MBX5326885.1_Candidatus_Bathyarchaeota:0.1861743407)76:0.0175722694)72:0.0401931766)70:0.0609096898,UCC28665.1_Candidatus_Bathyarchaeota:0.1483889303);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1500 bootstrap trees
+Log-likelihood of consensus tree: -27143.284437
+Robinson-Foulds distance between ML tree and consensus tree: 8
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++-----------------------------------------------------------outgourp
+|
+|                                +--MCL4436233.1_Nitrososphaerota_archaeon
+|                             +--| (100)
+|                             |  |  +--MBI2937348.1_Nitrososphaerota_archaeon
+|                             |  +--| (100)
+|                             |     |  +--OHE55553.1_Thaumarchaeota_archaeon
+|                             |     +--| (100)
+|                             |        +--Thaumarchaeota_unknown_archaeon_sequence_RBG_16_49_8-contig34_2
+|                          +--| (96)
+|                          |  |  +--D197_2_contig53_6
+|                          |  +--| (98)
+|                          |     |        +**Mariana_Trench_sediment_5533m_4-6cm_Bin1
+|                          |     |     +**|
+|                          |     |     |  +**Deep-sea_sediment_DRR121209_Bin1
+|                          |     |  +--|
+|                          |     |  |  +**Deep-sea_sediment_ERR1730303_Bin1
+|                          |     +--| (100)
+|                          |        +--XS84_Bin3_contig40_4
+|                       +--| (100)
+|                       |  +--D197_116_contig2_48
+|                    +--| (91)
+|                    |  +--MCS7116844.1_Nitrososphaerales_archaeon
+|                 +--| (98)
+|                 |  |        +--MCP8307130.1_unknown_archaeon_sequence
+|                 |  |     +--| (100)
+|                 |  |     |  |  +--MCP8309470.1_unknown_archaeon_sequence
+|                 |  |     |  +--| (100)
+|                 |  |     |     +--MCP8313675.1_unknown_archaeon_sequence
+|                 |  |  +--| (100)
+|                 |  |  |  +--NWG09310.1_Nitrososphaerales_archaeon
+|                 |  +--| (100)
+|                 |     |  +--MCP8323602.1_Candidatus_Methylarchaceae
+|                 |     +--| (100)
+|                 |        |     +--MCP8306026.1_unknown_archaeon_sequence
+|                 |        |  +--| (100)
+|                 |        |  |  +--MCP8305132.1_unknown_archaeon_sequence
+|                 |        +--| (100)
+|                 |           +--MCP8312677.1_Candidatus_Methylarchaceae
+|              +--| (100)
+|              |  +--NHV97165.1_Nitrososphaerota_archaeon
+|           +--| (100)
+|           |  +--MBS7644361.1_Candidatus_Bathyarchaeota
+|        +--| (97)
+|        |  |     +--NIM44119.1_Nitrososphaeria_archaeon
+|        |  |  +--| (93)
+|        |  |  |  |     +--MBS7658289.1_Candidatus_Bathyarchaeota
+|        |  |  |  |  +--| (100)
+|        |  |  |  |  |  +--MBS7655404.1_Candidatus_Bathyarchaeota
+|        |  |  |  +--| (96)
+|        |  |  |     |     +--MBS7625958.1_Candidatus_Bathyarchaeota
+|        |  |  |     |  +--| (100)
+|        |  |  |     |  |  +--MBS7650705.1_Candidatus_Bathyarchaeota
+|        |  |  |     +--| (100)
+|        |  |  |        +--OGD54519.1_Candidatus_Bathyarchaeota
+|        |  +--| (80)
+|        |     |  +--MCD6164328.1_Candidatus_Odinarchaeota
+|        |     +--| (97)
+|        |        |        +--RLI30396.1_Candidatus_Bathyarchaeota
+|        |        |     +--| (100)
+|        |        |     |  +--RLI34823.1_Candidatus_Bathyarchaeota
+|        |        |  +--| (100)
+|        |        |  |  +--HID18711.1_Candidatus
+|        |        +--| (95)
+|        |           |        +--MBS7610705.1_Candidatus_Bathyarchaeota
+|        |           |     +--| (71)
+|        |           |     |  +--MBS7613330.1_Candidatus_Bathyarchaeota
+|        |           |  +--| (100)
+|        |           |  |  +--MBS7617014.1_Candidatus_Bathyarchaeota
+|        |           +--| (100)
+|        |              |  +--KYH37045.1_Candidatus_Bathyarchaeota
+|        |              +--| (100)
+|        |                 +--RLI26066.1_Candidatus_Bathyarchaeota
+|     +--| (100)
+|     |  |     +--MBE0512360.1_Candidatus_Bathyarchaeota
+|     |  |  +--| (99)
+|     |  |  |  |  +--RLI33952.1_Candidatus_Bathyarchaeota
+|     |  |  |  +--| (100)
+|     |  |  |     +--RJS89785.1_Candidatus_Bathyarchaeota
+|     |  +--| (100)
+|     |     +--RLG55534.1_Candidatus_Korarchaeota
+|  +--| (84)
+|  |  |                          +--UCD26156.1_Candidatus_Bathyarchaeota
+|  |  |                       +--| (100)
+|  |  |                       |  +--UCE17000.1_Candidatus_Bathyarchaeota
+|  |  |                    +--| (100)
+|  |  |                    |  +--NIR87641.1_Candidatus_Bathyarchaeota
+|  |  |                 +--| (99)
+|  |  |                 |  |  +--UCC58649.1_Candidatus_Bathyarchaeota
+|  |  |                 |  +--| (100)
+|  |  |                 |     +--PVX24892.1_Candidatus_Bathyarchaeota
+|  |  |              +--| (50)
+|  |  |              |  +--UCC34096.1_Candidatus_Bathyarchaeota
+|  |  |           +--| (38)
+|  |  |           |  |  +--MCK5592579.1_Candidatus_Bathyarchaeota
+|  |  |           |  +--| (100)
+|  |  |           |     |  +--TET19308.1_Candidatus_Bathyarchaeota
+|  |  |           |     +--| (100)
+|  |  |           |        +--TEU07168.1_Candidatus_Bathyarchaeota
+|  |  |        +--| (62)
+|  |  |        |  |  +--MCJ7610128.1_Candidatus_Bathyarchaeota
+|  |  |        |  +--| (44)
+|  |  |        |     +--KON27140.1_miscellaneous_Crenarchaeota
+|  |  |     +--| (30)
+|  |  |     |  |        +--RLI35203.1_Candidatus_Bathyarchaeota
+|  |  |     |  |     +--| (99)
+|  |  |     |  |     |  |        +--RJS67718.1_Candidatus_Bathyarchaeota
+|  |  |     |  |     |  |     +--| (100)
+|  |  |     |  |     |  |     |  +--RJS79794.1_Candidatus_Bathyarchaeota
+|  |  |     |  |     |  |  +--| (100)
+|  |  |     |  |     |  |  |  +--KYH42154.1_Candidatus_Bathyarchaeota
+|  |  |     |  |     |  +--| (100)
+|  |  |     |  |     |     |  +--HIE14609.1_Candidatus_Bathyarchaeota
+|  |  |     |  |     |     +--| (100)
+|  |  |     |  |     |        +--RJS85245.1_Candidatus_Bathyarchaeota
+|  |  |     |  |  +--| (92)
+|  |  |     |  |  |  |     +--MCD6088440.1_Candidatus_Bathyarchaeota
+|  |  |     |  |  |  |  +--| (97)
+|  |  |     |  |  |  |  |  |  +--RJS94609.1_Candidatus_Bathyarchaeota
+|  |  |     |  |  |  |  |  +--| (98)
+|  |  |     |  |  |  |  |     +--RJS86916.1_Candidatus_Bathyarchaeota
+|  |  |     |  |  |  +--| (97)
+|  |  |     |  |  |     |  +--RJS76688.1_Candidatus_Bathyarchaeota
+|  |  |     |  |  |     +--| (100)
+|  |  |     |  |  |        |  +--MBS7656660.1_Candidatus_Bathyarchaeota
+|  |  |     |  |  |        +--| (100)
+|  |  |     |  |  |           +--MBS7614410.1_Candidatus_Bathyarchaeota
+|  |  |     |  +--| (100)
+|  |  |     |     |        +--MBS7605139.1_Candidatus_Bathyarchaeota
+|  |  |     |     |     +--| (100)
+|  |  |     |     |     |  +--MBS7641301.1_Candidatus_Bathyarchaeota
+|  |  |     |     |  +--| (95)
+|  |  |     |     |  |  +--MBS7624299.1_Candidatus_Bathyarchaeota
+|  |  |     |     +--| (100)
+|  |  |     |        |     +--MCD6470822.1_Candidatus_Bathyarchaeota
+|  |  |     |        |  +--| (80)
+|  |  |     |        |  |  |  +--MBS7648687.1_Candidatus_Bathyarchaeota
+|  |  |     |        |  |  +--| (95)
+|  |  |     |        |  |     |  +--MBS7606563.1_Candidatus_Bathyarchaeota
+|  |  |     |        |  |     +--| (100)
+|  |  |     |        |  |        +--MBS7638916.1_Candidatus_Bathyarchaeota
+|  |  |     |        +--| (87)
+|  |  |     |           |  +--MCD6469830.1_Candidatus_Bathyarchaeota
+|  |  |     |           +--| (100)
+|  |  |     |              +--MBS7653891.1_Candidatus_Bathyarchaeota
+|  |  |  +--| (58)
+|  |  |  |  |                       +--MBS7635917.1_Candidatus_Bathyarchaeota
+|  |  |  |  |                    +--| (95)
+|  |  |  |  |                    |  |  +--MCS7124454.1_Candidatus_Bathyarchaeota
+|  |  |  |  |                    |  +--| (99)
+|  |  |  |  |                    |     |  +--MBS7608350.1_Candidatus_Bathyarchaeota
+|  |  |  |  |                    |     +--| (76)
+|  |  |  |  |                    |        +--MBS7646389.1_Candidatus_Bathyarchaeota
+|  |  |  |  |                 +--| (100)
+|  |  |  |  |                 |  +--MBX5321524.1_Candidatus_Bathyarchaeota
+|  |  |  |  |              +--| (100)
+|  |  |  |  |              |  +--MBS7616358.1_Candidatus_Bathyarchaeota
+|  |  |  |  |           +--| (100)
+|  |  |  |  |           |  |  +--MCL6578653.1_Candidatus_Bathyarchaeota
+|  |  |  |  |           |  +--| (100)
+|  |  |  |  |           |     +--MBX5329303.1_Candidatus_Bathyarchaeota
+|  |  |  |  |        +--| (51)
+|  |  |  |  |        |  |     +--NWG10883.1_Candidatus_Bathyarchaeota
+|  |  |  |  |        |  |  +--| (100)
+|  |  |  |  |        |  |  |  +--NWF87580.1_Candidatus_Bathyarchaeota
+|  |  |  |  |        |  +--| (49)
+|  |  |  |  |        |     |        +--RJS76450.1_Candidatus_Bathyarchaeota
+|  |  |  |  |        |     |     +--| (100)
+|  |  |  |  |        |     |     |  +--RLI17842.1_Candidatus_Bathyarchaeota
+|  |  |  |  |        |     |  +--| (100)
+|  |  |  |  |        |     |  |  +--HDD69578.1_Candidatus_Bathyarchaeota
+|  |  |  |  |        |     +--| (51)
+|  |  |  |  |        |        |  +--NIO37692.1_Candidatus_Bathyarchaeota
+|  |  |  |  |        |        +--| (99)
+|  |  |  |  |        |           |  +--MCK4440264.1_Candidatus_Bathyarchaeota
+|  |  |  |  |        |           +--| (71)
+|  |  |  |  |        |              +--MBE0519584.1_Candidatus_Bathyarchaeota
+|  |  |  |  |     +--| (100)
+|  |  |  |  |     |  |  +--OGD49700.1_Candidatus_Bathyarchaeota
+|  |  |  |  |     |  +--| (100)
+|  |  |  |  |     |     +--MBS7632139.1_Candidatus
+|  |  |  |  |  +--| (99)
+|  |  |  |  |  |  +--RLI22401.1_Candidatus_Bathyarchaeota
+|  |  |  |  +--| (96)
+|  |  |  |     |  +--MCD6445751.1_Candidatus_Bathyarchaeota
+|  |  |  |     +--| (100)
+|  |  |  |        +--RJS80068.1_Candidatus_Bathyarchaeota
+|  |  +--| (85)
+|  |     +--PDM26455.1_Candidatus_Bathyarchaeota
++--| (70)
+|  |     +--HDI08010.1_Candidatus_Bathyarchaeota
+|  |  +--| (99)
+|  |  |  +--RLG92746.1_Candidatus_Bathyarchaeota
+|  +--| (72)
+|     |              +--MCK4477606.1_Candidatus_Bathyarchaeota
+|     |           +--| (48)
+|     |           |  |     +--MCK5631361.1_Candidatus_Bathyarchaeota
+|     |           |  |  +--| (100)
+|     |           |  |  |  +--MCK4497686.1_Candidatus_Bathyarchaeota
+|     |           |  +--| (54)
+|     |           |     +--UCE95623.1_Candidatus_Bathyarchaeota
+|     |        +--| (50)
+|     |        |  +--UCH31028.1_Candidatus_Bathyarchaeota
+|     |     +--| (47)
+|     |     |  |     +--TET57005.1_Candidatus_Bathyarchaeota
+|     |     |  |  +--| (87)
+|     |     |  |  |  +--MCK4435329.1_Candidatus_Bathyarchaeota
+|     |     |  +--| (100)
+|     |     |     +--MCK4633566.1_Candidatus_Bathyarchaeota
+|     |  +--| (100)
+|     |  |  +--UCG36718.1_Candidatus_Bathyarchaeota
+|     +--| (76)
+|        +--MBX5326885.1_Candidatus_Bathyarchaeota
+|
++--UCC28665.1_Candidatus_Bathyarchaeota
+
+
+Consensus tree in newick format: 
+
+(outgourp:5.6800472423,(((((((((((MCL4436233.1_Nitrososphaerota_archaeon:0.0326394374,(MBI2937348.1_Nitrososphaerota_archaeon:0.0000029979,(OHE55553.1_Thaumarchaeota_archaeon:0.0027454425,Thaumarchaeota_unknown_archaeon_sequence_RBG_16_49_8-contig34_2:0.0000023434)100:0.0215826133)100:0.0273302866)100:0.1237276051,(D197_2_contig53_6:0.0997531038,(((Mariana_Trench_sediment_5533m_4-6cm_Bin1:0.0000000000,Deep-sea_sediment_DRR121209_Bin1:0.0000000000):0.0000000000,Deep-sea_sediment_ERR1730303_Bin1:0.0000000000):0.0000029926,XS84_Bin3_contig40_4:0.0000029926)100:0.1033462016)98:0.0241782008)96:0.0289014075,D197_116_contig2_48:0.1785910648)100:0.3518417025,MCS7116844.1_Nitrososphaerales_archaeon:0.2635053645)91:0.0275580717,(((MCP8307130.1_unknown_archaeon_sequence:0.0258881434,(MCP8309470.1_unknown_archaeon_sequence:0.0000029926,MCP8313675.1_unknown_archaeon_sequence:0.0048145835)100:0.0308062528)100:0.0226979382,NWG09310.1_Nitrososphaerales_archaeon:0.0429116171)100:0.0874177298,(MCP8323602.1_Candidatus_Methylarchaceae:0.1110064355,((MCP8306026.1_unknown_archaeon_sequence:0.0000029926,MCP8305132.1_unknown_archaeon_sequence:0.0023555317)100:0.0179470440,MCP8312677.1_Candidatus_Methylarchaceae:0.0191779806)100:0.0370117018)100:0.0756401277)100:0.1791582021)98:0.0460706676,NHV97165.1_Nitrososphaerota_archaeon:0.3422862989)100:0.0636262718,MBS7644361.1_Candidatus_Bathyarchaeota:0.1943060715)100:0.0517347209,((NIM44119.1_Nitrososphaeria_archaeon:0.3316972669,((MBS7658289.1_Candidatus_Bathyarchaeota:0.0317753231,MBS7655404.1_Candidatus_Bathyarchaeota:0.0631738473)100:0.2033961327,((MBS7625958.1_Candidatus_Bathyarchaeota:0.0221666613,MBS7650705.1_Candidatus_Bathyarchaeota:0.0226353853)100:0.1115648633,OGD54519.1_Candidatus_Bathyarchaeota:0.1855679836)100:0.1551069216)96:0.0491151600)93:0.0525660233,(MCD6164328.1_Candidatus_Odinarchaeota:0.2776158541,(((RLI30396.1_Candidatus_Bathyarchaeota:0.0000029926,RLI34823.1_Candidatus_Bathyarchaeota:0.0024497871)100:0.0728190882,HID18711.1_Candidatus:0.1460485310)100:0.2404452200,(((MBS7610705.1_Candidatus_Bathyarchaeota:0.0000029926,MBS7613330.1_Candidatus_Bathyarchaeota:0.0023734680)71:0.0000029926,MBS7617014.1_Candidatus_Bathyarchaeota:0.0023751930)100:0.1725124562,(KYH37045.1_Candidatus_Bathyarchaeota:0.0000029926,RLI26066.1_Candidatus_Bathyarchaeota:0.0000029926)100:0.1093382964)100:0.2482687345)95:0.0340280483)97:0.0339567759)80:0.0226324723)97:0.0714339441,((MBE0512360.1_Candidatus_Bathyarchaeota:0.1873488366,(RLI33952.1_Candidatus_Bathyarchaeota:0.0000029926,RJS89785.1_Candidatus_Bathyarchaeota:0.0023953512)100:0.3283250231)99:0.0899557853,RLG55534.1_Candidatus_Korarchaeota:0.3491569633)100:0.0878743681)100:0.1503444240,(((((((((UCD26156.1_Candidatus_Bathyarchaeota:0.0855786795,UCE17000.1_Candidatus_Bathyarchaeota:0.0690857041)100:0.0210898581,NIR87641.1_Candidatus_Bathyarchaeota:0.0594512919)100:0.0320202432,(UCC58649.1_Candidatus_Bathyarchaeota:0.0720902856,PVX24892.1_Candidatus_Bathyarchaeota:0.2441543239)100:0.1075334314)99:0.0408690354,UCC34096.1_Candidatus_Bathyarchaeota:0.1879766635)50:0.0246752709,(MCK5592579.1_Candidatus_Bathyarchaeota:0.0782262718,(TET19308.1_Candidatus_Bathyarchaeota:0.0000029926,TEU07168.1_Candidatus_Bathyarchaeota:0.0046532020)100:0.0601397810)100:0.0971175851)38:0.0162566508,(MCJ7610128.1_Candidatus_Bathyarchaeota:0.2972620417,KON27140.1_miscellaneous_Crenarchaeota:0.3167232240)44:0.0588056572)62:0.0305565218,(((RLI35203.1_Candidatus_Bathyarchaeota:0.1704482372,(((RJS67718.1_Candidatus_Bathyarchaeota:0.0023159218,RJS79794.1_Candidatus_Bathyarchaeota:0.0024326485)100:0.0625899889,KYH42154.1_Candidatus_Bathyarchaeota:0.0408963447)100:0.0704933693,(HIE14609.1_Candidatus_Bathyarchaeota:0.1083867725,RJS85245.1_Candidatus_Bathyarchaeota:0.1018943682)100:0.0497748874)100:0.0531031313)99:0.0323923531,((MCD6088440.1_Candidatus_Bathyarchaeota:0.1429388845,(RJS94609.1_Candidatus_Bathyarchaeota:0.0913360437,RJS86916.1_Candidatus_Bathyarchaeota:0.0751557128)98:0.0306597147)97:0.0160934963,(RJS76688.1_Candidatus_Bathyarchaeota:0.1327276823,(MBS7656660.1_Candidatus_Bathyarchaeota:0.0222433030,MBS7614410.1_Candidatus_Bathyarchaeota:0.0452643891)100:0.1983813804)100:0.0418844838)97:0.0208960341)92:0.0520798479,(((MBS7605139.1_Candidatus_Bathyarchaeota:0.0935285410,MBS7641301.1_Candidatus_Bathyarchaeota:0.0575187461)100:0.0412668986,MBS7624299.1_Candidatus_Bathyarchaeota:0.0742194923)95:0.0272582710,((MCD6470822.1_Candidatus_Bathyarchaeota:0.0953237683,(MBS7648687.1_Candidatus_Bathyarchaeota:0.1245511988,(MBS7606563.1_Candidatus_Bathyarchaeota:0.0345698134,MBS7638916.1_Candidatus_Bathyarchaeota:0.0470841720)100:0.0340126672)95:0.0239490073)80:0.0103011777,(MCD6469830.1_Candidatus_Bathyarchaeota:0.0899590461,MBS7653891.1_Candidatus_Bathyarchaeota:0.1069687191)100:0.0334813540)87:0.0160896643)100:0.0525610278)100:0.0717634373)30:0.0117861017,((((((((MBS7635917.1_Candidatus_Bathyarchaeota:0.0322844999,(MCS7124454.1_Candidatus_Bathyarchaeota:0.0650607141,(MBS7608350.1_Candidatus_Bathyarchaeota:0.0213957059,MBS7646389.1_Candidatus_Bathyarchaeota:0.0380427326)76:0.0051405776)99:0.0155845100)95:0.0123069347,MBX5321524.1_Candidatus_Bathyarchaeota:0.0480138334)100:0.0295133236,MBS7616358.1_Candidatus_Bathyarchaeota:0.1097664761)100:0.0334381975,(MCL6578653.1_Candidatus_Bathyarchaeota:0.0225925410,MBX5329303.1_Candidatus_Bathyarchaeota:0.0276903959)100:0.0656955741)100:0.0415108066,((NWG10883.1_Candidatus_Bathyarchaeota:0.0492666306,NWF87580.1_Candidatus_Bathyarchaeota:0.0280707370)100:0.0501433730,(((RJS76450.1_Candidatus_Bathyarchaeota:0.0000029926,RLI17842.1_Candidatus_Bathyarchaeota:0.0046878586)100:0.0043306292,HDD69578.1_Candidatus_Bathyarchaeota:0.0051897845)100:0.0677560721,(NIO37692.1_Candidatus_Bathyarchaeota:0.1247541826,(MCK4440264.1_Candidatus_Bathyarchaeota:0.0779193436,MBE0519584.1_Candidatus_Bathyarchaeota:0.0901272679)71:0.0252969209)99:0.0423181575)51:0.0120093629)49:0.0215026324)51:0.0149767104,(OGD49700.1_Candidatus_Bathyarchaeota:0.1473261943,MBS7632139.1_Candidatus:0.1582334995)100:0.0309011109)100:0.0511760020,RLI22401.1_Candidatus_Bathyarchaeota:0.1330400085)99:0.0359706061,(MCD6445751.1_Candidatus_Bathyarchaeota:0.0007794566,RJS80068.1_Candidatus_Bathyarchaeota:0.0039540402)100:0.2555102097)96:0.0359219652)58:0.0112306214,PDM26455.1_Candidatus_Bathyarchaeota:0.2498652476)85:0.0280139993)84:0.0428324086,((HDI08010.1_Candidatus_Bathyarchaeota:0.0047784026,RLG92746.1_Candidatus_Bathyarchaeota:0.0000026688)99:0.1917138141,(((((MCK4477606.1_Candidatus_Bathyarchaeota:0.1000199322,((MCK5631361.1_Candidatus_Bathyarchaeota:0.0067740010,MCK4497686.1_Candidatus_Bathyarchaeota:0.0102266559)100:0.2097743625,UCE95623.1_Candidatus_Bathyarchaeota:0.0963730736)54:0.0301411076)48:0.0175975378,UCH31028.1_Candidatus_Bathyarchaeota:0.1625226099)50:0.0187028788,((TET57005.1_Candidatus_Bathyarchaeota:0.0116311353,MCK4435329.1_Candidatus_Bathyarchaeota:0.0070601199)87:0.0025535277,MCK4633566.1_Candidatus_Bathyarchaeota:0.0115939293)100:0.1258758535)47:0.0091135570,UCG36718.1_Candidatus_Bathyarchaeota:0.1707484055)100:0.0974440017,MBX5326885.1_Candidatus_Bathyarchaeota:0.1871271973)76:0.0189511084)72:0.0390656753)70:0.0657792855,UCC28665.1_Candidatus_Bathyarchaeota:0.1459266984);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t cat_added_fwdA_reformat_mafft_trimal.fa.treefile -m "LG+I{0.092598}+G4{0.8503}" --length 491
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s cat_added_fwdA_reformat_mafft_trimal.fa --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s cat_added_fwdA_reformat_mafft_trimal.fa --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Sat Sep  2 17:56:35 2023
+Total CPU time used: 1137.93033 seconds (0h:18m:57s)
+Total wall-clock time used: 235.6116374 seconds (0h:3m:55s)
+

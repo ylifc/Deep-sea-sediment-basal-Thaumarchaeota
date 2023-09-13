@@ -1,0 +1,45 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.359722
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Sulfolobus_islandicus_L_D_8_5_renamed/Sulfolobus_islandicus_L_D_8_5_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Sulfolobus_islandicus_L_D_8_5-contig1_1257    122    232    121    235 PF07541.13  EIF_2_alpha       Family     2   110   114     85.0   6.7e-25   1 No_clan  
+Sulfolobus_islandicus_L_D_8_5-contig1_1572      9    183      8    184 PF04919.13  DUF655            Family     2   180   181    232.9   4.2e-70   1 CL0198   
+Sulfolobus_islandicus_L_D_8_5-contig1_1576      6    193      3    193 PF01015.19  Ribosomal_S3Ae    Family     4   195   195    238.5   7.5e-72   1 No_clan  
+Sulfolobus_islandicus_L_D_8_5-contig1_1579      4    190      4    191 PF00827.18  Ribosomal_L15e    Family     1   188   189    256.6   2.2e-77   1 CL0652   
+Sulfolobus_islandicus_L_D_8_5-contig1_1611     91    167     90    167 PF00900.21  Ribosomal_S4e     Family     2    75    75     80.8   8.2e-24   1 CL0021   
+Sulfolobus_islandicus_L_D_8_5-contig1_1614      5    133      5    133 PF00410.20  Ribosomal_S8      Domain     1   126   126     89.2   3.4e-26   1 No_clan  
+Sulfolobus_islandicus_L_D_8_5-contig1_1617      3    145      3    147 PF01280.21  Ribosomal_L19e    Family     1   142   144    155.1   2.1e-46   1 No_clan  
+Sulfolobus_islandicus_L_D_8_5-contig1_1986      3    141      3    141 PF01090.20  Ribosomal_S19e    Family     1   137   137    168.2   1.3e-50   1 CL0123   
+Sulfolobus_islandicus_L_D_8_5-contig1_1997     24    210     15    211 PF00687.22  Ribosomal_L1      Domain     6   203   204    118.9   4.1e-35   1 No_clan  
+Sulfolobus_islandicus_L_D_8_5-contig1_1998     12    106      9    107 PF00466.21  Ribosomal_L10     Family     4    98   100     88.0   6.4e-26   1 No_clan  
+Sulfolobus_islandicus_L_D_8_5-contig1_2103     34     94     31     94 PF01200.19  Ribosomal_S28e    Family     4    64    64    110.0   6.6e-33   1 CL0021   
+Sulfolobus_islandicus_L_D_8_5-contig1_2283     44    156     44    157 PF01000.27  RNA_pol_A_bac     Domain     1   111   112     96.6   1.9e-28   1 No_clan  
+Sulfolobus_islandicus_L_D_8_5-contig1_2286     13    137     12    137 PF00380.20  Ribosomal_S9      Family     2   121   121     96.0   3.7e-28   1 CL0329   

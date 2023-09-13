@@ -1,0 +1,41 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:51.647802
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Aigarchaeota_archaeon_JGI_0000106_J15_renamed/Aigarchaeota_archaeon_JGI_0000106_J15_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Aigarchaeota_archaeon_JGI_0000106_J15-contig12_102     45    159     45    159 PF01000.27  RNA_pol_A_bac     Domain     1   112   112     74.6   4.7e-22   1 No_clan  
+Aigarchaeota_archaeon_JGI_0000106_J15-contig12_105     10    132     10    132 PF00380.20  Ribosomal_S9      Family     1   121   121     99.7   9.8e-30   1 CL0329   
+Aigarchaeota_archaeon_JGI_0000106_J15-contig13_63     126    229    119    232 PF07541.13  EIF_2_alpha       Family     5   111   114     52.9   2.2e-15   1 No_clan  
+Aigarchaeota_archaeon_JGI_0000106_J15-contig15_25      10    107      9    108 PF00466.21  Ribosomal_L10     Family     2    98   100     68.5   2.8e-20   1 No_clan  
+Aigarchaeota_archaeon_JGI_0000106_J15-contig15_29      19    211      3    212 PF00687.22  Ribosomal_L1      Domain     3   202   204    119.8   7.7e-36   1 No_clan  
+Aigarchaeota_archaeon_JGI_0000106_J15-contig16_4        5    143      4    144 PF01280.21  Ribosomal_L19e    Family     2   143   144    151.5   9.9e-46   1 No_clan  
+Aigarchaeota_archaeon_JGI_0000106_J15-contig16_7        4    128      4    128 PF00410.20  Ribosomal_S8      Domain     1   126   126     85.1   2.3e-25   1 No_clan  
+Aigarchaeota_archaeon_JGI_0000106_J15-contig26_36      90    169     90    169 PF00900.21  Ribosomal_S4e     Family     1    75    75     67.7   3.9e-20   1 CL0021   
+Aigarchaeota_archaeon_JGI_0000106_J15-contig6_4        15     77     14     77 PF01200.19  Ribosomal_S28e    Family     2    64    64    100.8   1.9e-30   1 CL0021   

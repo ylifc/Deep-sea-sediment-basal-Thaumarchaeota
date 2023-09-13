@@ -1,0 +1,4 @@
+Thaumarchaeota_archaeon_SP3992_contig3_16	1.90e-101	MBF6614822.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Thaumarchaeota_archaeon_SP3992_contig3_16	7.60e-101	MBF6613166.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Thaumarchaeota_archaeon_SP3992_contig14_14	1.89e-38	WP_094906781.1	SDR family oxidoreductase [Salinicoccus roseus]
+Thaumarchaeota_archaeon_SP3992_contig14_23	1.13e-87	GIU91197.1	MAG: tungsten formylmethanofuran dehydrogenase subunit E [Acidimicrobiia bacterium]

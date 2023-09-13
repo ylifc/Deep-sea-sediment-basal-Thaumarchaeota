@@ -1,0 +1,553 @@
+
+>PF00347 lcl|consensus
+--------------------------------------------------------------------------------
+----------------------------------------------------IPVG-VRVSLKGv----NLVLVKGPKGE
+LTREIPPG-VTVEv--eGN-KVTVIVV-SGIDKEKvgq--faaLIGTVRALIPNMGKGVTEG------------------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|940376340|pdb|4WCE|E
+--------------------------------------------------------------------------------
+------------------------------------------msrvgkkiidIPSD-VTVTFDG-----NHVTVKGPKGE
+LSRTLNER-MTFKq--eEN-TIEVVRP-SDSKEDRt-------NHGTTRALLNNMVQGVSQGyvkvlelvgvgyraqmqg
+kdlilnvgyshpveikaeenitfsvekntvvkvegiskeqvgalasnirsvrppepykgkgiryqgeyvrrkegktgk--
+--------
+>PF00347 gi|1710580|sp|P51401.1|RL9B_YEAST
+------------------------------------mkyiqteqqieipegvtvsiksrivkvvgprgtltknlkhidvt
+ftkvnnqlikvavhngdrkhvaalrtvkslvdnmitgvtkgykykmryvyahFPIN-VNIVEKDgakfiEVRNFLGDKKI
+RNVPVRDG-VTIEf--sTN-VKDEIVL-SGNSVEDvsq--naaDLQQICRVRNKDIRKFLDGiyvshkgfivedm-----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|81783063|sp|Q9CDX8.1|RL6_LACLA
+--------------------------------------------------------------------------------
+------------------------------------------msrignkvivIPAG-VSVEVNg-----ATVTVKGPKGE
+LVRSFNEN-ITLDi--aEN-EITVKRP-NDTKEMKm-------LHGTTRALLANMVEGVSTGfskalemigvgyraqlqg
+tklvlsvgkshqdeveapenikfvvatptsivvegiskeavgqtaayirsrrspepykgkgiryvgeyvrrkegktgk--
+--------
+>PF00347 gi|81741372|sp|Q8CWV3.1|RL6_STRR6
+--------------------------------------------------------------------------------
+------------------------------------------msrignkvivlPAG-VELANND-----NVVTVKGPKGE
+LTREFSKD-IEIRv--eGT-EVTLHRP-NDSKEMKt-------IHGTTRALLNNMVVGVSEGfkkelemrgvgyraqlqg
+sklvlavgkshpdeveapegitfelpnpttivvsgiskevvgqtaayvrslrspepykgkgiryvgefvrrkegktgk--
+--------
+>PF00347 gi|1746316639|pdb|6PPK|G
+--------------------------------------------------------------------------------
+------------------------------------------msrvgkklleIPSD-VTVTLNDn----NTVAVKGPKGE
+LTRTFHPD-MEIKv--eDN-VLTVARP-SDQKEHRa-------LHGTTRSLLGNMVEGVSKGferglelvgvgyrasksg
+nklvlnvgyshpveivpeegieievpsqtkvvvkgtdkervgaiaaniravrspepykgkgiryegevvrrkegksak--
+--------
+>PF00347 gi|6831635|sp|Q9Z9J9.1|RL6_BACHD
+--------------------------------------------------------------------------------
+------------------------------------------msrignkpveIPSG-VTVTVNg-----ADVTVKGPKGE
+LKRTFNPE-IVVKv--eDN-TVVVERP-SDKKEHRa-------LHGTTRSLISNMVEGVSKGfekslelvgvgyraqksg
+qklvlnvgyshpveivpekgieievpsntkvtvkgidkervgavasnirsvrlpepykgkgiryegeyvrrkegktgk--
+--------
+>PF00347 gi|81775427|sp|Q97EJ3.1|RL6_CLOAB
+--------------------------------------------------------------------------------
+------------------------------------------msrvgkqpveIPSG-VTVTVTPd----NVVTVKGTKGQ
+LEKAMHKD-MKIAv--eDN-KVVVTRP-SDSKNHKa-------LHGLTRALINNMVIGVTEGfsktlqlvgvgykaqlkg
+kslilnlgyshpievasiegvtfeipdantvvvkginkelvgsvaadirtfrkpepykgkgikysdevirrkegktgk--
+--------
+>PF00347 gi|459358960|pdb|4IOA|E
+--------------------------------------------------------------------------------
+------------------------------------------msrigkqpiaVPSG-VTVNAQD-----GVFKVKGPKGE
+LTVPYNTE-LTVRq--dGD-QLLVERP-SDAQKHRa-------LHGLTRTLVANAVKGVSDGytinlelrgvgfrakltg
+kalemnigyshpviieppagvtfavpeptridvsgidkqlvgqvaanvrkvrkpdayhgkgvrfvgeqialkagkagatg
+gkgkk---
+>PF00347 gi|1160578147|sp|P0DOY8.1|RL6_THET8
+--------------------------------------------------------------------------------
+------------------------------------------msrigrlpipVPKG-VSVEVAP-----GRVKVKGPKGE
+LEVPVSPE-MRVVv--eEG-VVRVERP-SDERRHKs-------LHGLTRTLIANAVKGVSEGyskellikgigyrarlvg
+raleltvgfshpvvveppegitfevpeptrvrvsgidkqkvgqvaanirairkpsayhekgiyyagepvrlkpgkagakk
+--------
+>PF00347 gi|3914768|sp|O51446.1|RL6_BORBU
+--------------------------------------------------------------------------------
+------------------------------------------msrigrlpikIPDA-VKVDVKD-----NLVIVEGIRGR
+LVQDIKDS---INvkveNG-SVIVDRV-LNDKKAKa-------YHGLYRSLIFNMVKGVTEGfsksltingigyrveqqg
+nslflslgystqfeyvipdgisvkldgntkisvegidkfkvgqvaaeirslkkpepykgkgikydnevirrkvgksgvkk
+--------
+>PF00347 gi|6094092|sp|O83234.1|RL6_TREPA
+--------------------------------------------------------------------------------
+------------------------------------------msrigkvpvsVPGG-VHVRVSs-----GVVEVEGPKGV
+LSCAFLPV-VTVRv--eQE-YVIVARC-DDSKRARa-------CHGLYRKLLSNMVVGVSEGfsktlvitgigyraevqg
+rvlvmalgysndftvlipsgievrvesstrvivsgvskervgefaaqlrrlrlpeaykgkgirydyetivrkvgksgvk-
+--------
+>PF00347 gi|6831632|sp|Q9XD21.1|RL6_LEPIN
+--------------------------------------------------------------------------------
+------------------------------------------msrigkaeikLPDK-VEVKQEN-----ANIKVKGPLGE
+LFTPIFEG---ISvkteNG-IVKLERS-NEDQKVVa-------LHGLTRALLMNCVKGVSQGweknleitgvgyraqkrg
+edlvmslgfshevvykapkgikidvqeqlkikvsgidkqlvgqvaadirskrppepykgkgikyaeefikkkagktgkk-
+--------
+>PF00347 gi|75544395|sp|Q98PZ7.1|RL6_MYCPU
+--------------------------------------------------------------------------------
+------------------------------------------msrvgkriiqIPSG-TEVKIDG-----SFFEVKGKLGS
+LSRLFSPF---VNikheNN-QISVERL-NELKPTKq-------LHGTTNALIANMVKGVSEGfkkelkiegvgykatlkg
+qnlelaagyshpvslvipkdlkvevpkpvniiisgidkqvvgefaakvrgvrppsvysgkgiqykdeklrrkegkkask-
+--------
+>PF00347 gi|33860199|sp|O52347.2|RL6_MYCGA
+--------------------------------------------------------------------------------
+------------------------------------------msrignrvitVPSN-VSVNQTK-----ELLTVKGPLGQ
+LDLKLKEG-SKIKvnveNN-EIRLTRG-DELKQTKm-------LHGTYNALIKNALEGVTVGfkkelrlvgvgyraslkd
+nvlnlqlgyshpinldipkdlkvtvdknteitvsgidkqkvgefaiqirkwrmpepykgkgvlylneqiirkagktaegk
+k-------
+>PF00347 gi|6226009|sp|Q9ZCS0.1|RL6_RICPR
+--------------------------------------------------------------------------------
+------------------------------------------msrvgklpitIPEG-VKVGLND-----LEVKISGPKGE
+LSKTFKG---NIAiimeEN-KLVVKPL-AVNKNARa-------MWGTARSIICNMITGVKEGfklkleingvgyramvkg
+kylnlmlakshntkieipsnikidlpkqniillegidkeklgqfasiiikqrppepykgkgikfenkfiqrkegkkn---
+--------
+>PF00347 gi|6831636|sp|Q9ZAE4.2|RL6_THEMA
+--------------------------------------------------------------------------------
+------------------------------------------msrlakkpivLPQG-VTVEIKd-----NVVKVKGPKGE
+LSQEFLPY-VKIEv--eGN-EVWVRPN-EEQIIRKsdwrkvkmFQGTYWSLIRNMVVGVTEGykkeleivgigyraqlqg
+ntlvmnlgyahpvvyeipsdvkievpapnriivsgidkqrvgqvaaeirafrppnvytgkgiryvgevvrqkegkka---
+--------
+>PF00347 gi|290463291|sp|P0CE01.1|RL6_CHLTR
+--------------------------------------------------------------------------------
+------------------------------------------msrkardpivLPQG-VEVSIQn-----DEISVKGPKGS
+LTQVLAKE-VEIAv--kGN-EVFVTPA-AHVVDRPg------rIQGLYWALIANMVKGVHTGfekrlemigvgfraavqg
+slldlsigvshptkmpiptglevsvekntlisikginkqlvgefaacvrakrppepykgkgiryeneyvrrkagkaaktg
+kk------
+>PF00347 gi|3914764|sp|O28370.1|RL6_ARCFU
+--------------------------------------------------------------------------------
+---------------------------mrenrgwevfslltstevyeervveVPED-VQLTIEGdsfrgYTLKAVGPKGE
+NTRYLKYR--GVFievgDG-KVRVYTT-SPKKKHKa-------MVGTFAGHIENLITGVKEGfeyhlkvvyahfpikvrv
+egneviienfigekhprrakivgraqveisgqdiyvrgidieecgqtaanleqatkikrkdprvfqdgiyivkkp-----
+--------
+>PF00347 gi|6685888|sp|Q9YF91.1|RL6_AERPE
+--------------------------------------------------------------------------------
+----------------------------------------makdvhvverveVPEG-VTVSIDG-----MRVKVSGPKGE
+VERDFSHA-RGVLirleDN-SVVVESF-FAKARQRa-------LVGAIAGHIRNMIKGVQGGfryklkimyshfpinvkv
+egdkfiisnflgekglriarimpgvkvqvkgsdvivegidvekvaqtaanielatkvkdkdrrkfmdgiyiyerevia--
+--------
+>PF00347 gi|3914762|sp|O05637.1|RL6_SULAC
+--------------------------------------------------------------------------------
+--------------------------------------mkclkaayireeiqIPDK-VKVSLEN-----NVLKVKGPKGE
+VIKDFSYA-KGIRiqlnEG-KIILETT-FADRRKKa-------LLYSIIAHIKNMITGTINGyryylkvisthfpisvkv
+sgdevqvsnligeknirrakilpgvkvtvkgedivvegsdiynvaqtaaniesstkivgydrrifsdgiyiykkevigle
+qsd-----
+>PF00347 gi|11134358|sp|Q9UX91.1|RL6_SACS2
+--------------------------------------------------------------------------------
+-----------------------------------------mqivilreeieIPKN-VVVDLKG-----SIIKIKGPKGE
+VVKDFSFA-KGIQisldGN-KIVLETT-FANRRKKa-------VFYSIVSHIKNMITGVTKGyryylkiiythfptsvkv
+vgnevqitnligekntrraqilegvkvtvkgedivvegpnleavaqtaaniesaskisgfdrrifsdgifiykkevie--
+--------
+>PF00347 gi|3122748|sp|O26127.1|RL6_METTH
+--------------------------------------------------------------------------------
+----------------------------------------mvlaalireeipIPDG-VDVTIDG------GVTVKGPKWE
+LSRKFNHS--EISmaveDD-KVVLEVK-FPKKKDKa-------MIGTVRAHISNMITGVTEGfryrmkivyahfpmsvkv
+agdkvvienflgerhprtarfvgdtkvqvkgdeveitginkehvgqtmanieqatkikgrdprvfqdgiylvske-----
+--------
+>PF00347 gi|228312146|pdb|3G4S|E
+--------------------------------------------------------------------------------
+----------------------------------------------prveleIPED-VDAEQDH-----LDITVEGDNGS
+VTRRLWYP--DIDvsvdGD-TVVIESD-EDNAKTMs-------TIGTFQSHIENMFHGVTEGweygmevfyshfpmqvnv
+egdevvienflgekaprrttihgdtdveidgeeltvsgpdieavgqtaadieqltrindkdvrvfqdgvyitrkp-----
+--------
+>PF00347 gi|47117034|sp|Q9HPB8.3|RL6_HALSA
+--------------------------------------------------------------------------------
+---------------------------------------------marveieIPDD-VTAEVDH-----LDLTVEGPEGS
+VTRRLWYP--DVDvsveDD-AVVVASE-VDDAKTDs-------TVGTFESHVANMFHGVSEGweyklevhyshfpmqvdv
+egeevviqnflgekaarrtqirgdtdvvvddeevtlsgpsiedvgqtaadieqltrvtdkdtrvfqdgvyivekpakgga
+--------
+>PF00347 gi|1710576|sp|P54042.1|RL6_METJA
+--------------------------------------------------------------------------------
+----------------------------------------mpvaayieervkIPEN-VQVEINN-----NEVVVKSGGKE
+LRRRFEHP--KIVikkeGD-EIVIFCE-YPRRKDKa-------MVGTIRAHINNMIKGVTEGftyklkiryahfpmkvsv
+kgneviienflgekhprrarimegvtvkisgedvivtgidkekvgqtaanieqatrikgrdprvfqdgiyivekagkai-
+--------
+>PF00347 gi|1710584|sp|Q10232.1|RL9A_SCHPO
+--------------------------------------------------------------------------------
+----------------------------------------mgrdiykdetltIPKG-VTVDIKA-----RNVTVTGPRGT
+LKQNLRHV--DIEmkkqGN-TIKFIVW-HGSRKHNa-------CIRSVYSIINNMIIGVTQGfrykmrlvyahfpininl
+tengtvveirnflgeritrvikclpgvtvsissavkdeiilegnslenvsqsaanikqicnvrnkdirkfldgiyvserg
+nieelee-
+>PF00347 gi|1321392209|pdb|6EM5|H
+--------------------------------------------------------------------------------
+-----------------------------------------mkyiqteqqieVPEG-VTVSIKS-----RIVKVVGPRGT
+LTKNLKHI--DVTftkvNNqLIKVAVH-NGGRKHVa-------ALRTVKSLVDNMITGVTKGykykmryvyahfpinvni
+vekdgakfievrnflgdkkirnvpvrdgvtiefstnvkdeivlsgnsvedvsqnaadlqqicrvrnkdirkfldgiyvsh
+kgfitedl
+>PF00347 gi|3914764|sp|O28370.1|RL6_ARCFU
+------------------mrenrgwevfslltstevyeervvevpedvqltiegdsfrgytlkavgpkgentrylkyrgv
+fievgdgkvrvyttspkkkhkamvgtfaghienlitgvkegfeyhlkvvyahFPIK-VRVEGNEv----IIENFIGEKHP
+RRAKIVGR-AQVEi------sGQDIYV-RGIDIEEcgq--taaNLEQATKIKRKDPRVFQDGiyivkkp-----------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|228312146|pdb|3G4S|E
+------------------------------------------prveleipedvdaeqdhlditvegdngsvtrrlwypdi
+dvsvdgdtvviesdednaktmstigtfqshienmfhgvtegweygmevfyshFPMQ-VNVEGDEv----VIENFLGEKAP
+RRTTIHGD-TDVEi------dGEELTV-SGPDIEAvgq--taaDIEQLTRINDKDVRVFQDGvyitrkp-----------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|47117034|sp|Q9HPB8.3|RL6_HALSA
+-----------------------------------------marveieipddvtaevdhldltvegpegsvtrrlwypdv
+dvsveddavvvasevddaktdstvgtfeshvanmfhgvsegweyklevhyshFPMQ-VDVEGEEv----VIQNFLGEKAA
+RRTQIRGD-TDVVv--dDE-EVTL----SGPSIEDvgq--taaDIEQLTRVTDKDTRVFQDGvyivekpakgga------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|1710576|sp|P54042.1|RL6_METJA
+------------------------------------mpvaayieervkipenvqveinnnevvvksggkelrrrfehpki
+vikkegdeivifceyprrkdkamvgtirahinnmikgvtegftyklkiryahFPMK-VSVKGNEv----IIENFLGEKHP
+RRARIMEG-VTVKi------sGEDVIV-TGIDKEKvgq--taaNIEQATRIKGRDPRVFQDGiyivekagkai-------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|74572626|sp|Q8U015.1|RL6_PYRFU
+------------------------------------mpvdawireeveipegvevtvegykvkvkgpkgelereffwpgi
+qiftedgnvviykdfprrkdvaiartfaahirnmikgvtegftyklkvvyshFPIS-VKVQGDEv----IIENFLGEKAP
+RKAKILPG-VTVKv------rGQEIIV-EGIDKEAvgq--taaNIEQATRITKWDRRIFQDGiyivekagkpitf-----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|3914762|sp|O05637.1|RL6_SULAC
+---------------------------------mkclkaayireeiqipdkvkvslennvlkvkgpkgevikdfsyakgi
+riqlnegkiilettfadrrkkallysiiahiknmitgtingyryylkvisthFPIS-VKVSGDEv----QVSNLIGEKNI
+RRAKILPG-VKVTv------kGEDIVV-EGSDIYNvaq--taaNIESSTKIVGYDRRIFSDGiyiykkevigleqsd---
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|11134358|sp|Q9UX91.1|RL6_SACS2
+------------------------------------mqivilreeieipknvvvdlkgsiikikgpkgevvkdfsfakgi
+qisldgnkivlettfanrrkkavfysivshiknmitgvtkgyryylkiiythFPTS-VKVVGNEv----QITNLIGEKNT
+RRAQILEG-VKVTv------kGEDIVV-EGPNLEAvaq--taaNIESASKISGFDRRIFSDGifiykkevie--------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|6685888|sp|Q9YF91.1|RL6_AERPE
+-----------------------------------makdvhvvervevpegvtvsidgmrvkvsgpkgeverdfshargv
+lirlednsvvvesffakarqralvgaiaghirnmikgvqggfryklkimyshFPIN-VKVEGDKf----IISNFLGEKGL
+RIARIMPG-VKVQv------kGSDVIV-EGIDVEKvaq--taaNIELATKVKDKDRRKFMDGiyiyerevia--------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|14286156|sp|P50882.2|RL9_DROME
+------------------------------------mrtinsnqcvkipkdikasvkarvvtitgtrgtlkrsfkhlald
+mympdkrtlkvekwfgtkkelaavrtvcshienmikgvtfgfqykmravyahFPIN-CVTSENNtv--iEIRNFLGEKYI
+RRVEMAPG-VTVVns--tA-QKDELIV-EGNDIESvsg--saaLIQQSTTVKNKDIRKFLDGlyvsekttvvkles----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|133033|sp|P17077.1|RL9_RAT
+----------------------------------mktilsnqtvdipenvditlkgrtvivkgprgtlrrdfnhinvels
+llgkkkkrlrvdkwwgnrkelatvrticshvqnmikgvtlgfrykmrsvyahFPIN-VVIQENGsl--vEIRNFLGEKYI
+RRVRMRTG-VACSvs--qA-QKDELIL-EGNDIELvsn--saaLIQQATTVKNKDIRKFLDGiyvsekgtvqqpde----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|22096367|sp|P49209.3|RL91_ARATH
+-------------------------------mktilssetmdipdsvtikvhakvievegprgklvrdfkhlnldfqlik
+dpetgkkklkidswfgtrktsasirtalshvdnlisgvtrgfrykmrfvyahFPIN-ASIGGDGks--iEIRNFLGEKKV
+RKVEMLDG-VTIVr--sEK-VKDEIVL-DGNDIELvsr--scaLINQKCHVKKKDIRKFLDGiyvsekskiveee-----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|1710584|sp|Q10232.1|RL9A_SCHPO
+------------------------------------mgrdiykdetltipkgvtvdikarnvtvtgprgtlkqnlrhvdi
+emkkqgntikfivwhgsrkhnacirsvysiinnmiigvtqgfrykmrlvyahFPIN-INLTENGtv--vEIRNFLGERIT
+RVIKCLPG-VTVSis--sA-VKDEIIL-EGNSLENvsq--saaNIKQICNVRNKDIRKFLDGiyvsergnieelee----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|74576427|sp|Q9HIS3.1|RL6_THEAC
+-------------------------------------minwkearsikipdgfkvsisgttvtisyggktisknfannyv
+klvedgstikinasknnsmvrgivgtwaseinnmikglkdgfqyemkidyshFPMR-VSVKGKTv----VIENFFGERSP
+RTAEIVGD-TTVTv------kGDRVYI-AGISKKDvge--taaNIERSTIIKGFDPRVFQDGiyliskge----------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|3122748|sp|O26127.1|RL6_METTH
+-------------------------------------mvlaalireeipipdgvdvtidggvtvkgpkwelsrkfnhsei
+smaveddkvvlevkfpkkkdkamigtvrahisnmitgvtegfryrmkivyahFPMS-VKVAGDKv----VIENFLGERHP
+RTARFVGD-TKVQv------kGDEVEI-TGINKEHvgq--tmaNIEQATKIKGRDPRVFQDGiylvske-----------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|81789063|sp|Q9PQP5|Q9PQP5_UREPA
+------------------------------------------msrignrkltipanvnvsvesgkvhivsqtaklsvdfp
+vnlisvdvvdntvkvsrandekqtkmfhgtvnanianalvgvttgwkkelevKGVG-FRAKVEGs----KLNLGLGFSHP
+LLIQIPTG-LKVEt-----pSATEISI-NGADKAAvga--faaVVRAYRKPEPYKGKGVMYKgerivrkagktadkkk--
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|75277355|sp|O23049.1|RK6_ARATH
+masslvssfqprsaflgdrnvfkvsstpfaqvgyssktieckesrigkqpiavpsnvtialegqdlkvkgplgelaltyp
+reveltkeesgflrvkktvetrranqmhglfrtltdnmvvgvskgfekklilVGVG-YRATVDGk----ELVLNLGFSHP
+VKMQIPDS-LKVKv-----eENTRITV-SGYDKSEigq--faaTVRKWRPPEPYKGKGVKYSdeivrrkegkagkkk---
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|2500243|sp|Q50303.1|RL6_MYCPN
+----------------------------------------mskignrtitldpakvnlnfqkdhiavkgplgqielklpp
+nlplkfelkdnnlqitrnnelkqskifhgtynalitnaiigvtqgfekklrlVGVG-YRANVEGe----TLNLQLGYSHP
+IKEKIPKG-LTVKv-----eKNTEITI-SGISKELvgq--fatEVRKWRKPEPYKGKGVLYFdevivrkagktaegkk--
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|33860199|sp|O52347.2|RL6_MYCGA
+-----------------------------------------msrignrvitvpsnvsvnqtkelltvkgplgqldlklke
+gskikvnvenneirltrgdelkqtkmlhgtynaliknalegvtvgfkkelrlVGVG-YRASLKDn----VLNLQLGYSHP
+INLDIPKD-LKVTv-----dKNTEITV-SGIDKQKvge--faiQIRKWRMPEPYKGKGVLYLneqiirkagktaegkk--
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|3914783|sp|O21037.1|RM06_DICDI
+-------------------------------------------------mkysqnkslntfeieykianksvkikssgkm
+gvitkelklkepaiqsnniyylknhgdsriiigtmkqqiqgvlagfcielklVGLG-FVVHKVGn----TLVLDVGYSHY
+RSCLIPKE-VVVKl------eGSQIIL-YSINKEKvtt--fasLLKTFKKINMYKGTGILGInekiklkkgkvr------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|3914768|sp|O51446.1|RL6_BORBU
+-------------------------------------------msrigrlpikipdavkvdvkdnlvivegirgrlvqdi
+kdsinvkvengsvivdrvlndkkakayhglyrslifnmvkgvtegfsksltiNGIG-YRVEQQGn----SLFLSLGYSTQ
+FEYVIPDG-ISVKl-----dGNTKISV-EGIDKFKvgq--vaaEIRSLKKPEPYKGKGIKYDnevirrkvgksgvkk---
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|6094092|sp|O83234.1|RL6_TREPA
+-------------------------------------------msrigkvpvsvpggvhvrvssgvvevegpkgvlscaf
+lpvvtvrveqeyvivarcddskrarachglyrkllsnmvvgvsegfsktlviTGIG-YRAEVQGr----VLVMALGYSND
+FTVLIPSG-IEVRv-----eSSTRVIV-SGVSKERvge--faaQLRRLRLPEAYKGKGIRYDyetivrkvgksgvk----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|6226009|sp|Q9ZCS0.1|RL6_RICPR
+-------------------------------------------msrvgklpitipegvkvglndlevkisgpkgelsktf
+kgniaiimeenklvvkplavnknaramwgtarsiicnmitgvkegfklkleiNGVG-YRAMVKGk----YLNLMLAKSHN
+TKIEIPSN-IKIDl-----pKQNIILL-EGIDKEKlgq--fasIIIKQRPPEPYKGKGIKFEnkfiqrkegkkn------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|75315650|sp|Q9ZPX2|Q9ZPX2_ARATH
+--------------------------------------------------------------------------------
+-----------------------------------------meakffrflkiVGVG-YKARAEEag--rFLYLKLGYSHE
+VELAVPPA-VRVFc-----fKNNVVCC-TGIDKQRvhq--faaTVRSCKPPEPYKGKGIMYTdevvkkkqgkksk-----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|122225846|sp|Q1XG95|Q1XG95_PHYPA
+--------------------------------------------------------------------------------
+-----------------------------------------meaklfcfleiIGVG-YKASTNPqg--sILYLKLGFSHE
+IRLQVTSA-VRVFc-----fKPNLICC-TGIDHQKvtq--faaSIKSCKPPEVYKGKGIQYrneilhkkqgkkk------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|1350792|sp|Q09865.1|RM06_SCHPO
+--------mfsidsclktrpltfriarlgmnfttcsaarsyvgkkeiivpkniqfdlegeqlqitgphgtlnmrfpnyln
+lsktndilkvgmdaniekqatkkqramwgttrailannvkgvtmywqsiiklVGIG-YRTSLNDg----NIHLKIGYAND
+ILVSIPTD-VQVEn-----pTPTSLVL-RGIDRQKvtq--faaKIRSFKKPEPYKGKGIYVDgekpqlkakrsis-----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|6647725|sp|O67565.1|RL6_AQUAE
+---------------------------------------msrlakkpipypenvkvnyvekehkivvegpkgklelnvhp
+dikvtvnqqerwikldrptdrsfhkaihgtmaalvknmikgvtegftevleiHGLG-YRAQLKGn----VLELHLGKSHP
+DIYPIPPD-VKIEv-----kG-NEIHI-HGIDKQRvgq--vaaEIRSFRKPDPYKGKGIRYKgeqlklkpgkavgkk---
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|75544395|sp|Q98PZ7.1|RL6_MYCPU
+-------------------------------------------msrvgkriiqipsgtevkidgsffevkgklgslsrlf
+spfvnikhennqisverlnelkptkqlhgttnalianmvkgvsegfkkelkiEGVG-YKATLKGq----NLELAAGYSHP
+VSLVIPKD-LKVEv-----pKPVNIII-SGIDKQVvge--faaKVRGVRPPSVYSGKGIQYKdeklrrkegkkask----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|6831636|sp|Q9ZAE4.2|RL6_THEMA
+------------------------------------msrlakkpivlpqgvtveikdnvvkvkgpkgelsqeflpyvkie
+vegnevwvrpneeqiirksdwrkvkmfqgtywslirnmvvgvtegykkeleiVGIG-YRAQLQGn----TLVMNLGYAHP
+VVYEIPSD-VKIEv-----pAPNRIIV-SGIDKQRvgq--vaaEIRAFRPPNVYTGKGIRYVgevvrqkegkka------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|81783216|sp|Q9CL45.1|RL6_PASMU
+-------------------------------------------msrvakapvsipagvevkldgqlltvkgkngelsrti
+hnavevkqdnneltfspregivgadaqagtaralvnamvigvtegftkklqlVGVG-YRAQIKGn----AVALSLGFSHP
+VEHALPAG-ITAEc-----pSQTEIVL-KGADKQLigq--vaaDIRAYRRPEPYKGKGVRYAdevvrikeakkk------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|81783583|sp|Q9HWF0.1|RL6_PSEAE
+-------------------------------------------msrvaknpvklpagveiklagqqlsikgakgalelkv
+hpsveviqdsgelrfaarngdqqtramagttralvnnmvvgvsqgferklqlVGVG-YKAQAKGq----VLSLSLGFSHP
+VDYELPAG-IVAEt-----pSQTDILI-KGIDKQLvgq--vaaEIRDFRPPEPYKGKGVRYAdevvrrkeakkk------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|81788837|sp|Q9PE61.1|RL6_XYLFA
+---------------------------------------------msrvakkpisvpkgvevsvrsdmltvkgvkgvltf
+pksdnvnvvvdgdiltlsandpshvslagtvrailsnmikgvsigferklelVGVG-YRASMQGe----NLNLSLGFSHP
+LVFVPPEG-ITLLt-----pSQTEVVV-QGIDKQRvge--vaaKIRSFRPPEPYKGKGLKYAaeaimrkeakka------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|6831632|sp|Q9XD21.1|RL6_LEPIN
+-------------------------------------------msrigkaeiklpdkvevkqenanikvkgplgelftpi
+fegisvktengivklersnedqkvvalhgltrallmncvkgvsqgweknleiTGVG-YRAQKRGe----DLVMSLGFSHE
+VVYKAPKG-IKIDv-----qEQLKIKV-SGIDKQLvgq--vaaDIRSKRPPEPYKGKGIKYAeefikkkagktgkk----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|81782705|sp|Q9A8T8.1|RL6_CAUVC
+-------------------------------------------msrigkkavaipsgvqvtlagqtvtvkgpkgqlswti
+adevevkqegaelllaprvdtkrakgmwglsrtlvanmvhgvtvgfeeslelVGVG-YRAAMKGt----ALSLQLGFSHD
+VDVAAPAG-VTFAv-----pKQTEIKI-AGIDKQAvge--iaaKIRRIRPPEPYKGKGVRYAgekvrrkegkkk------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|459358960|pdb|4IOA|E
+-------------------------------------------msrigkqpiavpsgvtvnaqdgvfkvkgpkgeltvpy
+nteltvrqdgdqllverpsdaqkhralhgltrtlvanavkgvsdgytinlelRGVG-FRAKLTGk----ALEMNIGYSHP
+VIIEPPAG-VTFAv-----pEPTRIDV-SGIDKQLvgq--vaaNVRKVRKPDAYHGKGVRFVgeqialkagkagatggkg
+kk------------------------------------------------------------------------------
+--------
+>PF00347 gi|3122751|sp|O32998.1|RL6_MYCLE
+------------------------------------------msrigkqpipvpagvditidgqnvlvkgpkgtldltva
+epimlarndegaivvtrpdnerrnrslhglsrtlvsnlvtgvtqgytvsmeiFGVG-YRAQLKGs----NLEFALGYSHP
+VVIEAPEG-ITFAv-----qSPTKFTI-TGIDKQKvgq--isaNIRRLRRPDPYKGKGVRYEgeqirrkvgktgk-----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|19859845|sp|P46786.2|RL6_STRCO
+------------------------------------------msrigklpiavpagvdvtidgrtvsvkgpkgslthtvv
+apidiakgedgvlnvtrpnderqskalhglsrtlvanmitgvtqgyvkkleiSGVG-YRVLAKGs----NLEFSLGYSHP
+ILVEAPEG-ITFKv-----eNPTHFSV-EGIDKQKvge--vaaNIRKLRKPDPYKAKGVKYEgevirrkvgkagk-----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|81785150|sp|Q9K1I3.1|RL6_NEIMB
+-------------------------------------------msrvaknpvtvpagvevkfgaealvikgkngelsfpl
+hsdvaiefndgkltfvannsskqanamsgtaralvsnmvkgvsegfekrlqlIGVG-YRAQAQGk----ILNLSLGFSHP
+IVYEMPEG-VSVQt-----pSQTEIVL-TGSDKQVvgq--vaaEIRAFRAPEPYKGKGVRYvgevvvmkeakkk------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|2500242|sp|P56034.1|RL6_HELPY
+-------------------------------------------msrigkriieipssvqasvegskllfknskekhelet
+hnrvkitlennqlsfqpvgedaqsraywgtygalanniviglstgfsktlevnGVG-YKVALGNk----TLDLSLGFSHP
+VKYPIPAG-IEMVv------eKNTITI-KGSDKQKvgq--vaaEIRSFRPPEPYKGKGVKYsdeviirkagktakk----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|81703899|sp|Q74L75.1|RL6_LACJO
+---------------------------------------------msriglkvievpekvtvtkngdditvkgpkgeltr
+yfdpritfeqkdgeihfsrsseadkalhgteranlasmiegvtdgyvkkltlVGVG-YRAVAQGk----KLTLNVGYSHP
+VEFEAPEG-ITVKt-----pSATSIEI-EGISKQVvgq--faaEIRDVRPPEPYKGKGIRYedeyvrrkegktgk-----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|2500244|sp|P73306.1|RL6_SYNY3
+-------------------------------------------msrigkrpiplpakvsvdiqgshlsvkgpkgslerql
+pekvivaqegetitvtrqdesrtarerhglvrtlvanmvdgvaqgferrleiQGVG-YRAQAQGn----KLTLNVGYSKP
+VEMTMPQG-IEVKv-----eNNTQVIV-SGIDKELlgn--taaKIRAVRPPEPYKGKGIRYQgeyvrrkagktgkk----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|6831635|sp|Q9Z9J9.1|RL6_BACHD
+-------------------------------------------msrignkpveipsgvtvtvngadvtvkgpkgelkrtf
+npeivvkvedntvvverpsdkkehralhgttrslisnmvegvskgfekslelVGVG-YRAQKSGq----KLVLNVGYSHP
+VEIVPEKG-IEIEv-----pSNTKVTV-KGIDKERvga--vasNIRSVRLPEPYKGKGIRYEgeyvrrkegktgk-----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|81675968|sp|Q5L408.1|RL6_GEOKA
+-------------------------------------------msrvgkkpieipagvtvtvngntvtvkgpkgeltrtf
+hpdmtitvegnvitvtrpsdekhhralhgttrsllanmvegvskgyekalelVGVG-YRASKQGk----KLVLSVGYSHP
+VEIEPEEG-LEIEv-----pSQTKIIV-KGADKQRvge--laaNIRAVRPPEPYKGKGIRYegelvrlkegktgk-----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|81775427|sp|Q97EJ3.1|RL6_CLOAB
+------------------------------------------msrvgkqpveipsgvtvtvtpdnvvtvkgtkgqlekam
+hkdmkiavednkvvvtrpsdsknhkalhgltralinnmvigvtegfsktlqlVGVG-YKAQLKGk----SLILNLGYSHP
+IEVASIEG-VTFEi-----pDANTVVV-KGINKELvgs--vaaDIRTFRKPEPYKGKGIKYSdevirrkegktgk-----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|11134317|sp|P57576.1|RL6_BUCAI
+-------------------------------------------msrvakcpivipsgvnvqldlqdisikgkyghlsrti
+hqsvkieflnnqiifsprlgfsngwaqagtsralvnsmiigvsekfskklqlSGVG-YRVSITKd---nIINMSLGYSHI
+ITYHLPKG-INAEn-----lSPTEIII-QGIDKQLvgq--iaaNLRSYRTPEPYKGKGIRYSnevvrikeakkk------
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|81697969|sp|Q6MSP0.1|RL6_MYCMS
+------------------------------------------msrignrllqipngvevkiaennlititgskgtlskqf
+splikieveenklitkrlneqkhtkqlhgttnsllqgmltgvsegfkkelqitGVG-YKAAVNGs----KLNLSLGYSHP
+VEFEIPKG-VEIQa-----vKPTELVI-SGIDKQLvgq--vaaNIRAYRKPEPYKGKGIKYknetiirkegkaagk----
+--------------------------------------------------------------------------------
+--------
+>PF00347 gi|46226494|gb|EAK87488.1|
+--------------------------------------------------------------------------------
+-----------------------------------------mkdiftyesfrvMEG-TTVSVKS-----RTVTVTGKFGQ
+VTRSFNHLpVDIKlcgnGK-VVRIEVW-FGTPRHQs-------AINTVCSAIKNMMVGVMKkfeykmrlvyshfpinsni
+lnngslieirnflgekrvrtvkmlpgvvveksnsvkdeliitgtdlelvsrsaalihqcalarnkdirkfldgiyvsekg
+tvvkde--
+>PF00347 gi|109940148|sp|P49210.3|RL9_ORYSJ
+--------------------------------------------------------------------------------
+-----------------------------------------mktilasetmeIPEG-VTVQVAA-----KVVTVEGPRGK
+LTRNFKHLnLDFQllegGR-KLQVDAW-FGTRRTMa-------AIRTAISHVQNLITGVTKGyrykmrfvyahfpinasi
+tnsntaieirnflgekkvrkvdmlegvtilrsekvkdelvldgndielvsrsaalinqkchvknkdirkfldgiyvsdkg
+titeda--
+>PF00347 gi|14286156|sp|P50882.2|RL9_DROME
+--------------------------------------------------------------------------------
+-----------------------------------------mrtinsnqcvkIPKD-IKASVKA-----RVVTITGTRGT
+LKRSFKHL--ALDmympDKrTLKVEKW-FGTKKELa-------AVRTVCSHIENMIKGVTFGfqykmravyahfpincvt
+senntvieirnflgekyirrvemapgvtvvnstaqkdelivegndiesvsgsaaliqqsttvknkdirkfldglyvsekt
+tvvkles-
+>PF00347 gi|730589|sp|P32904.2|RM06_YEAST
+--------------------------------------------------------------------------------
+----------msfiqrrllsqtlflrsqvgslplyispevqvsinalsmpriIRKGrTSMNIS------QNITVKGPKGE
+LSVEVPDF-LHLDkdekHG-KINVTVQnSEDKHQRs-------MWGTVRSLINNHIIGVTEGhlavlrfvgtgyraqlen
+dgkfvnvkvgasikqgldvpegivvktpaptsliiegcnkqqvllfaaklrkfhppepykgkgiyvndetiklkdkkik-
+--------
+>PF00347 gi|14548236|sp|Q9KNZ9.1|RL6_VIBCH
+--------------------------------------------------------------------------------
+------------------------------------------msrvakapvaIPAG-VEVKLNg-----QEITIKGAKGE
+LTRVFHNG-VVIAq--eDN-QLTFGPR-EGVANAWa-------QAGTARALVKNMVVGVTEGftkklvlkgvgyraamkg
+navgltlgfshpvehelpagvkaecpsqteivltgcdkqvvgqvaadirsyrapepykgkgiryadenvrskeakkk---
+--------
+>PF00347 gi|11134317|sp|P57576.1|RL6_BUCAI
+--------------------------------------------------------------------------------
+------------------------------------------msrvakcpivIPSG-VNVQLDl-----QDISIKGKYGH
+LSRTIHQS-VKIEf--lNN-QIIFSPR-LGFSNGWa-------QAGTSRALVNSMIIGVSEKfskklqlsgvgyrvsitk
+dniinmslgyshiityhlpkginaenlspteiiiqgidkqlvgqiaanlrsyrtpepykgkgirysnevvrikeakkk--
+--------
+>PF00347 gi|119366644|sp|Q32B46.1|RL6_SHIDS
+--------------------------------------------------------------------------------
+------------------------------------------msrvakapvvVPAG-VDVKING-----QVITIKGKNGE
+LTRTLNDA-VEVKh--aDN-TLTFGPR-DGYADGWa-------QAGTARALLNSMVIGVTEGftkklqlvgvgyraavkg
+nvinlslgfshpvdhqlpagitaecptqteivlkgadkqvigqvaadlrayrrpepykgkgvryadevvrtkeakkk---
+--------
+>PF00347 gi|573928608|gb|AHG19905.1|
+--------------------------------------------------------------------------------
+------------------------------------------msrvakapvvIPAG-VEVKLNG-----QVISIKGKNGE
+LTRTVHDA-VIVTq--eAN-ALTFAPR-EGFANAWa-------QAGTTRALLNAMVVGVTEGftkklqlvgvgyraavkg
+nvvnlalgfshpidhqlpagitaecpsqteivlkgadkqvigqvaadlrayrrpepykgkgvryadevvrtkeakkk---
+--------
+>PF00347 gi|81783216|sp|Q9CL45.1|RL6_PASMU
+--------------------------------------------------------------------------------
+------------------------------------------msrvakapvsIPAG-VEVKLDg-----QLLTVKGKNGE
+LSRTIHNA-VEVKq--dNN-ELTFSPR-EGIVGADa-------QAGTARALVNAMVIGVTEGftkklqlvgvgyraqikg
+navalslgfshpvehalpagitaecpsqteivlkgadkqligqvaadirayrrpepykgkgvryadevvrikeakkk---
+--------
+>PF00347 gi|81783583|sp|Q9HWF0.1|RL6_PSEAE
+--------------------------------------------------------------------------------
+------------------------------------------msrvaknpvkLPAG-VEIKLAg-----QQLSIKGAKGA
+LELKVHPS-VEVIq--dSG-ELRFAAR-NGDQQTRa-------MAGTTRALVNNMVVGVSQGferklqlvgvgykaqakg
+qvlslslgfshpvdyelpagivaetpsqtdilikgidkqlvgqvaaeirdfrppepykgkgvryadevvrrkeakkk---
+--------
+>PF00347 gi|81788837|sp|Q9PE61.1|RL6_XYLFA
+--------------------------------------------------------------------------------
+------------------------------------------msrvakkpisVPKG-VEVSVRS-----DMLTVKGVKGV
+LTFPKSDN-VNVVvd----gDILTLSA-NDPSHVS--------LAGTVRAILSNMIKGVSIGferklelvgvgyrasmqg
+enlnlslgfshplvfvppegitlltpsqtevvvqgidkqrvgevaakirsfrppepykgkglkyaaeaimrkeakka---
+--------
+>PF00347 gi|81785150|sp|Q9K1I3.1|RL6_NEIMB
+--------------------------------------------------------------------------------
+------------------------------------------msrvaknpvtVPAG-VEVKFGa-----EALVIKGKNGE
+LSFPLHSD-VAIEf--nDG-KLTFVAN-NSSKQANa-------MSGTARALVSNMVKGVSEGfekrlqligvgyraqaqg
+kilnlslgfshpivyempegvsvqtpsqteivltgsdkqvvgqvaaeirafrapepykgkgvryvgevvvmkeakkk---
+--------
+>PF00347 gi|81782705|sp|Q9A8T8.1|RL6_CAUVC
+--------------------------------------------------------------------------------
+------------------------------------------msrigkkavaIPSG-VQVTLAg-----QTVTVKGPKGQ
+LSWTIADE-VEVKq--eGA-ELLLAPR-VDTKRAKg-------MWGLSRTLVANMVHGVTVGfeeslelvgvgyraamkg
+talslqlgfshdvdvaapagvtfavpkqteikiagidkqavgeiaakirrirppepykgkgvryagekvrrkegkkk---
+--------
+>PF00347 gi|259491620|sp|C5CC48.1|RL6_MICLC
+--------------------------------------------------------------------------------
+------------------------------------------msrigrlpitIPAG-VDVTIDG-----DRVSVKGPKGQ
+LEHSLPTP-ITATl--eEG-QVTVARP-DDERESRs-------LHGLTRTLISNMVEGVTNGfskqlevvgtgyrvqakg
+qdlefalgyshpvpvkapqgitftvegnrvtvagidkqqvgetaanirklrrpdpykgkgvryageqirrkagkagk---
+--------
+>PF00347 gi|3122751|sp|O32998.1|RL6_MYCLE
+--------------------------------------------------------------------------------
+------------------------------------------msrigkqpipVPAG-VDITIDg-----QNVLVKGPKGT
+LDLTVAEP-IMLArn-dEG-AIVVTRP-DNERRNRs-------LHGLSRTLVSNLVTGVTQGytvsmeifgvgyraqlkg
+snlefalgyshpvvieapegitfavqsptkftitgidkqkvgqisanirrlrrpdpykgkgvryegeqirrkvgktgk--
+--------
+>PF00347 gi|19859845|sp|P46786.2|RL6_STRCO
+--------------------------------------------------------------------------------
+------------------------------------------msrigklpiaVPAG-VDVTIDg-----RTVSVKGPKGS
+LTHTVVAP-IDIAkg-eDG-VLNVTRP-NDERQSKa-------LHGLSRTLVANMITGVTQGyvkkleisgvgyrvlakg
+snlefslgyshpilveapegitfkvenpthfsvegidkqkvgevaanirklrkpdpykakgvkyegevirrkvgkagk--
+--------
+>PF00347 gi|2500244|sp|P73306.1|RL6_SYNY3
+--------------------------------------------------------------------------------
+------------------------------------------msrigkrpipLPAK-VSVDIQg-----SHLSVKGPKGS
+LERQLPEK-VIVAq--eGE-TITVTRQ-DESRTARe-------RHGLVRTLVANMVDGVAQGferrleiqgvgyraqaqg
+nkltlnvgyskpvemtmpqgievkvenntqvivsgidkellgntaakiravrppepykgkgiryqgeyvrrkagktgkk-
+--------
+>PF00347 gi|118573661|sp|Q31L21.1|RL6_SYNE7
+--------------------------------------------------------------------------------
+------------------------------------------msrigkrpipIPAK-VSVAIDG-----RLVSVKGPKGE
+LSRELPSG-VVVTq--eDG-NIIVSRA-DESRLARq-------RHGLSRTLVANLVEGVDSgfqkrleiigvgyraqvqg
+ttlilnvgysnpvqieppegiqfvvenntnvvvsgiskevvgntaariravrppepykgkgiryagevvlrkagktgkk-
+--------
+>PF00347 gi|75277355|sp|O23049.1|RK6_ARATH
+--------------------------------------------------------------------------------
+masslvssfqprsaflgdrnvfkvsstpfaqvgyssktieckesrigkqpiaVPSN-VTIALEg-----QDLKVKGPLGE
+LALTYPRE-VELTke-eSG-FLRVKKT-VETRRANq-------MHGLFRTLTDNMVVGVSKGfekklilvgvgyratvdg
+kelvlnlgfshpvkmqipdslkvkveentritvsgydkseigqfaatvrkwrppepykgkgvkysdeivrrkegkagkkk
+--------

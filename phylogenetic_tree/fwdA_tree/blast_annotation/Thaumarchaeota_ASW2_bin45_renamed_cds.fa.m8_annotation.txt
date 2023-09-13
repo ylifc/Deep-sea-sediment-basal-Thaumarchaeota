@@ -1,0 +1,6 @@
+Thaumarchaeota_ASW2_bin45_contig5_11	1.43e-101	MBX6342053.1	tungsten formylmethanofuran dehydrogenase [Thermomicrobiaceae bacterium]
+Thaumarchaeota_ASW2_bin45_contig23_21	3.90e-110	GIU91197.1	MAG: tungsten formylmethanofuran dehydrogenase subunit E [Acidimicrobiia bacterium]
+Thaumarchaeota_ASW2_bin45_contig23_21	2.12e-109	GGN95214.1	tungsten formylmethanofuran dehydrogenase subunit E [Halomicroarcula pellucida]
+Thaumarchaeota_ASW2_bin45_contig34_43	3.75e-24	WP_127485126.1	SDR family oxidoreductase [Neobacillus mesonae]
+Thaumarchaeota_ASW2_bin45_contig46_12	4.67e-86	GIU91197.1	MAG: tungsten formylmethanofuran dehydrogenase subunit E [Acidimicrobiia bacterium]
+Thaumarchaeota_ASW2_bin45_contig46_21	5.12e-42	WP_094906781.1	SDR family oxidoreductase [Salinicoccus roseus]

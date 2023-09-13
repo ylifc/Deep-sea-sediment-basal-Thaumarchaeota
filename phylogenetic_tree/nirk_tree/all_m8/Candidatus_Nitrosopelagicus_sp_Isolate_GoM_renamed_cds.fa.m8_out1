@@ -1,0 +1,835 @@
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig1_1	94.7	K00826	branched-chain amino acid aminotransferase [EC:2.6.1.42]	ilvE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig1_2	88.5	K00928	aspartate kinase [EC:2.7.2.4]	amino acid kinase family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig1_3	52.7	K02563	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]	glycosyltransferase family 28 protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig1_5	36.7	K00540		oxygen-independent coproporphyrinogen III oxidase (EC:1.-.-.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig1_6	88.8	K08851	TP53 regulating kinase and related kinases [EC:2.7.11.1]	Kae1-associated kinase Bud32 (EC:2.7.-.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig1_7	82.8	K02428	XTP/dITP diphosphohydrolase [EC:3.6.1.66]	rdgB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig1_8	92.7	K15449	tRNA wybutosine-synthesizing protein 1 [EC:4.1.3.44]	twy1
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig1_9	96.2	K15449	tRNA wybutosine-synthesizing protein 1 [EC:4.1.3.44]	twy1
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig1_11	94.8	K03284	magnesium transporter	CorA-like protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig1_14	94.3	K09721	uncharacterized protein	PF03685 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig1_15	39.6	K18087	biphenyl 2,3-dioxygenase ferredoxin subunit	bphAc
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig1_17	39.9	K05921	5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase / 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase [EC:4.1.1.68 5.3.3.-]	4-hydroxyphenylacetate degradation bifunctional isomerase/decarboxylase,HpaG2 subunit (EC:5.3.3.10)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig1_18	93.0	K01885	glutamyl-tRNA synthetase [EC:6.1.1.17]	gltX
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig1_19	91.1	K07722	CopG family transcriptional regulator, nickel-responsive regulator	NikR C-terminal nickel binding domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig1_21	26.4	K04759	ferrous iron transport protein B	ferrous iron transport protein B
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig1_21	27.4	K04759	ferrous iron transport protein B	ferrous iron transporter B
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig2_1	85.7	K07024	uncharacterized protein	phosphoglycolate phosphatase, TA0175-type (EC:3.1.3.18)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig2_2	90.9	K01887	arginyl-tRNA synthetase [EC:6.1.1.19]	arginine--tRNA ligase, N-terminal domain protein (EC:6.1.1.19)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig2_4	83.0	K09807	uncharacterized protein	PF04402 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig2_6	94.8	K07090	uncharacterized protein	sulfite exporter TauE/SafE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig2_11	89.3	K01170	tRNA-intron endonuclease, archaea type [EC:3.1.27.9]	endA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig2_12	79.7	K07220	uncharacterized protein	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig2_12	79.7	K07220	uncharacterized protein	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig2_12	79.3	K07220	uncharacterized protein	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig2_13	90.1	K10747	DNA ligase 1 [EC:6.5.1.1 6.5.1.6 6.5.1.7]	ATP-dependent DNA ligase domain protein (EC:6.5.1.1)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig2_15	96.8	K01622	fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11]	fructose-bisphosphatase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig2_16	97.7	K03231	elongation factor 1-alpha	tuf
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig2_17	99.0	K02946	small subunit ribosomal protein S10	rpsJ
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig2_18	96.4	K03059	DNA-directed RNA polymerase subunit P [EC:2.7.7.6]	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig3_1	85.5	K00958	sulfate adenylyltransferase [EC:2.7.7.4]	sat
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig3_3	96.3	K10773	endonuclease III [EC:4.2.99.18]	putative endonuclease III
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig3_4	94.1	K09123	uncharacterized protein	PF04412 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig3_5	88.2	K09128	uncharacterized protein	PF01989 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig3_8	92.9	K02191	cobalt-precorrin-6B (C15)-methyltransferase [EC:2.1.1.196]	cbiT
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig3_9	96.3	K03394	precorrin-2/cobalt-factor-2 C20-methyltransferase [EC:2.1.1.130 2.1.1.151]	cobI
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig3_10	90.6	K05936	precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271]	cobM
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig3_11	80.2	K01776	glutamate racemase [EC:5.1.1.3]	putative glutamate racemase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig3_13	94.1	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	glycosyltransferase, group 2 family protein (EC:2.4.-.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig3_14	97.3	K01880	glycyl-tRNA synthetase [EC:6.1.1.14]	putative glycine--tRNA ligase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig3_15	93.5	K01151	deoxyribonuclease IV [EC:3.1.21.2]	apurinic endonuclease (APN1)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig3_16	95.8	K18882	DNA primase large subunit [EC:2.7.7.-]	eukaryotic-type DNA primase, large subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig4_1	87.8	K03724	ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	DEAD/DEAH box helicase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig4_2	91.2	K07466	replication factor A1	replication factor A domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig4_3	94.3	K01990	ABC-2 type transport system ATP-binding protein	ABC transporter, ATP-binding protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig4_4	96.4	K01992	ABC-2 type transport system permease protein	ABC-2 family transporter protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig4_5	76.0	K09726	uncharacterized protein	PF04007 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig4_7	79.5	K03687	molecular chaperone GrpE	grpE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig4_8	90.7	K04043	molecular chaperone DnaK	dnaK
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig4_9	91.0	K03686	molecular chaperone DnaJ	putative chaperone protein DnaJ
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig4_12	89.2	K03330	glutamyl-tRNA(Gln) amidotransferase subunit E [EC:6.3.5.7]	gatE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig4_13	88.3	K09482	glutamyl-tRNA(Gln) amidotransferase subunit D [EC:6.3.5.7]	gatD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig5_1	91.9	K02895	large subunit ribosomal protein L24	rplX
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig5_2	97.9	K02874	large subunit ribosomal protein L14	ribosomal protein L14p/L23e
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig5_3	89.3	K02961	small subunit ribosomal protein S17	ribosomal protein S17P
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig5_4	72.5	K03538	ribonuclease P protein subunit POP4 [EC:3.1.26.5]	PF01868 domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig5_5	94.0	K02904	large subunit ribosomal protein L29	rpmC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig5_6	85.9	K02982	small subunit ribosomal protein S3	rpsC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig5_7	90.8	K02890	large subunit ribosomal protein L22	rplV
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig5_8	90.6	K02965	small subunit ribosomal protein S19	rpsS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig5_9	81.8	K02892	large subunit ribosomal protein L23	rplW
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig5_10	89.6	K02930	large subunit ribosomal protein L4e	rplD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig5_11	92.1	K02906	large subunit ribosomal protein L3	rpl3p
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig5_13	85.7	K09142	uncharacterized protein	putative RNA methyltransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig5_14	89.8	K03432	proteasome alpha subunit [EC:3.4.25.1]	putative proteasome endopeptidase complex, alpha subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig5_19	88.3	K06196	cytochrome c-type biogenesis protein	putative cytochrome C-type biogenesis protein CcdA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig5_21	81.1	K00639	glycine C-acetyltransferase [EC:2.3.1.29]	putative 8-amino-7-oxononanoate synthase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig5_22	95.7	K01012	biotin synthase [EC:2.8.1.6]	bioB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig6_1	94.6	K00609	aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	pyrB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig6_3	80.2	K14166	copper transport protein	copper resistance protein D
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig6_9	37.4	K07059	uncharacterized protein	Rhomboid family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig6_10	87.9	K01821	4-oxalocrotonate tautomerase [EC:5.3.2.6]	dmpI
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig6_11	34.6	K13566	omega-amidase [EC:3.5.1.3]	nitrilase/cyanide hydratase and apolipo protein N-acyltransferase-like protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig7_2	96.6	K13787	geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29]	polyprenyl synthetase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig7_3	92.9	K01823	isopentenyl-diphosphate delta-isomerase [EC:5.3.3.2]	idi
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig7_4	95.9	K06981	isopentenyl phosphate kinase [EC:2.7.4.26]	amino acid kinase family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig7_5	83.8	K00869	mevalonate kinase [EC:2.7.1.36]	mvk
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig7_6	96.1	K02967	small subunit ribosomal protein S2	putative ribosomal protein S2
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig7_7	93.2	K01689	enolase [EC:4.2.1.11]	eno
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig7_8	78.2	K03058	DNA-directed RNA polymerase subunit N [EC:2.7.7.6]	DNA-directed RNA polymerase subunit N (EC:2.7.7.6)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig7_8	78.2	K03058	DNA-directed RNA polymerase subunit N [EC:2.7.7.6]	DNA-directed RNA polymerase subunit N
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig7_9	92.2	K07477	translin	translin family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig7_10	89.3	K17759	NAD(P)H-hydrate epimerase [EC:5.1.99.6]	YjeF family N-terminal domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig7_11	36.1	K17725	sulfur dioxygenase [EC:1.13.11.18]	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig7_13	93.5	K00820	glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	glmS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig7_14	89.6	K02986	small subunit ribosomal protein S4	rpsD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig7_15	100	K02986	small subunit ribosomal protein S4	rpsD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig8_1	91.7	K02434	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]	gatB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig8_2	90.2	K02433	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]	gatA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig8_3	86.4	K02435	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7]	putative aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, C subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig8_4	91.1	K01876	aspartyl-tRNA synthetase [EC:6.1.1.12]	aspS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig8_6	93.0	K06863	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.23]	PF06849 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig8_7	90.5	K15977	putative oxidoreductase	DoxX family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig8_8	35.7	K14155	cystathione beta-lyase [EC:4.4.1.8]	class I and II aminotransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig8_13	91.0	K03265	peptide chain release factor subunit 1	prf1
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig8_14	85.7	K02503	histidine triad (HIT) family protein	scavenger mRNA decapping enzyme
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig8_16	93.0	K01687	dihydroxy-acid dehydratase [EC:4.2.1.9]	ilvD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig9_1	87.1	K14647	minor extracellular serine protease Vpr [EC:3.4.21.-]	peptidase, S8/S53 family (EC:3.4.21.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig9_2	99.5	K04564	superoxide dismutase, Fe-Mn family [EC:1.15.1.1]	sodA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig9_3	91.0	K04797	prefoldin alpha subunit	pfdA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig9_4	78.6	K03110	fused signal recognition particle receptor	ftsY
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig9_5	88.6	K00611	ornithine carbamoyltransferase [EC:2.1.3.3]	argF
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig9_6	94.4	K02881	large subunit ribosomal protein L18	ribosomal L18p/L5e family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig9_7	89.4	K02988	small subunit ribosomal protein S5	rpsE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig9_8	92.3	K02907	large subunit ribosomal protein L30	rpl30p
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig9_9	93.7	K02876	large subunit ribosomal protein L15	ribosomal protein L18e/L15
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig9_10	94.5	K03076	preprotein translocase subunit SecY	secY
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig9_11	88.0	K00939	adenylate kinase [EC:2.7.4.3]	AAA domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig9_13	93.0	K00945	cytidylate kinase [EC:2.7.4.14]	putative cytidylate kinase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig9_14	92.4	K11131	H/ACA ribonucleoprotein complex subunit 4 [EC:5.4.99.-]	putative rRNA pseudouridine synthase (EC:5.4.99.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig10_1	89.5	K01870	isoleucyl-tRNA synthetase [EC:6.1.1.5]	ileS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig10_3	97.8	K01903	succinyl-CoA synthetase beta subunit [EC:6.2.1.5]	sucC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig10_4	95.7	K01902	succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]	oxidoreductase, NAD-binding domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig10_5	98.2	K02927	large subunit ribosomal protein L40e	ribosomal L40e family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig11_1	97.0	K07577	putative mRNA 3-end processing factor	RNA-metabolizing metallo-beta-lactamase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig11_2	91.4	K03703	excinuclease ABC subunit C	uvrC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig11_3	96.3	K03701	excinuclease ABC subunit A	uvrA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig11_4	94.3	K03702	excinuclease ABC subunit B	uvrB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig11_6	56.7	K07005	uncharacterized protein	flavin-nucleotide-binding protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig11_7	90.5	K14728	phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase [EC:1.2.-.-]	luciferase-like monooxygenase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig12_1	84.9	K02493	release factor glutamine methyltransferase [EC:2.1.1.297]	putative methylase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig12_2	93.9	K00031	isocitrate dehydrogenase [EC:1.1.1.42]	putative 3-isopropylmalate/3-methylmalate dehydrogenase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig12_5	88.3	K03163	DNA topoisomerase I [EC:5.99.1.2]	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig12_6	38.1	K00540		short chain dehydrogenase (EC:1.-.-.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig12_6	37.3	K00100		ydfG
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig12_8	92.2	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	DNA methylase family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig12_9	85.6	K03116	sec-independent protein translocase protein TatA	MttA family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig12_10	91.9	K19576	MFS transporter, DHA1 family, quinolone resistance protein	transporter, major facilitator family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig12_11	94.8	K03183	demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	methyltransferase, UbiE/COQ5 family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig13_3	79.3	K01428	urease subunit alpha [EC:3.5.1.5]	ureC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig13_3	78.0	K01428	urease subunit alpha [EC:3.5.1.5]	ureC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig13_4	80.0	K01430	urease subunit gamma [EC:3.5.1.5]	urease subunit gamma
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig13_5	45.8	K03187	urease accessory protein	ureE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig13_6	49.1	K03188	urease accessory protein	urease accessory protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig13_7	76.4	K03189	urease accessory protein	ureG
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig13_7	77.5	K03189	urease accessory protein	urease accessory protein UreG
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig13_8	82.0	K03190	urease accessory protein	ureD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig13_10	95.5	K00809	deoxyhypusine synthase [EC:2.5.1.46]	deoxyhypusine synthase (EC:2.5.1.46)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig14_2	91.0	K02427	23S rRNA (uridine2552-2'-O)-methyltransferase [EC:2.1.1.166]	rrmJ
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig14_12	87.2	K02866	large subunit ribosomal protein L10e	rplP
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig14_13	84.3	K01170	tRNA-intron endonuclease, archaea type [EC:3.1.27.9]	endA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig15_1	96.4	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	thiolase, C-terminal domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig15_2	82.5	K07068	uncharacterized protein	PF01796 domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig15_4	67.7	K00527	ribonucleoside-triphosphate reductase [EC:1.17.4.2]	regulatory protein ArsR
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig15_4	67.8	K00527	ribonucleoside-triphosphate reductase [EC:1.17.4.2]	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig15_4	67.8	K00527	ribonucleoside-triphosphate reductase [EC:1.17.4.2]	regulatory protein ArsR
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig15_5	95.2	K00525	ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent (EC:1.17.4.1)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig15_7	74.8	K14568	rRNA small subunit pseudouridine methyltransferase Nep1 [EC:2.1.1.260]	EMG1/NEP1 methyltransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig16_2	69.6	K02201	pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]	putative pantetheine-phosphate adenylyltransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig16_7	88.9	K06223	DNA adenine methylase [EC:2.1.1.72]	dam
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig16_8	97.7	K10944	methane/ammonia monooxygenase subunit A [EC:1.14.18.3 1.14.99.39]	ammonia monooxygenase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig16_10	99.5	K10946	methane/ammonia monooxygenase subunit C	ammonia monooxygenase/methane monooxygenase, subunit C
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig16_11	98.9	K10945	methane/ammonia monooxygenase subunit B	monooxygenase subunit B domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig17_1	86.8	K15736	L-2-hydroxyglutarate oxidase [EC:1.1.3.-]	FAD dependent oxidoreductase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig17_3	57.6	K00015	glyoxylate reductase [EC:1.1.1.26]	glyoxylate reductase (EC:1.1.1.26)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig17_4	80.3	K00174	2-oxoglutarate ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3]	2-oxoacid:acceptor oxidoreductase, alpha subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig17_5	89.1	K00175	2-oxoglutarate ferredoxin oxidoreductase subunit beta [EC:1.2.7.3]	2-oxoacid:acceptor oxidoreductase, beta subunit, pyruvate/2-ketoisovalerate family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig17_10	63.6	K07583	tRNA pseudouridine synthase 10 [EC:5.4.99.-]	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig18_8	26.1	K06919	putative DNA primase/helicase	Phage/plasmid primase, P4 family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig19_1	94.0	K05831	LysW-gamma-L-lysine/LysW-L-ornithine carboxypeptidase	N-acetyl-ornithine/N-acetyl-lysine deacetylase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig19_2	77.8	K00586	diphthine synthase [EC:2.1.1.98]	dph5
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig19_3	86.7	K00586	diphthine synthase [EC:2.1.1.98]	dph5
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig19_4	89.5	K14656	FAD synthetase	putative cytidyltransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig19_5	93.5	K07732	riboflavin kinase, archaea type [EC:2.7.1.161]	PF01982 domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig19_6	40.5	K02316	DNA primase [EC:2.7.7.-]	DNA primase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig19_7	88.8	K13628	iron-sulfur cluster assembly protein	iron-sulfur cluster assembly accessory protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig19_8	98.4	K15019	3-hydroxypropionyl-coenzyme A dehydratase [EC:4.2.1.116]	3-hydroxybutyryl-CoA dehydratase (EC:4.2.1.55)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig19_9	95.3	K18594	3-hydroxypropionyl-CoA synthetase (ADP-forming) [EC:6.2.1.-]	ATP-grasp domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig20_1	97.6	K15987	K(+)-stimulated pyrophosphate-energized sodium pump [EC:3.6.1.1]	V-type H(+)-translocating pyrophosphatase (EC:3.6.1.1)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig20_6	96.5	K02301	protoheme IX farnesyltransferase [EC:2.5.1.-]	cyoE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig20_8	95.0	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig21_2	77.8	K03660	N-glycosylase/DNA lyase [EC:3.2.2.- 4.2.99.18]	8-oxoguanine DNA glycosylase, N-terminal domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig21_3	91.5	K07577	putative mRNA 3-end processing factor	beta-Casp domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig21_6	87.1	K18779	7-cyano-7-deazaguanine tRNA-ribosyltransferase [EC:2.4.2.48]	putative tRNA-guanine(15) transglycosylase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig21_7	66.3	K18532	adenylate kinase [EC:2.7.4.3]	AAA domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig21_8	86.9	K06942	uncharacterized protein	translation-associated GTPase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig21_9	97.0	K01409	N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]	putative universal archaeal protein Kae1
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig22_4	33.3	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	asnB-1
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig22_5	26.4	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	asparagine synthase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig22_7	47.7	K12452	CDP-6-deoxy-D-xylo-4-hexulose-3-dehydrase	pyridoxamine 5-phosphate oxidase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig23_1	93.9	K02983	small subunit ribosomal protein S30e	ribosomal protein S30
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig23_3	91.5	K02823	dihydroorotate dehydrogenase electron transfer subunit	oxidoreductase NAD-binding domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig23_4	91.7	K17828	dihydroorotate dehydrogenase (NAD+) catalytic subunit [EC:1.3.1.14]	putative dihydroorotate oxidase, catalytic subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig23_5	95.4	K14564	nucleolar protein 56	snoRNA-binding domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig23_6	90.6	K04795	fibrillarin-like pre-rRNA processing protein	flpA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig23_7	88.8	K03470	ribonuclease HII [EC:3.1.26.4]	rnhB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig23_8	85.2	K00555	tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase [EC:2.1.1.215 2.1.1.216]	N2,N2-dimethylguanosine tRNA methyltransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig24_1	94.1	K02434	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]	gatB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig24_2	93.6	K01496	phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19]	hisI
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig24_6	51.4	K07023	putative hydrolases of HD superfamily	HD superfamily hydrolase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig24_7	83.9	K07023	putative hydrolases of HD superfamily	HD domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig24_9	91.0	K00798	cob(I)alamin adenosyltransferase [EC:2.5.1.17]	ATP:cob(I)alamin adenosyltransferase (EC:2.5.1.17)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig26_2	93.2	K01873	valyl-tRNA synthetase [EC:6.1.1.9]	valS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig26_3	94.6	K08681	5'-phosphate synthase pdxT subunit [EC:4.3.3.6]	pdxT
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig26_4	97.2	K06215	pyridoxal 5'-phosphate synthase pdxS subunit [EC:4.3.3.6]	putative pyridoxal 5'-phosphate synthase, synthase subunit Pdx1
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig26_6	90.8	K01681	aconitate hydratase [EC:4.2.1.3]	aconitate hydratase (EC:4.2.1.3)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig27_1	91.3	K01755	argininosuccinate lyase [EC:4.3.2.1]	argH
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig27_3	89.6	K02492	glutamyl-tRNA reductase [EC:1.2.1.70]	glutamyl-tRNAGlu reductase, N-terminal domain protein (EC:1.2.1.70)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig27_5	92.4	K00528	ferredoxin--NADP+ reductase [EC:1.18.1.2]	oxidoreductase NAD-binding domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig27_6	89.4	K01092	myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	inositol monophosphatase family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig28_10	56.8	K15342	CRISP-associated protein Cas1	CRISPR-associated Cas1 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig29_5	27.6	K14440	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A-like protein 1 [EC:3.6.4.12]	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig29_6	80.2	K07157	uncharacterized protein	ATP-dependent protease La (LON) domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig29_8	81.0	K03524	BirA family transcriptional regulator, biotin operon repressor / biotin-[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	biotin-(acetyl-CoA-carboxylase) ligase (EC:6.3.4.15)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig30_1	94.6	K10725	archaeal cell division control protein 6	orc1/cdc6 family replication initiation protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig30_3	93.9	K02323	DNA polymerase II small subunit [EC:2.7.7.7]	DNA polymerase II small subunit (EC:2.7.7.7)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig30_6	56.1	K00540		short-chain dehydrogenase/reductase (EC:1.-.-.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig30_8	84.6	K01247	DNA-3-methyladenine glycosylase II [EC:3.2.2.21]	base excision DNA repair protein, HhH-GPD family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig30_9	88.0	K07558	tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72]	cca
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig31_1	88.0	K07739	elongator complex protein 3 [EC:2.3.1.48]	radical SAM enzyme/protein acetyltransferase, ELP3 family (EC:2.3.1.48)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig31_3	27.0	K03455	monovalent cation:H+ antiporter-2, CPA2 family	potassium transporter
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig31_4	82.4	K01933	phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	purM
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig31_5	84.2	K06869	uncharacterized protein	putative TIGR00161 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig31_7	86.4	K07301	cation:H+ antiporter	K+-dependent Na+/Ca+ exchanger family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig32_1	83.1	K04720	threonine-phosphate decarboxylase [EC:4.1.1.81]	hisC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig32_2	86.8	K02232	adenosylcobyric acid synthase [EC:6.3.5.10]	CobQ/CobB/MinD/ParA nucleotide binding domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig32_3	79.3	K02227	adenosylcobinamide-phosphate synthase [EC:6.3.1.10]	cobD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig32_4	96.3	K02233	adenosylcobinamide-GDP ribazoletransferase [EC:2.7.8.26]	cobS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig32_5	35.2	K00991	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]	ispD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig32_6	90.8	K02978	small subunit ribosomal protein S27e	ribosomal protein S27
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig32_7	96.7	K02929	large subunit ribosomal protein L44e	ribosomal protein L44
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig32_8	87.0	K01486	adenine deaminase [EC:3.5.4.2]	putative adenine deaminase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig32_9	78.5	K01486	adenine deaminase [EC:3.5.4.2]	putative adenine deaminase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig33_2	89.8	K13993	HSP20 family protein	Hsp20/alpha crystallin family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig33_4	96.9	K11105	cell volume regulation protein A	transporter, CPA2 family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig33_5	100	K03124	transcription initiation factor TFIIB	putative transcription initiation factor IIB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig33_6	98.7	K03124	transcription initiation factor TFIIB	putative transcription initiation factor IIB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig33_8	78.8	K03768	peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]	peptidyl-prolyl cis-trans isomerase, cyclophilin-type
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig34_5	83.0	K02034	peptide/nickel transport system permease protein	ABC transporter, permease protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig34_6	96.1	K02033	peptide/nickel transport system permease protein	ABC transporter, permease protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig35_1	98.4	K01858	myo-inositol-1-phosphate synthase [EC:5.5.1.4]	inositol-3-phosphate synthase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig35_2	87.3	K06869	uncharacterized protein	PAC2 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig35_6	87.6	K04479	DNA polymerase IV (archaeal DinB-like DNA polymerase) [EC:2.7.7.7]	ImpB/MucB/SamB family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig36_1	92.7	K13953	alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1]	putative chlorophyll synthesis pathway protein BchC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig36_3	98.5	K03263	translation initiation factor 5A	eif5A
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig36_5	40.0	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	ATP-binding protein (EC:6.3.5.4)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig36_6	97.1	K03106	signal recognition particle subunit SRP54	signal peptide-binding domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig36_7	38.8	K12234	coenzyme F420-0:L-glutamate ligase / coenzyme F420-1:gamma-L-glutamate ligase [EC:6.3.2.31 6.3.2.34]	F420-dependent oxidoreductase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig36_9	92.4	K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	homoaconitate hydratase family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig37_1	97.2	K00772	5'-methylthioadenosine phosphorylase [EC:2.4.2.28]	mtnP
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig37_7	98.4	K03166	DNA topoisomerase VI subunit A [EC:5.99.1.3]	putative type II DNA topoisomerase VI subunit A
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig37_8	95.0	K03167	DNA topoisomerase VI subunit B [EC:5.99.1.3]	putative type 2 DNA topoisomerase 6 subunit B
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig37_9	94.1	K03167	DNA topoisomerase VI subunit B [EC:5.99.1.3]	putative type 2 DNA topoisomerase 6 subunit B
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig37_10	95.8	K06961	ribosomal RNA assembly protein	KH domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig37_11	89.5	K07178	RIO kinase 1 [EC:2.7.11.1]	RIO1 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig38_1	83.1	K13038	phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36 6.3.2.5]	coaBC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig38_3	73.3	K01262	Xaa-Pro aminopeptidase [EC:3.4.11.9]	Peptidase M24
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig38_3	72.2	K01271	Xaa-Pro dipeptidase [EC:3.4.13.9]	peptidase M24
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig38_4	96.7	K09152	uncharacterized protein	PF04472 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig38_5	96.3	K07041	uncharacterized protein	KH/beta-lactamase domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig38_6	100	K03433	proteasome beta subunit [EC:3.4.25.1]	psmB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig38_7	86.9	K00096	glycerol-1-phosphate dehydrogenase [NAD(P)+] [EC:1.1.1.261]	putative NAD(P)-dependent glycerol-1-phosphate dehydrogenase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig39_4	86.0	K01011	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	rhodanese-like protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig39_5	90.2	K00392	sulfite reductase (ferredoxin) [EC:1.8.7.1]	nitrite/sulfite reductase, 4Fe-4S iron-sulfur cluster-binding domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig39_6	97.5	K03146	thiamine thiazole synthase	thiazole biosynthesis enzyme
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig40_1	97.5	K04798	prefoldin beta subunit	prefoldin, beta subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig40_2	67.9	K09741	KEOPS complex subunit Pcc1	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig40_2	67.9	K09741	KEOPS complex subunit Pcc1	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig40_3	89.9	K02921	large subunit ribosomal protein L37Ae	putative ribosomal L37ae protein family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig40_4	91.0	K12589	exosome complex component RRP42	3' exoribonuclease family, domain 1
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig40_5	98.8	K11600	exosome complex component RRP41	exosome complex exonuclease 1 (EC:3.1.13.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig40_6	93.8	K03679	exosome complex component RRP4	KH domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig40_7	94.3	K14574	ribosome maturation protein SDO1	rRNA metabolism protein, SBDS family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig40_8	83.0	K03047	DNA-directed RNA polymerase subunit D [EC:2.7.7.6]	rpoA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig40_9	87.0	K02883	large subunit ribosomal protein L18e	putative ribosomal protein L18e/L15
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig40_10	75.4	K02871	large subunit ribosomal protein L13	rplM
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig40_11	88.8	K02996	small subunit ribosomal protein S9	rpsI
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig41_1	79.6	K00555	tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase [EC:2.1.1.215 2.1.1.216]	N2,N2-dimethylguanosine tRNA methyltransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig41_3	96.6	K03455	monovalent cation:H+ antiporter-2, CPA2 family	transporter, CPA2 family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig42_1	97.7	K00764	amidophosphoribosyltransferase [EC:2.4.2.14]	putative amidophosphoribosyltransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig42_2	87.1	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	purL
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig42_3	94.2	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	purQ
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig42_4	29.9	K04767	acetoin utilization protein AcuB	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig42_5	67.5	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	Phosphoribosylformylglycinamidine synthase PurS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig42_7	94.6	K03118	sec-independent protein translocase protein TatC	tatC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig43_2	66.0	K00590	site-specific DNA-methyltransferase (cytosine-N4-specific) [EC:2.1.1.113]	DNA methylase N-4/N-6 domain-containing protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig43_2	66.9	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	DNA methylase N-4/N-6 domain-containing protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig43_3	36.8	K03657	DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	uvrD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig43_4	47.6	K10725	archaeal cell division control protein 6	cdc6-4
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig44_1	98.8	K03041	DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]	DNA-directed RNA polymerase subunit A' / DNA-directed RNA polymerase, subunit A'' multi-domain protein (EC:2.7.7.6)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig44_2	98.8	K13798	DNA-directed RNA polymerase subunit B [EC:2.7.7.6]	rpoB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig44_3	97.5	K13798	DNA-directed RNA polymerase subunit B [EC:2.7.7.6]	rpoB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig44_4	94.0	K03053	DNA-directed RNA polymerase subunit H [EC:2.7.7.6]	RNA polymerase Rpb5, C-terminal domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig45_1	83.3	K17830	digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]	geranylgeranyl reductase family (EC:1.3.1.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig45_3	65.0	K02032	peptide/nickel transport system ATP-binding protein	oligopeptide/dipeptide ABC transporter ATPase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig45_4	42.4	K18911	L-histidine Nalpha-methyltransferase [EC:2.1.1.44]	Dimethylhistidine N-methyltransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig45_5	36.5	K18912	gamma-glutamyl hercynylcysteine S-oxide synthase [EC:1.14.99.50]	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig45_7	46.5	K00008	L-iditol 2-dehydrogenase [EC:1.1.1.14]	alcohol dehydrogenase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig45_7	47.1	K00008	L-iditol 2-dehydrogenase [EC:1.1.1.14]	alcohol dehydrogenase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig45_7	45.9	K00008	L-iditol 2-dehydrogenase [EC:1.1.1.14]	Alcohol dehydrogenase zinc-binding domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_2	51.5	K02078	acyl carrier protein	acpP
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_2	51.5	K02078	acyl carrier protein	acpP
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_2	51.5	K02078	acyl carrier protein	acpP
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_2	51.5	K02078	acyl carrier protein	acpP
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_2	51.5	K02078	acyl carrier protein	acpP
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_2	51.5	K02078	acyl carrier protein	acpP
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_2	55.6	K02078	acyl carrier protein	acpP
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_2	55.6	K02078	acyl carrier protein	acpP
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_2	51.5	K02078	acyl carrier protein	acpP
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_2	52.3	K02078	acyl carrier protein	acpP
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_2	52.3	K02078	acyl carrier protein	Acyl carrier protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_2	52.3	K02078	acyl carrier protein	Acyl carrier protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_2	52.3	K02078	acyl carrier protein	Acyl carrier protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_5	38.2	K00613	glycine amidinotransferase [EC:2.1.4.1]	inosamine-phosphate amidinotransferase 1
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_5	38.2	K00613	glycine amidinotransferase [EC:2.1.4.1]	inosamine-phosphate amidinotransferase 1
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_5	39.3	K00613	glycine amidinotransferase [EC:2.1.4.1]	inosamine-phosphate amidinotransferase 1
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_5	39.1	K00613	glycine amidinotransferase [EC:2.1.4.1]	inosamine-phosphate amidinotransferase 1
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig46_9	27.9	K01710	dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]	spore coat protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig47_1	96.4	K11212	LPPG:FO 2-phospho-L-lactate transferase [EC:2.7.8.28]	cofD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig47_2	76.6	K14941	2-phospho-L-lactate guanylyltransferase [EC:2.7.7.68]	cofC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig47_3	82.6	K03529	chromosome segregation protein	RecF/RecN/SMC N-terminal domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig47_4	96.4	K01858	myo-inositol-1-phosphate synthase [EC:5.5.1.4]	inositol-3-phosphate synthase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig48_1	95.2	K01869	leucyl-tRNA synthetase [EC:6.1.1.4]	leuS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig48_1	94.4	K01869	leucyl-tRNA synthetase [EC:6.1.1.4]	leucyl-tRNA synthetase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig48_2	89.5	K01872	alanyl-tRNA synthetase [EC:6.1.1.7]	alaS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig48_4	81.7	K02869	large subunit ribosomal protein L12	rpl
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig48_6	91.4	K02864	large subunit ribosomal protein L10	rplJ
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig49_1	78.3	K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	aminotransferase, class V
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig49_4	84.8	K14165	atypical dual specificity phosphatase [EC:3.1.3.16 3.1.3.48]	dual specificity phosphatase, catalytic domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig49_8	80.3	K03056	DNA-directed RNA polymerase subunit L [EC:2.7.7.6]	RNA polymerase Rpb3/Rpb11 dimerization domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig49_9	81.3	K03057	DNA-directed RNA polymerase subunit M	transcription factor S
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig49_10	94.4	K04802	proliferating cell nuclear antigen	pcn
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig49_11	89.4	K00928	aspartate kinase [EC:2.7.2.4]	putative aspartate kinase, monofunctional class
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig50_2	24.1	K00613	glycine amidinotransferase [EC:2.1.4.1]	Glycine amidinotransferase (EC:2.1.4.1)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig50_4	29.2	K10026	7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]	radical SAM protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig50_6	28.2	K04110	benzoate-CoA ligase [EC:6.2.1.25]	benzoate-CoA ligase family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig51_2	97.0	K00053	ketol-acid reductoisomerase [EC:1.1.1.86]	ilvC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig51_3	98.2	K01849	methylmalonyl-CoA mutase, C-terminal domain [EC:5.4.99.2]	B12 binding domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig51_4	97.2	K01849	methylmalonyl-CoA mutase, C-terminal domain [EC:5.4.99.2]	B12 binding domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig51_5	89.2	K07588	LAO/AO transport system kinase [EC:2.7.-.-]	LAO/AO transport system ATPase (EC:2.7.-.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig51_6	97.0	K01848	methylmalonyl-CoA mutase, N-terminal domain [EC:5.4.99.2]	methylmalonyl-CoA mutase (EC:5.4.99.2)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig51_7	93.9	K05606	methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1]	mce
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig52_4	38.0	K05540	tRNA-dihydrouridine synthase B [EC:1.-.-.-]	dusB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig52_4	38.0	K05540	tRNA-dihydrouridine synthase B [EC:1.-.-.-]	dusB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig52_4	38.0	K05540	tRNA-dihydrouridine synthase B [EC:1.-.-.-]	dusB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig52_6	93.7	K18285	aminodeoxyfutalosine synthase [EC:2.5.1.120]	radical SAM domain protein, CofH subfamily
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig53_1	89.7	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	metK
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig53_2	73.7	K00329	NADH dehydrogenase [EC:1.6.99.3]	NAD(P)H-binding protein, PF13460 family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig53_3	91.0	K03686	molecular chaperone DnaJ	DnaJ domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig53_4	85.5	K02188	cobalt-precorrin-5B (C1)-methyltransferase [EC:2.1.1.195]	cbiD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig53_5	86.3	K02189	cobalt-precorrin 5A hydrolase [EC:3.7.1.12]	cobalamin biosynthesis protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig53_6	63.0	K03795	sirohydrochlorin cobaltochelatase [EC:4.99.1.3]	sirohydrochlorin cobaltochelatase (EC:4.99.1.3)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig53_7	62.9	K03795	sirohydrochlorin cobaltochelatase [EC:4.99.1.3]	sirohydrochlorin cobaltochelatase (EC:4.99.1.3)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig53_8	93.2	K06042	precorrin-8X/cobalt-precorrin-8 methylmutase [EC:5.4.99.61 5.4.99.60]	cobH
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig54_1	91.8	K14534	4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase [EC:4.2.1.120 5.3.3.3]	abfD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig54_2	79.7	K13280	signal peptidase, endoplasmic reticulum-type [EC:3.4.-.-]	signal peptidase I (EC:3.4.21.89)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig54_4	90.9	K03671	thioredoxin 1	trxA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig54_7	83.3	K01464	dihydropyrimidinase [EC:3.5.2.2]	pyrC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig54_8	90.6	K01807	ribose 5-phosphate isomerase A [EC:5.3.1.6]	rpiA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig55_2	40.1	K09495	T-complex protein 1 subunit gamma	CCT3
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig55_2	40.1	K09495	T-complex protein 1 subunit gamma	CCT3
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig55_2	39.7	K09495	T-complex protein 1 subunit gamma	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig55_2	39.7	K09495	T-complex protein 1 subunit gamma	T-complex protein 1 subunit gamma, putative
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig55_3	96.6	K00600	glycine hydroxymethyltransferase [EC:2.1.2.1]	glyA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig55_4	96.9	K02322	DNA polymerase II large subunit [EC:2.7.7.7]	polC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig56_1	70.2	K07583	tRNA pseudouridine synthase 10 [EC:5.4.99.-]	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig56_3	86.7	K02977	small subunit ribosomal protein S27Ae	ribosomal protein S27a
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig56_5	83.6	K09763	uncharacterized protein	PF03745 domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig56_6	92.8	K15635	2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	apgM
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig56_7	93.2	K00965	UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]	galactose-1-phosphate uridyl transferase, N-terminal domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig57_2	95.9	K00858	NAD+ kinase [EC:2.7.1.23]	NAD(+)/NADH kinase (EC:2.7.1.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig57_3	96.1	K01937	CTP synthase [EC:6.3.4.2]	pyrG
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig57_4	86.8	K01695	tryptophan synthase alpha chain [EC:4.2.1.20]	trpA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig57_5	98.4	K01696	tryptophan synthase beta chain [EC:4.2.1.20]	trpB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig58_1	92.9	K01433	formyltetrahydrofolate deformylase [EC:3.5.1.10]	putative formyltetrahydrofolate deformylase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig58_2	87.4	K15778	phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2]	glmM
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig58_3	98.4	K02936	large subunit ribosomal protein L7Ae	rpl7ae
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig58_4	94.6	K02979	small subunit ribosomal protein S28e	ribosomal protein S28e
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig58_5	95.5	K02896	large subunit ribosomal protein L24e	ribosomal protein L24e-like protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig58_6	96.2	K00940	nucleoside-diphosphate kinase [EC:2.7.4.6]	ndk
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig58_7	93.9	K03243	translation initiation factor 5B	infB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig59_1	93.8	K05830	LysW-gamma-L-lysine/LysW-L-ornithine aminotransferase [EC:2.6.1.-]	argD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig59_2	94.0	K05828	LysW-gamma-L-alpha-aminoadipate/LysW-L-glutamate kinase [EC:2.7.2.-]	argB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig59_3	96.6	K05829	LysW-gamma-L-alpha-aminoadipyl-6-phosphate/LysW-L-glutamyl-5-phosphate reductase [EC:1.2.1.-]	argC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig59_4	94.0	K05827	[lysine-biosynthesis-protein LysW]---L-2-aminoadipate ligase [EC:6.3.2.43]	lysX
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig59_5	98.2	K05826	alpha-aminoadipate/glutamate carrier protein LysW	putative lysine biosynthesis protein LysW
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig59_6	95.9	K01940	argininosuccinate synthase [EC:6.3.4.5]	argG
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig60_3	31.2	K06149	universal stress protein A	universal stress protein UspA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig60_4	88.6	K00024	malate dehydrogenase [EC:1.1.1.37]	lactate/malate dehydrogenase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig60_7	90.8	K03146	thiamine thiazole synthase	putative thiazole biosynthetic enzyme
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig60_7	90.4	K03146	thiamine thiazole synthase	ribulose-1,5-biphosphate synthetase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig60_7	90.4	K03146	thiamine thiazole synthase	ribulose-1,5-biphosphate synthetase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig60_8	96.0	K00392	sulfite reductase (ferredoxin) [EC:1.8.7.1]	sulfite reductase ferredoxin (EC:1.8.7.1)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig61_1	75.7	K00548	5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	methionine synthase I, cobalamin-binding domain (EC:2.1.1.13)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig61_1	81.2	K00548	5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	methionine synthase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig61_2	75.5	K00548	5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	homocysteine S-methyltransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig61_2	75.2	K00548	5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	homocysteine S-methyltransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig61_2	75.2	K00548	5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	metH
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig61_6	64.3	K08153	MFS transporter, DHA1 family, multidrug resistance protein	major facilitator transporter
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig62_6	86.5	K07124	uncharacterized protein	KR domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig62_7	93.8	K07027	uncharacterized protein	membrane protein, PF03706 family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig62_8	96.0	K06883	uncharacterized protein	ATP-binding protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig63_1	82.3	K00826	branched-chain amino acid aminotransferase [EC:2.6.1.42]	ilvE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig63_2	92.6	K18855	UDP-N-acetylglucosamine 3-dehydrogenase [EC:1.1.1.374]	oxidoreductase, NAD-binding domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig63_5	76.7	K02217	ferritin [EC:1.16.3.2]	putative ferritin
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig63_6	96.9	K12339	cysteine synthase B [EC:2.5.1.47]	pyridoxal-phosphate dependent protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig64_1	62.1	K02044	phosphonate transport system substrate-binding protein	phosphonate ABC transporter periplasmic phosphonate-binding protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig64_2	66.8	K02041	phosphonate transport system ATP-binding protein [EC:3.6.3.28]	ABC transporter
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig64_3	73.0	K02042	phosphonate transport system permease protein	phosphonate ABC transporter inner membrane subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig64_3	74.0	K02042	phosphonate transport system permease protein	phosphonate ABC transporter inner membrane subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig65_2	95.3	K11996	adenylyltransferase and sulfurtransferase	UBA/THIF-type NAD/FAD binding protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig65_3	95.8	K01733	threonine synthase [EC:4.2.3.1]	threonine synthase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig65_5	85.2	K01496	phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19]	phosphoribosyl-AMP cyclohydrolase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig65_5	82.6	K01496	phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19]	hisI
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig65_6	89.8	K02500	cyclase [EC:4.1.3.-]	Imidazole glycerol phosphate synthase cyclase subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig66_3	86.9	K03424	TatD DNase family protein [EC:3.1.21.-]	hydrolase, TatD family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig66_4	64.5	K02962	small subunit ribosomal protein S17e	putative ribosomal S17
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig66_6	83.8	K06963	tRNA acetyltransferase TAN1	THUMP domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig66_7	77.9	K07566	L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]	tRNA threonylcarbamoyl adenosine modification protein, Sua5/YciO/YrdC/YwlC family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig67_2	98.4	K06915	uncharacterized protein	PF01935 domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig67_6	76.7	K07006	uncharacterized protein	pyridoxamine 5'-phosphate oxidase family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig67_9	85.7	K04566	lysyl-tRNA synthetase, class I [EC:6.1.1.6]	lysS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig68_1	91.9	K04800	replication factor C large subunit	ATPase, AAA family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig68_3	85.6	K18604	acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3]	carboxyl transferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig68_4	87.3	K18603	acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3]	carbamoyl-phosphate synthase L chain ATP-binding
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig68_4	86.7	K18603	acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3]	carbamoyl-phosphate synthase L chain ATP-binding protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig68_5	42.4	K18605	biotin carboxyl carrier protein	biotin/lipoyl attachment domain-containing protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig69_2	73.2	K02119	V/A-type H+-transporting ATPase subunit C	ATP synthase, subunit C
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig69_4	95.0	K03320	ammonium transporter, Amt family	amt
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig69_5	96.3	K03320	ammonium transporter, Amt family	amt
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig69_6	87.7	K01011	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	rhodanese-like protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig70_1	85.1	K01610	phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]	pckA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig70_2	93.9	K02912	large subunit ribosomal protein L32e	ribosomal protein L32
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig70_3	88.1	K02885	large subunit ribosomal protein L19e	ribosomal protein L19e
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig70_4	92.9	K00567	methylated-DNA-[protein]-cysteine S-methyltransferase [EC:2.1.1.63]	DNA-binding domain, methylated-DNA-[protein]-cysteine S-methyltransferase family protein (EC:2.1.1.63)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig70_5	81.0	K09716	D-aminoacyl-tRNA deacylase [EC:3.1.1.96]	D-aminoacyl-tRNA deacylase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig70_6	63.8	K07342	protein transport protein SEC61 subunit gamma and related proteins	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig70_6	63.8	K07342	protein transport protein SEC61 subunit gamma and related proteins	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig70_7	96.0	K02601	transcriptional antiterminator NusG	rplX
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig70_8	96.2	K02867	large subunit ribosomal protein L11	ribosomal protein L11, N-terminal domain / ribosomal protein L11, RNA-binding domain multi-domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig70_9	96.0	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	transcriptional regulator, AsnC family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig70_10	94.0	K02863	large subunit ribosomal protein L1	ribosomal protein L1p/L10e family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig71_4	90.9	K01895	acetyl-CoA synthetase [EC:6.2.1.1]	acs
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig72_1	85.0	K00891	shikimate kinase [EC:2.7.1.71]	shikimate kinase (EC:2.7.1.71)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig72_2	85.4	K00800	3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]	aroA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig72_3	90.8	K06989	aspartate dehydrogenase [EC:1.4.1.21]	nadX
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig72_4	93.7	K01736	chorismate synthase [EC:4.2.3.5]	aroC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig72_5	82.2	K00812	aspartate aminotransferase [EC:2.6.1.1]	chorismate mutase (EC:5.4.99.5)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig73_5	55.0	K03497	chromosome partitioning protein, ParB family	Transcriptional regulator
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig73_6	65.0	K03719	Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein	putative GAF sensor protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig73_7	23.9	K03307	solute:Na+ symporter, SSS family	Na+/galactose cotransporter
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig75_1	94.3	K02117	V/A-type H+-transporting ATPase subunit A [EC:3.6.3.14]	ATP synthase alpha/beta chain, C-terminal domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig75_2	97.1	K02117	V/A-type H+-transporting ATPase subunit A [EC:3.6.3.14]	ATP synthase alpha/beta chain, C-terminal domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig75_2	95.2	K02117	V/A-type H+-transporting ATPase subunit A [EC:3.6.3.14]	ATP synthase subunit A
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig75_3	94.0	K02121	V/A-type H+-transporting ATPase subunit E	ATP synthase, subunit E
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig75_4	80.9	K02123	V/A-type H+-transporting ATPase subunit I	V-type ATPase 116kDa subunit family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig75_6	91.9	K01011	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	rhodanese-like protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig76_1	46.0	K00856	adenosine kinase [EC:2.7.1.20]	carbohydrate kinase (EC:2.7.1.20)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig76_6	93.4	K01866	tyrosyl-tRNA synthetase [EC:6.1.1.1]	tyrS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig76_7	97.3	K05934	precorrin-3B C17-methyltransferase [EC:2.1.1.131]	cobJ
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig76_8	88.7	K00928	aspartate kinase [EC:2.7.2.4]	putative aspartate kinase, monofunctional class
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig77_1	97.3	K01409	N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]	putative universal archaeal protein Kae1
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig77_4	83.1	K03469	ribonuclease HI [EC:3.1.26.4]	rnhA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig77_5	83.0	K18593	4-hydroxybutyryl-CoA synthetase (ADP-forming) [EC:6.2.1.-]	CoA-binding domain-containing protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig77_5	82.2	K18593	4-hydroxybutyryl-CoA synthetase (ADP-forming) [EC:6.2.1.-]	CoA-binding domain-containing protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig77_6	98.2	K14534	4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase [EC:4.2.1.120 5.3.3.3]	abfD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig78_1	92.3	K00826	branched-chain amino acid aminotransferase [EC:2.6.1.42]	ilvE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig78_3	78.6	K00528	ferredoxin--NADP+ reductase [EC:1.18.1.2]	oxidoreductase NAD-binding domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig78_5	47.5	K03417	methylisocitrate lyase [EC:4.1.3.30]	2,3-dimethylmalate lyase (EC:4.1.3.32)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig80_3	60.9	K12574	ribonuclease J [EC:3.1.-.-]	hydrolase of the metallo-beta-lactamase superfamily
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig81_1	86.8	K00621	glucosamine-phosphate N-acetyltransferase [EC:2.3.1.4]	acetyltransferase (GNAT) domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig81_2	94.0	K02492	glutamyl-tRNA reductase [EC:1.2.1.70]	hemA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig81_3	78.8	K02304	precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:1.3.1.76 4.99.1.4]	siroheme synthase domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig81_5	93.4	K01698	porphobilinogen synthase [EC:4.2.1.24]	hemB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig82_4	97.6	K17104	phosphoglycerol geranylgeranyltransferase [EC:2.5.1.41]	phosphoglycerol geranylgeranyltransferase (EC:2.5.1.41)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig82_5	93.4	K02322	DNA polymerase II large subunit [EC:2.7.7.7]	polC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig83_1	76.9	K06176	tRNA pseudouridine13 synthase [EC:5.4.99.27]	truD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig83_2	83.6	K07304	peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	msrA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig83_9	96.4	K13953	alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1]	putative alcohol dehydrogenase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig85_7	53.7	K00435	peroxiredoxin [EC:1.11.1.-]	AhpC/TSA family protein (EC:1.11.1.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig85_7	53.7	K00435	peroxiredoxin [EC:1.11.1.-]	AhpC/TSA family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig85_7	53.7	K00435	peroxiredoxin [EC:1.11.1.-]	AhpC/TSA family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig85_7	53.7	K00435	peroxiredoxin [EC:1.11.1.-]	AhpC/TSA family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig85_7	53.7	K00435	peroxiredoxin [EC:1.11.1.-]	AhpC/TSA family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig85_7	53.7	K00435	peroxiredoxin [EC:1.11.1.-]	AhpC/TSA family protein (EC:1.11.1.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig86_1	95.7	K09013	Fe-S cluster assembly ATP-binding protein	sufC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig86_2	95.0	K03124	transcription initiation factor TFIIB	transcription factor TFIIB repeat protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig86_3	97.5	K07569	RNA-binding protein	putative H/ACA RNA-protein complex component Gar1
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig86_4	94.0	K03105	signal recognition particle subunit SRP19	SRP19 protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig86_5	96.1	K02995	small subunit ribosomal protein S8e	ribosomal protein S8.e
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig86_6	91.9	K06024	segregation and condensation protein B	putative segregation and condensation protein B
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig86_7	93.7	K05896	segregation and condensation protein A	ScpA/B-like protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig86_8	86.4	K13953	alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1]	putative chlorophyll synthesis pathway protein BchC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig87_1	94.6	K01756	adenylosuccinate lyase [EC:4.3.2.2]	purB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig87_2	84.7	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	queuosine biosynthesis protein QueC-like protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig87_3	84.0	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	queuosine biosynthesis protein QueC-like protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig87_4	80.6	K01724	4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]	phhB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig87_5	95.4	K01873	valyl-tRNA synthetase [EC:6.1.1.9]	valS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig89_1	81.8	K09723	DNA replication factor GINS	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig89_5	94.4	K03399	cobalt-precorrin-7 (C5)-methyltransferase [EC:2.1.1.289]	cbiE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig89_7	72.0	K03768	peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]	peptidyl-prolyl cis-trans isomerase, cyclophilin-type
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig90_2	90.9	K01001	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [EC:2.7.8.15]	glycosyltransferase, group 4 family (EC:2.7.8.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig90_3	55.3	K03726	helicase [EC:3.6.4.-]	DEAD/DEAH box helicase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig90_3	55.6	K03726	helicase [EC:3.6.4.-]	DEAD/DEAH box helicase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig90_3	54.2	K03726	helicase [EC:3.6.4.-]	putative ski2-type helicase (EC:3.6.4.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig90_4	67.4	K03726	helicase [EC:3.6.4.-]	putative ski2-type helicase (EC:3.6.4.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig90_4	67.4	K03726	helicase [EC:3.6.4.-]	putative ski2-type helicase (EC:3.6.4.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig90_4	66.7	K03726	helicase [EC:3.6.4.-]	DEAD/DEAH box helicase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig90_5	96.7	K10726	replicative DNA helicase Mcm [EC:3.6.4.-]	putative minichromosome maintenance protein MCM
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig91_1	93.5	K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	sufS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig91_2	82.6	K09015	Fe-S cluster assembly protein SufD	sufD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig91_3	79.6	K09014	Fe-S cluster assembly protein SufB	Iron-regulated ABC transporter membrane component SufB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig91_3	79.6	K09014	Fe-S cluster assembly protein SufB	sufB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig91_3	79.2	K09014	Fe-S cluster assembly protein SufB	sufB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig91_4	90.0	K01719	uroporphyrinogen-III synthase [EC:4.2.1.75]	hemD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig92_3	88.7	K06888	uncharacterized protein	PF03190 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig93_1	88.3	K02886	large subunit ribosomal protein L2	ribosomal protein L2, C-terminal domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig93_2	95.7	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig93_3	88.3	K09482	glutamyl-tRNA(Gln) amidotransferase subunit D [EC:6.3.5.7]	gatD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig94_1	92.2	K07254	tRNA (cytidine56-2'-O)-methyltransferase [EC:2.1.1.206]	tRNA ribose 2'-O-methyltransferase aTrm56 (EC:2.1.1.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig94_2	82.0	K03665	GTPase	hflX
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig94_3	25.3	K02039	phosphate transport system protein	prp1
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig94_4	89.2	K07398	conserved protein with predicted RNA binding PUA domain	PUA domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig94_5	91.2	K03626	nascent polypeptide-associated complex subunit alpha	alpha-NAC protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig95_1	44.6	K03657	DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	UvrD/REP helicase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig95_2	40.5	K03657	DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	uvrD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig96_1	44.3	K03694	ATP-dependent Clp protease ATP-binding subunit ClpA	clpA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig97_4	81.4	K09005	uncharacterized protein	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig97_6	42.4	K03709	DtxR family transcriptional regulator, Mn-dependent transcriptional regulator	iron dependent repressor
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig97_8	89.7	K06865	ATPase	type II/IV secretion system protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig98_1	100	K02992	small subunit ribosomal protein S7	rpsG
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig98_3	89.7	K06940	uncharacterized protein	zinc-or iron-chelating domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig98_5	89.6	K01869	leucyl-tRNA synthetase [EC:6.1.1.4]	leuS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig99_1	91.6	K01874	methionyl-tRNA synthetase [EC:6.1.1.10]	metG
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig99_4	78.9	K03769	peptidyl-prolyl cis-trans isomerase C [EC:5.2.1.8]	ppiC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig99_7	91.3	K02548	1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.74 2.5.1.-]	prenyltransferase, UbiA family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig100_1	79.7	K00013	histidinol dehydrogenase [EC:1.1.1.23]	hisD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig100_2	96.6	K00765	ATP phosphoribosyltransferase [EC:2.4.2.17]	ATP phosphoribosyltransferase HisG (EC:2.4.2.17)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig100_3	88.3	K00054	hydroxymethylglutaryl-CoA reductase [EC:1.1.1.88]	hydroxymethylglutaryl-CoA reductase, degradative (EC:1.1.1.88)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig100_4	38.8	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	gdhB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig100_4	38.8	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	glucose/sorbosone dehydrogenase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig101_2	84.0	K00612	carbamoyltransferase [EC:2.1.3.-]	carbamoyltransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig102_2	88.3	K07114	Ca-activated chloride channel homolog	von Willebrand factor type A domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig102_4	88.9	K03924	MoxR-like ATPase [EC:3.6.3.-]	ATPase, AAA family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig103_1	54.7	K00786		transmembrane family-2 glycosyl transferase (EC:2.4.-.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig103_3	95.2	K00858	NAD+ kinase [EC:2.7.1.23]	NAD(+)/NADH kinase (EC:2.7.1.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig103_4	78.5	K07060	endoribonuclease Nob1 [EC:3.1.-.-]	PIN domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig103_5	94.6	K10848	DNA excision repair protein ERCC-4 [EC:3.1.-.-]	ERCC4 domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig104_1	87.4	K01990	ABC-2 type transport system ATP-binding protein	daunorubicin resistance ABC transporter, ATP-binding protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig104_2	97.9	K01992	ABC-2 type transport system permease protein	daunorubicin resistance ABC transporter membrane protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig104_3	98.7	K01992	ABC-2 type transport system permease protein	daunorubicin resistance ABC transporter membrane protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig105_2	87.3	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	glycosyl transferase family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig105_2	85.5	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	Glycosyl transferase family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig105_6	92.4	K05936	precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271]	precorrin-4 C(11)-methyltransferase (EC:2.1.1.133)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig106_2	97.0	K01641	hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10]	hydroxymethylglutaryl-coenzyme A synthase C-terminal
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig106_4	70.9	K01935	dethiobiotin synthetase [EC:6.3.3.3]	bioD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig107_1	92.6	K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	short-chain dehydrogenase/reductase SDR
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig107_4	98.0	K08963	methylthioribose-1-phosphate isomerase [EC:5.3.1.23]	mtnA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig107_4	97.5	K08963	methylthioribose-1-phosphate isomerase [EC:5.3.1.23]	aIF-2BI family translation initiation factor
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig108_1	94.2	K02858	3,4-dihydroxy 2-butanone 4-phosphate synthase [EC:4.1.99.12]	ribB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig108_2	92.0	K00794	6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]	ribH
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig108_3	94.8	K08096	GTP cyclohydrolase IIa [EC:3.5.4.29]	GGDN family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig108_4	27.9	K01485	cytosine deaminase [EC:3.5.4.1]	guaD3
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig108_5	84.7	K14654	2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase [EC:1.1.1.302]	putative diaminohydroxyphosphoribosylaminopyrimidine reductase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig108_6	79.8	K03136	transcription initiation factor TFIIE subunit alpha	putative transcription factor E
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig109_1	95.6	K13038	phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36 6.3.2.5]	coaBC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig109_2	87.8	K00606	3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]	panB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig109_3	91.8	K09722	4-phosphopantoate---beta-alanine ligase [EC:6.3.2.36]	PF02006 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig109_4	91.9	K06982	pantoate kinase [EC:2.7.1.169]	GHMP kinase, N-terminal domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig111_1	90.5	K03724	ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	DEAD/DEAH box helicase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig111_3	41.9	K04482	DNA repair protein RAD51	recombinase A
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig111_3	41.1	K04482	DNA repair protein RAD51	recombinase A
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig111_4	96.3	K04796	small nuclear ribonucleoprotein	LSM domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig111_5	92.3	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	metK
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig112_1	98.6	K00031	isocitrate dehydrogenase [EC:1.1.1.42]	isocitrate dehydrogenase (EC:1.1.1.41)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig112_3	91.0	K02493	release factor glutamine methyltransferase [EC:2.1.1.297]	methylase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig113_1	82.4	K02224	cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11]	cobB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig113_2	89.7	K19221	cob(I)alamin adenosyltransferase [EC:2.5.1.17]	cobO
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig113_3	92.5	K03237	translation initiation factor 2 subunit 1	putative translation initiation factor IF-2 subunit alpha
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig113_4	82.1	K11130	H/ACA ribonucleoprotein complex subunit 3	nucleolar RNA-binding protein, Nop10p family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig113_5	83.6	K01174	micrococcal nuclease [EC:3.1.31.1]	nuclease-like protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig114_1	90.8	K09815	zinc transport system substrate-binding protein	periplasmic solute-binding family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig114_3	91.5	K09817	zinc transport system ATP-binding protein [EC:3.6.3.-]	ABC transporter, ATP-binding protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig114_4	95.1	K09816	zinc transport system permease protein	ABC 3 transport family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig115_1	79.3	K12234	coenzyme F420-0:L-glutamate ligase / coenzyme F420-1:gamma-L-glutamate ligase [EC:6.3.2.31 6.3.2.34]	cofE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig115_2	87.7	K07053	uncharacterized protein	PHP-associated
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig115_3	92.9	K08979	putative membrane protein	membrane protein, PF09843 family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig115_5	74.3	K07143	UPF0148 protein	Sjogren'S syndrome/scleroderma autoantigen 1
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig116_1	97.5	K03049	DNA-directed RNA polymerase subunit E' [EC:2.7.7.6]	rpoE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig116_2	96.6	K03593	ATP-binding protein involved in chromosome partitioning	ParA/MinD ATPase-like protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig116_3	84.8	K09735	uncharacterized protein	PF04019 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig116_4	77.0	K07043	uncharacterized protein	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig116_5	93.7	K15987	K(+)-stimulated pyrophosphate-energized sodium pump [EC:3.6.1.1]	V-type H(+)-translocating pyrophosphatase (EC:3.6.1.1)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig117_1	91.5	K07301	cation:H+ antiporter	K+-dependent Na+/Ca+ exchanger family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig117_2	71.3	K11781	FO synthase subunit 2 [EC:2.5.1.77]	cofH
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig117_2	70.6	K11781	FO synthase subunit 2 [EC:2.5.1.77]	cofH
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig117_3	60.9	K11779	FO synthase [EC:2.5.1.-]	radical SAM protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig117_3	59.9	K11779	FO synthase [EC:2.5.1.-]	radical SAM protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig117_4	49.5	K08070	2-alkenal reductase [EC:1.3.1.74]	2-alkenal reductase (EC:1.3.1.74)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig118_1	96.5	K09808	lipoprotein-releasing system permease protein	MacB-like periplasmic core domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig118_2	96.6	K09810	lipoprotein-releasing system ATP-binding protein [EC:3.6.3.-]	ABC transporter, ATP-binding protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig118_4	98.1	K03242	translation initiation factor 2 subunit 3	eif2g
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig119_3	95.0	K03124	transcription initiation factor TFIIB	putative transcription initiation factor IIB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig119_4	31.5	K03594	bacterioferritin [EC:1.16.3.1]	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig120_2	52.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	wecB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig120_4	54.8	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	NAD-dependent epimerase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig122_1	93.8	K02683	DNA primase small subunit [EC:2.7.7.-]	putative DNA primase small subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig122_2	96.3	K09118	uncharacterized protein	PF03699 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig123_3	97.6	K02548	1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.74 2.5.1.-]	UbiA prenyltransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig124_2	96.4	K03433	proteasome beta subunit [EC:3.4.25.1]	putative proteasome endopeptidase complex, beta subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig124_3	91.0	K07575	PUA domain protein	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig124_4	93.8	K00003	homoserine dehydrogenase [EC:1.1.1.3]	homoserine dehydrogenase (EC:1.1.1.3)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig124_5	80.1	K00003	homoserine dehydrogenase [EC:1.1.1.3]	homoserine dehydrogenase (EC:1.1.1.3)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig124_6	84.1	K07305	peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12]	msrB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig125_1	95.6	K03243	translation initiation factor 5B	infB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig125_2	84.6	K03671	thioredoxin 1	trxA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig125_4	85.1	K01892	histidyl-tRNA synthetase [EC:6.1.1.21]	hisS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig125_5	89.9	K03264	translation initiation factor 6	putative translation initiation factor eIF-6
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig126_3	95.4	K06965	protein pelota	mRNA surveillance protein pelota
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig126_4	96.1	K03926	periplasmic divalent cation tolerance protein	divalent cation tolerance protein, CutA1 family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig127_2	37.2	K03564	peroxiredoxin Q/BCP [EC:1.11.1.15]	redoxin domain-containing protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig127_3	93.7	K00330	NADH-quinone oxidoreductase subunit A [EC:1.6.5.3]	NADH-ubiquinone/plastoquinone oxidoreductase, chain 3
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig127_4	98.8	K00331	NADH-quinone oxidoreductase subunit B [EC:1.6.5.3]	NADH-quinone oxidoreductase, B subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig127_5	93.1	K00332	NADH-quinone oxidoreductase subunit C [EC:1.6.5.3]	respiratory-chain NADH dehydrogenase, 30 Kd subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig127_6	96.0	K00333	NADH-quinone oxidoreductase subunit D [EC:1.6.5.3]	putative NAD(P)H-quinone oxidoreductase subunit H
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig128_3	40.2	K01654	N-acetylneuraminate synthase [EC:2.5.1.56]	N-acetylneuraminic acid synthase-like protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig129_2	90.9	K01265	methionyl aminopeptidase [EC:3.4.11.18]	map
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig129_5	100	K03120	transcription initiation factor TFIID TATA-box-binding protein	tbp
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig131_1	93.4	K01251	adenosylhomocysteinase [EC:3.3.1.1]	ahcY
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig131_2	52.9	K00363	nitrite reductase (NADH) small subunit [EC:1.7.1.15]	Rieske (2Fe-2S) domain-containing protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig131_3	82.3	K01916	NAD+ synthase [EC:6.3.1.5]	nadE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig131_4	88.6	K01883	cysteinyl-tRNA synthetase [EC:6.1.1.16]	cysS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig134_1	93.7	K07558	tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72]	cca
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig134_2	74.9	K01975	2'-5' RNA ligase [EC:6.5.1.-]	2'-5' RNA ligase (EC:6.5.1.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig134_4	47.9	K09736	uncharacterized protein	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig134_4	45.9	K09736	uncharacterized protein	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig134_6	87.9	K00784	ribonuclease Z [EC:3.1.26.11]	rnz
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig135_1	98.7	K01669	deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]	FAD binding domain of DNA photolyase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig135_2	97.1	K02991	small subunit ribosomal protein S6e	ribosomal protein S6e
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig136_2	84.5	K07114	Ca-activated chloride channel homolog	von Willebrand factor type A
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig136_4	96.8	K03924	MoxR-like ATPase [EC:3.6.3.-]	ATPase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig137_1	87.8	K01493	dCMP deaminase [EC:3.5.4.12]	cytidine and deoxycytidylate deaminase zinc-binding region
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig137_2	97.2	K02319	DNA polymerase I [EC:2.7.7.7]	DNA polymerase family B, exonuclease domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig137_3	92.3	K15383	MtN3 and saliva related transmembrane protein	sugar efflux transporter for intercellular exchange
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig138_1	99.6	K02118	V/A-type H+-transporting ATPase subunit B	ATP synthase alpha/beta chain, C-terminal domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig138_2	96.7	K02120	V/A-type H+-transporting ATPase subunit D	V-type ATPase, D subunit (EC:3.6.3.14)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig138_4	78.6	K02124	V/A-type H+-transporting ATPase subunit K	ATP synthase subunit C
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig138_5	91.7	K00610	aspartate carbamoyltransferase regulatory subunit	pyrI
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig138_6	92.1	K00609	aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	pyrB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig139_1	94.7	K01876	aspartyl-tRNA synthetase [EC:6.1.1.12]	aspS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig139_3	93.8	K00052	3-isopropylmalate dehydrogenase [EC:1.1.1.85]	putative 3-isopropylmalate dehydrogenase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig139_4	97.0	K01649	2-isopropylmalate synthase [EC:2.3.3.13]	isopropylmalate/citramalate/homocitrate synthases
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig140_1	87.5	K01657	anthranilate synthase component I [EC:4.1.3.27]	anthranilate synthase component I, N-terminal domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig140_2	92.5	K01658	anthranilate synthase component II [EC:4.1.3.27]	glutamine amidotransferase, class I
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig140_3	96.9	K00766	anthranilate phosphoribosyltransferase [EC:2.4.2.18]	trpD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig141_1	79.1	K14647	minor extracellular serine protease Vpr [EC:3.4.21.-]	peptidase, S8/S53 family (EC:3.4.21.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig141_2	95.5	K01610	phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]	pckA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig142_1	98.0	K11130	H/ACA ribonucleoprotein complex subunit 3	RNA-binding protein Nop10p
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig142_2	80.6	K07151	dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.99.18]	dolichyl-diphosphooligosaccharide--protein glycotransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig142_3	85.9	K06910	uncharacterized protein	PEBP family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig142_3	87.2	K06910	uncharacterized protein	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig143_1	99.5	K01915	glutamine synthetase [EC:6.3.1.2]	type I glutamine synthetase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig143_2	97.6	K01915	glutamine synthetase [EC:6.3.1.2]	type I glutamine synthetase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig144_1	95.1	K03924	MoxR-like ATPase [EC:3.6.3.-]	ATPase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig146_1	94.0	K00368	nitrite reductase (NO-forming) [EC:1.7.2.1]	multicopper oxidase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig146_2	87.8	K01744	aspartate ammonia-lyase [EC:4.3.1.1]	fumarase C C-terminal domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig146_3	32.9	K06168	tRNA-2-methylthio-N6-dimethylallyladenosine synthase [EC:2.8.4.3]	2-Methylthioadenine synthetase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig147_1	85.1	K11130	H/ACA ribonucleoprotein complex subunit 3	RNA-binding protein Nop10p
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig147_1	91.5	K11130	H/ACA ribonucleoprotein complex subunit 3	RNA-binding protein Nop10p
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig147_2	67.0	K07151	dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.99.18]	Oligosaccharyl transferase STT3 subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig147_2	64.6	K07151	dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.99.18]	dolichyl-diphosphooligosaccharide--protein glycotransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig147_3	79.1	K06910	uncharacterized protein	PEBP family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig147_3	78.4	K06910	uncharacterized protein	PEBP family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig148_1	52.5	K00050	hydroxypyruvate reductase [EC:1.1.1.81]	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig148_3	87.9	K18602	malonic semialdehyde reductase [EC:1.1.1.-]	iron-containing alcohol dehydrogenase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig148_3	86.6	K18602	malonic semialdehyde reductase [EC:1.1.1.-]	iron-containing alcohol dehydrogenase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig148_4	96.2	K14728	phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase [EC:1.2.-.-]	luciferase-like monooxygenase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig149_1	34.7	K00344	NADPH2:quinone reductase [EC:1.6.5.5]	qor1
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig149_2	92.6	K01644	citrate lyase subunit beta / citryl-CoA lyase [EC:4.1.3.34]	HpcH/HpaI aldolase/citrate lyase family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig149_3	96.4	K00793	riboflavin synthase [EC:2.5.1.9]	ribE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig149_4	89.4	K02858	3,4-dihydroxy 2-butanone 4-phosphate synthase [EC:4.1.99.12]	ribB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig150_3	30.3	K07025	putative hydrolase of the HAD superfamily	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig150_5	49.2	K01247	DNA-3-methyladenine glycosylase II [EC:3.2.2.21]	DNA-3-methyladenine glycosylase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig152_2	71.7	K02031	peptide/nickel transport system ATP-binding protein	oligopeptide/dipeptide ABC transporter ATPase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig152_3	94.2	K01876	aspartyl-tRNA synthetase [EC:6.1.1.12]	aspS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig153_2	85.2	K06876	deoxyribodipyrimidine photolyase-related protein	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig153_3	68.9	K06876	deoxyribodipyrimidine photolyase-related protein	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig154_1	84.9	K03561	biopolymer transport protein ExbB	PF10102 domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig154_2	89.8	K00762	orotate phosphoribosyltransferase [EC:2.4.2.10]	pyrE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig154_3	94.8	K06137	pyrroloquinoline-quinone synthase [EC:1.3.3.11]	TENA/THI-4 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig154_4	97.7	K02523	octaprenyl-diphosphate synthase [EC:2.5.1.90]	polyprenyl synthetase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig155_1	88.9	K01814	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]	putative 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig155_2	93.6	K02500	cyclase [EC:4.1.3.-]	hisF
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig155_4	95.3	K01733	threonine synthase [EC:4.2.3.1]	thrC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig157_1	90.7	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	glycosyl transferase family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig159_1	39.6	K03809	NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	wrbA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig159_3	90.0	K07463	archaea-specific RecJ-like exonuclease	DHHA1 domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig159_5	92.4	K01647	citrate synthase [EC:2.3.3.1]	2-methylcitrate synthase/citrate synthase II
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig160_1	97.4	K03686	molecular chaperone DnaJ	chaperone protein DnaJ
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig160_1	96.6	K03686	molecular chaperone DnaJ	chaperone protein DnaJ
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig160_2	95.5	K05967	uncharacterized protein	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig160_4	95.8	K03330	glutamyl-tRNA(Gln) amidotransferase subunit E [EC:6.3.5.7]	glutamyl-tRNA(Gln) amidotransferase subunit E
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig161_4	67.9	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	glycosyl transferase family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig161_5	61.3	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	Glycosyl transferase family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig161_5	61.2	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	glycosyl transferase family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig162_1	83.3	K03564	peroxiredoxin Q/BCP [EC:1.11.1.15]	SCO1/SenC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig162_2	89.2	K06188	aquaporin Z	MIP family channel protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig162_3	86.9	K06188	aquaporin Z	MIP family channel protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig162_4	92.6	K03517	quinolinate synthase [EC:2.5.1.72]	nadA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig162_5	87.3	K00767	nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	nadC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig163_3	91.5	K03709	DtxR family transcriptional regulator, Mn-dependent transcriptional regulator	iron dependent repressor, metal binding/dimerization domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig163_5	98.5	K06937	7,8-dihydro-6-hydroxymethylpterin dimethyltransferase [EC:2.1.1.-]	radical SAM domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig164_1	90.9	K07178	RIO kinase 1 [EC:2.7.11.1]	RIO1 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig164_2	99.0	K03236	translation initiation factor 1A	putative translation initiation factor eIF-1A
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig164_3	84.7	K09148	uncharacterized protein	PF04242 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig164_4	93.5	K03238	translation initiation factor 2 subunit 2	putative translation initiation factor aIF-2, beta subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig165_1	88.1	K00809	deoxyhypusine synthase [EC:2.5.1.46]	deoxyhypusine synthase (EC:2.5.1.46)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig165_5	54.5	K02975	small subunit ribosomal protein S25e	30S ribosomal protein S25e
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig165_6	86.5	K09143	uncharacterized protein	cyclophilin-like domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig165_7	86.7	K03014	DNA-directed RNA polymerases I, II, and III subunit RPABC2	RNA polymerase Rpb6
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig166_1	100	K03014	DNA-directed RNA polymerases I, II, and III subunit RPABC2	RNA polymerase Rpb6
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig166_2	75.8	K03622	archaea-specific DNA-binding protein	putative DNA-binding protein Alba
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig166_3	86.2	K07108	uncharacterized protein	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig166_3	88.4	K07108	uncharacterized protein	DNA-binding helix-turn-helix protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig166_3	85.5	K07108	uncharacterized protein	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig166_3	85.5	K07108	uncharacterized protein	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig166_4	70.9	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	asparagine synthase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig167_1	86.9	K01890	phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	pheT
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig167_2	92.3	K01889	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	pheS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig167_3	94.5	K01867	tryptophanyl-tRNA synthetase [EC:6.1.1.2]	trpS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig168_4	53.3	K03574	8-oxo-dGTP diphosphatase [EC:3.6.1.55]	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig169_1	96.3	K00615	transketolase [EC:2.2.1.1]	putative ribulose-phosphate 3-epimerase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig169_3	87.4	K01255	leucyl aminopeptidase [EC:3.4.11.1]	cytosol aminopeptidase family, catalytic domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig170_4	55.0	K10725	archaeal cell division control protein 6	ORC1-type DNA replication protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig173_1	92.9	K01873	valyl-tRNA synthetase [EC:6.1.1.9]	valS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig174_3	46.3	K01737	6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]	6-pyruvoyl tetrahydrobiopterin synthase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig175_5	36.5	K03182	4-hydroxy-3-polyprenylbenzoate decarboxylase [EC:4.1.1.98]	3-octaprenyl-4-hydroxybenzoate carboxy-lyase (EC:4.1.1.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig176_2	90.4	K02924	large subunit ribosomal protein L39e	ribosomal L39 protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig176_3	72.1	K00548	5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	methionine synthase (EC:2.1.1.13)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig176_3	71.9	K00548	5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	methionine synthase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig176_3	71.7	K00548	5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	methionine synthase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig176_3	71.3	K00548	5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	metH
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig178_2	42.0	K03657	DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	ATP-dependent DNA helicase (EC:3.6.1.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig178_2	40.9	K03657	DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	DNA helicase II
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig179_2	96.9	K06072	deoxyhypusine monooxygenase [EC:1.14.99.29]	HEAT repeat protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig179_3	78.4	K03546	exonuclease SbcC	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig180_4	95.4	K06878	tRNA-binding protein	putative methionine--tRNA ligase, beta subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig180_5	96.7	K03120	transcription initiation factor TFIID TATA-box-binding protein	2-alkenal reductase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig180_5	96.7	K03120	transcription initiation factor TFIID TATA-box-binding protein	2-alkenal reductase (EC:1.3.1.74)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig180_5	96.7	K03120	transcription initiation factor TFIID TATA-box-binding protein	tbp
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig180_5	96.7	K03120	transcription initiation factor TFIID TATA-box-binding protein	2-alkenal reductase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig181_1	79.2	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	glycosyl transferase family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig181_1	77.9	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	glycosyl transferase family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig182_1	96.5	K09482	glutamyl-tRNA(Gln) amidotransferase subunit D [EC:6.3.5.7]	glutamyl-tRNA(Gln) amidotransferase subunit D
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig182_2	97.3	K03330	glutamyl-tRNA(Gln) amidotransferase subunit E [EC:6.3.5.7]	glutamyl-tRNA(Gln) amidotransferase subunit E
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig183_1	91.0	K07463	archaea-specific RecJ-like exonuclease	DHHA1 domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig183_2	94.0	K02956	small subunit ribosomal protein S15	rpsO
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig184_2	85.4	K00390	phosphoadenosine phosphosulfate reductase [EC:1.8.4.8]	adenylylsulfate reductase, thioredoxin dependent (EC:1.8.4.10)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig184_3	93.3	K00958	sulfate adenylyltransferase [EC:2.7.7.4]	sat
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig185_4	88.1	K04748	nitric oxide reductase NorQ protein	ATPase, AAA family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig187_1	78.6	K02992	small subunit ribosomal protein S7	rpsG
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig187_2	95.9	K02950	small subunit ribosomal protein S12	ribosomal protein S23 (S12)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig187_3	97.4	K02600	N utilization substance protein A	KH domain protein, NusA family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig187_4	92.3	K02908	large subunit ribosomal protein L30e	ribosomal protein L7Ae
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig187_6	97.8	K06174	ATP-binding cassette, sub-family E, member 1	putative metal-binding domain in RNase L inhibitor, RLI
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig188_3	35.6	K10046	GDP-D-mannose 3', 5'-epimerase [EC:5.1.3.18 5.1.3.-]	dTDP-glucose 4,6-dehydratase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig189_1	89.9	K02500	cyclase [EC:4.1.3.-]	Imidazole glycerol phosphate synthase cyclase subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig189_2	87.0	K01496	phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19]	phosphoribosyl-AMP cyclohydrolase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig189_4	95.8	K01733	threonine synthase [EC:4.2.3.1]	threonine synthase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig189_4	94.3	K01733	threonine synthase [EC:4.2.3.1]	Threonine synthase (EC:4.2.3.1)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig189_4	95.0	K01733	threonine synthase [EC:4.2.3.1]	threonine synthase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig190_2	33.9	K03179	4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]	putative UbiA prenyltransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig190_3	31.2	K10709	protein FrlC	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig190_4	48.7	K07051	uncharacterized protein	TatD family hydrolase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig191_1	76.3	K07581	RNA-binding protein	RNA-binding protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig191_2	94.3	K02984	small subunit ribosomal protein S3Ae	ribosomal S3Ae family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig191_3	89.1	K01875	seryl-tRNA synthetase [EC:6.1.1.11]	serS
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig192_1	95.5	K08321	putative autoinducer-2 (AI-2) aldolase [EC:4.1.2.-]	autoinducer 2 aldolase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig192_3	98.8	K01652	acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	ilvB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig193_3	88.1	K02503	histidine triad (HIT) family protein	scavenger mRNA decapping enzyme
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig194_2	80.0	K00299	FMN reductase [EC:1.5.1.38]	flavin reductase (EC:1.7.-.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig194_3	88.0	K04719	5,6-dimethylbenzimidazole synthase [EC:1.13.11.79]	bluB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig195_1	65.6	K06864	uncharacterized protein	TIGR00268 family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig196_1	33.1	K00344	NADPH2:quinone reductase [EC:1.6.5.5]	qor1
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig196_3	97.4	K02301	protoheme IX farnesyltransferase [EC:2.5.1.-]	cyoE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig196_4	95.3	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	putative HTH-type transcriptional regulator LrpA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig197_1	79.0	K00812	aspartate aminotransferase [EC:2.6.1.1]	chorismate mutase (EC:5.4.99.5)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig197_2	98.2	K04517	prephenate dehydrogenase [EC:1.3.1.12]	prephenate dehydrogenase (EC:1.3.1.12)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig197_4	96.4	K03147	phosphomethylpyrimidine synthase [EC:4.1.99.17]	thiC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig198_1	91.5	K11996	adenylyltransferase and sulfurtransferase	Bacteriocin biosynthesis cyclodehydratase, SagC family (EC:6.3.-.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig198_2	95.5	K01733	threonine synthase [EC:4.2.3.1]	threonine synthase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig198_2	94.3	K01733	threonine synthase [EC:4.2.3.1]	threonine synthase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig200_1	96.2	K09482	glutamyl-tRNA(Gln) amidotransferase subunit D [EC:6.3.5.7]	glutamyl-tRNA(Gln) amidotransferase subunit D
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig200_2	88.7	K14952	UDP-MurNAc hydroxylase	Zn-dependent hydrolase of the beta-lactamase fold-like protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig202_1	99.4	K05936	precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271]	precorrin-4 C(11)-methyltransferase (EC:2.1.1.133)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig202_2	100	K03394	precorrin-2/cobalt-factor-2 C20-methyltransferase [EC:2.1.1.130 2.1.1.151]	precorrin-2 C(20)-methyltransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig202_3	93.9	K02191	cobalt-precorrin-6B (C15)-methyltransferase [EC:2.1.1.196]	precorrin-6y C5,15-methyltransferase subunit CbiT
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig203_2	94.9	K01495	GTP cyclohydrolase I [EC:3.5.4.16]	folE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig203_4	96.4	K06920	7-cyano-7-deazaguanine synthase [EC:6.3.4.20]	queuosine biosynthesis protein QueC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig203_5	89.7	K00872	homoserine kinase [EC:2.7.1.39]	thrB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig204_1	93.1	K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	leuC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig204_2	93.1	K01704	3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	putative 3-isopropylmalate dehydratase, small subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig204_3	98.1	K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	homoaconitate hydratase family protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig205_1	46.9	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	GalE family epimerase/dehydratase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig206_2	93.2	K03041	DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]	DNA-directed RNA polymerase subunit A' / DNA-directed RNA polymerase, subunit A'' multi-domain protein (EC:2.7.7.6)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig207_1	93.3	K02683	DNA primase small subunit [EC:2.7.7.-]	DNA primase small subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig207_2	95.9	K09118	uncharacterized protein	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig208_1	91.9	K03147	phosphomethylpyrimidine synthase [EC:4.1.99.17]	thiC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig208_2	73.6	K00941	hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7]	thiD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig208_3	69.2	K00941	hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7]	thiD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig208_4	76.4	K00966	mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	Nucleotidyl transferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig209_1	83.6	K00666	fatty-acyl-CoA synthase [EC:6.2.1.-]	fadD
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig209_2	25.2	K00433	non-heme chloroperoxidase [EC:1.11.1.10]	alpha/beta hydrolase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig209_3	76.8	K17486	dimethylsulfoniopropionate demethylase [EC:2.1.1.269]	dmdA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig210_1	97.0	K03789	ribosomal-protein-alanine N-acetyltransferase [EC:2.3.1.128]	rimI
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig210_3	93.5	K15429	tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]	ribosomal protein L11 methyltransferase-like protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig210_4	99.1	K06174	ATP-binding cassette, sub-family E, member 1	putative metal-binding domain in RNase L inhibitor, RLI
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig211_1	88.5	K01956	carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	carbamoyl-phosphate synthase small subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig211_1	88.0	K01956	carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	carbamoyl-phosphate synthase small subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig211_2	98.1	K01955	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	carB
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig212_1	95.8	K03182	4-hydroxy-3-polyprenylbenzoate decarboxylase [EC:4.1.1.98]	menaquinone biosynthesis decarboxylase, TIGR03701 family
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig212_2	62.3	K11784	cyclic dehypoxanthinyl futalosine synthase [EC:1.21.98.1]	cofH2
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig212_3	94.7	K16306	fructose-bisphosphate aldolase / 2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase [EC:4.1.2.13 2.2.1.10]	3-deoxy-7-phosphoheptulonate synthase (EC:4.2.1.-)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig213_1	42.7	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	glucose dehydrogenase [pyrroloquinoline-quinone] (EC:1.1.5.2)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig213_3	38.4	K17081	prohibitin 2	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig214_1	36.8	K07101	uncharacterized protein	phosphoribosyltransferase
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig214_2	53.6	K00364	GMP reductase [EC:1.7.1.7]	guanosine 5'-monophosphate oxidoreductase (EC:1.7.1.7)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig214_2	53.7	K00364	GMP reductase [EC:1.7.1.7]	guaC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig214_2	53.7	K00364	GMP reductase [EC:1.7.1.7]	guanosine 5'-monophosphate oxidoreductase (EC:1.7.1.7)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig214_2	53.7	K00364	GMP reductase [EC:1.7.1.7]	guanosine 5'-monophosphate oxidoreductase (EC:1.7.1.7)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig214_2	53.7	K00364	GMP reductase [EC:1.7.1.7]	guanosine monophosphate reductase, putative (EC:1.7.1.7)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig214_2	53.7	K00364	GMP reductase [EC:1.7.1.7]	guaC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig214_2	53.7	K00364	GMP reductase [EC:1.7.1.7]	GMP reductase (EC:1.7.1.7)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig214_2	53.7	K00364	GMP reductase [EC:1.7.1.7]	guanosine 5'-monophosphate oxidoreductase (EC:1.7.1.7)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig214_2	54.0	K00364	GMP reductase [EC:1.7.1.7]	GMP reductase 2
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig214_4	56.8	K01495	GTP cyclohydrolase I [EC:3.5.4.16]	folE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig214_4	56.8	K01495	GTP cyclohydrolase I [EC:3.5.4.16]	folE
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig215_2	86.9	K03531	cell division protein FtsZ	tubulin/FtsZ family, GTPase domain protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig215_3	40.8	K15865	threonylcarbamoyladenosine tRNA methylthiotransferase CDKAL1 [EC:2.8.4.5]	hypothetical protein
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig216_1	78.4	K04720	threonine-phosphate decarboxylase [EC:4.1.1.81]	hisC
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig216_2	92.4	K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	asd
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig216_3	94.7	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	putative HTH-type transcriptional regulator LrpA
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig217_3	87.7	K02877	large subunit ribosomal protein L15e	50S ribosomal protein L15e
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig218_1	42.6	K03601	exodeoxyribonuclease VII large subunit [EC:3.1.11.6]	exonuclease VII large subunit
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig218_2	40.8	K01485	cytosine deaminase [EC:3.5.4.1]	cytosine deaminase (EC:3.5.4.1)
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig218_3	51.6	K07010	putative glutamine amidotransferase	putative glutamine amidotransferase (EC:3.5.1.94)

@@ -1,0 +1,43 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.338337
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/SMM_01_renamed/SMM_01_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+SMM_01-contig110_1       4    125      1    126 PF00687.22  Ribosomal_L1      Domain    84   203   204     91.8   1.4e-26   1 No_clan  
+SMM_01-contig110_2       7    107      6    109 PF00466.21  Ribosomal_L10     Family     2    97   100     62.4     1e-17   1 No_clan  
+SMM_01-contig1232_1      4     73      4     78 PF01280.21  Ribosomal_L19e    Family     1    70   144     69.9   6.8e-20   1 No_clan  
+SMM_01-contig1511_3      3     79      3     80 PF01090.20  Ribosomal_S19e    Family     1    78   137     96.3   3.6e-28   1 CL0123   
+SMM_01-contig2218_1      5    132      5    132 PF00410.20  Ribosomal_S8      Domain     1   126   126    166.2     9e-50   1 No_clan  
+SMM_01-contig2342_3      1    109      1    112 PF00827.18  Ribosomal_L15e    Family    37   145   189    136.2   3.3e-40   1 CL0652   
+SMM_01-contig2467_1      3    177      2    177 PF04919.13  DUF655            Family     2   181   181    212.6   1.3e-63   1 CL0198   
+SMM_01-contig2638_3      8    129      8    129 PF00380.20  Ribosomal_S9      Family     1   121   121    139.2   2.8e-41   1 CL0329   
+SMM_01-contig525_1      99    169     96    169 PF00900.21  Ribosomal_S4e     Family     4    75    75     64.3   2.1e-18   1 CL0021   
+SMM_01-contig78_1        4    108      3    108 PF01015.19  Ribosomal_S3Ae    Family     2   107   195    120.1   2.5e-35   1 No_clan  
+SMM_01-contig890_2     104    214    102    214 PF07541.13  EIF_2_alpha       Family     3   114   114     75.7   9.2e-22   1 No_clan  

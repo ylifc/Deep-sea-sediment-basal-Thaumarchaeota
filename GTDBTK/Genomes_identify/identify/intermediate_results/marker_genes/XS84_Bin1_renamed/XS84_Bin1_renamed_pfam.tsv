@@ -1,0 +1,47 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:51.890594
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/XS84_Bin1_renamed/XS84_Bin1_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+XS84_Bin1_contig110_1       6    130      5    130 PF00410.20  Ribosomal_S8      Domain     2   126   126     78.8   2.7e-23   1 No_clan  
+XS84_Bin1_contig110_4       1    134      1    136 PF01280.21  Ribosomal_L19e    Family     8   142   144    124.9     2e-37   1 No_clan  
+XS84_Bin1_contig126_8      11    185     10    186 PF04919.13  DUF655            Family     2   180   181    171.9   1.1e-51   1 CL0198   
+XS84_Bin1_contig145_21     38    164     18    168 PF01025.20  GrpE              Family     6   133   166     93.3   1.1e-27   1 No_clan  
+XS84_Bin1_contig147_2      11    145     11    147 PF01090.20  Ribosomal_S19e    Family     1   135   137    163.2   2.2e-49   1 CL0123   
+XS84_Bin1_contig14_1        1     61      1     62 PF01025.20  GrpE              Family   105   165   166     73.5   1.2e-21   1 No_clan  
+XS84_Bin1_contig167_2       9    104      7    106 PF00466.21  Ribosomal_L10     Family     3    97   100     68.7     3e-20   1 No_clan  
+XS84_Bin1_contig167_3      19    209     10    209 PF00687.22  Ribosomal_L1      Domain     5   204   204    121.6   2.9e-36   1 No_clan  
+XS84_Bin1_contig23_3       97    171     96    171 PF00900.21  Ribosomal_S4e     Family     2    75    75     58.2   4.5e-17   1 CL0021   
+XS84_Bin1_contig31_1      116    222    113    224 PF07541.13  EIF_2_alpha       Family     4   112   114     58.4   5.7e-17   1 No_clan  
+XS84_Bin1_contig5_1        19    138      2    142 PF00827.18  Ribosomal_L15e    Family    22   141   189    161.7   1.3e-48   1 CL0652   
+XS84_Bin1_contig5_3         7    195      5    196 PF01015.19  Ribosomal_S3Ae    Family     3   194   195    188.0   1.1e-56   1 No_clan  
+XS84_Bin1_contig75_4        8     70      7     70 PF01200.19  Ribosomal_S28e    Family     2    64    64    106.3   4.6e-32   1 CL0021   
+XS84_Bin1_contig84_6       28    140     28    140 PF01000.27  RNA_pol_A_bac     Domain     1   112   112     97.3   5.7e-29   1 No_clan  
+XS84_Bin1_contig84_9       17    141     17    141 PF00380.20  Ribosomal_S9      Family     1   121   121     97.9   4.5e-29   1 CL0329   

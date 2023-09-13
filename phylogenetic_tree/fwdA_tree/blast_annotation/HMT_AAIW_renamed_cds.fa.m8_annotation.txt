@@ -1,0 +1,7 @@
+HMT_AAIW_contig9_6	1.79e-90	GIU91197.1	MAG: tungsten formylmethanofuran dehydrogenase subunit E [Acidimicrobiia bacterium]
+HMT_AAIW_contig21_4	1.70e-112	GGN95214.1	tungsten formylmethanofuran dehydrogenase subunit E [Halomicroarcula pellucida]
+HMT_AAIW_contig26_4	1.20e-36	WP_104688556.1	SDR family oxidoreductase [Limosilactobacillus pontis]
+HMT_AAIW_contig26_4	1.60e-36	WP_094906781.1	SDR family oxidoreductase [Salinicoccus roseus]
+HMT_AAIW_contig26_4	1.75e-36	WP_135055713.1	glucose 1-dehydrogenase [Carnobacterium maltaromaticum]
+HMT_AAIW_contig26_4	2.46e-36	WP_119906513.1	glucose 1-dehydrogenase [Carnobacterium maltaromaticum]
+HMT_AAIW_contig41_5	3.77e-98	MBX6342053.1	tungsten formylmethanofuran dehydrogenase [Thermomicrobiaceae bacterium]

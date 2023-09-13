@@ -1,0 +1,45 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.246823
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Archaeoglobus_veneficus_SNP6_renamed/Archaeoglobus_veneficus_SNP6_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Archaeoglobus_veneficus_SNP6-contig1_1036    133    240    131    240 PF07541.13  EIF_2_alpha       Family     3   114   114     91.4   4.7e-27   1 No_clan  
+Archaeoglobus_veneficus_SNP6-contig1_1049      3    188      3    188 PF00827.18  Ribosomal_L15e    Family     1   189   189    284.2   5.2e-86   1 CL0652   
+Archaeoglobus_veneficus_SNP6-contig1_1595      8    132      8    132 PF00380.20  Ribosomal_S9      Family     1   121   121    114.7   4.3e-34   1 CL0329   
+Archaeoglobus_veneficus_SNP6-contig1_1763      3    137      3    138 PF01090.20  Ribosomal_S19e    Family     1   136   137    206.0   1.8e-62   1 CL0123   
+Archaeoglobus_veneficus_SNP6-contig1_365      44    152     44    152 PF01000.27  RNA_pol_A_bac     Domain     1   112   112     96.9   1.1e-28   1 No_clan  
+Archaeoglobus_veneficus_SNP6-contig1_386      12    191     12    192 PF04919.13  DUF655            Family     1   180   181    256.1   2.3e-77   1 CL0198   
+Archaeoglobus_veneficus_SNP6-contig1_456       5     68      5     68 PF01200.19  Ribosomal_S28e    Family     1    64    64    111.1   2.1e-33   1 CL0021   
+Archaeoglobus_veneficus_SNP6-contig1_789       6    197      5    197 PF01015.19  Ribosomal_S3Ae    Family     2   195   195    247.7   7.8e-75   1 No_clan  
+Archaeoglobus_veneficus_SNP6-contig1_947      21    209     10    209 PF00687.22  Ribosomal_L1      Domain     6   204   204    156.8   7.1e-47   1 No_clan  
+Archaeoglobus_veneficus_SNP6-contig1_948       9    104      7    106 PF00466.21  Ribosomal_L10     Family     3    98   100     78.2   4.8e-23   1 No_clan  
+Archaeoglobus_veneficus_SNP6-contig1_972       2    144      2    145 PF01280.21  Ribosomal_L19e    Family     1   143   144    201.4   7.5e-61   1 No_clan  
+Archaeoglobus_veneficus_SNP6-contig1_975       5    130      5    130 PF00410.20  Ribosomal_S8      Domain     1   126   126     95.7   2.3e-28   1 No_clan  
+Archaeoglobus_veneficus_SNP6-contig1_978      89    159     88    159 PF00900.21  Ribosomal_S4e     Family     2    75    75     79.6   1.4e-23   1 CL0021   

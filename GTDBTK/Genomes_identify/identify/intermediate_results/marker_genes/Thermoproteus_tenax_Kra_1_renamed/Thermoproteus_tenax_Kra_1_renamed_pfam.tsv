@@ -1,0 +1,46 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.190965
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Thermoproteus_tenax_Kra_1_renamed/Thermoproteus_tenax_Kra_1_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Thermoproteus_tenax_Kra_1-contig1_1468     97    133     91    134 PF00827.18  Ribosomal_L15e    Family   152   188   189     22.8   7.2e-06   1 CL0652   
+Thermoproteus_tenax_Kra_1-contig1_1652     28    152     28    152 PF00380.20  Ribosomal_S9      Family     1   121   121    111.8   3.3e-33   1 CL0329   
+Thermoproteus_tenax_Kra_1-contig1_1655     45    155     45    155 PF01000.27  RNA_pol_A_bac     Domain     1   112   112     92.5   2.4e-27   1 No_clan  
+Thermoproteus_tenax_Kra_1-contig1_1784     19    116     17    117 PF00466.21  Ribosomal_L10     Family     3    99   100     67.5   9.9e-20   1 No_clan  
+Thermoproteus_tenax_Kra_1-contig1_1785     25    212     18    212 PF00687.22  Ribosomal_L1      Domain     6   204   204    124.2   6.5e-37   1 No_clan  
+Thermoproteus_tenax_Kra_1-contig1_1797      5    130      5    130 PF00410.20  Ribosomal_S8      Domain     1   126   126     81.7   4.9e-24   1 No_clan  
+Thermoproteus_tenax_Kra_1-contig1_1802      4    139      1    140 PF01280.21  Ribosomal_L19e    Family     5   143   144    153.6     4e-46   1 No_clan  
+Thermoproteus_tenax_Kra_1-contig1_1973     11     74     11     74 PF01200.19  Ribosomal_S28e    Family     1    64    64    106.4   5.9e-32   1 CL0021   
+Thermoproteus_tenax_Kra_1-contig1_2051      5    186      4    187 PF04919.13  DUF655            Family     2   180   181    185.1   1.3e-55   1 CL0198   
+Thermoproteus_tenax_Kra_1-contig1_2070     91    168     91    168 PF00900.21  Ribosomal_S4e     Family     1    75    75     71.0   6.7e-21   1 CL0021   
+Thermoproteus_tenax_Kra_1-contig1_515     123    228    120    232 PF07541.13  EIF_2_alpha       Family     5   109   114     70.1   1.8e-20   1 No_clan  
+Thermoproteus_tenax_Kra_1-contig1_575       3    140      3    141 PF01090.20  Ribosomal_S19e    Family     1   136   137    168.2   8.7e-51   1 CL0123   
+Thermoproteus_tenax_Kra_1-contig1_703      16    202     12    202 PF01015.19  Ribosomal_S3Ae    Family     5   195   195    197.0   2.6e-59   1 No_clan  
+Thermoproteus_tenax_Kra_1-contig1_919       4    164      4    180 PF00827.18  Ribosomal_L15e    Family     1   160   189    193.0   4.5e-58   1 CL0652   

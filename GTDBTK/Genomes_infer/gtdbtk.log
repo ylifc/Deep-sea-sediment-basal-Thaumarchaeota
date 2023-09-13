@@ -1,0 +1,7 @@
+[2023-07-11 23:47:49] INFO: GTDB-Tk v1.0.2
+[2023-07-11 23:47:49] INFO: gtdbtk infer --msa_file ./renamed_align/gtdbtk.ar122.user_msa.fasta --out_dir renamed_infer --cpus 200 --prot_model WAG
+[2023-07-11 23:47:49] INFO: Using GTDB-Tk reference data version r214: /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/
+[2023-07-11 23:47:49] INFO: Inferring FastTree (WAG, +gamma, support) using a maximum of 200 CPUs.
+[2023-07-11 23:47:49] INFO: FastTree version: 2.1.11
+[2023-07-11 23:50:13] INFO: FastTree version: 2.1.11
+[2023-07-11 23:50:13] INFO: Done.

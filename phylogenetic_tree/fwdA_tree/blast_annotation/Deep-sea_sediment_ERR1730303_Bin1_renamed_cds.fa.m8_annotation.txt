@@ -1,0 +1,7 @@
+Deep-sea_sediment_ERR1730303_Bin1_contig91_3	5.25e-111	GGN95214.1	tungsten formylmethanofuran dehydrogenase subunit E [Halomicroarcula pellucida]
+Deep-sea_sediment_ERR1730303_Bin1_contig91_3	3.77e-110	TME16620.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Deep-sea_sediment_ERR1730303_Bin1_contig91_3	3.58e-110	TMD52845.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Deep-sea_sediment_ERR1730303_Bin1_contig91_3	3.77e-110	TME16247.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Deep-sea_sediment_ERR1730303_Bin1_contig129_3	2.87e-103	WP_294083239.1	citrate/2-methylcitrate synthase [Sphaerobacter sp.]
+Deep-sea_sediment_ERR1730303_Bin1_contig129_3	1.85e-102	MBX6342053.1	tungsten formylmethanofuran dehydrogenase [Thermomicrobiaceae bacterium]
+Deep-sea_sediment_ERR1730303_Bin1_contig129_3	1.31e-102	MBF6614822.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]

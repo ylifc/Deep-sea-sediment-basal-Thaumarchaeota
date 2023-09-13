@@ -1,0 +1,1470 @@
+IQ-TREE multicore version 2.2.2.7 COVID-edition for Linux 64-bit built Jun  7 2023
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    ylifc (AVX2, FMA3, 1007 GB RAM)
+Command: iqtree2 -s reformated_merged.fa -B 1000 --threads-max 250 --seqtype AA -m MFP+MERGE -p cfg.txt -T AUTO
+Seed:    47402 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sat Jul 15 03:36:20 2023
+Kernel:  AVX+FMA - auto-detect threads (256 CPU cores detected)
+
+Reading partition model file cfg.txt ...
+Reading alignment file reformated_merged.fa ... Fasta format detected
+Reading fasta file: done in 0.385527 secs using 95.91% CPU
+Alignment most likely contains DNA/RNA sequences
+WARNING: Your specified sequence type is different from the detected one
+Constructing alignment: done in 0.662482 secs using 229.8% CPU
+Alignment has 156 sequences with 96938 columns, 96586 distinct patterns
+93342 parsimony-informative, 2261 singleton sites, 1335 constant sites
+                                                      Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.0845814 secs using 3790% CPU
+   1  AAA007-N19                                             59.93%    failed      0.00%
+   2  AAA288-D22                                             80.98%    failed      0.00%
+   3  AAA799-O18                                             73.97%    failed      0.00%
+   4  Acidianus_hospitalis_W1                                 1.26%    failed      0.00%
+   5  Aciduliprofundum_boonei_T469                            1.24%    failed      0.00%
+   6  Aigarchaeota_archaeon_JGI_0000106_J15                  54.57%    failed      0.00%
+   7  Aigarchaeota_archaeon_JGI_MDM2_JNZ_1_K18               15.81%    failed      0.00%
+   8  Aigarchaeota_archaeon_NZ13_MG1                          0.71%    failed      0.00%
+   9  Aigarchaeota_archaeon_strain_OS1                       45.72%    failed      0.00%
+  10  Archaeoglobus_veneficus_SNP6                           27.40%    failed      0.00%
+  11  Caldivirga_maquilingensis_IC_167                        4.33%    failed      0.00%
+  12  Candidatus_Caldiarchaeum_subterraneum                   5.31%    failed      0.00%
+  13  Candidatus_Korarchaeum_cryptofilum_OPF8                 8.70%    failed      0.00%
+  14  Candidatus_Nitrosocaldus_cavascurensis_strain           3.70%    failed      0.00%
+  15  Candidatus_Nitrosocaldus_islandicus_isolate_3F          3.70%    failed      0.00%
+  16  Candidatus_Nitrosocosmicus_franklandus_C13              0.15%    failed      0.00%
+  17  Candidatus_Nitrosopelagicus_sp_Isolate_GoM             34.44%    failed      0.00%
+  18  Candidatus_Nitrosopumilus_sp_MTA1                       1.33%    failed      0.00%
+  19  D111_44_reformat                                        0.17%    failed      0.00%
+  20  D111_58_reformat                                        1.07%    failed      0.00%
+  21  D125_37_reformat                                        2.24%    failed      0.00%
+  22  D125_54_reformat                                       19.74%    failed      0.00%
+  23  D155_102_reformat                                       6.80%    failed      0.00%
+  24  D155_85_reformat                                       29.71%    failed      0.00%
+  25  D175_134_reformat                                      59.58%    failed      0.00%
+  26  D175_87_reformat                                       43.03%    failed      0.01%
+  27  D185_106_reformat                                      56.12%    failed      0.00%
+  28  D185_135_reformat                                      31.65%    failed      0.00%
+  29  D197_116                                                2.60%    failed      0.00%
+  30  D197_2                                                 59.39%    failed      0.00%
+  31  Deep-sea_sediment_DRR121209_Bin1                       49.76%    failed      0.00%
+  32  Deep-sea_sediment_DRR121219_Bin1                       46.11%    failed      0.00%
+  33  Deep-sea_sediment_ERR1730303_Bin1                      50.52%    failed      0.00%
+  34  EGM_Bin1                                                1.01%    failed      0.00%
+  35  EGM_Bin2                                               57.84%    failed      0.00%
+  36  Ferroplasma_acidarmanus_fer1                            4.15%    failed      0.00%
+  37  HM45_Bin1                                              27.74%    failed      0.00%
+  38  HM81_Bin2                                              39.22%    failed      0.00%
+  39  HM82_Bin1                                              17.78%    failed      0.00%
+  40  HM82_Bin2                                              28.74%    failed      0.00%
+  41  HMT_AABW                                               17.51%    failed      0.00%
+  42  HMT_AABW_S15_53                                        23.66%    failed      0.00%
+  43  HMT_AAIW                                               22.14%    failed      0.00%
+  44  HMT_ATL                                                 9.37%    failed      0.00%
+  45  HMT_NADW                                               41.07%    failed      0.00%
+  46  HMT_NADW_S23_34                                        24.36%    failed      0.00%
+  47  HMT_PAC                                                 6.41%    failed      0.00%
+  48  Haladaptatus_paucihalophilus_DX253                     32.74%    failed      0.00%
+  49  Halogeometricum_borinquense_DSM_11551                  30.68%    failed      0.00%
+  50  Halorhabdus_utahensis_DSM_12940                        39.42%    failed      0.00%
+  51  Halorubrum_lacusprofundi_ATCC_49239                    37.72%    failed      0.00%
+  52  Mariana_Trench_sediment_5533m_4-6cm_Bin1               46.11%    failed      0.00%
+  53  Marine_Group_1_crenarchaeote_sp_SCGC                   15.99%    failed      0.00%
+  54  Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02       49.03%    failed      0.00%
+  55  Metallosphaera_sedula_DSM_5348                          1.28%    failed      0.00%
+  56  Metallosphaera_yellowstonensis_MK1                      1.06%    failed      0.00%
+  57  Methanocella_arvoryzae_MRE50                           24.74%    failed      0.00%
+  58  Methanocorpusculum_labreanum_Z                         27.21%    failed      0.00%
+  59  Methanopyrus_kandleri_AV19                             43.40%    failed      0.00%
+  60  Methanosarcina_mazei_Go1                               28.31%    failed      0.00%
+  61  Methanothermus_fervidus_DSM_2088                       43.83%    failed      0.00%
+  62  Methanotorris_igneus_Kol_5                             29.41%    failed      0.00%
+  63  Natrialba_magadii_ATCC_43099                           32.74%    failed      0.00%
+  64  Natronomonas_pharaonis_DSM_2160                        32.78%    failed      0.00%
+  65  Nitrosarchaeum_koreense_MY1                             0.17%    failed      0.00%
+  66  Nitrosarchaeum_limnium_BG20                             2.26%    failed      0.00%
+  67  Nitrosarchaeum_limnium_SFB1                             2.26%    failed      0.00%
+  68  Nitrosoarchaeum-Baikal-G1-C1                            0.17%    failed      0.00%
+  69  Nitrosoarchaeum_sp_BD3                                  0.17%    failed      0.00%
+  70  Nitrosocosmicus_hydrocola_strain_G61                    0.15%    failed      0.00%
+  71  Nitrosocosmicus_oleophilus_strain_MY3                   0.15%    failed      0.00%
+  72  Nitrosomarinus_catalina_strain_SPOT01                   1.04%    failed      0.00%
+  73  Nitrosopelagicus_brevis_U25                             3.37%    failed      0.00%
+  74  Nitrosopelagicus_brevis_strain_CN25                     0.16%    failed      0.00%
+  75  Nitrosopelagicus_sp_REDSEA-S31_B2                      28.62%    failed      0.00%
+  76  Nitrosopumilales_archaeon_isolate_NPMR_NP_iota_1        0.31%    failed      0.00%
+  77  Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1       33.94%    failed      0.00%
+  78  Nitrosopumilales_archaeon_strain_NPMR_NP_delta_2       30.17%    failed      0.00%
+  79  Nitrosopumilales_archaeon_strain_NPMR_NP_delta_3       53.81%    failed      0.00%
+  80  Nitrosopumilales_archaeon_strain_NPMR_NP_theta_1        1.68%    failed      0.00%
+  81  Nitrosopumilales_archaeon_strain_NPMR_NP_theta_2        2.27%    failed      0.00%
+  82  Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3       61.06%    failed      0.00%
+  83  Nitrosopumilales_archaeon_strain_NPMR_NP_theta_4       23.64%    failed      0.00%
+  84  Nitrosopumilales_archaeon_strain_NPMR_NP_theta_5       56.80%    failed      0.00%
+  85  Nitrosopumilus_adriaticus_strain_NF5                    1.04%    failed      0.00%
+  86  Nitrosopumilus_koreensis_AR1                            3.12%    failed      0.00%
+  87  Nitrosopumilus_maritimus_SCM1                           1.04%    failed      0.00%
+  88  Nitrosopumilus_salaria_BD31                            32.11%    failed      0.00%
+  89  Nitrosopumilus_sp_D3C                                   1.04%    failed      0.00%
+  90  Nitrosopumilus_sp_DDS1                                  5.86%    failed      0.00%
+  91  Nitrosopumilus_sp_Nsub                                  1.04%    failed      0.00%
+  92  Nitrososphaera_evergladensis_SR1                        0.15%    failed      0.00%
+  93  Nitrososphaera_gargensis_Ga9                            3.38%    failed      0.00%
+  94  Nitrososphaera_viennensis_EN76                          0.16%    failed      0.00%
+  95  Nitrosotalea_bavarica_SbT1                              0.30%    failed      0.00%
+  96  Nitrosotalea_devanaterra_Nd1                            0.30%    failed      0.00%
+  97  Nitrosotalea_koreensis_CS                               0.17%    failed      0.00%
+  98  Nitrosotalea_sinensis_Nd2                               0.17%    failed      0.00%
+  99  Nitrosotenuis_aquarius_strain_AQ6F                      0.17%    failed      0.00%
+ 100  Nitrosotenuis_chungbukensis_MY2                         0.17%    failed      0.00%
+ 101  Nitrosotenuis_cloacae_strain_SAT1                       0.17%    failed      0.00%
+ 102  Picrophilus_torridus_DSM_9790                           3.36%    failed      0.00%
+ 103  Pyrobaculum_aerophilum_str_IM2                          4.38%    failed      0.00%
+ 104  Pyrobaculum_arsenaticum_DSM_13514                       4.38%    failed      0.00%
+ 105  Pyrobaculum_calidifontis_JCM_11548__crenarchaeotes_2    4.38%    failed      0.00%
+ 106  Pyrobaculum_islandicum_DSM_4184                         4.38%    failed      0.00%
+ 107  Pyrococcus_abyssi_GE5                                   0.87%    failed      0.00%
+ 108  Pyrococcus_furiosus_DSM_3638_2                          0.87%    failed      0.00%
+ 109  Pyrococcus_horikoshii_OT3__euryarchaeotes_2             0.87%    failed      0.00%
+ 110  Pyrococcus_yayanosii_CH1                                0.81%    failed      0.00%
+ 111  SB_01                                                  59.30%    failed      0.00%
+ 112  SB_02                                                  41.53%    failed      0.00%
+ 113  Saccharolobus_solfataricus_P2                          26.42%    failed      0.00%
+ 114  Sulfolobus_acidocaldarius_DSM_639                       0.80%    failed      0.00%
+ 115  Sulfolobus_islandicus_L_D_8_5                           0.78%    failed      0.00%
+ 116  Sulfolobus_solfataricus_P2                             26.42%    failed      0.00%
+ 117  Sulfolobus_tokodaii_str_7                               1.24%    failed      0.00%
+ 118  Thaumarchaeota_ASW2_bin45                              19.30%    failed      0.00%
+ 119  Thaumarchaeota_ASW8                                    11.87%    failed      0.00%
+ 120  Thaumarchaeota_CSP1-1                                   0.17%    failed      0.00%
+ 121  Thaumarchaeota_YK1309_1N_NP_iota                        2.26%    failed      0.00%
+ 122  Thaumarchaeota_YP1_bin3                                12.23%    failed      0.00%
+ 123  Thaumarchaeota_archaeon_EAC691                         31.16%    failed      0.00%
+ 124  Thaumarchaeota_archaeon_N4                              0.17%    failed      0.00%
+ 125  Thaumarchaeota_archaeon_RBG_16_49_8                    56.22%    failed      0.00%
+ 126  Thaumarchaeota_archaeon_SAT139                         15.90%    failed      0.00%
+ 127  Thaumarchaeota_archaeon_SCGC_AAA007-O23                 6.46%    failed      0.00%
+ 128  Thaumarchaeota_archaeon_SP3992                         18.62%    failed      0.00%
+ 129  Thaumarchaeota_archaeon_UBA141                          8.94%    failed      0.00%
+ 130  Thaumarchaeota_archaeon_UBA160                         50.45%    failed      0.00%
+ 131  Thaumarchaeota_archaeon_UBA164                         16.51%    failed      0.00%
+ 132  Thaumarchaeota_archaeon_UBA183                         65.10%    failed      0.00%
+ 133  Thaumarchaeota_archaeon_UBA57                          44.78%    failed      0.00%
+ 134  Thaumarchaeota_archaeon_isolate_MTA5                   18.10%    failed      0.00%
+ 135  Thaumarchaeota_archaeon_strain_BS1                     81.98%    failed      0.00%
+ 136  Thaumarchaeota_archaeon_strain_BS3                     58.17%    failed      0.00%
+ 137  Thaumarchaeota_archaeon_strain_BS4                     66.02%    failed      0.00%
+ 138  Thaumarchaeota_archaeon_strain_DS1                     35.32%    failed      0.00%
+ 139  Thaumarchaeota_bin_Fn1                                  4.46%    failed      0.00%
+ 140  Thermococcus_barophilus_MP                              7.89%    failed      0.00%
+ 141  Thermococcus_gammatolerans_EJ3                          0.72%    failed      0.00%
+ 142  Thermococcus_litoralis_DSM_5473                         0.82%    failed      0.00%
+ 143  Thermofilum_pendens_Hrk_5                               9.58%    failed      0.00%
+ 144  Thermoplasma_acidophilum_DSM_1728                       3.31%    failed      0.00%
+ 145  Thermoplasma_volcanium_GSS1                             4.16%    failed      0.00%
+ 146  Thermoproteus_tenax_Kra_1                               4.39%    failed      0.00%
+ 147  Unclassified_Aigarchaeota_JZ_bin_40                     6.00%    failed      0.00%
+ 148  Unclassified_Thaumarchaeota_DRTY_7_bin_36               4.97%    failed      0.00%
+ 149  Vulcanisaeta_distributa_DSM_14429                       0.83%    failed      0.00%
+ 150  XS83_01                                                37.78%    failed      0.00%
+ 151  XS83_02                                                37.72%    failed      0.00%
+ 152  XS84_Bin1                                              35.30%    failed      0.00%
+ 153  XS84_Bin2                                              35.30%    failed      0.00%
+ 154  XS84_Bin3                                              19.89%    failed      0.00%
+ 155  XS87_02                                                37.90%    failed      0.00%
+ 156  YK1312_12N_NP_theta                                     2.26%    failed      0.00%
+WARNING: 19 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                                  20.04%  156 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: No CharPartition defined, use all CharSets
+
+Loading 40 partitions...
+Identifying sites to remove: done in 0.0066662 secs using 496.1% CPU
+Identifying sites to remove: done in 0.00537998 secs using 2820% CPU
+Identifying sites to remove: done in 0.00626366 secs using 634.1% CPU
+Identifying sites to remove: done in 0.00181315 secs using 911.3% CPU
+Identifying sites to remove: done in 0.0037483 secs using 3018% CPU
+Identifying sites to remove: done in 0.00971005 secs using 1701% CPU
+Identifying sites to remove: done in 0.0146623 secs using 45.46% CPU
+Identifying sites to remove: done in 0.00386593 secs using 739.7% CPU
+Identifying sites to remove: done in 0.00464547 secs using 1967% CPU
+Identifying sites to remove: done in 0.00450763 secs using 1522% CPU
+Identifying sites to remove: done in 0.0109077 secs using 862.8% CPU
+Identifying sites to remove: done in 0.000681166 secs using 140.1% CPU
+Identifying sites to remove: done in 0.0015244 secs using 850.4% CPU
+Identifying sites to remove: done in 0.00674956 secs using 1374% CPU
+Identifying sites to remove: done in 0.00399921 secs using 99.54% CPU
+Identifying sites to remove: done in 0.00630801 secs using 4197% CPU
+Identifying sites to remove: done in 0.00159419 secs using 2.327e+04% CPU
+Identifying sites to remove: done in 0.0102529 secs using 6044% CPU
+Identifying sites to remove: done in 0.0103843 secs using 2426% CPU
+Identifying sites to remove: done in 0.00399477 secs using 7131% CPU
+Identifying sites to remove: done in 0.0127885 secs using 5289% CPU
+Identifying sites to remove: done in 0.0225379 secs using 954.2% CPU
+Identifying sites to remove: done in 0.00374147 secs using 3144% CPU
+Identifying sites to remove: done in 0.004258 secs using 1330% CPU
+Identifying sites to remove: done in 0.0170783 secs using 3181% CPU
+Identifying sites to remove: done in 0.0208429 secs using 1126% CPU
+Identifying sites to remove: done in 0.00726009 secs using 525.6% CPU
+Identifying sites to remove: done in 0.00618788 secs using 1965% CPU
+Identifying sites to remove: done in 0.00377834 secs using 5367% CPU
+Identifying sites to remove: done in 0.0103028 secs using 4980% CPU
+Identifying sites to remove: done in 0.0124176 secs using 4310% CPU
+Identifying sites to remove: done in 0.00634916 secs using 1112% CPU
+Identifying sites to remove: done in 0.00383694 secs using 1018% CPU
+Identifying sites to remove: done in 0.0102332 secs using 1609% CPU
+Identifying sites to remove: done in 0.0062978 secs using 1834% CPU
+Identifying sites to remove: done in 0.00584886 secs using 206.6% CPU
+Identifying sites to remove: done in 0.0065628 secs using 99.9% CPU
+Identifying sites to remove: done in 0.00682024 secs using 49.47% CPU
+Identifying sites to remove: done in 0.00573483 secs using 2099% CPU
+Identifying sites to remove: done in 0.0107434 secs using 1232% CPU
+Subset	Type	Seqs	Sites	Infor	Invar	Model	Name
+1	AA	145	3137	3055	21	MFP+MERGE	part1
+2	AA	142	3137	3082	11	MFP+MERGE	part2
+3	AA	144	3127	3035	26	MFP+MERGE	part3
+4	AA	134	1128	1085	14	MFP+MERGE	part4
+5	AA	152	1998	1967	10	MFP+MERGE	part5
+6	AA	146	2076	1894	89	MFP+MERGE	part6
+7	AA	141	3058	2971	22	MFP+MERGE	part7
+8	AA	149	1968	1935	9	MFP+MERGE	part8
+9	AA	140	2053	2021	11	MFP+MERGE	part9
+10	AA	150	2044	2017	8	MFP+MERGE	part10
+11	AA	144	3154	3023	56	MFP+MERGE	part11
+12	AA	142	290	283	5	MFP+MERGE	part12
+13	AA	139	888	847	23	MFP+MERGE	part13
+14	AA	150	3050	2949	29	MFP+MERGE	part14
+15	AA	139	2043	1982	21	MFP+MERGE	part15
+16	AA	137	3106	3014	19	MFP+MERGE	part16
+17	AA	137	887	842	26	MFP+MERGE	part17
+18	AA	140	1953	1814	59	MFP+MERGE	part18
+19	AA	141	3126	3062	13	MFP+MERGE	part19
+20	AA	147	2020	1984	14	MFP+MERGE	part20
+21	AA	146	2051	1994	11	MFP+MERGE	part21
+22	AA	145	3129	3082	11	MFP+MERGE	part22
+23	AA	150	2031	1983	14	MFP+MERGE	part23
+24	AA	139	2042	1986	23	MFP+MERGE	part24
+25	AA	132	2034	1950	43	MFP+MERGE	part25
+26	AA	150	3083	2950	62	MFP+MERGE	part26
+27	AA	153	1946	1759	96	MFP+MERGE	part27
+28	AA	145	3118	3045	15	MFP+MERGE	part28
+29	AA	142	2041	1810	116	MFP+MERGE	part29
+30	AA	145	2016	1947	26	MFP+MERGE	part30
+31	AA	144	2014	1944	25	MFP+MERGE	part31
+32	AA	140	3114	3002	25	MFP+MERGE	part32
+33	AA	140	2017	1845	97	MFP+MERGE	part33
+34	AA	128	3311	3191	24	MFP+MERGE	part34
+35	AA	146	3109	2940	52	MFP+MERGE	part35
+36	AA	136	3238	3085	55	MFP+MERGE	part36
+37	AA	145	3135	3064	15	MFP+MERGE	part37
+38	AA	148	3060	2924	55	MFP+MERGE	part38
+39	AA	141	3048	2891	65	MFP+MERGE	part39
+40	AA	151	3158	3088	19	MFP+MERGE	part40
+Degree of missing data: 0.081
+Info: multi-threading strategy over partitions
+
+NOTE: Candidatus_Nitrosocaldus_islandicus_isolate_3F is identical to Candidatus_Nitrosocaldus_cavascurensis_strain but kept for subsequent analysis
+NOTE: Mariana_Trench_sediment_5533m_4-6cm_Bin1 is identical to Deep-sea_sediment_DRR121219_Bin1 but kept for subsequent analysis
+NOTE: Sulfolobus_solfataricus_P2 is identical to Saccharolobus_solfataricus_P2 but kept for subsequent analysis
+NOTE: XS84_Bin2 is identical to XS84_Bin1 but kept for subsequent analysis
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 19.216 seconds
+Measuring multi-threading efficiency up to 250 CPU cores
+4 trees examined
+Threads: 1 / Time: 254.639 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -16506223
+Threads: 2 / Time: 124.434 sec / Speedup: 2.046 / Efficiency: 102% / LogL: -16506223
+Threads: 3 / Time: 84.355 sec / Speedup: 3.019 / Efficiency: 101% / LogL: -16506223
+Threads: 4 / Time: 73.837 sec / Speedup: 3.449 / Efficiency: 86% / LogL: -16506223
+Threads: 5 / Time: 71.239 sec / Speedup: 3.574 / Efficiency: 71% / LogL: -16506223
+Threads: 6 / Time: 54.746 sec / Speedup: 4.651 / Efficiency: 78% / LogL: -16506223
+Threads: 7 / Time: 46.167 sec / Speedup: 5.516 / Efficiency: 79% / LogL: -16506223
+Threads: 8 / Time: 41.380 sec / Speedup: 6.154 / Efficiency: 77% / LogL: -16506223
+Threads: 9 / Time: 35.469 sec / Speedup: 7.179 / Efficiency: 80% / LogL: -16506223
+Threads: 10 / Time: 39.631 sec / Speedup: 6.425 / Efficiency: 64% / LogL: -16506223
+Determining AUTO threadcount: done in 833.639 secs using 361.6% CPU
+BEST NUMBER OF THREADS: 9
+
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Initial log-likelihood: -10538988.865
+Current log-likelihood at step 1: -10405399.164
+Current log-likelihood at step 2: -10400064.732
+Current log-likelihood at step 3: -10399667.479
+Current log-likelihood at step 4: -10399630.546
+Current log-likelihood at step 5: -10399626.120
+Parameters optimization took 4 rounds (272.995 sec)
+
+Perform nearest neighbor interchange...
+Optimizing NNI: done in 99.2695 secs using 880.6% CPU
+Estimate model parameters (epsilon = 1.000)
+Initial log-likelihood: -10385133.862
+Current log-likelihood at step 1: -10385129.195
+Current log-likelihood at step 2: -10385128.753
+Partition-specific rates:  1.045 1.013 0.970 0.943 1.039 0.953 1.011 1.035 1.024 1.014 0.964 1.975 1.022 1.018 1.005 1.023 1.021 0.978 1.009 1.021 0.998 1.026 1.013 0.998 1.007 0.973 0.912 1.017 0.912 0.997 1.014 1.008 0.945 0.995 0.948 0.979 1.041 0.951 0.993 1.021
+Parameters optimization took 1 rounds (57.841 sec)
+
+Time for fast ML tree search: 432.323 seconds
+
+NOTE: ModelFinder requires 6510 MB RAM!
+Selecting individual models for 40 charsets using BIC...
+ No. Model        Score       TreeLen     Charset
+   1 LG+F+I+G4    457018.298  42.444      part1
+   2 LG+F+I+G4    448959.968  41.309      part28
+   3 LG+F+I+G4    452873.812  43.850      part22
+   4 LG+F+I+G4    432429.744  41.582      part26
+   5 LG+F+I+G4    453473.097  44.681      part37
+   6 LG+F+I+G4    427042.217  40.252      part11
+   7 LG+F+I+G4    447392.307  44.167      part14
+   8 LG+F+I+G4    431162.569  40.203      part35
+   9 LG+F+I+G4    457985.458  42.871      part40
+  10 LG+F+I+G4    430746.993  41.678      part38	0h:1m:6s (2h:50m:38s left)
+  11 LG+F+I+G4    432090.130  40.680      part3	0h:1m:8s (2h:41m:57s left)
+  12 LG+F+I+G4    443659.203  41.124      part2	0h:1m:10s (2h:31m:25s left)
+  13 LG+F+I+G4    442753.340  42.648      part19	0h:1m:11s (2h:21m:29s left)
+  14 LG+F+I+G4    446138.785  40.942      part36	0h:1m:12s (2h:12m:43s left)
+  15 LG+F+I+G4    432411.252  42.536      part7	0h:1m:27s (2h:30m:32s left)
+  16 LG+F+I+G4    423165.168  39.141      part32	0h:1m:28s (2h:22m:13s left)
+  17 LG+F+I+G4    340605.315  44.278      part10	0h:1m:33s (2h:21m:33s left)
+  18 LG+F+I+G4    336177.443  43.321      part23	0h:1m:34s (2h:14m:53s left)
+  19 LG+F+I+G4    416254.729  39.109      part39	0h:1m:35s (2h:8m:59s left)
+  20 LG+F+I+G4    430089.109  40.767      part16	0h:1m:35s (2h:2m:43s left)
+  21 LG+F+I+G4    338210.390  44.758      part5	0h:1m:35s (1h:56m:52s left)
+  22 LG+F+I+G4    333651.232  41.767      part21	0h:1m:35s (1h:51m:34s left)
+  23 LG+F+I+G4    430773.385  39.736      part34	0h:1m:38s (1h:50m:3s left)
+  24 LG+F+I+G4    327300.864  42.372      part30	0h:1m:53s (2h:1m:33s left)
+  25 LG+F+I+G4    330720.826  43.176      part20	0h:1m:54s (1h:57m:34s left)
+  26 LG+F+I+G4    331670.818  43.802      part8	0h:1m:56s (1h:54m:39s left)
+  27 LG+F+I+G4    311605.770  39.436      part15	0h:1m:57s (1h:51m:24s left)
+  28 LG+F+I+G4    333656.159  42.749      part9	0h:1m:58s (1h:47m:42s left)
+  29 LG+F+I+G4    319523.884  38.771      part6	0h:2m:0s (1h:46m:7s left)
+  30 LG+F+I+G4    299801.080  34.851      part29	0h:2m:1s (1h:43m:24s left)
+  31 LG+F+I+G4    321276.517  41.023      part31	0h:2m:6s (1h:43m:45s left)
+  32 LG+F+I+G4    174220.187  37.050      part4	0h:2m:9s (1h:43m:20s left)
+  33 LG+F+I+G4    67983.971   50.289      part12	0h:2m:10s (1h:40m:30s left)
+  34 LG+F+I+G4    310212.536  39.204      part27	0h:2m:10s (1h:38m:1s left)
+  35 LG+F+I+G4    156338.801  45.996      part17	0h:2m:11s (1h:35m:14s left)
+  36 LG+F+I+G4    164609.400  47.757      part13	0h:2m:12s (1h:33m:41s left)
+  37 LG+F+I+G4    325770.580  40.148      part24	0h:2m:12s (1h:31m:15s left)
+  38 LG+F+I+G4    294871.268  38.965      part25	0h:2m:18s (1h:32m:11s left)
+  39 LG+F+I+G4    306650.727  38.997      part33	0h:2m:19s (1h:31m:3s left)
+  40 LG+F+I+G4    302359.504  38.117      part18	0h:2m:21s (1h:29m:33s left)
+Full partition model BIC score: 14370488.911 (LnL: -7178424.250  df:1188)
+Merging models to increase model fit (about 1561 total partition schemes)...
+  41 LG+F+I+G4    14370243.256 44.891      part14+part40	0h:4m:50s (2h:59m:44s left)
+  42 LG+F+I+G4    14370278.175 43.342      part26+part40	0h:4m:53s (2h:56m:56s left)
+  43 LG+F+I+G4    14370268.063 45.821      part37+part40	0h:4m:54s (2h:53m:34s left)
+  44 LG+F+I+G4    14370250.593 45.362      part22+part40	0h:5m:22s (3h:5m:25s left)
+  45 LG+F+I+G4    14370246.850 44.889      part1+part40	0h:5m:23s (3h:1m:47s left)
+  46 LG+F+I+G4    14370358.671 43.567      part35+part40	0h:5m:31s (3h:2m:1s left)
+  47 LG+F+I+G4    14370243.072 44.336      part28+part40	0h:5m:49s (3h:7m:42s left)
+  48 LG+F+I+G4    14370270.326 43.890      part38+part40	0h:5m:51s (3h:4m:32s left)
+  49 LG+F+I+G4    14370259.408 42.627      part11+part40	0h:6m:4s (3h:7m:30s left)
+  50 LG+F+I+G4    14370243.376 44.789      part2+part40	0h:7m:55s (3h:59m:26s left)
+  51 LG+F+I+G4    14370257.681 43.659      part3+part40	0h:8m:11s (4h:2m:18s left)
+  52 LG+F+I+G4    14370244.621 44.943      part19+part40	0h:8m:19s (4h:1m:35s left)
+  53 LG+F+I+G4    14370285.222 43.807      part36+part40	0h:8m:23s (3h:58m:32s left)
+  54 LG+F+I+G4    14370276.194 43.786      part14+part26	0h:8m:28s (3h:56m:25s left)
+  55 LG+F+I+G4    14370281.225 44.536      part1+part26	0h:8m:56s (4h:5m:2s left)
+  56 LG+F+I+G4    14370347.349 44.767      part26+part37	0h:9m:39s (4h:19m:27s left)
+  57 LG+F+I+G4    14370326.281 44.567      part22+part26	0h:9m:41s (4h:15m:39s left)
+  58 LG+F+I+G4    14370240.052 43.173      part11+part26	0h:10m:4s (4h:20m:52s left)
+  59 LG+F+I+G4    14370272.193 42.625      part26+part35	0h:10m:25s (4h:25m:18s left)
+  60 LG+F+I+G4    14370282.790 43.776      part26+part28	0h:10m:53s (4h:32m:16s left)
+  61 LG+F+I+G4    14370257.123 45.749      part14+part37	0h:11m:7s (4h:33m:36s left)
+  62 LG+F+I+G4    14370244.725 43.116      part32+part40	0h:11m:23s (4h:35m:35s left)
+  63 LG+F+I+G4    14370241.059 45.471      part1+part14	0h:11m:32s (4h:34m:27s left)
+  64 LG+F+I+G4    14370247.993 45.920      part14+part22	0h:12m:28s (4h:51m:47s left)
+  65 LG+F+I+G4    14370236.900 43.674      part26+part38	0h:12m:37s (4h:50m:25s left)
+  66 LG+F+I+G4    14370257.596 44.746      part11+part14	0h:12m:45s (4h:49m:3s left)
+  67 LG+F+I+G4    14370251.673 42.489      part3+part26	0h:13m:8s (4h:53m:5s left)
+  68 LG+F+I+G4    14370259.732 45.601      part1+part37	0h:13m:32s (4h:57m:24s left)
+  69 LG+F+I+G4    14370243.222 45.221      part14+part28	0h:13m:44s (4h:57m:11s left)
+  70 LG+F+I+G4    14370355.838 44.228      part14+part35	0h:13m:55s (4h:56m:30s left)
+  71 LG+F+I+G4    14370245.712 45.448      part1+part22	0h:13m:56s (4h:52m:26s left)
+  72 LG+F+I+G4    14370261.432 44.555      part1+part11	0h:14m:6s (4h:51m:54s left)
+  73 LG+F+I+G4    14370244.664 46.760      part22+part37	0h:14m:57s (5h:5m:2s left)
+  74 LG+F+I+G4    14370311.501 45.621      part11+part37	0h:15m:29s (5h:11m:19s left)
+  75 LG+F+I+G4    14370267.702 44.524      part14+part38	0h:15m:48s (5h:13m:18s left)
+  76 LG+F+I+G4    14370337.495 42.854      part1+part35	0h:15m:49s (5h:9m:8s left)
+  77 LG+F+I+G4    14370441.965 43.416      part35+part37	0h:16m:3s (5h:9m:37s left)
+  78 LG+F+I+G4    14370243.846 44.883      part7+part40	0h:16m:5s (5h:5m:47s left)
+  79 LG+F+I+G4    14370237.863 43.058      part1+part28	0h:16m:13s (5h:4m:19s left)
+  80 LG+F+I+G4    14370261.148 44.716      part3+part14	0h:16m:38s (5h:8m:4s left)
+  81 LG+F+I+G4    14370408.261 43.236      part22+part35	0h:17m:12s (5h:14m:20s left)
+  82 LG+F+I+G4    14370294.763 45.143      part11+part22	0h:17m:22s (5h:13m:29s left)
+  83 LG+F+I+G4    14370260.300 44.983      part28+part37	0h:17m:59s (5h:20m:27s left)
+  84 LG+F+I+G4    14370286.155 43.266      part11+part35	0h:18m:17s (5h:21m:30s left)
+  85 LG+F+I+G4    14370271.179 44.371      part1+part38	0h:18m:34s (5h:22m:40s left)
+  86 LG+F+I+G4    14370243.897 45.266      part22+part28	0h:18m:36s (5h:19m:16s left)
+  87 LG+F+I+G4    14370331.579 45.109      part37+part38	0h:19m:2s (5h:22m:28s left)
+  88 LG+F+I+G4    14370300.179 43.492      part2+part26	0h:19m:8s (5h:20m:22s left)
+  89 LG+F+I+G4    14370340.548 42.213      part28+part35	0h:19m:26s (5h:21m:35s left)
+  90 LG+F+I+G4    14370261.693 43.948      part11+part28	0h:19m:46s (5h:23m:19s left)
+  91 LG+F+I+G4    14370277.516 43.865      part39+part40	0h:20m:30s (5h:31m:11s left)
+  92 LG+F+I+G4    14370253.696 43.534      part1+part3	0h:20m:47s (5h:32m:2s left)
+  93 LG+F+I+G4    14370309.177 44.874      part22+part38	0h:20m:50s (5h:28m:52s left)
+  94 LG+F+I+G4    14370314.012 43.556      part3+part37	0h:21m:4s (5h:28m:59s left)
+  95 LG+F+I+G4    14370237.901 43.336      part11+part38	0h:21m:12s (5h:27m:17s left)
+  96 LG+F+I+G4    14370282.098 43.316      part35+part38	0h:21m:26s (5h:27m:13s left)
+  97 LG+F+I+G4    14370285.992 44.192      part3+part22	0h:21m:39s (5h:26m:59s left)
+  98 LG+F+I+G4    14370244.886 43.336      part3+part11	0h:22m:10s (5h:31m:7s left)
+  99 LG+F+I+G4    14370283.718 41.440      part3+part35	0h:22m:42s (5h:35m:19s left)
+ 100 LG+F+I+G4    14370272.532 44.172      part28+part38	0h:22m:54s (5h:34m:42s left)
+ 101 LG+F+I+G4    14370248.942 44.917      part16+part40	0h:23m:17s (5h:36m:46s left)
+ 102 LG+F+I+G4    14370252.876 42.919      part3+part28	0h:23m:34s (5h:37m:12s left)
+ 103 LG+F+I+G4    14370247.128 43.701      part3+part38	0h:23m:38s (5h:34m:34s left)
+ 104 LG+F+I+G4    14370248.928 45.300      part2+part14	0h:23m:42s (5h:32m:6s left)
+ 105 LG+F+I+G4    14370302.114 44.167      part19+part26	0h:23m:56s (5h:32m:5s left)
+ 106 LG+F+I+G4    14370263.357 44.765      part34+part40	0h:24m:15s (5h:32m:59s left)
+ 107 LG+F+I+G4    14370245.074 44.140      part1+part2	0h:24m:38s (5h:34m:52s left)
+ 108 LG+F+I+G4    14370262.379 44.319      part2+part37	0h:25m:9s (5h:38m:21s left)
+ 109 LG+F+I+G4    14370243.418 43.485      part26+part36	0h:25m:28s (5h:39m:14s left)
+ 110 LG+F+I+G4    14370242.848 44.842      part2+part22	0h:25m:49s (5h:40m:35s left)
+ 111 LG+F+I+G4    14370375.325 41.810      part2+part35	0h:26m:10s (5h:41m:49s left)
+ 112 LG+F+I+G4    14370241.847 45.100      part14+part19	0h:26m:29s (5h:42m:42s left)
+ 113 LG+F+I+G4    14370278.168 44.426      part2+part11	0h:26m:34s (5h:40m:28s left)
+ 114 LG+F+I+G4    14370240.284 42.850      part2+part28	0h:26m:38s (5h:38m:9s left)
+ 115 LG+F+I+G4    14370273.360 44.922      part14+part36	0h:27m:14s (5h:42m:37s left)
+ 116 LG+F+I+G4    14370289.042 44.119      part2+part38	0h:27m:32s (5h:43m:5s left)
+ 117 LG+F+I+G4    14370237.905 44.546      part1+part19	0h:27m:41s (5h:41m:42s left)
+ 118 LG+F+I+G4    14370246.862 44.751      part19+part37	0h:27m:56s (5h:41m:41s left)
+ 119 LG+F+I+G4    14370264.403 43.271      part26+part32	0h:28m:10s (5h:41m:22s left)
+ 120 LG+F+I+G4    14370264.379 41.664      part2+part3	0h:28m:37s (5h:43m:44s left)
+ 121 LG+F+I+G4    14370270.750 44.840      part1+part36	0h:29m:3s (5h:45m:53s left)
+ 122 LG+F+I+G4    14370236.270 46.015      part19+part22	0h:30m:3s (5h:54m:36s left)
+ 123 LG+F+I+G4    14370373.943 43.064      part19+part35	0h:30m:8s (5h:52m:27s left)
+ 124 LG+F+I+G4    14370338.764 45.681      part36+part37	0h:30m:14s (5h:50m:25s left)
+ 125 LG+F+I+G4    14370274.189 44.759      part11+part19	0h:30m:42s (5h:52m:48s left)
+ 126 LG+F+I+G4    14370320.461 44.841      part22+part36	0h:30m:45s (5h:50m:19s left)
+ 127 LG+F+I+G4    14370238.457 43.538      part19+part28	0h:30m:51s (5h:48m:26s left)
+ 128 LG+F+I+G4    14370242.916 43.618      part11+part36	0h:30m:58s (5h:46m:42s left)
+ 129 LG+F+I+G4    14370262.376 43.414      part35+part36	0h:31m:29s (5h:49m:33s left)
+ 130 LG+F+I+G4    14370246.613 44.904      part14+part32	0h:32m:0s (5h:52m:19s left)
+ 131 LG+F+I+G4    14370289.587 44.525      part19+part38	0h:32m:39s (5h:56m:25s left)
+ 132 LG+F+I+G4    14370292.310 43.899      part7+part26	0h:32m:58s (5h:57m:2s left)
+ 133 LG+F+I+G4    14370242.139 44.094      part1+part32	0h:33m:7s (5h:55m:35s left)
+ 134 LG+F+I+G4    14370268.058 43.670      part3+part19	0h:33m:21s (5h:55m:12s left)
+ 135 LG+F+I+G4    14370281.962 44.960      part32+part37	0h:33m:25s (5h:53m:8s left)
+ 136 LG+F+I+G4    14370278.841 44.669      part28+part36	0h:33m:35s (5h:52m:1s left)
+ 137 LG+F+I+G4    14370243.203 43.132      part36+part38	0h:33m:55s (5h:52m:32s left)
+ 138 LG+F+I+G4    14370252.645 43.505      part3+part36	0h:34m:0s (5h:50m:39s left)
+ 139 LG+F+I+G4    14370260.034 45.070      part22+part32	0h:34m:30s (5h:53m:1s left)
+ 140 LG+F+I+G4    14370251.776 42.881      part11+part32	0h:35m:10s (5h:57m:1s left)
+ 141 LG+F+I+G4    14370307.477 42.281      part32+part35	0h:35m:24s (5h:56m:33s left)
+ 142 LG+F+I+G4    14370241.180 45.328      part7+part14	0h:35m:36s (5h:55m:52s left)
+ 143 LG+F+I+G4    14370242.677 43.786      part28+part32	0h:35m:42s (5h:54m:10s left)
+ 144 LG+F+I+G4    14370238.267 42.454      part26+part39	0h:35m:46s (5h:52m:0s left)
+ 145 LG+F+I+G4    14370242.833 45.482      part1+part7	0h:36m:19s (5h:54m:41s left)
+ 146 LG+F+I+G4    14370258.502 42.855      part32+part38	0h:36m:54s (5h:57m:41s left)
+ 147 LG+F+I+G4    14370251.553 46.176      part7+part37	0h:37m:4s (5h:56m:34s left)
+ 148 LG+F+I+G4    14370239.398 43.756      part2+part19	0h:37m:21s (5h:56m:41s left)
+ 149 LG+F+I+G4    14370243.231 42.891      part3+part32	0h:37m:32s (5h:55m:46s left)
+ 150 LG+F+I+G4    14370302.205 44.536      part2+part36	0h:38m:0s (5h:57m:34s left)
+ 151 LG+F+I+G4    14370242.893 45.195      part7+part22	0h:38m:6s (5h:55m:53s left)
+ 152 LG+F+I+G4    14370290.672 43.016      part16+part26	0h:38m:9s (5h:53m:46s left)
+ 153 LG+F+I+G4    14370267.025 44.311      part14+part39	0h:38m:13s (5h:51m:44s left)
+ 154 LG+F+I+G4    14370269.344 44.609      part7+part11	0h:39m:3s (5h:56m:53s left)
+ 155 LG+F+I+G4    14370240.671 44.659      part7+part28	0h:39m:33s (5h:58m:49s left)
+ 156 LG+F+I+G4    14370364.786 43.357      part7+part35	0h:39m:39s (5h:57m:10s left)
+ 157 LG+F+I+G4    14370273.338 43.390      part1+part39	0h:39m:55s (5h:57m:6s left)
+ 158 LG+F+I+G4    14370263.961 44.283      part26+part34	0h:40m:8s (5h:56m:28s left)
+ 159 LG+F+I+G4    14370277.808 44.274      part7+part38	0h:40m:33s (5h:57m:37s left)
+ 160 LG+F+I+G4    14370329.743 44.728      part37+part39	0h:40m:35s (5h:55m:23s left)
+ 161 LG+F+I+G4    14370247.008 45.312      part14+part16	0h:40m:41s (5h:53m:50s left)
+ 162 LG+F+I+G4    14370315.419 44.674      part22+part39	0h:40m:45s (5h:51m:56s left)
+ 163 LG+F+I+G4    14370240.988 43.716      part11+part39	0h:41m:53s (5h:59m:17s left)
+ 164 LG+F+I+G4    14370266.915 44.062      part3+part7	0h:42m:18s (6h:0m:26s left)
+ 165 LG+F+I+G4    14370296.777 45.107      part19+part36	0h:42m:29s (5h:59m:29s left)
+ 166 LG+F+I+G4    14370274.872 41.987      part35+part39	0h:42m:37s (5h:58m:9s left)
+ 167 LG+F+I+G4    14370248.404 44.058      part2+part32	0h:42m:57s (5h:58m:34s left)
+ 168 LG+F+I+G4    14370277.290 43.099      part28+part39	0h:43m:33s (6h:1m:9s left)
+ 169 LG+F+I+G4    14370257.896 44.999      part14+part34	0h:43m:45s (6h:0m:23s left)
+ 170 LG+F+I+G4    14370252.867 45.156      part1+part16	0h:43m:49s (5h:58m:38s left)
+ 171 LG+F+I+G4    14370268.939 45.749      part16+part37	0h:44m:7s (5h:58m:44s left)
+ 172 LG+F+I+G4    14370259.141 46.206      part16+part22	0h:45m:22s (6h:6m:25s left)
+ 173 LG+F+I+G4    14370237.785 43.008      part38+part39	0h:45m:37s (6h:6m:0s left)
+ 174 LG+F+I+G4    14370247.482 45.129      part1+part34	0h:45m:52s (6h:5m:38s left)
+ 175 LG+F+I+G4    14370267.991 44.638      part11+part16	0h:46m:0s (6h:4m:21s left)
+ 176 LG+F+I+G4    14370374.530 43.109      part16+part35	0h:46m:9s (6h:3m:16s left)
+ 177 LG+F+I+G4    14370253.362 42.351      part3+part39	0h:46m:30s (6h:3m:41s left)
+ 178 LG+F+I+G4    14370256.425 44.630      part16+part28	0h:46m:40s (6h:2m:42s left)
+ 179 LG+F+I+G4    14370274.494 44.100      part22+part34	0h:46m:49s (6h:1m:29s left)
+ 180 LG+F+I+G4    14370298.254 45.413      part34+part37	0h:46m:57s (6h:0m:14s left)
+ 181 LG+F+I+G4    14370240.802 44.172      part2+part7	0h:48m:15s (6h:7m:59s left)
+ 182 LG+F+I+G4    14370251.041 44.062      part11+part34	0h:48m:33s (6h:7m:54s left)
+ 183 LG+F+I+G4    14370284.820 43.870      part16+part38	0h:48m:37s (6h:6m:8s left)
+ 184 LG+F+I+G4    14370248.877 43.888      part19+part32	0h:48m:42s (6h:4m:34s left)
+ 185 LG+F+I+G4    14370249.726 45.041      part28+part34	0h:49m:10s (6h:5m:47s left)
+ 186 LG+F+I+G4    14370273.400 43.038      part3+part16	0h:49m:24s (6h:5m:16s left)
+ 187 LG+F+I+G4    14370294.399 42.942      part34+part35	0h:49m:29s (6h:3m:36s left)
+ 188 LG+F+I+G4    14370258.500 44.277      part34+part38	0h:49m:38s (6h:2m:31s left)
+ 189 LG+F+I+G4    14370261.554 42.483      part32+part36	0h:49m:57s (6h:2m:40s left)
+ 190 LG+F+I+G4    14370243.731 44.056      part3+part34	0h:50m:52s (6h:7m:3s left)
+ 191 LG+F+I+G4    14370297.171 43.448      part2+part39	0h:51m:5s (6h:6m:26s left)
+ 192 LG+F+I+G4    14370298.254 44.728      part7+part36	0h:51m:11s (6h:5m:2s left)
+ 193 LG+F+I+G4    14370240.763 44.870      part7+part19	0h:51m:11s (6h:2m:54s left)
+ 194 LG+F+I+G4    14370262.245 44.246      part2+part16	0h:51m:40s (6h:4m:7s left)
+ 195 LG+F+I+G4    14370291.127 44.381      part19+part39	0h:51m:51s (6h:3m:19s left)
+ 196 LG+F+I+G4    14370236.609 42.605      part36+part39	0h:52m:9s (6h:3m:12s left)
+ 197 LG+F+I+G4    14370265.581 44.520      part2+part34	0h:52m:51s (6h:6m:1s left)
+ 198 LG+F+I+G4    14370252.933 43.634      part7+part32	0h:52m:52s (6h:3m:56s left)
+ 199 LG+F+I+G4    14370262.635 41.684      part32+part39	0h:53m:23s (6h:5m:27s left)
+ 200 LG+F+I+G4    14370254.162 45.047      part16+part19	0h:53m:24s (6h:3m:26s left)
+ 201 LG+F+I+G4    14370285.641 43.848      part16+part36	0h:53m:34s (6h:2m:33s left)
+ 202 LG+F+I+G4    14370261.227 44.871      part19+part34	0h:53m:44s (6h:1m:32s left)
+ 203 LG+F+I+G4    14370247.923 43.946      part34+part36	0h:54m:8s (6h:2m:14s left)
+ 204 LG+F+I+G4    14370254.113 43.176      part16+part32	0h:54m:21s (6h:1m:37s left)
+ 205 LG+F+I+G4    14370283.825 44.463      part7+part39	0h:54m:25s (6h:0m:0s left)
+ 206 LG+F+I+G4    14370262.956 45.603      part7+part16	0h:55m:22s (6h:4m:11s left)
+ 207 LG+F+I+G4    14370246.947 44.415      part32+part34	0h:55m:24s (6h:2m:23s left)
+ 208 LG+F+I+G4    14370283.065 41.919      part16+part39	0h:55m:48s (6h:3m:3s left)
+ 209 LG+F+I+G4    14370261.268 44.535      part7+part34	0h:55m:51s (6h:1m:20s left)
+ 210 LG+F+I+G4    14370258.785 43.839      part34+part39	0h:56m:4s (6h:0m:47s left)
+ 211 LG+F+I+G4    14370259.064 44.025      part23+part40	0h:56m:24s (6h:0m:57s left)
+ 212 LG+F+I+G4    14370267.934 44.897      part10+part40	0h:56m:25s (5h:59m:0s left)
+ 213 LG+F+I+G4    14370273.527 45.602      part16+part34	0h:56m:27s (5h:57m:18s left)
+ 214 LG+F+I+G4    14370262.016 45.214      part5+part40	0h:56m:41s (5h:56m:53s left)
+ 215 LG+F+I+G4    14370267.417 44.070      part21+part40	0h:58m:10s (6h:4m:11s left)
+ 216 LG+F+I+G4    14370245.000 44.831      part20+part40	0h:58m:38s (6h:5m:8s left)
+ 217 LG+F+I+G4    14370393.407 43.324      part6+part40	0h:58m:47s (6h:4m:6s left)
+ 218 LG+F+I+G4    14370258.800 44.823      part8+part40	0h:58m:56s (6h:3m:5s left)
+ 219 LG+F+I+G4    14370283.921 44.034      part10+part26	0h:58m:59s (6h:1m:31s left)
+ 220 LG+F+I+G4    14370462.754 42.781      part27+part40	0h:59m:16s (6h:1m:19s left)
+ 221 LG+F+I+G4    14370262.530 44.589      part31+part40	0h:59m:16s (5h:59m:26s left)
+ 222 LG+F+I+G4    14370269.743 44.715      part9+part40	0h:59m:22s (5h:58m:4s left)
+ 223 LG+F+I+G4    14370280.928 44.662      part30+part40	0h:59m:29s (5h:56m:59s left)
+ 224 LG+F+I+G4    14370273.648 43.899      part23+part26	1h:0m:13s (5h:59m:30s left)
+ 225 LG+F+I+G4    14370270.280 45.600      part10+part14	1h:1m:1s (6h:2m:19s left)
+ 226 LG+F+I+G4    14370268.062 45.455      part14+part23	1h:1m:9s (6h:1m:14s left)
+ 227 LG+F+I+G4    14370279.256 44.299      part15+part40	1h:1m:17s (6h:0m:9s left)
+ 228 LG+F+I+G4    14370260.504 45.658      part1+part10	1h:1m:21s (5h:58m:42s left)
+ 229 LG+F+I+G4    14370294.269 44.297      part5+part26	1h:1m:22s (5h:56m:59s left)
+ 230 LG+F+I+G4    14370275.718 45.001      part10+part22	1h:1m:25s (5h:55m:25s left)
+ 231 LG+F+I+G4    14370293.721 46.539      part10+part37	1h:1m:59s (5h:56m:53s left)
+ 232 LG+F+I+G4    14370658.429 41.945      part29+part40	1h:2m:20s (5h:57m:10s left)
+ 233 LG+F+I+G4    14370262.101 45.916      part5+part14	1h:2m:30s (5h:56m:13s left)
+ 234 LG+F+I+G4    14370275.836 43.845      part21+part26	1h:3m:18s (5h:59m:3s left)
+ 235 LG+F+I+G4    14370261.824 45.394      part1+part23	1h:3m:23s (5h:57m:40s left)
+ 236 LG+F+I+G4    14370303.884 43.409      part10+part35	1h:3m:25s (5h:56m:5s left)
+ 237 LG+F+I+G4    14370277.515 44.631      part10+part11	1h:3m:25s (5h:54m:20s left)
+ 238 LG+F+I+G4    14370293.899 46.359      part23+part37	1h:3m:29s (5h:52m:54s left)
+ 239 LG+F+I+G4    14370276.636 43.636      part24+part40	1h:3m:39s (5h:52m:9s left)
+ 240 LG+F+I+G4    14370258.148 45.823      part1+part5	1h:4m:25s (5h:54m:37s left)
+ 241 LG+F+I+G4    14370273.753 45.304      part22+part23	1h:4m:34s (5h:53m:41s left)
+ 242 LG+F+I+G4    14370257.518 45.215      part10+part28	1h:4m:40s (5h:52m:30s left)
+ 243 LG+F+I+G4    14370268.774 43.431      part11+part23	1h:5m:24s (5h:54m:46s left)
+ 244 LG+F+I+G4    14370271.237 46.937      part5+part37	1h:5m:27s (5h:53m:20s left)
+ 245 LG+F+I+G4    14370282.778 44.427      part10+part38	1h:5m:31s (5h:51m:55s left)
+ 246 LG+F+I+G4    14370299.780 43.387      part23+part35	1h:5m:32s (5h:50m:19s left)
+ 247 LG+F+I+G4    14370300.082 42.677      part6+part26	1h:6m:13s (5h:52m:20s left)
+ 248 LG+F+I+G4    14370262.572 45.924      part5+part22	1h:6m:27s (5h:51m:51s left)
+ 249 LG+F+I+G4    14370255.839 44.940      part23+part28	1h:6m:32s (5h:50m:34s left)
+ 250 LG+F+I+G4    14370283.539 44.614      part5+part11	1h:7m:19s (5h:53m:2s left)
+ 251 LG+F+I+G4    14370267.641 43.725      part20+part26	1h:7m:20s (5h:51m:29s left)
+ 252 LG+F+I+G4    14370265.858 44.121      part3+part10	1h:7m:26s (5h:50m:20s left)
+ 253 LG+F+I+G4    14370272.727 45.032      part14+part21	1h:7m:48s (5h:50m:34s left)
+ 254 LG+F+I+G4    14370329.331 43.854      part5+part35	1h:8m:9s (5h:50m:41s left)
+ 255 LG+F+I+G4    14370274.864 43.621      part23+part38	1h:8m:19s (5h:49m:54s left)
+ 256 LG+F+I+G4    14370377.728 44.695      part6+part14	1h:8m:55s (5h:51m:19s left)
+ 257 LG+F+I+G4    14370288.880 44.254      part5+part38	1h:9m:1s (5h:50m:15s left)
+ 258 LG+F+I+G4    14370254.031 45.006      part5+part28	1h:9m:24s (5h:50m:31s left)
+ 259 LG+F+I+G4    14370262.662 44.042      part1+part21	1h:9m:45s (5h:50m:39s left)
+ 260 LG+F+I+G4    14370261.740 44.073      part3+part23	1h:9m:51s (5h:49m:35s left)
+ 261 LG+F+I+G4    14370301.792 45.262      part21+part37	1h:9m:54s (5h:48m:10s left)
+ 262 LG+F+I+G4    14370276.202 44.505      part3+part5	1h:11m:3s (5h:52m:17s left)
+ 263 LG+F+I+G4    14370282.660 45.520      part21+part22	1h:11m:20s (5h:52m:5s left)
+ 264 LG+F+I+G4    14370281.245 43.706      part8+part26	1h:11m:24s (5h:50m:46s left)
+ 265 LG+F+I+G4    14370270.142 43.394      part11+part21	1h:11m:26s (5h:49m:23s left)
+ 266 LG+F+I+G4    14370246.530 45.689      part14+part20	1h:11m:42s (5h:49m:5s left)
+ 267 LG+F+I+G4    14370406.939 43.565      part33+part40	1h:12m:16s (5h:50m:18s left)
+ 268 LG+F+I+G4    14370449.205 44.313      part6+part37	1h:12m:28s (5h:49m:38s left)
+ 269 LG+F+I+G4    14370288.657 42.480      part21+part35	1h:12m:36s (5h:48m:43s left)
+ 270 LG+F+I+G4    14370381.543 43.353      part1+part6	1h:12m:42s (5h:47m:38s left)
+ 271 LG+F+I+G4    14370259.490 44.823      part2+part10	1h:13m:15s (5h:48m:45s left)
+ 272 LG+F+I+G4    14370243.898 44.560      part1+part20	1h:13m:27s (5h:48m:5s left)
+ 273 LG+F+I+G4    14370438.611 44.323      part6+part22	1h:13m:30s (5h:46m:47s left)
+ 274 LG+F+I+G4    14370264.391 46.114      part20+part37	1h:13m:59s (5h:47m:31s left)
+ 275 LG+F+I+G4    14370257.914 43.456      part21+part28	1h:14m:1s (5h:46m:11s left)
+ 276 LG+F+I+G4    14370321.572 42.751      part6+part11	1h:14m:30s (5h:46m:55s left)
+ 277 LG+F+I+G4    14370254.207 45.339      part20+part22	1h:14m:40s (5h:46m:9s left)
+ 278 LG+F+I+G4    14370280.197 41.130      part6+part35	1h:14m:59s (5h:46m:3s left)
+ 279 LG+F+I+G4    14370276.889 43.310      part26+part30	1h:15m:2s (5h:44m:48s left)
+ 280 LG+F+I+G4    14370274.540 43.774      part21+part38	1h:15m:22s (5h:44m:50s left)
+ 281 LG+F+I+G4    14370345.590 41.937      part26+part27	1h:15m:44s (5h:45m:1s left)
+ 282 LG+F+I+G4    14370259.214 44.546      part11+part20	1h:15m:48s (5h:43m:50s left)
+ 283 LG+F+I+G4    14370261.639 45.626      part8+part14	1h:16m:29s (5h:45m:24s left)
+ 284 LG+F+I+G4    14370382.207 42.490      part6+part28	1h:16m:49s (5h:45m:25s left)
+ 285 LG+F+I+G4    14370306.456 43.293      part20+part35	1h:16m:49s (5h:43m:57s left)
+ 286 LG+F+I+G4    14370255.081 44.798      part2+part23	1h:16m:54s (5h:42m:51s left)
+ 287 LG+F+I+G4    14370261.890 43.288      part3+part21	1h:17m:28s (5h:43m:55s left)
+ 288 LG+F+I+G4    14370246.106 43.149      part26+part31	1h:17m:38s (5h:43m:12s left)
+ 289 LG+F+I+G4    14370352.180 43.411      part18+part40	1h:17m:38s (5h:41m:45s left)
+ 290 LG+F+I+G4    14370239.025 43.909      part20+part28	1h:17m:40s (5h:40m:25s left)
+ 291 LG+F+I+G4    14370251.400 44.737      part2+part5	1h:17m:54s (5h:40m:0s left)
+ 292 LG+F+I+G4    14370277.661 44.857      part14+part30	1h:18m:51s (5h:42m:41s left)
+ 293 LG+F+I+G4    14370252.577 44.780      part1+part8	1h:18m:53s (5h:41m:24s left)
+ 294 LG+F+I+G4    14370308.255 42.924      part6+part38	1h:19m:16s (5h:41m:36s left)
+ 295 LG+F+I+G4    14370262.292 44.350      part20+part38	1h:19m:42s (5h:42m:4s left)
+ 296 LG+F+I+G4    14370455.745 43.594      part14+part27	1h:19m:49s (5h:41m:7s left)
+ 297 LG+F+I+G4    14370343.127 42.167      part3+part6	1h:19m:54s (5h:40m:6s left)
+ 298 LG+F+I+G4    14370287.897 43.700      part9+part26	1h:20m:1s (5h:39m:10s left)
+ 299 LG+F+I+G4    14370260.273 45.851      part10+part19	1h:20m:10s (5h:38m:24s left)
+ 300 LG+F+I+G4    14370278.980 45.546      part8+part37	1h:20m:14s (5h:37m:17s left)
+ 301 LG+F+I+G4    14370279.484 44.454      part10+part36	1h:21m:19s (5h:40m:24s left)
+ 302 LG+F+I+G4    14370265.195 45.807      part8+part22	1h:21m:19s (5h:39m:2s left)
+ 303 LG+F+I+G4    14370272.081 44.533      part8+part11	1h:21m:50s (5h:39m:47s left)
+ 304 LG+F+I+G4    14370256.727 45.752      part14+part31	1h:22m:19s (5h:40m:24s left)
+ 305 LG+F+I+G4    14370306.960 46.577      part30+part37	1h:22m:41s (5h:40m:31s left)
+ 306 LG+F+I+G4    14370277.440 45.411      part1+part30	1h:22m:56s (5h:40m:9s left)
+ 307 LG+F+I+G4    14370254.768 43.914      part3+part20	1h:23m:5s (5h:39m:25s left)
+ 308 LG+F+I+G4    14370301.306 42.590      part8+part35	1h:23m:23s (5h:39m:14s left)
+ 309 LG+F+I+G4    14370248.260 43.944      part8+part28	1h:23m:30s (5h:38m:23s left)
+ 310 LG+F+I+G4    14370261.003 45.510      part19+part23	1h:23m:34s (5h:37m:15s left)
+ 311 LG+F+I+G4    14370455.070 43.306      part1+part27	1h:23m:38s (5h:36m:11s left)
+ 312 LG+F+I+G4    14370543.069 44.335      part27+part37	1h:24m:15s (5h:37m:16s left)
+ 313 LG+F+I+G4    14370298.124 44.423      part22+part30	1h:24m:21s (5h:36m:22s left)
+ 314 LG+F+I+G4    14370261.622 43.994      part2+part21	1h:24m:48s (5h:36m:46s left)
+ 315 LG+F+I+G4    14370269.842 45.242      part9+part14	1h:25m:38s (5h:38m:47s left)
+ 316 LG+F+I+G4    14370251.647 45.464      part5+part19	1h:25m:47s (5h:37m:58s left)
+ 317 LG+F+I+G4    14370273.603 44.393      part11+part30	1h:25m:47s (5h:36m:41s left)
+ 318 LG+F+I+G4    14370281.487 44.802      part23+part36	1h:26m:3s (5h:36m:24s left)
+ 319 LG+F+I+G4    14370290.009 44.688      part25+part40	1h:26m:16s (5h:35m:52s left)
+ 320 LG+F+I+G4    14370523.524 43.437      part22+part27	1h:26m:18s (5h:34m:43s left)
+ 321 LG+F+I+G4    14370257.810 44.344      part1+part31	1h:26m:23s (5h:33m:43s left)
+ 322 LG+F+I+G4    14370277.046 44.504      part8+part38	1h:26m:27s (5h:32m:40s left)
+ 323 LG+F+I+G4    14370376.378 42.262      part11+part27	1h:26m:58s (5h:33m:21s left)
+ 324 LG+F+I+G4    14370294.533 45.981      part31+part37	1h:27m:41s (5h:34m:49s left)
+ 325 LG+F+I+G4    14370300.826 42.767      part30+part35	1h:27m:50s (5h:34m:4s left)
+ 326 LG+F+I+G4    14370255.973 43.493      part24+part26	1h:28m:22s (5h:34m:48s left)
+ 327 LG+F+I+G4    14370256.023 44.152      part15+part26	1h:28m:23s (5h:33m:34s left)
+ 328 LG+F+I+G4    14370478.972 41.947      part26+part29	1h:28m:26s (5h:32m:26s left)
+ 329 LG+F+I+G4    14370274.125 44.983      part28+part30	1h:28m:54s (5h:32m:54s left)
+ 330 LG+F+I+G4    14370294.912 45.216      part5+part36	1h:28m:58s (5h:31m:52s left)
+ 331 LG+F+I+G4    14370298.183 41.537      part27+part35	1h:29m:13s (5h:31m:33s left)
+ 332 LG+F+I+G4    14370285.700 45.426      part22+part31	1h:29m:13s (5h:30m:18s left)
+ 333 LG+F+I+G4    14370405.137 42.269      part2+part6	1h:29m:47s (5h:31m:6s left)
+ 334 LG+F+I+G4    14370249.678 44.183      part11+part31	1h:29m:47s (5h:29m:51s left)
+ 335 LG+F+I+G4    14370263.263 43.318      part3+part8	1h:30m:15s (5h:30m:20s left)
+ 336 LG+F+I+G4    14370256.759 45.339      part1+part9	1h:30m:30s (5h:29m:57s left)
+ 337 LG+F+I+G4    14370255.107 42.528      part31+part35	1h:30m:53s (5h:30m:5s left)
+ 338 LG+F+I+G4    14370450.863 43.032      part27+part28	1h:31m:22s (5h:30m:38s left)
+ 339 LG+F+I+G4    14370286.791 46.044      part9+part37	1h:31m:50s (5h:31m:2s left)
+ 340 LG+F+I+G4    14370254.502 44.509      part10+part32	1h:31m:51s (5h:29m:51s left)
+ 341 LG+F+I+G4    14370240.531 44.590      part2+part20	1h:31m:52s (5h:28m:41s left)
+ 342 LG+F+I+G4    14370357.830 42.305      part27+part38	1h:31m:55s (5h:27m:40s left)
+ 343 LG+F+I+G4    14370275.230 44.098      part30+part38	1h:31m:57s (5h:26m:32s left)
+ 344 LG+F+I+G4    14370259.543 43.791      part28+part31	1h:32m:12s (5h:26m:12s left)
+ 345 LG+F+I+G4    14370271.343 45.081      part9+part22	1h:32m:23s (5h:25m:37s left)
+ 346 LG+F+I+G4    14370281.055 44.263      part9+part11	1h:32m:58s (5h:26m:29s left)
+ 347 LG+F+I+G4    14370642.277 42.831      part14+part29	1h:33m:50s (5h:28m:18s left)
+ 348 LG+F+I+G4    14370278.465 44.312      part3+part30	1h:34m:3s (5h:27m:50s left)
+ 349 LG+F+I+G4    14370249.665 43.354      part31+part38	1h:34m:7s (5h:26m:53s left)
+ 350 LG+F+I+G4    14370264.518 44.300      part19+part21	1h:34m:11s (5h:25m:53s left)
+ 351 LG+F+I+G4    14370295.188 43.057      part9+part35	1h:34m:14s (5h:24m:51s left)
+ 352 LG+F+I+G4    14370277.113 45.215      part14+part24	1h:34m:26s (5h:24m:22s left)
+ 353 LG+F+I+G4    14370392.685 42.181      part3+part27	1h:34m:35s (5h:23m:42s left)
+ 354 LG+F+I+G4    14370280.373 45.288      part14+part15	1h:34m:52s (5h:23m:29s left)
+ 355 LG+F+I+G4    14370252.706 44.069      part23+part32	1h:35m:10s (5h:23m:21s left)
+ 356 LG+F+I+G4    14370254.156 42.522      part3+part31	1h:36m:6s (5h:25m:17s left)
+ 357 LG+F+I+G4    14370251.342 44.349      part9+part28	1h:36m:8s (5h:24m:13s left)
+ 358 LG+F+I+G4    14370259.578 45.136      part5+part32	1h:36m:17s (5h:23m:35s left)
+ 359 LG+F+I+G4    14370281.780 44.145      part9+part38	1h:36m:21s (5h:22m:37s left)
+ 360 LG+F+I+G4    14370276.127 43.898      part21+part36	1h:36m:26s (5h:21m:44s left)
+ 361 LG+F+I+G4    14370279.646 44.361      part1+part15	1h:36m:35s (5h:21m:4s left)
+ 362 LG+F+I+G4    14370405.029 43.001      part6+part19	1h:36m:48s (5h:20m:38s left)
+ 363 LG+F+I+G4    14370618.088 40.894      part1+part29	1h:37m:5s (5h:20m:25s left)
+ 364 LG+F+I+G4    14370271.633 44.218      part1+part24	1h:37m:20s (5h:20m:7s left)
+ 365 LG+F+I+G4    14370334.449 45.324      part15+part37	1h:38m:25s (5h:22m:30s left)
+ 366 LG+F+I+G4    14370270.169 45.125      part7+part10	1h:38m:31s (5h:21m:40s left)
+ 367 LG+F+I+G4    14370325.377 46.008      part24+part37	1h:38m:41s (5h:21m:4s left)
+ 368 LG+F+I+G4    14370249.324 44.002      part2+part8	1h:38m:41s (5h:19m:56s left)
+ 369 LG+F+I+G4    14370753.804 42.286      part29+part37	1h:38m:45s (5h:19m:2s left)
+ 370 LG+F+I+G4    14370239.170 44.953      part19+part20	1h:38m:50s (5h:18m:10s left)
+ 371 LG+F+I+G4    14370310.540 44.082      part6+part36	1h:39m:22s (5h:18m:46s left)
+ 372 LG+F+I+G4    14370258.440 43.355      part11+part15	1h:39m:24s (5h:17m:44s left)
+ 373 LG+F+I+G4    14370316.806 45.178      part15+part22	1h:39m:25s (5h:16m:39s left)
+ 374 LG+F+I+G4    14370263.657 43.930      part3+part9	1h:40m:32s (5h:19m:7s left)
+ 375 LG+F+I+G4    14370306.159 45.355      part22+part24	1h:40m:53s (5h:19m:5s left)
+ 376 LG+F+I+G4    14370272.795 45.078      part20+part36	1h:41m:6s (5h:18m:39s left)
+ 377 LG+F+I+G4    14370729.537 42.003      part22+part29	1h:41m:8s (5h:17m:37s left)
+ 378 LG+F+I+G4    14370258.306 43.146      part11+part24	1h:41m:24s (5h:17m:21s left)
+ 379 LG+F+I+G4    14370517.174 41.846      part11+part29	1h:41m:28s (5h:16m:27s left)
+ 380 LG+F+I+G4    14370357.690 40.384      part29+part35	1h:41m:39s (5h:15m:56s left)
+ 381 LG+F+I+G4    14370268.445 42.748      part15+part35	1h:41m:39s (5h:14m:50s left)
+ 382 LG+F+I+G4    14370279.086 45.020      part2+part30	1h:41m:54s (5h:14m:31s left)
+ 383 LG+F+I+G4    14370264.035 43.625      part24+part35	1h:42m:38s (5h:15m:42s left)
+ 384 LG+F+I+G4    14370281.839 43.258      part15+part28	1h:43m:0s (5h:15m:44s left)
+ 385 LG+F+I+G4    14370476.243 42.794      part2+part27	1h:43m:23s (5h:15m:47s left)
+ 386 LG+F+I+G4    14370622.552 39.612      part28+part29	1h:43m:24s (5h:14m:48s left)
+ 387 LG+F+I+G4    14370265.490 44.908      part7+part23	1h:43m:29s (5h:13m:55s left)
+ 388 LG+F+I+G4    14370271.859 43.634      part24+part28	1h:43m:44s (5h:13m:39s left)
+ 389 LG+F+I+G4    14370254.672 42.763      part21+part32	1h:43m:46s (5h:12m:38s left)
+ 390 LG+F+I+G4    14370316.930 42.886      part26+part33	1h:43m:46s (5h:11m:36s left)
+ 391 LG+F+I+G4    14370261.708 44.015      part15+part38	1h:43m:59s (5h:11m:9s left)
+ 392 LG+F+I+G4    14370268.858 43.918      part2+part31	1h:44m:39s (5h:12m:6s left)
+ 393 LG+F+I+G4    14370258.441 44.838      part5+part7	1h:44m:59s (5h:12m:3s left)
+ 394 LG+F+I+G4    14370499.546 42.017      part29+part38	1h:45m:43s (5h:13m:10s left)
+ 395 LG+F+I+G4    14370280.910 44.166      part10+part39	1h:45m:44s (5h:12m:7s left)
+ 396 LG+F+I+G4    14370260.086 43.447      part24+part38	1h:45m:50s (5h:11m:22s left)
+ 397 LG+F+I+G4    14370265.102 43.519      part3+part15	1h:46m:1s (5h:10m:50s left)
+ 398 LG+F+I+G4    14370540.085 41.026      part3+part29	1h:46m:3s (5h:9m:54s left)
+ 399 LG+F+I+G4    14370250.060 44.525      part8+part19	1h:46m:16s (5h:9m:31s left)
+ 400 LG+F+I+G4    14370259.326 43.676      part3+part24	1h:46m:31s (5h:9m:11s left)
+ 401 LG+F+I+G4    14370363.529 42.461      part6+part32	1h:47m:25s (5h:10m:45s left)
+ 402 LG+F+I+G4    14370280.884 45.025      part8+part36	1h:47m:33s (5h:10m:5s left)
+ 403 LG+F+I+G4    14370253.776 44.078      part2+part9	1h:47m:55s (5h:10m:7s left)
+ 404 LG+F+I+G4    14370243.592 44.809      part20+part32	1h:48m:5s (5h:9m:32s left)
+ 405 LG+F+I+G4    14370274.111 44.214      part23+part39	1h:48m:18s (5h:9m:8s left)
+ 406 LG+F+I+G4    14370283.742 45.886      part10+part16	1h:48m:21s (5h:8m:15s left)
+ 407 LG+F+I+G4    14370387.530 44.485      part14+part33	1h:48m:37s (5h:7m:58s left)
+ 408 LG+F+I+G4    14370280.409 45.586      part19+part30	1h:48m:54s (5h:7m:45s left)
+ 409 LG+F+I+G4    14370288.174 44.923      part5+part39	1h:49m:26s (5h:8m:14s left)
+ 410 LG+F+I+G4    14370285.760 42.763      part18+part26	1h:49m:26s (5h:7m:15s left)
+ 411 LG+F+I+G4    14370483.065 43.347      part19+part27	1h:49m:52s (5h:7m:25s left)
+ 412 LG+F+I+G4    14370273.239 44.548      part7+part21	1h:50m:5s (5h:7m:2s left)
+ 413 LG+F+I+G4    14370279.479 44.455      part30+part36	1h:50m:8s (5h:6m:8s left)
+ 414 LG+F+I+G4    14370395.291 43.488      part1+part33	1h:50m:30s (5h:6m:9s left)
+ 415 LG+F+I+G4    14370362.962 42.971      part27+part36	1h:50m:46s (5h:5m:55s left)
+ 416 LG+F+I+G4    14370264.253 45.609      part19+part31	1h:50m:50s (5h:5m:5s left)
+ 417 LG+F+I+G4    14370255.166 44.766      part10+part34	1h:51m:16s (5h:5m:17s left)
+ 418 LG+F+I+G4    14370453.012 44.729      part33+part37	1h:51m:28s (5h:4m:48s left)
+ 419 LG+F+I+G4    14370281.196 45.729      part16+part23	1h:51m:36s (5h:4m:10s left)
+ 420 LG+F+I+G4    14370247.899 42.992      part31+part36	1h:51m:52s (5h:3m:55s left)
+ 421 LG+F+I+G4    14370445.645 44.409      part22+part33	1h:52m:7s (5h:3m:36s left)
+ 422 LG+F+I+G4    14370293.782 43.686      part2+part15	1h:52m:19s (5h:3m:9s left)
+ 423 LG+F+I+G4    14370339.494 43.158      part11+part33	1h:52m:32s (5h:2m:45s left)
+ 424 LG+F+I+G4    14370682.073 40.678      part2+part29	1h:52m:45s (5h:2m:21s left)
+ 425 LG+F+I+G4    14370338.223 43.988      part14+part18	1h:52m:49s (5h:1m:34s left)
+ 426 LG+F+I+G4    14370387.099 43.208      part6+part7	1h:53m:14s (5h:1m:41s left)
+ 427 LG+F+I+G4    14370280.275 46.224      part5+part16	1h:53m:24s (5h:1m:10s left)
+ 428 LG+F+I+G4    14370282.591 44.905      part2+part24	1h:53m:39s (5h:0m:53s left)
+ 429 LG+F+I+G4    14370253.525 44.572      part9+part19	1h:53m:57s (5h:0m:41s left)
+ 430 LG+F+I+G4    14370250.225 44.123      part8+part32	1h:54m:9s (5h:0m:15s left)
+ 431 LG+F+I+G4    14370303.435 41.565      part33+part35	1h:54m:28s (5h:0m:8s left)
+ 432 LG+F+I+G4    14370257.235 44.527      part23+part34	1h:54m:37s (4h:59m:32s left)
+ 433 LG+F+I+G4    14370245.127 45.128      part7+part20	1h:54m:41s (4h:58m:47s left)
+ 434 LG+F+I+G4    14370395.652 43.134      part28+part33	1h:55m:3s (4h:58m:46s left)
+ 435 LG+F+I+G4    14370283.628 44.135      part9+part36	1h:55m:13s (4h:58m:16s left)
+ 436 LG+F+I+G4    14370274.348 43.669      part21+part39	1h:55m:25s (4h:57m:49s left)
+ 437 LG+F+I+G4    14370253.768 43.558      part25+part26	1h:55m:40s (4h:57m:31s left)
+ 438 LG+F+I+G4    14370336.544 42.684      part1+part18	1h:55m:57s (4h:57m:19s left)
+ 439 LG+F+I+G4    14370262.995 45.295      part5+part34	1h:56m:26s (4h:57m:36s left)
+ 440 LG+F+I+G4    14370324.185 43.018      part33+part38	1h:56m:32s (4h:56m:54s left)
+ 441 LG+F+I+G4    14370393.543 43.414      part18+part37	1h:56m:34s (4h:56m:4s left)
+ 442 LG+F+I+G4    14370273.767 43.885      part30+part32	1h:56m:41s (4h:55m:25s left)
+ 443 LG+F+I+G4    14370385.786 44.799      part18+part22	1h:57m:18s (4h:56m:3s left)
+ 444 LG+F+I+G4    14370421.631 42.552      part27+part32	1h:57m:19s (4h:55m:10s left)
+ 445 LG+F+I+G4    14370296.964 42.882      part6+part39	1h:57m:46s (4h:55m:22s left)
+ 446 LG+F+I+G4    14370299.669 43.092      part11+part18	1h:57m:51s (4h:54m:37s left)
+ 447 LG+F+I+G4    14370360.808 42.358      part3+part33	1h:58m:4s (4h:54m:16s left)
+ 448 LG+F+I+G4    14370292.840 43.920      part15+part19	1h:58m:28s (4h:54m:19s left)
+ 449 LG+F+I+G4    14370264.360 43.872      part20+part39	1h:58m:35s (4h:53m:41s left)
+ 450 LG+F+I+G4    14370257.867 41.306      part18+part35	1h:58m:41s (4h:53m:2s left)
+ 451 LG+F+I+G4    14370249.031 43.443      part31+part32	1h:58m:52s (4h:52m:33s left)
+ 452 LG+F+I+G4    14370286.713 44.739      part16+part21	1h:59m:26s (4h:53m:3s left)
+ 453 LG+F+I+G4    14370675.451 41.578      part19+part29	1h:59m:32s (4h:52m:23s left)
+ 454 LG+F+I+G4    14370283.026 45.176      part19+part24	1h:59m:57s (4h:52m:30s left)
+ 455 LG+F+I+G4    14370262.092 45.123      part7+part8	2h:0m:4s (4h:51m:53s left)
+ 456 LG+F+I+G4    14370276.084 46.017      part14+part25	2h:0m:23s (4h:51m:43s left)
+ 457 LG+F+I+G4    14370335.967 41.718      part18+part28	2h:0m:41s (4h:51m:34s left)
+ 458 LG+F+I+G4    14370256.722 44.745      part15+part36	2h:0m:45s (4h:50m:49s left)
+ 459 LG+F+I+G4    14370476.112 42.229      part29+part36	2h:0m:58s (4h:50m:26s left)
+ 460 LG+F+I+G4    14370256.490 44.097      part24+part36	2h:1m:12s (4h:50m:5s left)
+ 461 LG+F+I+G4    14370287.179 43.032      part18+part38	2h:1m:32s (4h:50m:1s left)
+ 462 LG+F+I+G4    14370255.425 43.779      part9+part32	2h:1m:36s (4h:49m:16s left)
+ 463 LG+F+I+G4    14370422.212 43.582      part6+part16	2h:1m:53s (4h:49m:4s left)
+ 464 LG+F+I+G4    14370284.320 44.688      part1+part25	2h:2m:20s (4h:49m:13s left)
+ 465 LG+F+I+G4    14370277.867 44.684      part7+part30	2h:2m:30s (4h:48m:45s left)
+ 466 LG+F+I+G4    14370251.266 44.324      part21+part34	2h:2m:43s (4h:48m:22s left)
+ 467 LG+F+I+G4    14370326.251 46.161      part25+part37	2h:2m:48s (4h:47m:42s left)
+ 468 LG+F+I+G4    14370308.512 41.840      part3+part18	2h:3m:21s (4h:48m:6s left)
+ 469 LG+F+I+G4    14370322.151 45.331      part22+part25	2h:3m:41s (4h:47m:59s left)
+ 470 LG+F+I+G4    14370458.055 42.885      part7+part27	2h:3m:46s (4h:47m:18s left)
+ 471 LG+F+I+G4    14370263.098 45.578      part16+part20	2h:3m:52s (4h:46m:40s left)
+ 472 LG+F+I+G4    14370255.349 43.397      part11+part25	2h:4m:8s (4h:46m:24s left)
+ 473 LG+F+I+G4    14370276.437 43.880      part8+part39	2h:4m:26s (4h:46m:13s left)
+ 474 LG+F+I+G4    14370343.497 43.923      part6+part34	2h:4m:31s (4h:45m:33s left)
+ 475 LG+F+I+G4    14370272.167 45.187      part7+part31	2h:4m:44s (4h:45m:13s left)
+ 476 LG+F+I+G4    14370283.750 43.160      part25+part35	2h:5m:19s (4h:45m:39s left)
+ 477 LG+F+I+G4    14370415.010 43.051      part2+part33	2h:5m:21s (4h:44m:52s left)
+ 478 LG+F+I+G4    14370243.644 44.808      part20+part34	2h:5m:43s (4h:44m:51s left)
+ 479 LG+F+I+G4    14370290.456 44.348      part25+part28	2h:5m:52s (4h:44m:19s left)
+ 480 LG+F+I+G4    14370566.440 40.492      part29+part32	2h:6m:6s (4h:44m:0s left)
+ 481 LG+F+I+G4    14370271.355 43.225      part30+part39	2h:6m:19s (4h:43m:38s left)
+ 482 LG+F+I+G4    14370257.747 43.290      part24+part32	2h:6m:31s (4h:43m:14s left)
+ 483 LG+F+I+G4    14370262.445 43.795      part7+part9	2h:6m:49s (4h:43m:3s left)
+ 484 LG+F+I+G4    14370262.218 43.324      part15+part32	2h:6m:57s (4h:42m:31s left)
+ 485 LG+F+I+G4    14370258.051 44.880      part25+part38	2h:7m:26s (4h:42m:43s left)
+ 486 LG+F+I+G4    14370275.700 44.643      part8+part16	2h:7m:39s (4h:42m:21s left)
+ 487 LG+F+I+G4    14370350.116 42.413      part27+part39	2h:8m:0s (4h:42m:18s left)
+ 488 LG+F+I+G4    14370242.224 42.061      part31+part39	2h:8m:2s (4h:41m:31s left)
+ 489 LG+F+I+G4    14370278.148 43.431      part3+part25	2h:8m:3s (4h:40m:44s left)
+ 490 LG+F+I+G4    14370354.738 42.557      part2+part18	2h:8m:9s (4h:40m:7s left)
+ 491 LG+F+I+G4    14370247.459 45.095      part8+part34	2h:8m:45s (4h:40m:34s left)
+ 492 LG+F+I+G4    14370415.048 43.599      part19+part33	2h:8m:58s (4h:40m:13s left)
+ 493 LG+F+I+G4    14370303.037 45.143      part16+part30	2h:9m:7s (4h:39m:42s left)
+ 494 LG+F+I+G4    14370284.452 43.805      part9+part39	2h:9m:40s (4h:40m:5s left)
+ 495 LG+F+I+G4    14370502.797 43.739      part16+part27	2h:9m:41s (4h:39m:18s left)
+ 496 LG+F+I+G4    14370267.957 43.926      part16+part31	2h:10m:1s (4h:39m:10s left)
+ 497 LG+F+I+G4    14370325.908 43.765      part33+part36	2h:10m:4s (4h:38m:27s left)
+ 498 LG+F+I+G4    14370644.852 41.206      part7+part29	2h:10m:5s (4h:37m:40s left)
+ 499 LG+F+I+G4    14370302.199 43.812      part7+part15	2h:10m:5s (4h:36m:51s left)
+ 500 LG+F+I+G4    14370289.933 44.392      part7+part24	2h:10m:36s (4h:37m:9s left)
+ 501 LG+F+I+G4    14370266.813 43.479      part30+part34	2h:10m:57s (4h:37m:3s left)
+ 502 LG+F+I+G4    14370406.388 43.025      part27+part34	2h:11m:21s (4h:37m:7s left)
+ 503 LG+F+I+G4    14370353.800 42.772      part18+part19	2h:11m:40s (4h:36m:58s left)
+ 504 LG+F+I+G4    14370308.065 44.740      part2+part25	2h:11m:45s (4h:36m:20s left)
+ 505 LG+F+I+G4    14370293.904 45.481      part9+part16	2h:11m:59s (4h:36m:0s left)
+ 506 LG+F+I+G4    14370255.339 43.714      part15+part39	2h:12m:1s (4h:35m:16s left)
+ 507 LG+F+I+G4    14370244.605 44.640      part31+part34	2h:12m:5s (4h:34m:37s left)
+ 508 LG+F+I+G4    14370287.403 43.309      part18+part36	2h:12m:7s (4h:33m:51s left)
+ 509 LG+F+I+G4    14370469.905 40.213      part29+part39	2h:12m:32s (4h:33m:56s left)
+ 510 LG+F+I+G4    14370254.329 42.942      part24+part39	2h:12m:47s (4h:33m:38s left)
+ 511 LG+F+I+G4    14370379.665 42.684      part32+part33	2h:13m:29s (4h:34m:18s left)
+ 512 LG+F+I+G4    14370248.092 44.363      part9+part34	2h:13m:37s (4h:33m:46s left)
+ 513 LG+F+I+G4    14370280.102 44.952      part15+part16	2h:13m:41s (4h:33m:8s left)
+ 514 LG+F+I+G4    14370287.243 44.265      part16+part24	2h:14m:4s (4h:33m:5s left)
+ 515 LG+F+I+G4    14370682.776 42.622      part16+part29	2h:14m:6s (4h:32m:23s left)
+ 516 LG+F+I+G4    14370299.009 45.883      part19+part25	2h:14m:12s (4h:31m:48s left)
+ 517 LG+F+I+G4    14370324.925 42.351      part18+part32	2h:14m:15s (4h:31m:6s left)
+ 518 LG+F+I+G4    14370252.120 44.556      part25+part36	2h:14m:37s (4h:31m:4s left)
+ 519 LG+F+I+G4    14370262.410 44.745      part15+part34	2h:14m:54s (4h:30m:51s left)
+ 520 LG+F+I+G4    14370391.074 43.634      part7+part33	2h:15m:39s (4h:31m:35s left)
+ 521 LG+F+I+G4    14370253.210 44.698      part24+part34	2h:15m:44s (4h:30m:58s left)
+ 522 LG+F+I+G4    14370541.949 42.659      part29+part34	2h:15m:46s (4h:30m:15s left)
+ 523 LG+F+I+G4    14370312.701 42.514      part33+part39	2h:16m:1s (4h:29m:57s left)
+ 524 LG+F+I+G4    14370440.045 43.491      part16+part33	2h:16m:6s (4h:29m:22s left)
+ 525 LG+F+I+G4    14370277.143 44.431      part25+part32	2h:16m:6s (4h:28m:35s left)
+ 526 LG+F+I+G4    14370343.498 43.894      part7+part18	2h:16m:7s (4h:27m:50s left)
+ 527 LG+F+I+G4    14370282.340 41.635      part18+part39	2h:16m:34s (4h:27m:58s left)
+ 528 LG+F+I+G4    14370362.835 43.693      part33+part34	2h:16m:58s (4h:27m:59s left)
+ 529 LG+F+I+G4    14370380.619 43.861      part16+part18	2h:17m:37s (4h:28m:28s left)
+ 530 LG+F+I+G4    14370302.260 45.384      part7+part25	2h:17m:40s (4h:27m:49s left)
+ 531 LG+F+I+G4    14370299.704 44.197      part4+part40	2h:17m:42s (4h:27m:6s left)
+ 532 LG+F+I+G4    14370244.884 42.986      part25+part39	2h:17m:44s (4h:26m:24s left)
+ 533 LG+F+I+G4    14370301.784 43.252      part18+part34	2h:18m:6s (4h:26m:22s left)
+ 534 LG+F+I+G4    14370284.924 45.332      part16+part25	2h:18m:8s (4h:25m:40s left)
+ 535 LG+F+I+G4    14370238.400 44.832      part10+part23	2h:18m:12s (4h:25m:2s left)
+ 536 LG+F+I+G4    14370268.111 44.398      part25+part34	2h:18m:15s (4h:24m:23s left)
+ 537 LG+F+I+G4    14370283.635 42.627      part4+part26	2h:18m:32s (4h:24m:11s left)
+ 538 LG+F+I+G4    14370240.768 45.489      part5+part10	2h:19m:18s (4h:24m:52s left)
+ 539 LG+F+I+G4    14370240.671 44.790      part5+part23	2h:19m:19s (4h:24m:9s left)
+ 540 LG+F+I+G4    14370237.475 44.937      part10+part21	2h:19m:27s (4h:23m:41s left)
+ 541 LG+F+I+G4    14370308.484 44.984      part4+part14	2h:19m:28s (4h:22m:58s left)
+ 542 LG+F+I+G4    14370313.282 42.946      part1+part4	2h:19m:48s (4h:22m:51s left)
+ 543 LG+F+I+G4    14370350.485 44.825      part4+part37	2h:19m:50s (4h:22m:9s left)
+ 544 LG+F+I+G4    14370332.731 44.864      part4+part22	2h:19m:52s (4h:21m:30s left)
+ 545 LG+F+I+G4    14370286.704 43.548      part4+part11	2h:19m:55s (4h:20m:51s left)
+ 546 LG+F+I+G4    14370328.559 43.846      part6+part10	2h:20m:19s (4h:20m:52s left)
+ 547 LG+F+I+G4    14370236.932 44.585      part21+part23	2h:20m:57s (4h:21m:18s left)
+ 548 LG+F+I+G4    14370240.512 45.125      part10+part20	2h:20m:59s (4h:20m:37s left)
+ 549 LG+F+I+G4    14370297.922 41.062      part4+part35	2h:20m:59s (4h:19m:53s left)
+ 550 LG+F+I+G4    14370311.886 42.008      part4+part28	2h:21m:0s (4h:19m:12s left)
+ 551 LG+F+I+G4    14370237.559 44.664      part20+part23	2h:21m:32s (4h:19m:26s left)
+ 552 LG+F+I+G4    14370321.909 42.466      part6+part23	2h:21m:34s (4h:18m:46s left)
+ 553 LG+F+I+G4    14370244.751 45.256      part5+part21	2h:22m:4s (4h:18m:57s left)
+ 554 LG+F+I+G4    14370338.343 43.059      part5+part6	2h:22m:4s (4h:18m:15s left)
+ 555 LG+F+I+G4    14370292.943 43.354      part4+part38	2h:22m:7s (4h:17m:36s left)
+ 556 LG+F+I+G4    14370295.519 41.969      part3+part4	2h:22m:29s (4h:17m:33s left)
+ 557 LG+F+I+G4    14370238.216 45.353      part5+part20	2h:22m:30s (4h:16m:52s left)
+ 558 LG+F+I+G4    14370329.913 46.033      part13+part40	2h:22m:36s (4h:16m:20s left)
+ 559 LG+F+I+G4    14370235.128 45.207      part8+part10	2h:22m:40s (4h:15m:44s left)
+ 560 LG+F+I+G4    14370247.478 44.595      part10+part30	2h:23m:8s (4h:15m:51s left)
+ 561 LG+F+I+G4    14370236.418 44.923      part8+part23	2h:23m:12s (4h:15m:17s left)
+ 562 LG+F+I+G4    14370315.204 42.802      part6+part21	2h:23m:50s (4h:15m:41s left)
+ 563 LG+F+I+G4    14370355.732 44.982      part17+part40	2h:24m:5s (4h:15m:25s left)
+ 564 LG+F+I+G4    14370306.982 42.196      part2+part4	2h:24m:11s (4h:14m:53s left)
+ 565 LG+F+I+G4    14370242.057 44.880      part20+part21	2h:24m:15s (4h:14m:17s left)
+ 566 LG+F+I+G4    14370246.459 45.183      part10+part31	2h:24m:17s (4h:13m:38s left)
+ 567 LG+F+I+G4    14370238.835 45.546      part5+part8	2h:24m:24s (4h:13m:9s left)
+ 568 LG+F+I+G4    14370383.671 42.532      part10+part27	2h:24m:24s (4h:12m:27s left)
+ 569 LG+F+I+G4    14370243.708 44.363      part23+part30	2h:24m:43s (4h:12m:19s left)
+ 570 LG+F+I+G4    14370369.116 42.075      part23+part27	2h:24m:56s (4h:11m:59s left)
+ 571 LG+F+I+G4    14370246.975 45.248      part5+part30	2h:25m:26s (4h:12m:9s left)
+ 572 LG+F+I+G4    14370247.918 45.050      part23+part31	2h:25m:51s (4h:12m:11s left)
+ 573 LG+F+I+G4    14370324.194 43.308      part6+part20	2h:25m:51s (4h:11m:29s left)
+ 574 LG+F+I+G4    14370238.576 44.437      part9+part10	2h:25m:51s (4h:10m:48s left)
+ 575 LG+F+I+G4    14370400.620 42.628      part5+part27	2h:26m:1s (4h:10m:24s left)
+ 576 LG+F+I+G4    14370241.399 44.789      part9+part23	2h:26m:23s (4h:10m:20s left)
+ 577 LG+F+I+G4    14370326.522 43.463      part4+part19	2h:26m:38s (4h:10m:4s left)
+ 578 LG+F+I+G4    14370253.875 45.652      part5+part31	2h:26m:38s (4h:9m:22s left)
+ 579 LG+F+I+G4    14370237.592 44.071      part8+part21	2h:26m:39s (4h:8m:44s left)
+ 580 LG+F+I+G4    14370242.262 44.729      part5+part9	2h:27m:4s (4h:8m:46s left)
+ 581 LG+F+I+G4    14370258.713 44.978      part10+part15	2h:27m:29s (4h:8m:46s left)
+ 582 LG+F+I+G4    14370291.828 44.215      part4+part36	2h:27m:31s (4h:8m:9s left)
+ 583 LG+F+I+G4    14370327.152 42.789      part6+part8	2h:27m:37s (4h:7m:38s left)
+ 584 LG+F+I+G4    14370244.590 44.330      part21+part30	2h:27m:39s (4h:7m:0s left)
+ 585 LG+F+I+G4    14370499.595 41.862      part10+part29	2h:28m:5s (4h:7m:4s left)
+ 586 LG+F+I+G4    14370246.365 44.915      part10+part24	2h:28m:20s (4h:6m:48s left)
+ 587 LG+F+I+G4    14370247.345 44.590      part21+part31	2h:28m:43s (4h:6m:46s left)
+ 588 LG+F+I+G4    14370239.764 44.790      part8+part20	2h:28m:52s (4h:6m:21s left)
+ 589 LG+F+I+G4    14370364.026 42.034      part21+part27	2h:28m:58s (4h:5m:51s left)
+ 590 LG+F+I+G4    14370256.278 44.456      part15+part23	2h:29m:9s (4h:5m:28s left)
+ 591 LG+F+I+G4    14370289.745 43.358      part6+part30	2h:29m:12s (4h:4m:53s left)
+ 592 LG+F+I+G4    14370475.955 41.770      part23+part29	2h:29m:13s (4h:4m:15s left)
+ 593 LG+F+I+G4    14370246.282 43.917      part23+part24	2h:29m:41s (4h:4m:20s left)
+ 594 LG+F+I+G4    14370246.183 40.525      part6+part27	2h:29m:45s (4h:3m:48s left)
+ 595 LG+F+I+G4    14370242.154 44.887      part20+part30	2h:29m:49s (4h:3m:15s left)
+ 596 LG+F+I+G4    14370273.287 44.547      part5+part15	2h:30m:20s (4h:3m:25s left)
+ 597 LG+F+I+G4    14370530.401 41.948      part5+part29	2h:30m:50s (4h:3m:34s left)
+ 598 LG+F+I+G4    14370258.547 44.767      part5+part24	2h:30m:51s (4h:2m:56s left)
+ 599 LG+F+I+G4    14370240.888 44.564      part9+part21	2h:30m:52s (4h:2m:18s left)
+ 600 LG+F+I+G4    14370384.860 42.267      part20+part27	2h:31m:12s (4h:2m:11s left)
+ 601 LG+F+I+G4    14370289.234 43.379      part6+part31	2h:31m:19s (4h:1m:43s left)
+ 602 LG+F+I+G4    14370294.604 43.354      part4+part32	2h:31m:20s (4h:1m:6s left)
+ 603 LG+F+I+G4    14370250.093 44.131      part20+part31	2h:31m:23s (4h:0m:31s left)
+ 604 LG+F+I+G4    14370323.887 43.096      part6+part9	2h:31m:36s (4h:0m:13s left)
+ 605 LG+F+I+G4    14370244.307 44.870      part9+part20	2h:31m:57s (4h:0m:7s left)
+ 606 LG+F+I+G4    14370244.702 44.966      part8+part30	2h:32m:24s (4h:0m:10s left)
+ 607 LG+F+I+G4    14370256.622 43.072      part15+part21	2h:32m:28s (3h:59m:39s left)
+ 608 LG+F+I+G4    14370385.785 42.596      part8+part27	2h:32m:35s (3h:59m:9s left)
+ 609 LG+F+I+G4    14370251.424 45.042      part8+part31	2h:33m:1s (3h:59m:12s left)
+ 610 LG+F+I+G4    14370324.547 45.088      part13+part26	2h:33m:6s (3h:58m:42s left)
+ 611 LG+F+I+G4    14370336.695 43.646      part10+part33	2h:33m:11s (3h:58m:11s left)
+ 612 LG+F+I+G4    14370313.917 43.452      part4+part7	2h:33m:28s (3h:57m:59s left)
+ 613 LG+F+I+G4    14370465.152 40.381      part21+part29	2h:33m:31s (3h:57m:25s left)
+ 614 LG+F+I+G4    14370244.161 44.204      part21+part24	2h:33m:36s (3h:56m:55s left)
+ 615 LG+F+I+G4    14370344.136 42.302      part27+part30	2h:34m:4s (3h:57m:0s left)
+ 616 LG+F+I+G4    14370307.585 41.954      part6+part15	2h:34m:17s (3h:56m:41s left)
+ 617 LG+F+I+G4    14370275.314 39.369      part6+part29	2h:34m:44s (3h:56m:44s left)
+ 618 LG+F+I+G4    14370292.219 43.146      part6+part24	2h:34m:47s (3h:56m:12s left)
+ 619 LG+F+I+G4    14370239.890 45.026      part8+part9	2h:34m:49s (3h:55m:36s left)
+ 620 LG+F+I+G4    14370263.980 44.709      part15+part20	2h:34m:50s (3h:55m:0s left)
+ 621 LG+F+I+G4    14370242.975 45.303      part30+part31	2h:35m:8s (3h:54m:49s left)
+ 622 LG+F+I+G4    14370252.103 43.826      part20+part24	2h:35m:39s (3h:54m:58s left)
+ 623 LG+F+I+G4    14370516.779 41.049      part20+part29	2h:35m:41s (3h:54m:25s left)
+ 624 LG+F+I+G4    14370330.247 43.175      part23+part33	2h:35m:46s (3h:53m:54s left)
+ 625 LG+F+I+G4    14370331.599 42.273      part27+part31	2h:36m:12s (3h:53m:56s left)
+ 626 LG+F+I+G4    14370285.601 41.861      part4+part39	2h:36m:18s (3h:53m:27s left)
+ 627 LG+F+I+G4    14370339.940 44.740      part17+part26	2h:36m:21s (3h:52m:55s left)
+ 628 LG+F+I+G4    14370341.010 43.836      part5+part33	2h:36m:26s (3h:52m:24s left)
+ 629 LG+F+I+G4    14370310.224 46.899      part13+part14	2h:36m:26s (3h:51m:48s left)
+ 630 LG+F+I+G4    14370294.848 43.919      part10+part18	2h:36m:42s (3h:51m:35s left)
+ 631 LG+F+I+G4    14370325.655 46.953      part1+part13	2h:37m:22s (3h:51m:57s left)
+ 632 LG+F+I+G4    14370312.523 48.308      part13+part37	2h:37m:47s (3h:51m:57s left)
+ 633 LG+F+I+G4    14370247.766 44.406      part9+part30	2h:37m:51s (3h:51m:25s left)
+ 634 LG+F+I+G4    14370258.992 44.806      part9+part31	2h:37m:54s (3h:50m:52s left)
+ 635 LG+F+I+G4    14370262.836 44.230      part8+part15	2h:37m:58s (3h:50m:21s left)
+ 636 LG+F+I+G4    14370331.250 46.686      part13+part22	2h:37m:59s (3h:49m:47s left)
+ 637 LG+F+I+G4    14370376.106 42.346      part9+part27	2h:38m:2s (3h:49m:14s left)
+ 638 LG+F+I+G4    14370291.141 43.419      part18+part23	2h:38m:9s (3h:48m:48s left)
+ 639 LG+F+I+G4    14370498.026 41.683      part8+part29	2h:38m:21s (3h:48m:29s left)
+ 640 LG+F+I+G4    14370316.245 46.061      part11+part13	2h:39m:8s (3h:49m:0s left)
+ 641 LG+F+I+G4    14370249.446 44.939      part8+part24	2h:39m:24s (3h:48m:47s left)
+ 642 LG+F+I+G4    14370374.373 44.568      part13+part35	2h:39m:31s (3h:48m:21s left)
+ 643 LG+F+I+G4    14370306.318 44.297      part5+part18	2h:39m:36s (3h:47m:52s left)
+ 644 LG+F+I+G4    14370320.973 44.156      part4+part16	2h:39m:36s (3h:47m:16s left)
+ 645 LG+F+I+G4    14370262.013 44.465      part15+part30	2h:39m:55s (3h:47m:7s left)
+ 646 LG+F+I+G4    14370324.110 42.397      part21+part33	2h:39m:57s (3h:46m:34s left)
+ 647 LG+F+I+G4    14370342.425 46.684      part14+part17	2h:40m:3s (3h:46m:6s left)
+ 648 LG+F+I+G4    14370331.286 46.035      part13+part28	2h:40m:15s (3h:45m:48s left)
+ 649 LG+F+I+G4    14370447.490 41.456      part29+part30	2h:40m:47s (3h:45m:57s left)
+ 650 LG+F+I+G4    14370357.254 46.047      part1+part17	2h:41m:27s (3h:46m:17s left)
+ 651 LG+F+I+G4    14370310.144 43.955      part4+part34	2h:41m:30s (3h:45m:46s left)
+ 652 LG+F+I+G4    14370276.507 45.057      part10+part25	2h:41m:43s (3h:45m:28s left)
+ 653 LG+F+I+G4    14370246.928 44.413      part24+part30	2h:41m:53s (3h:45m:6s left)
+ 654 LG+F+I+G4    14370351.868 42.271      part15+part27	2h:42m:11s (3h:44m:56s left)
+ 655 LG+F+I+G4    14370330.784 45.381      part13+part38	2h:42m:33s (3h:44m:51s left)
+ 656 LG+F+I+G4    14370335.199 42.096      part24+part27	2h:43m:12s (3h:45m:9s left)
+ 657 LG+F+I+G4    14370266.551 39.926      part27+part29	2h:43m:39s (3h:45m:11s left)
+ 658 LG+F+I+G4    14370239.170 45.062      part15+part31	2h:43m:41s (3h:44m:38s left)
+ 659 LG+F+I+G4    14370355.038 48.312      part17+part37	2h:43m:42s (3h:44m:4s left)
+ 660 LG+F+I+G4    14370369.599 46.517      part17+part22	2h:43m:55s (3h:43m:46s left)
+ 661 LG+F+I+G4    14370238.308 41.206      part6+part33	2h:44m:13s (3h:43m:36s left)
+ 662 LG+F+I+G4    14370334.929 44.875      part11+part17	2h:44m:16s (3h:43m:4s left)
+ 663 LG+F+I+G4    14370402.630 40.923      part29+part31	2h:44m:45s (3h:43m:9s left)
+ 664 LG+F+I+G4    14370350.036 45.265      part3+part13	2h:45m:0s (3h:42m:55s left)
+ 665 LG+F+I+G4    14370236.890 43.618      part24+part31	2h:45m:30s (3h:43m:0s left)
+ 666 LG+F+I+G4    14370328.556 43.536      part20+part33	2h:45m:55s (3h:42m:58s left)
+ 667 LG+F+I+G4    14370275.864 45.135      part23+part25	2h:46m:0s (3h:42m:30s left)
+ 668 LG+F+I+G4    14370368.965 43.950      part17+part35	2h:46m:1s (3h:41m:56s left)
+ 669 LG+F+I+G4    14370360.534 45.552      part17+part28	2h:46m:6s (3h:41m:28s left)
+ 670 LG+F+I+G4    14370286.538 42.001      part18+part21	2h:46m:29s (3h:41m:24s left)
+ 671 LG+F+I+G4    14370275.010 44.237      part9+part15	2h:46m:30s (3h:40m:50s left)
+ 672 LG+F+I+G4    14370482.770 41.001      part9+part29	2h:46m:55s (3h:40m:49s left)
+ 673 LG+F+I+G4    14370283.528 45.805      part5+part25	2h:47m:5s (3h:40m:28s left)
+ 674 LG+F+I+G4    14370255.092 44.740      part9+part24	2h:47m:43s (3h:40m:43s left)
+ 675 LG+F+I+G4    14370346.932 44.909      part17+part38	2h:47m:56s (3h:40m:25s left)
+ 676 LG+F+I+G4    14370296.702 42.752      part18+part20	2h:48m:13s (3h:40m:14s left)
+ 677 LG+F+I+G4    14370336.859 45.758      part2+part13	2h:48m:27s (3h:39m:57s left)
+ 678 LG+F+I+G4    14370332.686 42.857      part8+part33	2h:48m:27s (3h:39m:23s left)
+ 679 LG+F+I+G4    14370368.133 44.969      part3+part17	2h:48m:54s (3h:39m:23s left)
+ 680 LG+F+I+G4    14370240.578 44.067      part15+part24	2h:48m:56s (3h:38m:52s left)
+ 681 LG+F+I+G4    14370432.549 40.183      part15+part29	2h:49m:3s (3h:38m:28s left)
+ 682 LG+F+I+G4    14370240.303 41.314      part6+part18	2h:49m:4s (3h:37m:54s left)
+ 683 LG+F+I+G4    14370273.745 45.362      part21+part25	2h:49m:25s (3h:37m:48s left)
+ 684 LG+F+I+G4    14370420.391 40.779      part24+part29	2h:49m:43s (3h:37m:37s left)
+ 685 LG+F+I+G4    14370290.576 43.458      part6+part25	2h:50m:15s (3h:37m:43s left)
+ 686 LG+F+I+G4    14370254.249 40.746      part27+part33	2h:50m:25s (3h:37m:22s left)
+ 687 LG+F+I+G4    14370293.973 43.256      part30+part33	2h:50m:36s (3h:37m:2s left)
+ 688 LG+F+I+G4    14370365.145 45.436      part2+part17	2h:51m:18s (3h:37m:22s left)
+ 689 LG+F+I+G4    14370296.671 43.611      part31+part33	2h:51m:19s (3h:36m:49s left)
+ 690 LG+F+I+G4    14370327.781 43.232      part9+part33	2h:51m:30s (3h:36m:29s left)
+ 691 LG+F+I+G4    14370327.595 46.651      part13+part19	2h:51m:33s (3h:36m:0s left)
+ 692 LG+F+I+G4    14370297.355 42.791      part8+part18	2h:51m:53s (3h:35m:50s left)
+ 693 LG+F+I+G4    14370271.169 44.182      part20+part25	2h:51m:54s (3h:35m:19s left)
+ 694 LG+F+I+G4    14370269.391 43.500      part18+part30	2h:52m:7s (3h:35m:1s left)
+ 695 LG+F+I+G4    14370318.401 46.505      part13+part36	2h:52m:16s (3h:34m:40s left)
+ 696 LG+F+I+G4    14370261.228 41.105      part18+part27	2h:52m:34s (3h:34m:28s left)
+ 697 LG+F+I+G4    14370277.698 45.230      part8+part25	2h:52m:47s (3h:34m:12s left)
+ 698 LG+F+I+G4    14370270.051 42.493      part18+part31	2h:53m:1s (3h:33m:56s left)
+ 699 LG+F+I+G4    14370363.185 46.388      part17+part19	2h:53m:5s (3h:33m:27s left)
+ 700 LG+F+I+G4    14370290.067 43.730      part9+part18	2h:53m:10s (3h:33m:0s left)
+ 701 LG+F+I+G4    14370297.668 40.134      part29+part33	2h:53m:50s (3h:33m:16s left)
+ 702 LG+F+I+G4    14370334.719 45.333      part17+part36	2h:53m:52s (3h:32m:45s left)
+ 703 LG+F+I+G4    14370302.533 43.255      part24+part33	2h:53m:56s (3h:32m:17s left)
+ 704 LG+F+I+G4    14370321.661 42.397      part15+part33	2h:54m:0s (3h:31m:49s left)
+ 705 LG+F+I+G4    14370261.839 44.962      part25+part30	2h:54m:3s (3h:31m:20s left)
+ 706 LG+F+I+G4    14370331.337 45.048      part13+part32	2h:54m:30s (3h:31m:20s left)
+ 707 LG+F+I+G4    14370245.001 43.574      part25+part31	2h:54m:34s (3h:30m:51s left)
+ 708 LG+F+I+G4    14370348.894 42.982      part25+part27	2h:54m:48s (3h:30m:36s left)
+ 709 LG+F+I+G4    14370289.950 42.140      part15+part18	2h:54m:56s (3h:30m:14s left)
+ 710 LG+F+I+G4    14370356.956 45.200      part17+part32	2h:55m:39s (3h:30m:32s left)
+ 711 LG+F+I+G4    14370321.440 43.950      part7+part13	2h:55m:42s (3h:30m:3s left)
+ 712 LG+F+I+G4    14370308.463 38.955      part18+part29	2h:55m:42s (3h:29m:31s left)
+ 713 LG+F+I+G4    14370290.531 44.876      part9+part25	2h:55m:44s (3h:29m:1s left)
+ 714 LG+F+I+G4    14370271.050 42.169      part18+part24	2h:55m:45s (3h:28m:30s left)
+ 715 LG+F+I+G4    14370250.455 43.281      part15+part25	2h:56m:9s (3h:28m:25s left)
+ 716 LG+F+I+G4    14370436.310 40.638      part25+part29	2h:56m:20s (3h:28m:7s left)
+ 717 LG+F+I+G4    14370253.043 43.859      part24+part25	2h:56m:32s (3h:27m:48s left)
+ 718 LG+F+I+G4    14370304.561 45.947      part13+part39	2h:56m:46s (3h:27m:33s left)
+ 719 LG+F+I+G4    14370354.708 45.407      part7+part17	2h:57m:24s (3h:27m:45s left)
+ 720 LG+F+I+G4    14370325.207 45.583      part17+part39	2h:57m:26s (3h:27m:16s left)
+ 721 LG+F+I+G4    14370332.890 46.024      part13+part34	2h:57m:28s (3h:26m:45s left)
+ 722 LG+F+I+G4    14370324.627 47.478      part13+part16	2h:57m:29s (3h:26m:15s left)
+ 723 LG+F+I+G4    14370242.440 41.481      part18+part33	2h:57m:32s (3h:25m:47s left)
+ 724 LG+F+I+G4    14370356.475 47.047      part16+part17	2h:57m:56s (3h:25m:42s left)
+ 725 LG+F+I+G4    14370300.077 44.120      part25+part33	2h:58m:2s (3h:25m:18s left)
+ 726 LG+F+I+G4    14370355.298 45.559      part17+part34	2h:58m:16s (3h:25m:1s left)
+ 727 LG+F+I+G4    14370281.162 43.056      part18+part25	2h:58m:37s (3h:24m:55s left)
+ 728 LG+F+I+G4    14370239.190 45.444      part12+part40	2h:58m:58s (3h:24m:47s left)
+ 729 LG+F+I+G4    14370238.493 46.393      part1+part12	2h:58m:59s (3h:24m:16s left)
+ 730 LG+F+I+G4    14370230.241 46.537      part12+part14	2h:59m:0s (3h:23m:46s left)
+ 731 LG+F+I+G4    14370243.959 44.260      part12+part26	2h:59m:1s (3h:23m:16s left)
+ 732 LG+F+I+G4    14370226.347 48.121      part12+part37	2h:59m:7s (3h:22m:51s left)
+ 733 LG+F+I+G4    14370235.089 46.288      part12+part22	2h:59m:28s (3h:22m:44s left)
+ 734 LG+F+I+G4    14370274.089 43.330      part12+part35	2h:59m:42s (3h:22m:28s left)
+ 735 LG+F+I+G4    14370238.935 45.051      part11+part12	2h:59m:48s (3h:22m:4s left)
+ 736 LG+F+I+G4    14370244.037 45.348      part12+part28	3h:0m:6s (3h:21m:53s left)
+ 737 LG+F+I+G4    14370247.968 44.505      part12+part38	3h:0m:26s (3h:21m:44s left)
+ 738 LG+F+I+G4    14370253.068 44.486      part3+part12	3h:0m:28s (3h:21m:15s left)
+ 739 LG+F+I+G4    14370242.574 45.975      part12+part19	3h:0m:31s (3h:20m:47s left)
+ 740 LG+F+I+G4    14370243.517 45.407      part12+part36	3h:0m:38s (3h:20m:24s left)
+ 741 LG+F+I+G4    14370243.196 45.075      part2+part12	3h:0m:40s (3h:19m:55s left)
+ 742 LG+F+I+G4    14370243.556 44.646      part12+part32	3h:0m:50s (3h:19m:36s left)
+ 743 LG+F+I+G4    14370236.143 44.811      part7+part12	3h:1m:25s (3h:19m:44s left)
+ 744 LG+F+I+G4    14370236.578 47.149      part12+part16	3h:1m:36s (3h:19m:26s left)
+ 745 LG+F+I+G4    14370233.717 44.776      part12+part39	3h:1m:37s (3h:18m:55s left)
+ 746 LG+F+I+G4    14370242.707 44.333      part4+part10	3h:1m:51s (3h:18m:40s left)
+ 747 LG+F+I+G4    14370233.898 43.626      part4+part23	3h:1m:57s (3h:18m:16s left)
+ 748 LG+F+I+G4    14370236.212 43.231      part4+part21	3h:2m:0s (3h:17m:49s left)
+ 749 LG+F+I+G4    14370252.567 45.200      part12+part34	3h:2m:3s (3h:17m:22s left)
+ 750 LG+F+I+G4    14370246.798 43.852      part4+part5	3h:2m:9s (3h:16m:58s left)
+ 751 LG+F+I+G4    14370265.337 39.683      part4+part6	3h:2m:12s (3h:16m:31s left)
+ 752 LG+F+I+G4    14370237.093 43.289      part4+part8	3h:3m:0s (3h:16m:52s left)
+ 753 LG+F+I+G4    14370237.995 43.836      part4+part30	3h:3m:0s (3h:16m:22s left)
+ 754 LG+F+I+G4    14370237.444 43.065      part4+part20	3h:3m:4s (3h:15m:56s left)
+ 755 LG+F+I+G4    14370218.409 42.841      part4+part31	3h:3m:20s (3h:15m:43s left)
+ 756 LG+F+I+G4    14370285.497 40.559      part4+part27	3h:3m:23s (3h:15m:17s left)
+ 757 LG+F+I+G4    14370244.365 43.408      part4+part9	3h:3m:24s (3h:14m:47s left)
+ 758 LG+F+I+G4    14370344.192 38.807      part4+part29	3h:3m:34s (3h:14m:28s left)
+ 759 LG+F+I+G4    14370228.563 42.853      part4+part24	3h:3m:37s (3h:14m:1s left)
+ 760 LG+F+I+G4    14370233.090 41.438      part4+part15	3h:3m:46s (3h:13m:41s left)
+ 761 LG+F+I+G4    14370301.692 46.261      part13+part23	3h:4m:16s (3h:13m:42s left)
+ 762 LG+F+I+G4    14370296.804 46.862      part10+part13	3h:4m:19s (3h:13m:16s left)
+ 763 LG+F+I+G4    14370302.203 45.246      part17+part23	3h:4m:36s (3h:13m:4s left)
+ 764 LG+F+I+G4    14370303.734 46.291      part10+part17	3h:4m:38s (3h:12m:37s left)
+ 765 LG+F+I+G4    14370281.956 46.714      part5+part13	3h:4m:42s (3h:12m:11s left)
+ 766 LG+F+I+G4    14370295.540 46.249      part5+part17	3h:4m:51s (3h:11m:51s left)
+ 767 LG+F+I+G4    14370275.077 41.406      part4+part33	3h:4m:52s (3h:11m:22s left)
+ 768 LG+F+I+G4    14370254.502 40.385      part4+part18	3h:5m:7s (3h:11m:8s left)
+ 769 LG+F+I+G4    14370298.717 46.032      part13+part21	3h:5m:30s (3h:11m:3s left)
+ 770 LG+F+I+G4    14370311.282 44.549      part6+part13	3h:5m:30s (3h:10m:34s left)
+ 771 LG+F+I+G4    14370282.307 46.886      part13+part20	3h:5m:31s (3h:10m:5s left)
+ 772 LG+F+I+G4    14370300.612 45.834      part17+part21	3h:5m:41s (3h:9m:46s left)
+ 773 LG+F+I+G4    14370250.706 42.249      part4+part25	3h:5m:46s (3h:9m:23s left)
+ 774 LG+F+I+G4    14370304.718 42.670      part6+part17	3h:6m:2s (3h:9m:10s left)
+ 775 LG+F+I+G4    14370291.335 46.714      part8+part13	3h:6m:2s (3h:8m:41s left)
+ 776 LG+F+I+G4    14370292.831 46.388      part17+part20	3h:6m:5s (3h:8m:15s left)
+ 777 LG+F+I+G4    14370272.500 46.229      part13+part30	3h:6m:15s (3h:7m:56s left)
+ 778 LG+F+I+G4    14370297.863 46.215      part8+part17	3h:6m:42s (3h:7m:54s left)
+ 779 LG+F+I+G4    14370381.676 43.342      part13+part27	3h:6m:44s (3h:7m:28s left)
+ 780 LG+F+I+G4    14370304.014 45.391      part9+part13	3h:6m:47s (3h:7m:2s left)
+ 781 LG+F+I+G4    14370277.952 45.802      part17+part30	3h:6m:49s (3h:6m:35s left)
+ 782 LG+F+I+G4    14370269.011 47.039      part13+part31	3h:6m:50s (3h:6m:7s left)
+ 783 LG+F+I+G4    14370273.238 46.739      part17+part31	3h:7m:6s (3h:5m:54s left)
+ 784 LG+F+I+G4    14370361.007 42.422      part17+part27	3h:7m:16s (3h:5m:36s left)
+ 785 LG+F+I+G4    14370312.225 45.422      part9+part17	3h:7m:20s (3h:5m:11s left)
+ 786 LG+F+I+G4    14370291.276 45.489      part13+part15	3h:7m:31s (3h:4m:53s left)
+ 787 LG+F+I+G4    14370291.506 45.344      part15+part17	3h:7m:51s (3h:4m:44s left)
+ 788 LG+F+I+G4    14370290.464 45.943      part13+part24	3h:7m:53s (3h:4m:19s left)
+ 789 LG+F+I+G4    14370289.041 45.985      part17+part24	3h:7m:54s (3h:3m:51s left)
+ 790 LG+F+I+G4    14370452.901 41.984      part13+part29	3h:7m:56s (3h:3m:25s left)
+ 791 LG+F+I+G4    14370405.633 41.938      part17+part29	3h:8m:1s (3h:3m:1s left)
+ 792 LG+F+I+G4    14370307.679 44.677      part13+part33	3h:8m:14s (3h:2m:46s left)
+ 793 LG+F+I+G4    14370302.181 45.321      part13+part18	3h:8m:24s (3h:2m:28s left)
+ 794 LG+F+I+G4    14370305.290 44.061      part17+part33	3h:8m:32s (3h:2m:7s left)
+ 795 LG+F+I+G4    14370303.035 44.642      part17+part18	3h:8m:43s (3h:1m:50s left)
+ 796 LG+F+I+G4    14370229.098 45.870      part10+part12	3h:8m:47s (3h:1m:26s left)
+ 797 LG+F+I+G4    14370234.132 45.513      part12+part23	3h:8m:51s (3h:1m:2s left)
+ 798 LG+F+I+G4    14370217.834 46.069      part5+part12	3h:8m:52s (3h:0m:35s left)
+ 799 LG+F+I+G4    14370270.150 46.928      part17+part25	3h:9m:2s (3h:0m:17s left)
+ 800 LG+F+I+G4    14370232.414 45.487      part12+part21	3h:9m:7s (2h:59m:53s left)
+ 801 LG+F+I+G4    14370261.974 47.722      part13+part25	3h:9m:9s (2h:59m:28s left)
+ 802 LG+F+I+G4    14370251.161 43.155      part6+part12	3h:9m:25s (2h:59m:15s left)
+ 803 LG+F+I+G4    14370216.658 45.990      part12+part20	3h:9m:27s (2h:58m:50s left)
+ 804 LG+F+I+G4    14370223.000 45.314      part12+part30	3h:9m:38s (2h:58m:33s left)
+ 805 LG+F+I+G4    14370213.500 46.371      part12+part31	3h:9m:42s (2h:58m:10s left)
+ 806 LG+F+I+G4    14370224.647 46.169      part8+part12	3h:9m:49s (2h:57m:48s left)
+ 807 LG+F+I+G4    14370283.212 41.249      part12+part27	3h:9m:52s (2h:57m:24s left)
+ 808 LG+F+I+G4    14370228.053 43.936      part9+part12	3h:9m:55s (2h:57m:0s left)
+ 809 LG+F+I+G4    14370315.146 40.667      part12+part29	3h:10m:6s (2h:56m:43s left)
+ 810 LG+F+I+G4    14370229.827 45.678      part12+part24	3h:10m:18s (2h:56m:27s left)
+ 811 LG+F+I+G4    14370228.444 45.246      part12+part15	3h:10m:21s (2h:56m:2s left)
+ 812 LG+F+I+G4    14370248.359 43.241      part12+part33	3h:10m:29s (2h:55m:42s left)
+ 813 LG+F+I+G4    14370277.693 44.424      part4+part17	3h:10m:37s (2h:55m:22s left)
+ 814 LG+F+I+G4    14370217.441 46.838      part12+part25	3h:10m:38s (2h:54m:56s left)
+ 815 LG+F+I+G4    14370242.816 44.156      part12+part18	3h:10m:39s (2h:54m:30s left)
+ 816 LG+F+I+G4    14370257.165 44.385      part4+part12	3h:10m:39s (2h:54m:4s left)
+ 817 LG+F+I+G4    14370239.786 49.063      part13+part17	3h:10m:40s (2h:53m:38s left)
+ 818 LG+F+I+G4    14370226.059 49.850      part12+part13	3h:10m:54s (2h:53m:24s left)
+ 819 LG+F+I+G4    14370237.934 49.522      part12+part17	3h:10m:59s (2h:53m:2s left)
+ 820 LG+F+I+G4    14370278.890 45.687      part4+part13	3h:11m:0s (2h:52m:36s left)
+20 compatible better partition pairs found
+Merging part12+part31 with BIC score: 14370213.500 (LnL: -7178412.845  df: 1166)
+Merging part4+part24 with BIC score: 14369953.152 (LnL: -7178408.971  df: 1144)
+Merging part8+part10 with BIC score: 14369699.369 (LnL: -7178408.380  df: 1122)
+Merging part19+part22 with BIC score: 14369446.728 (LnL: -7178408.359  df: 1100)
+Merging part36+part39 with BIC score: 14369194.426 (LnL: -7178408.509  df: 1078)
+Merging part26+part38 with BIC score: 14368942.415 (LnL: -7178408.803  df: 1056)
+Merging part21+part23 with BIC score: 14368690.435 (LnL: -7178409.113  df: 1034)
+Merging part1+part28 with BIC score: 14368439.387 (LnL: -7178409.889  df: 1012)
+Merging part5+part20 with BIC score: 14368188.692 (LnL: -7178410.842  df: 990)
+Merging part6+part33 with BIC score: 14367938.089 (LnL: -7178411.840  df: 968)
+Merging part13+part17 with BIC score: 14367688.964 (LnL: -7178413.578  df: 946)
+Merging part2+part7 with BIC score: 14367440.854 (LnL: -7178415.823  df: 924)
+Merging part3+part32 with BIC score: 14367195.173 (LnL: -7178419.283  df: 902)
+Merging part14+part40 with BIC score: 14366949.518 (LnL: -7178422.755  df: 880)
+Merging part9+part30 with BIC score: 14366708.373 (LnL: -7178428.483  df: 858)
+Merging part15+part25 with BIC score: 14366469.917 (LnL: -7178435.555  df: 836)
+Merging part11+part34 with BIC score: 14366232.047 (LnL: -7178442.920  df: 814)
+Merging part18+part35 with BIC score: 14366001.003 (LnL: -7178453.698  df: 792)
+Merging part27+part29 with BIC score: 14365778.642 (LnL: -7178468.818  df: 770)
+Merging part16+part37 with BIC score: 14365558.671 (LnL: -7178485.132  df: 748)
+ 821 LG+F+I+G4    14365517.962 45.945      part2+part7+part13+part17	3h:14m:14s (2h:55m:5s left)
+ 822 LG+F+I+G4    14365497.941 48.017      part13+part16+part17+part37	3h:14m:38s (2h:54m:59s left)
+ 823 LG+F+I+G4    14365517.877 46.645      part1+part13+part17+part28	3h:15m:29s (2h:55m:18s left)
+ 824 LG+F+I+G4    14365533.789 45.761      part3+part13+part17+part32	3h:15m:41s (2h:55m:1s left)
+ 825 LG+F+I+G4    14365326.196 44.175      part1+part3+part28+part32	3h:15m:47s (2h:54m:40s left)
+ 826 LG+F+I+G4    14365315.275 45.412      part1+part2+part7+part28	3h:16m:8s (2h:54m:31s left)
+ 827 LG+F+I+G4    14365375.496 44.825      part3+part16+part32+part37	3h:16m:21s (2h:54m:16s left)
+ 828 LG+F+I+G4    14365329.750 45.595      part1+part16+part28+part37	3h:17m:15s (2h:54m:37s left)
+ 829 LG+F+I+G4    14365333.429 45.932      part2+part7+part16+part37	3h:17m:24s (2h:54m:19s left)
+ 830 LG+F+I+G4    14365641.672 42.673      part13+part17+part27+part29	3h:18m:30s (2h:54m:49s left)
+ 831 LG+F+I+G4    14366060.916 43.701      part16+part27+part29+part37	3h:18m:47s (2h:54m:38s left)
+ 832 LG+F+I+G4    14365908.374 43.072      part1+part27+part28+part29	3h:19m:8s (2h:54m:29s left)
+ 833 LG+F+I+G4    14365427.126 46.713      part8+part10+part13+part17	3h:20m:6s (2h:54m:52s left)
+ 834 LG+F+I+G4    14365784.817 42.303      part3+part27+part29+part32	3h:20m:23s (2h:54m:40s left)
+ 835 LG+F+I+G4    14365384.669 46.376      part8+part10+part16+part37	3h:20m:36s (2h:54m:24s left)
+ 836 LG+F+I+G4    14365965.122 42.555      part2+part7+part27+part29	3h:20m:51s (2h:54m:11s left)
+ 837 LG+F+I+G4    14365345.494 44.601      part2+part3+part7+part32	3h:21m:1s (2h:53m:53s left)
+ 838 LG+F+I+G4    14365343.077 45.540      part1+part8+part10+part28	3h:21m:36s (2h:53m:56s left)
+ 839 LG+F+I+G4    14365348.495 44.699      part3+part8+part10+part32	3h:23m:6s (2h:54m:47s left)
+ 840 LG+F+I+G4    14365526.646 47.292      part13+part17+part19+part22	3h:24m:10s (2h:55m:15s left)
+ 841 LG+F+I+G4    14365717.338 42.495      part8+part10+part27+part29	3h:24m:16s (2h:54m:52s left)
+ 842 LG+F+I+G4    14365316.089 45.958      part1+part19+part22+part28	3h:24m:17s (2h:54m:27s left)
+ 843 LG+F+I+G4    14365318.767 46.680      part16+part19+part22+part37	3h:24m:39s (2h:54m:18s left)
+ 844 LG+F+I+G4    14365352.130 45.256      part2+part7+part8+part10	3h:25m:7s (2h:54m:15s left)
+ 845 LG+F+I+G4    14365363.952 45.180      part3+part19+part22+part32	3h:26m:5s (2h:54m:37s left)
+ 846 LG+F+I+G4    14366044.104 43.298      part19+part22+part27+part29	3h:26m:5s (2h:54m:10s left)
+ 847 LG+F+I+G4    14365314.790 45.647      part2+part7+part19+part22	3h:26m:12s (2h:53m:49s left)
+ 848 LG+F+I+G4    14365352.227 48.186      part12+part13+part17+part31	3h:26m:25s (2h:53m:33s left)
+ 849 LG+F+I+G4    14365353.326 45.993      part1+part12+part28+part31	3h:27m:26s (2h:53m:58s left)
+ 850 LG+F+I+G4    14365359.778 45.890      part8+part10+part19+part22	3h:27m:49s (2h:53m:50s left)
+ 851 LG+F+I+G4    14365362.917 47.026      part12+part16+part31+part37	3h:28m:5s (2h:53m:36s left)
+ 852 LG+F+I+G4    14365406.744 46.986      part5+part13+part17+part20	3h:28m:28s (2h:53m:28s left)
+ 853 LG+F+I+G4    14365356.599 46.429      part5+part16+part20+part37	3h:28m:34s (2h:53m:7s left)
+ 854 LG+F+I+G4    14365329.354 45.598      part1+part5+part20+part28	3h:29m:6s (2h:53m:6s left)
+ 855 LG+F+I+G4    14365349.259 44.945      part3+part12+part31+part32	3h:29m:22s (2h:52m:53s left)
+ 856 LG+F+I+G4    14365697.746 44.410      part6+part16+part33+part37	3h:30m:31s (2h:53m:23s left)
+ 857 LG+F+I+G4    14365446.452 44.982      part6+part13+part17+part33	3h:31m:1s (2h:53m:20s left)
+ 858 LG+F+I+G4    14365346.834 44.727      part3+part5+part20+part32	3h:31m:27s (2h:53m:15s left)
+ 859 LG+F+I+G4    14365363.629 45.648      part2+part7+part12+part31	3h:31m:52s (2h:53m:9s left)
+ 860 LG+F+I+G4    14365433.365 45.697      part16+part36+part37+part39	3h:32m:12s (2h:52m:58s left)
+ 861 LG+F+I+G4    14365609.406 43.612      part1+part6+part28+part33	3h:32m:28s (2h:52m:44s left)
+ 862 LG+F+I+G4    14365472.996 46.125      part13+part17+part36+part39	3h:32m:38s (2h:52m:26s left)
+ 863 LG+F+I+G4    14365383.021 45.037      part1+part28+part36+part39	3h:33m:44s (2h:52m:52s left)
+ 864 LG+F+I+G4    14365408.057 46.199      part9+part16+part30+part37	3h:33m:44s (2h:52m:25s left)
+ 865 LG+F+I+G4    14365531.043 41.870      part12+part27+part29+part31	3h:34m:24s (2h:52m:30s left)
+ 866 LG+F+I+G4    14365409.709 46.379      part9+part13+part17+part30	3h:34m:26s (2h:52m:5s left)
+ 867 LG+F+I+G4    14365327.532 45.268      part2+part5+part7+part20	3h:35m:0s (2h:52m:6s left)
+ 868 LG+F+I+G4    14365357.540 45.231      part1+part9+part28+part30	3h:35m:23s (2h:51m:58s left)
+ 869 LG+F+I+G4    14365551.225 42.747      part3+part6+part32+part33	3h:36m:24s (2h:52m:19s left)
+ 870 LG+F+I+G4    14365751.999 42.330      part5+part20+part27+part29	3h:37m:22s (2h:52m:39s left)
+ 871 LG+F+I+G4    14365627.897 44.017      part2+part6+part7+part33	3h:38m:2s (2h:52m:43s left)
+ 872 LG+F+I+G4    14365344.699 43.947      part3+part32+part36+part39	3h:38m:19s (2h:52m:30s left)
+ 873 LG+F+I+G4    14365382.936 45.940      part11+part16+part34+part37	3h:38m:46s (2h:52m:24s left)
+ 874 LG+F+I+G4    14365360.492 44.521      part3+part9+part30+part32	3h:38m:54s (2h:52m:3s left)
+ 875 LG+F+I+G4    14365496.078 46.058      part11+part13+part17+part34	3h:39m:3s (2h:51m:44s left)
+ 876 LG+F+I+G4    14365335.398 45.114      part1+part11+part28+part34	3h:40m:6s (2h:52m:6s left)
+ 877 LG+F+I+G4    14365420.932 44.700      part2+part7+part36+part39	3h:40m:14s (2h:51m:46s left)
+ 878 LG+F+I+G4    14365611.275 43.842      part16+part18+part35+part37	3h:41m:6s (2h:52m:0s left)
+ 879 LG+F+I+G4    14365331.935 45.781      part8+part10+part12+part31	3h:41m:19s (2h:51m:43s left)
+ 880 LG+F+I+G4    14365515.633 44.777      part13+part17+part18+part35	3h:41m:47s (2h:51m:38s left)
+ 881 LG+F+I+G4    14365363.964 40.619      part6+part27+part29+part33	3h:41m:57s (2h:51m:19s left)
+ 882 LG+F+I+G4    14365361.893 45.061      part2+part7+part9+part30	3h:42m:25s (2h:51m:14s left)
+ 883 LG+F+I+G4    14365504.490 43.411      part1+part18+part28+part35	3h:42m:29s (2h:50m:50s left)
+ 884 LG+F+I+G4    14365657.149 42.640      part27+part29+part36+part39	3h:43m:29s (2h:51m:9s left)
+ 885 LG+F+I+G4    14365313.082 45.410      part5+part8+part10+part20	3h:43m:32s (2h:50m:45s left)
+ 886 LG+F+I+G4    14365650.586 42.118      part9+part27+part29+part30	3h:44m:34s (2h:51m:5s left)
+ 887 LG+F+I+G4    14365370.760 46.405      part12+part19+part22+part31	3h:45m:27s (2h:51m:19s left)
+ 888 LG+F+I+G4    14365316.239 44.568      part3+part11+part32+part34	3h:45m:43s (2h:51m:4s left)
+ 889 LG+F+I+G4    14365431.795 42.830      part3+part18+part32+part35	3h:46m:44s (2h:51m:23s left)
+ 890 LG+F+I+G4    14365495.655 43.867      part6+part8+part10+part33	3h:47m:5s (2h:51m:12s left)
+ 891 LG+F+I+G4    14365547.816 43.936      part2+part7+part18+part35	3h:47m:21s (2h:50m:58s left)
+ 892 LG+F+I+G4    14365361.622 44.934      part2+part7+part11+part34	3h:47m:27s (2h:50m:35s left)
+ 893 LG+F+I+G4    14365440.786 45.209      part16+part26+part37+part38	3h:47m:35s (2h:50m:14s left)
+ 894 LG+F+I+G4    14365336.171 45.918      part5+part19+part20+part22	3h:47m:48s (2h:49m:57s left)
+ 895 LG+F+I+G4    14365743.673 42.779      part11+part27+part29+part34	3h:49m:23s (2h:50m:41s left)
+ 896 LG+F+I+G4    14365392.134 44.994      part8+part10+part36+part39	3h:49m:49s (2h:50m:34s left)
+ 897 LG+F+I+G4    14365501.779 45.238      part13+part17+part26+part38	3h:50m:48s (2h:50m:51s left)
+ 898 LG+F+I+G4    14365386.597 44.610      part1+part26+part28+part38	3h:51m:2s (2h:50m:34s left)
+ 899 LG+F+I+G4    14365314.877 45.196      part8+part9+part10+part30	3h:51m:27s (2h:50m:26s left)
+ 900 LG+F+I+G4    14365427.671 41.480      part18+part27+part29+part35	3h:51m:33s (2h:50m:4s left)
+ 901 LG+F+I+G4    14365684.830 44.703      part6+part19+part22+part33	3h:51m:47s (2h:49m:47s left)
+ 902 LG+F+I+G4    14365445.571 45.446      part19+part22+part36+part39	3h:52m:53s (2h:50m:8s left)
+ 903 LG+F+I+G4    14365339.838 43.936      part3+part26+part32+part38	3h:53m:5s (2h:49m:51s left)
+ 904 LG+F+I+G4    14365380.663 45.723      part9+part19+part22+part30	3h:54m:7s (2h:50m:9s left)
+ 905 LG+F+I+G4    14365427.237 43.947      part8+part10+part18+part35	3h:55m:7s (2h:50m:25s left)
+ 906 LG+F+I+G4    14365352.994 44.963      part8+part10+part11+part34	3h:55m:9s (2h:50m:0s left)
+ 907 LG+F+I+G4    14365594.582 44.606      part18+part19+part22+part35	3h:56m:22s (2h:50m:26s left)
+ 908 LG+F+I+G4    14365326.708 45.878      part5+part12+part20+part31	3h:56m:35s (2h:50m:8s left)
+ 909 LG+F+I+G4    14365669.182 42.144      part26+part27+part29+part38	3h:56m:36s (2h:49m:42s left)
+ 910 LG+F+I+G4    14365409.289 44.244      part2+part7+part26+part38	3h:57m:9s (2h:49m:39s left)
+ 911 LG+F+I+G4    14365396.462 44.363      part8+part10+part26+part38	3h:57m:22s (2h:49m:21s left)
+ 912 LG+F+I+G4    14365379.369 45.507      part11+part19+part22+part34	3h:57m:58s (2h:49m:21s left)
+ 913 LG+F+I+G4    14365401.586 46.459      part4+part13+part17+part24	3h:58m:31s (2h:49m:17s left)
+ 914 LG+F+I+G4    14365446.428 44.810      part19+part22+part26+part38	3h:58m:34s (2h:48m:53s left)
+ 915 LG+F+I+G4    14365418.496 44.281      part1+part4+part24+part28	3h:59m:5s (2h:48m:47s left)
+ 916 LG+F+I+G4    14365463.098 46.065      part4+part16+part24+part37	3h:59m:18s (2h:48m:30s left)
+ 917 LG+F+I+G4    14365401.894 43.761      part6+part12+part31+part33	3h:59m:20s (2h:48m:5s left)
+ 918 LG+F+I+G4    14365335.836 45.311      part12+part31+part36+part39	4h:0m:4s (2h:48m:9s left)
+ 919 LG+F+I+G4    14365385.219 44.220      part3+part4+part24+part32	4h:0m:52s (2h:48m:16s left)
+ 920 LG+F+I+G4    14365497.441 43.749      part5+part6+part20+part33	4h:0m:53s (2h:47m:50s left)
+ 921 LG+F+I+G4    14365328.162 45.524      part9+part12+part30+part31	4h:1m:7s (2h:47m:33s left)
+ 922 LG+F+I+G4    14365315.315 45.225      part5+part9+part20+part30	4h:1m:57s (2h:47m:41s left)
+ 923 LG+F+I+G4    14365391.344 44.985      part5+part20+part36+part39	4h:2m:30s (2h:47m:37s left)
+ 924 LG+F+I+G4    14365534.013 41.428      part4+part24+part27+part29	4h:3m:17s (2h:47m:43s left)
+ 925 LG+F+I+G4    14365337.797 45.429      part11+part12+part31+part34	4h:3m:20s (2h:47m:18s left)
+ 926 LG+F+I+G4    14365429.715 44.794      part2+part4+part7+part24	4h:3m:30s (2h:46m:58s left)
+ 927 LG+F+I+G4    14365454.340 43.827      part6+part33+part36+part39	4h:3m:32s (2h:46m:34s left)
+ 928 LG+F+I+G4    14365370.467 43.861      part12+part18+part31+part35	4h:4m:20s (2h:46m:39s left)
+ 929 LG+F+I+G4    14365442.323 43.664      part6+part9+part30+part33	4h:4m:30s (2h:46m:20s left)
+ 930 LG+F+I+G4    14365384.871 44.205      part9+part30+part36+part39	4h:5m:47s (2h:46m:46s left)
+ 931 LG+F+I+G4    14365349.940 45.088      part5+part11+part20+part34	4h:5m:57s (2h:46m:26s left)
+ 932 LG+F+I+G4    14365448.802 43.895      part5+part18+part20+part35	4h:6m:37s (2h:46m:26s left)
+ 933 LG+F+I+G4    14365327.360 44.870      part4+part8+part10+part24	4h:6m:43s (2h:46m:4s left)
+ 934 LG+F+I+G4    14365359.921 41.737      part6+part18+part33+part35	4h:7m:36s (2h:46m:12s left)
+ 935 LG+F+I+G4    14365508.331 43.942      part6+part11+part33+part34	4h:7m:36s (2h:45m:46s left)
+ 936 LG+F+I+G4    14365355.298 44.771      part9+part11+part30+part34	4h:8m:57s (2h:46m:14s left)
+ 937 LG+F+I+G4    14365321.820 44.756      part11+part34+part36+part39	4h:8m:57s (2h:45m:47s left)
+ 938 LG+F+I+G4    14365344.680 44.486      part12+part26+part31+part38	4h:9m:37s (2h:45m:47s left)
+ 939 LG+F+I+G4    14365423.435 46.473      part15+part16+part25+part37	4h:9m:59s (2h:45m:35s left)
+ 940 LG+F+I+G4    14365376.684 43.780      part18+part35+part36+part39	4h:10m:1s (2h:45m:10s left)
+ 941 LG+F+I+G4    14365383.823 47.096      part13+part15+part17+part25	4h:10m:9s (2h:44m:49s left)
+ 942 LG+F+I+G4    14365393.995 45.617      part1+part15+part25+part28	4h:10m:34s (2h:44m:39s left)
+ 943 LG+F+I+G4    14365398.905 43.571      part9+part18+part30+part35	4h:10m:49s (2h:44m:22s left)
+ 944 LG+F+I+G4    14365432.933 46.209      part13+part17+part21+part23	4h:12m:22s (2h:44m:57s left)
+ 945 LG+F+I+G4    14365459.054 45.518      part4+part19+part22+part24	4h:12m:50s (2h:44m:48s left)
+ 946 LG+F+I+G4    14365398.585 46.050      part16+part21+part23+part37	4h:12m:54s (2h:44m:24s left)
+ 947 LG+F+I+G4    14365388.433 44.335      part5+part20+part26+part38	4h:13m:25s (2h:44m:18s left)
+ 948 LG+F+I+G4    14365351.827 45.268      part1+part21+part23+part28	4h:14m:34s (2h:44m:36s left)
+ 949 LG+F+I+G4    14365363.750 44.844      part3+part15+part25+part32	4h:14m:36s (2h:44m:11s left)
+ 950 LG+F+I+G4    14365456.646 43.220      part6+part26+part33+part38	4h:14m:45s (2h:43m:50s left)
+ 951 LG+F+I+G4    14365408.738 43.826      part11+part18+part34+part35	4h:15m:40s (2h:43m:59s left)
+ 952 LG+F+I+G4    14365345.729 44.396      part3+part21+part23+part32	4h:16m:7s (2h:43m:50s left)
+ 953 LG+F+I+G4    14365425.919 45.343      part2+part7+part15+part25	4h:17m:8s (2h:44m:3s left)
+ 954 LG+F+I+G4    14365358.121 44.955      part2+part7+part21+part23	4h:17m:26s (2h:43m:48s left)
+ 955 LG+F+I+G4    14365386.738 44.194      part9+part26+part30+part38	4h:17m:39s (2h:43m:29s left)
+ 956 LG+F+I+G4    14365314.628 44.263      part26+part36+part38+part39	4h:17m:53s (2h:43m:12s left)
+ 957 LG+F+I+G4    14365606.635 42.495      part15+part25+part27+part29	4h:18m:5s (2h:42m:53s left)
+ 958 LG+F+I+G4    14365669.238 41.919      part21+part23+part27+part29	4h:18m:31s (2h:42m:43s left)
+ 959 LG+F+I+G4    14365365.561 45.307      part8+part10+part15+part25	4h:19m:26s (2h:42m:51s left)
+ 960 LG+F+I+G4    14365387.535 43.393      part18+part26+part35+part38	4h:20m:16s (2h:42m:56s left)
+ 961 LG+F+I+G4    14365324.894 44.293      part11+part26+part34+part38	4h:20m:31s (2h:42m:39s left)
+ 962 LG+F+I+G4    14365308.764 44.942      part8+part10+part21+part23	4h:20m:33s (2h:42m:14s left)
+ 963 LG+F+I+G4    14365442.043 45.971      part15+part19+part22+part25	4h:21m:46s (2h:42m:33s left)
+ 964 LG+F+I+G4    14365498.021 46.435      part13+part14+part17+part40	4h:22m:14s (2h:42m:24s left)
+ 965 LG+F+I+G4    14365374.028 45.588      part19+part21+part22+part23	4h:22m:14s (2h:41m:58s left)
+ 966 LG+F+I+G4    14365323.029 46.230      part14+part16+part37+part40	4h:23m:7s (2h:42m:4s left)
+ 967 LG+F+I+G4    14365315.977 45.155      part4+part12+part24+part31	4h:24m:28s (2h:42m:27s left)
+ 968 LG+F+I+G4    14365316.187 45.049      part1+part14+part28+part40	4h:24m:31s (2h:42m:2s left)
+ 969 LG+F+I+G4    14365944.319 42.966      part14+part27+part29+part40	4h:24m:58s (2h:41m:52s left)
+ 970 LG+F+I+G4    14365336.006 44.756      part4+part5+part20+part24	4h:25m:23s (2h:41m:42s left)
+ 971 LG+F+I+G4    14365332.772 44.826      part3+part14+part32+part40	4h:25m:25s (2h:41m:16s left)
+ 972 LG+F+I+G4    14365360.616 45.427      part8+part10+part14+part40	4h:25m:56s (2h:41m:9s left)
+ 973 LG+F+I+G4    14365316.304 45.237      part2+part7+part14+part40	4h:25m:59s (2h:40m:44s left)
+ 974 LG+F+I+G4    14365407.233 42.912      part4+part6+part24+part33	4h:26m:15s (2h:40m:27s left)
+ 975 LG+F+I+G4    14365322.342 45.794      part14+part19+part22+part40	4h:27m:14s (2h:40m:37s left)
+ 976 LG+F+I+G4    14365325.950 44.644      part4+part9+part24+part30	4h:27m:31s (2h:40m:20s left)
+ 977 LG+F+I+G4    14365314.670 45.914      part12+part15+part25+part31	4h:28m:3s (2h:40m:13s left)
+ 978 LG+F+I+G4    14365334.046 45.368      part12+part21+part23+part31	4h:28m:44s (2h:40m:12s left)
+ 979 LG+F+I+G4    14365378.427 44.611      part4+part24+part36+part39	4h:28m:56s (2h:39m:52s left)
+ 980 LG+F+I+G4    14365377.003 43.277      part4+part18+part24+part35	4h:28m:59s (2h:39m:28s left)
+ 981 LG+F+I+G4    14365371.692 45.353      part5+part15+part20+part25	4h:29m:23s (2h:39m:16s left)
+ 982 LG+F+I+G4    14365381.948 44.702      part4+part11+part24+part34	4h:29m:26s (2h:38m:51s left)
+ 983 LG+F+I+G4    14365381.702 43.876      part4+part24+part26+part38	4h:30m:32s (2h:39m:4s left)
+ 984 LG+F+I+G4    14365314.735 45.099      part5+part20+part21+part23	4h:30m:41s (2h:38m:43s left)
+ 985 LG+F+I+G4    14365434.509 43.862      part6+part15+part25+part33	4h:31m:21s (2h:38m:41s left)
+ 986 LG+F+I+G4    14365364.973 45.236      part9+part15+part25+part30	4h:32m:27s (2h:38m:53s left)
+ 987 LG+F+I+G4    14365477.739 43.511      part6+part21+part23+part33	4h:32m:46s (2h:38m:38s left)
+ 988 LG+F+I+G4    14365329.418 45.201      part15+part25+part36+part39	4h:32m:48s (2h:38m:12s left)
+ 989 LG+F+I+G4    14365313.683 44.896      part9+part21+part23+part30	4h:32m:54s (2h:37m:50s left)
+ 990 LG+F+I+G4    14365385.075 44.682      part21+part23+part36+part39	4h:33m:56s (2h:37m:59s left)
+ 991 LG+F+I+G4    14365340.218 45.141      part11+part15+part25+part34	4h:34m:41s (2h:37m:59s left)
+ 992 LG+F+I+G4    14365379.092 44.079      part15+part18+part25+part35	4h:35m:45s (2h:38m:10s left)
+ 993 LG+F+I+G4    14365349.831 44.673      part11+part21+part23+part34	4h:35m:59s (2h:37m:52s left)
+ 994 LG+F+I+G4    14365346.823 45.815      part12+part14+part31+part40	4h:36m:30s (2h:37m:43s left)
+ 995 LG+F+I+G4    14365410.358 43.571      part18+part21+part23+part35	4h:36m:32s (2h:37m:18s left)
+ 996 LG+F+I+G4    14365337.163 45.444      part5+part14+part20+part40	4h:37m:0s (2h:37m:8s left)
+ 997 LG+F+I+G4    14365382.183 44.067      part21+part23+part26+part38	4h:37m:1s (2h:36m:42s left)
+ 998 LG+F+I+G4    14365339.015 44.519      part15+part25+part26+part38	4h:37m:23s (2h:36m:28s left)
+ 999 LG+F+I+G4    14365612.922 44.274      part6+part14+part33+part40	4h:38m:53s (2h:36m:53s left)
+1000 LG+F+I+G4    14365374.036 45.112      part9+part14+part30+part40	4h:39m:54s (2h:37m:1s left)
+1001 LG+F+I+G4    14365382.036 44.940      part14+part36+part39+part40	4h:40m:18s (2h:36m:49s left)
+1002 LG+F+I+G4    14365319.182 44.434      part4+part21+part23+part24	4h:40m:20s (2h:36m:23s left)
+1003 LG+F+I+G4    14365320.739 44.850      part4+part15+part24+part25	4h:40m:21s (2h:35m:58s left)
+1004 LG+F+I+G4    14365357.773 44.972      part15+part21+part23+part25	4h:41m:7s (2h:35m:57s left)
+1005 LG+F+I+G4    14365531.344 44.106      part14+part18+part35+part40	4h:41m:16s (2h:35m:36s left)
+1006 LG+F+I+G4    14365341.421 44.991      part11+part14+part34+part40	4h:41m:46s (2h:35m:27s left)
+1007 LG+F+I+G4    14365376.153 44.481      part14+part26+part38+part40	4h:42m:15s (2h:35m:17s left)
+1008 LG+F+I+G4    14365414.584 45.033      part4+part14+part24+part40	4h:43m:13s (2h:35m:22s left)
+1009 LG+F+I+G4    14365386.069 45.529      part14+part15+part25+part40	4h:44m:42s (2h:35m:45s left)
+1010 LG+F+I+G4    14365363.734 45.141      part14+part21+part23+part40	4h:44m:57s (2h:35m:27s left)
+9 compatible better partition pairs found
+Merging part8+part10+part21+part23 with BIC score: 14365308.764 (LnL: -7178486.479  df: 726)
+Merging part26+part36+part38+part39 with BIC score: 14365064.721 (LnL: -7178490.757  df: 704)
+Merging part12+part15+part25+part31 with BIC score: 14364820.720 (LnL: -7178495.057  df: 682)
+Merging part2+part7+part19+part22 with BIC score: 14364576.840 (LnL: -7178499.417  df: 660)
+Merging part5+part9+part20+part30 with BIC score: 14364333.484 (LnL: -7178504.039  df: 638)
+Merging part1+part14+part28+part40 with BIC score: 14364091.000 (LnL: -7178509.097  df: 616)
+Merging part3+part11+part32+part34 with BIC score: 14363848.569 (LnL: -7178514.182  df: 594)
+Merging part6+part18+part33+part35 with BIC score: 14363649.820 (LnL: -7178541.107  df: 572)
+Merging part4+part13+part17+part24 with BIC score: 14363492.735 (LnL: -7178588.865  df: 550)
+1011 LG+F+I+G4    14363801.805 43.122      part8+part10+part21+part23+part27+part29	4h:50m:15s (2h:37m:54s left)
+1012 LG+F+I+G4    14364176.212 43.969      part2+part7+part19+part22+part27+part29	4h:52m:28s (2h:38m:39s left)
+1013 LG+F+I+G4    14363839.158 43.289      part3+part11+part27+part29+part32+part34	4h:52m:42s (2h:38m:20s left)
+1014 LG+F+I+G4    14364063.511 43.987      part1+part14+part27+part28+part29+part40	4h:52m:49s (2h:37m:57s left)
+1015 LG+F+I+G4    14363331.789 45.328      part1+part8+part10+part14+part21+part23+part28+part40	4h:54m:24s (2h:38m:22s left)
+1016 LG+F+I+G4    14363319.826 44.728      part3+part8+part10+part11+part21+part23+part32+part34	4h:55m:16s (2h:38m:23s left)
+1017 LG+F+I+G4    14363252.754 45.608      part1+part2+part7+part14+part19+part22+part28+part40	4h:56m:33s (2h:38m:37s left)
+1018 LG+F+I+G4    14363285.563 45.050      part1+part3+part11+part14+part28+part32+part34+part40	4h:56m:49s (2h:38m:19s left)
+1019 LG+F+I+G4    14363342.099 45.058      part2+part3+part7+part11+part19+part22+part32+part34	4h:56m:57s (2h:37m:56s left)
+1020 LG+F+I+G4    14363344.038 45.424      part2+part7+part8+part10+part19+part21+part22+part23	4h:59m:33s (2h:38m:52s left)
+1021 LG+F+I+G4    14363691.588 43.133      part26+part27+part29+part36+part38+part39	4h:59m:47s (2h:38m:33s left)
+1022 LG+F+I+G4    14363801.561 43.185      part5+part9+part20+part27+part29+part30	5h:0m:28s (2h:38m:28s left)
+1023 LG+F+I+G4    14363317.496 45.418      part1+part5+part9+part14+part20+part28+part30+part40	5h:1m:44s (2h:38m:41s left)
+1024 LG+F+I+G4    14363382.291 44.846      part1+part14+part26+part28+part36+part38+part39+part40	5h:5m:2s (2h:39m:58s left)
+1025 LG+F+I+G4    14363323.219 44.770      part3+part5+part9+part11+part20+part30+part32+part34	5h:5m:11s (2h:39m:35s left)
+1026 LG+F+I+G4    14363733.925 44.281      part1+part6+part14+part18+part28+part33+part35+part40	5h:6m:26s (2h:39m:47s left)
+1027 LG+F+I+G4    14363282.771 44.409      part3+part11+part26+part32+part34+part36+part38+part39	5h:6m:39s (2h:39m:27s left)
+1028 LG+F+I+G4    14363344.161 41.496      part6+part18+part27+part29+part33+part35	5h:7m:18s (2h:39m:20s left)
+1029 LG+F+I+G4    14363321.267 45.503      part2+part5+part7+part9+part19+part20+part22+part30	5h:8m:20s (2h:39m:25s left)
+1030 LG+F+I+G4    14363478.799 44.844      part2+part7+part19+part22+part26+part36+part38+part39	5h:8m:47s (2h:39m:11s left)
+1031 LG+F+I+G4    14363364.112 45.720      part1+part12+part14+part15+part25+part28+part31+part40	5h:8m:51s (2h:38m:46s left)
+1032 LG+F+I+G4    14363625.424 43.232      part12+part15+part25+part27+part29+part31	5h:11m:8s (2h:39m:29s left)
+1033 LG+F+I+G4    14363548.839 43.724      part3+part6+part11+part18+part32+part33+part34+part35	5h:11m:23s (2h:39m:9s left)
+1034 LG+F+I+G4    14363832.551 44.332      part2+part6+part7+part18+part19+part22+part33+part35	5h:14m:5s (2h:40m:4s left)
+1035 LG+F+I+G4    14363313.553 45.103      part3+part11+part12+part15+part25+part31+part32+part34	5h:14m:47s (2h:39m:58s left)
+1036 LG+F+I+G4    14363263.400 46.050      part1+part14+part16+part28+part37+part40	5h:14m:49s (2h:39m:32s left)
+1037 LG+F+I+G4    14363250.354 45.151      part5+part8+part9+part10+part20+part21+part23+part30	5h:15m:52s (2h:39m:36s left)
+1038 LG+F+I+G4    14363330.423 45.349      part3+part11+part16+part32+part34+part37	5h:17m:0s (2h:39m:43s left)
+1039 LG+F+I+G4    14363399.730 44.524      part8+part10+part21+part23+part26+part36+part38+part39	5h:17m:18s (2h:39m:25s left)
+1040 LG+F+I+G4    14363427.207 45.823      part2+part7+part12+part15+part19+part22+part25+part31	5h:18m:36s (2h:39m:36s left)
+1041 LG+F+I+G4    14363516.028 43.715      part6+part8+part10+part18+part21+part23+part33+part35	5h:18m:45s (2h:39m:13s left)
+1042 LG+F+I+G4    14363319.935 45.395      part8+part10+part12+part15+part21+part23+part25+part31	5h:20m:19s (2h:39m:32s left)
+1043 LG+F+I+G4    14363611.516 43.119      part4+part13+part17+part24+part27+part29	5h:20m:52s (2h:39m:21s left)
+1044 LG+F+I+G4    14363358.306 45.823      part8+part10+part16+part21+part23+part37	5h:21m:2s (2h:38m:59s left)
+1045 LG+F+I+G4    14363263.569 46.147      part2+part7+part16+part19+part22+part37	5h:21m:40s (2h:38m:50s left)
+1046 LG+F+I+G4    14363481.456 45.838      part1+part4+part13+part14+part17+part24+part28+part40	5h:23m:55s (2h:39m:29s left)
+1047 LG+F+I+G4    14363392.877 44.576      part5+part9+part20+part26+part30+part36+part38+part39	5h:24m:4s (2h:39m:6s left)
+1048 LG+F+I+G4    14363434.709 43.592      part6+part18+part26+part33+part35+part36+part38+part39	5h:26m:6s (2h:39m:37s left)
+1049 LG+F+I+G4    14363450.149 45.180      part3+part4+part11+part13+part17+part24+part32+part34	5h:26m:24s (2h:39m:18s left)
+1050 LG+F+I+G4    14363319.615 45.492      part5+part9+part12+part15+part20+part25+part30+part31	5h:27m:11s (2h:39m:14s left)
+1051 LG+F+I+G4    14363524.818 45.953      part2+part4+part7+part13+part17+part19+part22+part24	5h:28m:38s (2h:39m:28s left)
+1052 LG+F+I+G4    14363291.629 44.868      part12+part15+part25+part26+part31+part36+part38+part39	5h:28m:41s (2h:39m:1s left)
+1053 LG+F+I+G4    14363500.017 43.776      part5+part6+part9+part18+part20+part30+part33+part35	5h:28m:53s (2h:38m:40s left)
+1054 LG+F+I+G4    14363343.321 45.939      part5+part9+part16+part20+part30+part37	5h:29m:39s (2h:38m:34s left)
+1055 LG+F+I+G4    14363400.179 43.902      part6+part12+part15+part18+part25+part31+part33+part35	5h:31m:6s (2h:38m:48s left)
+1056 LG+F+I+G4    14363366.882 46.506      part12+part15+part16+part25+part31+part37	5h:32m:17s (2h:38m:54s left)
+1057 LG+F+I+G4    14363693.277 43.517      part6+part16+part18+part33+part35+part37	5h:32m:44s (2h:38m:39s left)
+1058 LG+F+I+G4    14363401.253 45.082      part16+part26+part36+part37+part38+part39	5h:32m:55s (2h:38m:16s left)
+1059 LG+F+I+G4    14363315.829 45.500      part4+part8+part10+part13+part17+part21+part23+part24	5h:33m:6s (2h:37m:54s left)
+1060 LG+F+I+G4    14363258.161 46.187      part4+part12+part13+part15+part17+part24+part25+part31	5h:34m:9s (2h:37m:56s left)
+1061 LG+F+I+G4    14363425.331 43.940      part4+part6+part13+part17+part18+part24+part33+part35	5h:34m:58s (2h:37m:51s left)
+1062 LG+F+I+G4    14363456.122 46.848      part4+part13+part16+part17+part24+part37	5h:35m:52s (2h:37m:48s left)
+1063 LG+F+I+G4    14363302.142 45.666      part4+part5+part9+part13+part17+part20+part24+part30	5h:36m:58s (2h:37m:52s left)
+1064 LG+F+I+G4    14363420.277 44.928      part4+part13+part17+part24+part26+part36+part38+part39	5h:38m:46s (2h:38m:14s left)
+5 compatible better partition pairs found
+Merging part5+part8+part9+part10+part20+part21+part23+part30 with BIC score: 14363250.354 (LnL: -7178593.975  df: 528)
+Merging part1+part2+part7+part14+part19+part22+part28+part40 with BIC score: 14363010.373 (LnL: -7178600.284  df: 506)
+Merging part4+part12+part13+part15+part17+part24+part25+part31 with BIC score: 14362775.798 (LnL: -7178609.297  df: 484)
+Merging part3+part11+part26+part32+part34+part36+part38+part39 with BIC score: 14362565.833 (LnL: -7178630.615  df: 462)
+Merging part6+part18+part27+part29+part33+part35 with BIC score: 14362417.259 (LnL: -7178682.628  df: 440)
+1065 LG+F+I+G4    14362378.505 46.510      part4+part12+part13+part15+part16+part17+part24+part25+part31+part37	5h:47m:19s (2h:41m:45s left)
+1066 LG+F+I+G4    14362631.531 43.617      part4+part6+part12+part13+part15+part17+part18+part24+part25+part27+part29+part31+part33+part35	5h:51m:12s (2h:43m:5s left)
+1067 LG+F+I+G4    14362189.754 45.900      part1+part2+part7+part14+part16+part19+part22+part28+part37+part40	5h:53m:45s (2h:43m:46s left)
+1068 LG+F+I+G4    14362305.852 44.878      part3+part11+part16+part26+part32+part34+part36+part37+part38+part39	5h:54m:58s (2h:43m:51s left)
+1069 LG+F+I+G4    14362562.238 45.833      part1+part2+part4+part7+part12+part13+part14+part15+part17+part19+part22+part24+part25+part28+part31+part40	5h:56m:1s (2h:43m:51s left)
+1070 LG+F+I+G4    14362389.524 45.017      part3+part4+part11+part12+part13+part15+part17+part24+part25+part26+part31+part32+part34+part36+part38+part39	5h:56m:9s (2h:43m:25s left)
+1071 LG+F+I+G4    14363480.819 44.150      part1+part2+part6+part7+part14+part18+part19+part22+part27+part28+part29+part33+part35+part40	5h:57m:9s (2h:43m:24s left)
+1072 LG+F+I+G4    14362821.313 43.437      part3+part6+part11+part18+part26+part27+part29+part32+part33+part34+part35+part36+part38+part39	5h:57m:10s (2h:42m:55s left)
+1073 LG+F+I+G4    14362865.386 43.128      part6+part16+part18+part27+part29+part33+part35+part37	6h:0m:13s (2h:43m:50s left)
+1074 LG+F+I+G4    14362409.273 44.947      part1+part2+part3+part7+part11+part14+part19+part22+part26+part28+part32+part34+part36+part38+part39+part40	6h:2m:25s (2h:44m:20s left)
+1075 LG+F+I+G4    14362298.584 45.502      part4+part5+part8+part9+part10+part12+part13+part15+part17+part20+part21+part23+part24+part25+part30+part31	6h:5m:56s (2h:45m:26s left)
+1076 LG+F+I+G4    14362300.606 45.591      part5+part8+part9+part10+part16+part20+part21+part23+part30+part37	6h:6m:24s (2h:45m:9s left)
+1077 LG+F+I+G4    14362893.999 43.513      part5+part6+part8+part9+part10+part18+part20+part21+part23+part27+part29+part30+part33+part35	6h:8m:38s (2h:45m:39s left)
+1078 LG+F+I+G4    14362331.075 45.430      part1+part2+part5+part7+part8+part9+part10+part14+part19+part20+part21+part22+part23+part28+part30+part40	6h:9m:34s (2h:45m:35s left)
+1079 LG+F+I+G4    14362383.217 44.663      part3+part5+part8+part9+part10+part11+part20+part21+part23+part26+part30+part32+part34+part36+part38+part39	6h:17m:12s (2h:48m:30s left)
+2 compatible better partition pairs found
+Merging part1+part2+part7+part14+part16+part19+part22+part28+part37+part40 with BIC score: 14362189.754 (LnL: -7178695.175  df: 418)
+Merging part4+part5+part8+part9+part10+part12+part13+part15+part17+part20+part21+part23+part24+part25+part30+part31 with BIC score: 14362071.079 (LnL: -7178762.138  df: 396)
+1080 LG+F+I+G4    14363309.877 44.576      part1+part2+part6+part7+part14+part16+part18+part19+part22+part27+part28+part29+part33+part35+part37+part40	6h:37m:12s (2h:56m:54s left)
+1081 LG+F+I+G4    14362591.231 44.199      part4+part5+part6+part8+part9+part10+part12+part13+part15+part17+part18+part20+part21+part23+part24+part25+part27+part29+part30+part31+part33+part35	6h:38m:55s (2h:57m:8s left)
+1082 LG+F+I+G4    14362076.485 45.005      part3+part4+part5+part8+part9+part10+part11+part12+part13+part15+part17+part20+part21+part23+part24+part25+part26+part30+part31+part32+part34+part36+part38+part39	6h:44m:53s (2h:59m:14s left)
+1083 LG+F+I+G4    14362112.797 45.167      part1+part2+part3+part7+part11+part14+part16+part19+part22+part26+part28+part32+part34+part36+part37+part38+part39+part40	6h:46m:18s (2h:59m:19s left)
+1084 LG+F+I+G4    14362221.125 45.741      part1+part2+part4+part5+part7+part8+part9+part10+part12+part13+part14+part15+part16+part17+part19+part20+part21+part22+part23+part24+part25+part28+part30+part31+part37+part40	6h:47m:18s (2h:59m:14s left)
+Agglomerative model selection: (((((part1,part28)8:1.43684e+07,(part14,part40)14:1.43669e+07)26:1.43641e+07,((part2,part7)12:1.43674e+07,(part19,part22)4:1.43694e+07)24:1.43646e+07)31:1.4363e+07,(part16,part37)20:1.43656e+07)35:1.43622e+07,(((part3,part32)13:1.43672e+07,(part11,part34)17:1.43662e+07)27:1.43638e+07,((part26,part38)6:1.43689e+07,(part36,part39)5:1.43692e+07)22:1.43651e+07)33:1.43626e+07,((((part4,part24)2:1.437e+07,(part13,part17)11:1.43677e+07)29:1.43635e+07,((part12,part31)1:1.43702e+07,(part15,part25)16:1.43665e+07)23:1.43648e+07)32:1.43628e+07,(((part5,part20)9:1.43682e+07,(part9,part30)15:1.43667e+07)25:1.43643e+07,((part8,part10)3:1.43697e+07,(part21,part23)7:1.43687e+07)21:1.43653e+07)30:1.43633e+07)36:1.43621e+07,(((part6,part33)10:1.43679e+07,(part18,part35)18:1.4366e+07)28:1.43636e+07,(part27,part29)19:1.43658e+07)34:1.43624e+07)
+Merging into 4 partitions...
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Log-likelihood -3.30031e+06 of Q.yeast+R9 worse than Q.yeast+R8 -3.3003e+06
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+WARNING: Normalizing state frequencies so that sum of them equals to 1

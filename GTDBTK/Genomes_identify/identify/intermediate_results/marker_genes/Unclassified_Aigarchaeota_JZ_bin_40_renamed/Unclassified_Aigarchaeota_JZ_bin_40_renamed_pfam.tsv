@@ -1,0 +1,46 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.049332
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Unclassified_Aigarchaeota_JZ_bin_40_renamed/Unclassified_Aigarchaeota_JZ_bin_40_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Unclassified_Aigarchaeota_JZ_bin_40-contig1_279     10    101      9    106 PF00466.21  Ribosomal_L10     Family     2    92   100     47.9   9.5e-14   1 No_clan  
+Unclassified_Aigarchaeota_JZ_bin_40-contig1_281     17    210     15    211 PF00687.22  Ribosomal_L1      Domain     3   203   204    126.6   9.3e-38   1 No_clan  
+Unclassified_Aigarchaeota_JZ_bin_40-contig1_308     89    167     89    168 PF00900.21  Ribosomal_S4e     Family     1    74    75     70.3   8.1e-21   1 CL0021   
+Unclassified_Aigarchaeota_JZ_bin_40-contig1_82      50    163     49    163 PF01000.27  RNA_pol_A_bac     Domain     2   112   112     82.4   2.6e-24   1 No_clan  
+Unclassified_Aigarchaeota_JZ_bin_40-contig2_121     10    149      4    150 PF01025.20  GrpE              Family    26   165   166    117.8   3.3e-35   1 No_clan  
+Unclassified_Aigarchaeota_JZ_bin_40-contig2_19       3    146      2    157 PF00827.18  Ribosomal_L15e    Family     2   146   189    152.7     8e-46   1 CL0652   
+Unclassified_Aigarchaeota_JZ_bin_40-contig2_36      11    190      3    190 PF01015.19  Ribosomal_S3Ae    Family    12   195   195    194.4   1.2e-58   1 No_clan  
+Unclassified_Aigarchaeota_JZ_bin_40-contig3_111     10    187      9    188 PF04919.13  DUF655            Family     2   180   181    159.5   7.1e-48   1 CL0198   
+Unclassified_Aigarchaeota_JZ_bin_40-contig3_39       5    129      5    129 PF00410.20  Ribosomal_S8      Domain     1   126   126     77.9   5.3e-23   1 No_clan  
+Unclassified_Aigarchaeota_JZ_bin_40-contig6_90       5     66      3     66 PF01200.19  Ribosomal_S28e    Family     3    64    64    105.5   8.5e-32   1 CL0021   
+Unclassified_Aigarchaeota_JZ_bin_40-contig7_3      127    224    119    226 PF07541.13  EIF_2_alpha       Family    10   111   114     32.1   8.6e-09   1 No_clan  
+Unclassified_Aigarchaeota_JZ_bin_40-contig9_10      28    150     28    150 PF00380.20  Ribosomal_S9      Family     1   121   121    103.1   1.2e-30   1 CL0329   
+Unclassified_Aigarchaeota_JZ_bin_40-contig9_23       3    137      2    138 PF01090.20  Ribosomal_S19e    Family     2   136   137    170.0   1.8e-51   1 CL0123   
+Unclassified_Aigarchaeota_JZ_bin_40-contig9_41       3    135      2    136 PF01280.21  Ribosomal_L19e    Family     2   143   144    129.8   6.5e-39   1 No_clan  

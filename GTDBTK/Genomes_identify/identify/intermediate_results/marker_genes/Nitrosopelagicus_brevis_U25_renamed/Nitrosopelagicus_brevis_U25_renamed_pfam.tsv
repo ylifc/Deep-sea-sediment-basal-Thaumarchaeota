@@ -1,0 +1,46 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:51.662270
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Nitrosopelagicus_brevis_U25_renamed/Nitrosopelagicus_brevis_U25_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Nitrosopelagicus_brevis_U25-contig10_25     13     73     10     73 PF01200.19  Ribosomal_S28e    Family     4    64    64     90.6   3.3e-27   1 CL0021   
+Nitrosopelagicus_brevis_U25-contig19_3       3    137      3    139 PF01090.20  Ribosomal_S19e    Family     1   135   137    160.5   1.3e-48   1 CL0123   
+Nitrosopelagicus_brevis_U25-contig1_126      6    130      5    130 PF00410.20  Ribosomal_S8      Domain     2   126   126     79.9   1.1e-23   1 No_clan  
+Nitrosopelagicus_brevis_U25-contig1_129     97    169     96    169 PF00900.21  Ribosomal_S4e     Family     2    75    75     56.7   1.2e-16   1 CL0021   
+Nitrosopelagicus_brevis_U25-contig2_159      4    193      3    194 PF01015.19  Ribosomal_S3Ae    Family     2   194   195    205.4   4.4e-62   1 No_clan  
+Nitrosopelagicus_brevis_U25-contig2_51      44    146     44    146 PF01000.27  RNA_pol_A_bac     Domain     1   112   112     78.5   3.5e-23   1 No_clan  
+Nitrosopelagicus_brevis_U25-contig2_54      11    149     10    149 PF00380.20  Ribosomal_S9      Family     2   121   121    109.4   1.2e-32   1 CL0329   
+Nitrosopelagicus_brevis_U25-contig37_4      19    146      6    152 PF00827.18  Ribosomal_L15e    Family    18   145   189    151.5   1.6e-45   1 CL0652   
+Nitrosopelagicus_brevis_U25-contig4_33      12    187     11    187 PF04919.13  DUF655            Family     2   181   181    150.6   3.3e-45   1 CL0198   
+Nitrosopelagicus_brevis_U25-contig5_28     124    227    120    228 PF07541.13  EIF_2_alpha       Family     5   113   114     56.6   1.8e-16   1 No_clan  
+Nitrosopelagicus_brevis_U25-contig5_9        9    168      2    168 PF01025.20  GrpE              Family     4   166   166    122.0   1.4e-36   1 No_clan  
+Nitrosopelagicus_brevis_U25-contig6_18       4    144      4    146 PF01280.21  Ribosomal_L19e    Family     1   142   144    136.5   4.8e-41   1 No_clan  
+Nitrosopelagicus_brevis_U25-contig6_24      18    207     11    208 PF00687.22  Ribosomal_L1      Domain     4   203   204    141.7   1.8e-42   1 No_clan  
+Nitrosopelagicus_brevis_U25-contig6_25       9    105      7    107 PF00466.21  Ribosomal_L10     Family     3    98   100     66.2   1.7e-19   1 No_clan  

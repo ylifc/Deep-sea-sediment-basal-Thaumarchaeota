@@ -1,0 +1,8 @@
+Thaumarchaeota_archaeon_strain_DS1-contig1_76	5.22e-31	WP_053593692.1	MULTISPECIES: SDR family oxidoreductase [Lysinibacillus]
+Thaumarchaeota_archaeon_strain_DS1-contig1_76	7.32e-31	AVK83840.1	tungsten formylmethanofuran dehydrogenase [Lysinibacillus sp. B2A1]
+Thaumarchaeota_archaeon_strain_DS1-contig2_126	1.99e-21	WP_114457043.1	MULTISPECIES: tRNA (N6-threonylcarbamoyladenosine(37)-N6)-methyltransferase TrmO [unclassified Halanaerobium]
+Thaumarchaeota_archaeon_strain_DS1-contig5_59	3.12e-15	WP_089023288.1	4Fe-4S binding protein [Natranaerobius trueperi]
+Thaumarchaeota_archaeon_strain_DS1-contig6_6	3.89e-42	WP_113920934.1	FmdE family protein [Alkalibaculum bacchi]
+Thaumarchaeota_archaeon_strain_DS1-contig33_3	1.20e-27	MBF6614822.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Thaumarchaeota_archaeon_strain_DS1-contig33_5	6.12e-68	MBF6614822.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Thaumarchaeota_archaeon_strain_DS1-contig33_5	3.39e-67	MBF6613166.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]

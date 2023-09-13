@@ -1,0 +1,45 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.160054
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Pyrococcus_furiosus_DSM_3638_2_renamed/Pyrococcus_furiosus_DSM_3638_2_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Pyrococcus_furiosus_DSM_3638_2-contig1_1141    122    233    121    233 PF07541.13  EIF_2_alpha       Family     2   114   114     85.9   2.2e-25   1 No_clan  
+Pyrococcus_furiosus_DSM_3638_2-contig1_1368      5     67      4     67 PF01200.19  Ribosomal_S28e    Family     2    64    64    105.7     1e-31   1 CL0021   
+Pyrococcus_furiosus_DSM_3638_2-contig1_1500      3    138      3    139 PF01090.20  Ribosomal_S19e    Family     1   136   137    196.9   1.2e-59   1 CL0123   
+Pyrococcus_furiosus_DSM_3638_2-contig1_1646      8    135      8    135 PF00380.20  Ribosomal_S9      Family     1   121   121    107.9   5.2e-32   1 CL0329   
+Pyrococcus_furiosus_DSM_3638_2-contig1_1649     47    149     47    149 PF01000.27  RNA_pol_A_bac     Domain     1   112   112    100.4   8.3e-30   1 No_clan  
+Pyrococcus_furiosus_DSM_3638_2-contig1_1795      4    145      3    146 PF01280.21  Ribosomal_L19e    Family     2   143   144    197.7   9.8e-60   1 No_clan  
+Pyrococcus_furiosus_DSM_3638_2-contig1_1798      5    130      5    130 PF00410.20  Ribosomal_S8      Domain     1   126   126     95.4   2.6e-28   1 No_clan  
+Pyrococcus_furiosus_DSM_3638_2-contig1_1801     96    173     96    173 PF00900.21  Ribosomal_S4e     Family     1    75    75     76.4   1.3e-22   1 CL0021   
+Pyrococcus_furiosus_DSM_3638_2-contig1_1851     22    197     21    198 PF04919.13  DUF655            Family     2   180   181    247.9     7e-75   1 CL0198   
+Pyrococcus_furiosus_DSM_3638_2-contig1_1982     21    210     10    210 PF00687.22  Ribosomal_L1      Domain     6   204   204    171.4   2.3e-51   1 No_clan  
+Pyrococcus_furiosus_DSM_3638_2-contig1_1983      5    106      3    108 PF00466.21  Ribosomal_L10     Family     3    98   100     76.3   1.8e-22   1 No_clan  
+Pyrococcus_furiosus_DSM_3638_2-contig1_2044      6    194      4    194 PF01015.19  Ribosomal_S3Ae    Family     3   195   195    249.2   2.6e-75   1 No_clan  
+Pyrococcus_furiosus_DSM_3638_2-contig1_874       2    189      2    189 PF00827.18  Ribosomal_L15e    Family     1   189   189    302.6   1.1e-91   1 CL0652   

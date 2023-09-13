@@ -1,0 +1,8 @@
+XS84_Bin2_contig47_4	2.42e-11	WP_008589146.1	SDR family oxidoreductase [Salimicrobium jeotgali]
+XS84_Bin2_contig103_7	5.25e-111	GGN95214.1	tungsten formylmethanofuran dehydrogenase subunit E [Halomicroarcula pellucida]
+XS84_Bin2_contig103_7	3.77e-110	TME16620.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+XS84_Bin2_contig103_7	3.58e-110	TMD52845.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+XS84_Bin2_contig103_7	3.77e-110	TME16247.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+XS84_Bin2_contig104_2	7.81e-114	WP_294083239.1	citrate/2-methylcitrate synthase [Sphaerobacter sp.]
+XS84_Bin2_contig104_2	7.17e-113	MBX6342053.1	tungsten formylmethanofuran dehydrogenase [Thermomicrobiaceae bacterium]
+XS84_Bin2_contig188_6	2.76e-91	GIU91197.1	MAG: tungsten formylmethanofuran dehydrogenase subunit E [Acidimicrobiia bacterium]

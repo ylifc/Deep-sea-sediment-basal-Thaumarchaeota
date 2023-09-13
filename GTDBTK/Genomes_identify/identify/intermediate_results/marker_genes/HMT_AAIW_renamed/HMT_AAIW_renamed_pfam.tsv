@@ -1,0 +1,44 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:51.526321
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/HMT_AAIW_renamed/HMT_AAIW_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+HMT_AAIW_contig12_16     46    157     45    157 PF01000.27  RNA_pol_A_bac     Domain     2   112   112     90.6   3.6e-27   1 No_clan  
+HMT_AAIW_contig12_19     11    134     10    134 PF00380.20  Ribosomal_S9      Family     2   121   121    104.5   2.3e-31   1 CL0329   
+HMT_AAIW_contig14_10      4    136      3    139 PF01090.20  Ribosomal_S19e    Family     2   134   137    164.2   5.8e-50   1 CL0123   
+HMT_AAIW_contig26_14     18    207     12    207 PF00687.22  Ribosomal_L1      Domain     4   204   204    137.1   2.9e-41   1 No_clan  
+HMT_AAIW_contig26_15     10    106      9    108 PF00466.21  Ribosomal_L10     Family     2    97   100     72.2   1.3e-21   1 No_clan  
+HMT_AAIW_contig28_14     38    170     29    170 PF01025.20  GrpE              Family    31   166   166    124.9   1.1e-37   1 No_clan  
+HMT_AAIW_contig31_8      12    201     10    201 PF01015.19  Ribosomal_S3Ae    Family     3   195   195    171.9   4.9e-52   1 No_clan  
+HMT_AAIW_contig7_13      10    185      9    185 PF04919.13  DUF655            Family     2   181   181    160.6   1.7e-48   1 CL0198   
+HMT_AAIW_contig8_11       9     71      8     71 PF01200.19  Ribosomal_S28e    Family     2    64    64    101.8   6.3e-31   1 CL0021   
+HMT_AAIW_contig9_16       3    143      3    144 PF01280.21  Ribosomal_L19e    Family     1   143   144    111.5   1.5e-33   1 No_clan  
+HMT_AAIW_contig9_19       6    130      5    130 PF00410.20  Ribosomal_S8      Domain     2   126   126     78.8   1.5e-23   1 No_clan  
+HMT_AAIW_contig9_22      98    169     96    170 PF00900.21  Ribosomal_S4e     Family     3    74    75     50.2     8e-15   1 CL0021   

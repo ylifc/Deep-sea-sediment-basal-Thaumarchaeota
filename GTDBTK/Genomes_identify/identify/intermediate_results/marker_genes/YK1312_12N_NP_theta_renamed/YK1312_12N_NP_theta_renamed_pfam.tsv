@@ -1,0 +1,47 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:51.716837
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/YK1312_12N_NP_theta_renamed/YK1312_12N_NP_theta_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+YK1312_12N_NP_theta-contig108_2     122    228    120    229 PF07541.13  EIF_2_alpha       Family     3   113   114     71.2   6.9e-21   1 No_clan  
+YK1312_12N_NP_theta-contig134_1       9    105      7    106 PF00466.21  Ribosomal_L10     Family     3    98   100     71.4   5.2e-21   1 No_clan  
+YK1312_12N_NP_theta-contig134_2       2    117      1    118 PF00687.22  Ribosomal_L1      Domain    83   203   204    102.5   2.3e-30   1 No_clan  
+YK1312_12N_NP_theta-contig143_1       3    137      3    138 PF01090.20  Ribosomal_S19e    Family     1   136   137    162.7   3.4e-49   1 CL0123   
+YK1312_12N_NP_theta-contig148_7      99    169     97    169 PF00900.21  Ribosomal_S4e     Family     4    75    75     63.5   1.1e-18   1 CL0021   
+YK1312_12N_NP_theta-contig158_13     20    129     11    129 PF00687.22  Ribosomal_L1      Domain     6   120   204     70.5   1.5e-20   1 No_clan  
+YK1312_12N_NP_theta-contig158_6       4    144      4    146 PF01280.21  Ribosomal_L19e    Family     1   142   144    141.9   1.4e-42   1 No_clan  
+YK1312_12N_NP_theta-contig175_5       4    193      3    194 PF01015.19  Ribosomal_S3Ae    Family     2   194   195    202.8   3.5e-61   1 No_clan  
+YK1312_12N_NP_theta-contig191_2      29    189     12    189 PF01025.20  GrpE              Family     3   166   166    120.9   3.8e-36   1 No_clan  
+YK1312_12N_NP_theta-contig243_12     11    148     10    148 PF00380.20  Ribosomal_S9      Family     2   121   121    113.2   9.6e-34   1 CL0329   
+YK1312_12N_NP_theta-contig243_9      32    144     32    144 PF01000.27  RNA_pol_A_bac     Domain     1   112   112     88.0   5.1e-26   1 No_clan  
+YK1312_12N_NP_theta-contig257_2       6     69      6     69 PF01200.19  Ribosomal_S28e    Family     1    64    64    109.0   7.5e-33   1 CL0021   
+YK1312_12N_NP_theta-contig44_1        1     37      1     46 PF00827.18  Ribosomal_L15e    Family   110   146   189     42.0   7.4e-12   1 CL0652   
+YK1312_12N_NP_theta-contig52_2       12    187     11    187 PF04919.13  DUF655            Family     2   181   181    166.8   4.5e-50   1 CL0198   
+YK1312_12N_NP_theta-contig91_1       22     62      1     62 PF00410.20  Ribosomal_S8      Domain    84   126   126     34.5   1.6e-09   1 No_clan  

@@ -1,0 +1,504 @@
+IQ-TREE multicore version 2.2.2.7 COVID-edition for Linux 64-bit built Jun  7 2023
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    ylifc (AVX2, FMA3, 1007 GB RAM)
+Command: iqtree2 --seqtype AA -s cat_added_fwdA_reformat_mafft_trimal.fa -T AUTO --threads-max 250 -m TEST -B 1500
+Seed:    797724 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sat Sep  2 17:37:50 2023
+Kernel:  AVX+FMA - auto-detect threads (256 CPU cores detected)
+
+Reading alignment file cat_added_fwdA_reformat_mafft_trimal.fa ... Fasta format detected
+Reading fasta file: done in 0.00163481 secs using 24.96% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.00297873 secs using 1777% CPU
+Alignment has 108 sequences with 491 columns, 460 distinct patterns
+382 parsimony-informative, 37 singleton sites, 72 constant sites
+                                                                 Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.0841676 secs using 3852% CPU
+   1  outgourp                                                          69.04%    failed      0.21%
+   2  MCL4436233.1_Nitrososphaerota_archaeon                             0.00%    passed     86.67%
+   3  MBI2937348.1_Nitrososphaerota_archaeon                             0.00%    passed     99.41%
+   4  OHE55553.1_Thaumarchaeota_archaeon                                14.87%    passed     89.94%
+   5  MBS7644361.1_Candidatus_Bathyarchaeota                             0.00%    passed     99.66%
+   6  MCP8307130.1_unknown_archaeon_sequence                             0.00%    passed     97.84%
+   7  NWG09310.1_Nitrososphaerales_archaeon                              0.00%    passed     99.10%
+   8  NHV97165.1_Nitrososphaerota_archaeon                               0.00%    passed     78.02%
+   9  MCP8309470.1_unknown_archaeon_sequence                             0.00%    passed     99.02%
+  10  MCP8313675.1_unknown_archaeon_sequence                             0.00%    passed     98.89%
+  11  MCP8323602.1_Candidatus_Methylarchaceae                            0.00%    passed     81.02%
+  12  MCP8306026.1_unknown_archaeon_sequence                             0.00%    passed     90.86%
+  13  MCP8312677.1_Candidatus_Methylarchaceae                            0.00%    passed     85.79%
+  14  MCP8305132.1_unknown_archaeon_sequence                             0.00%    passed     90.70%
+  15  MCS7116844.1_Nitrososphaerales_archaeon                            0.00%    passed     92.82%
+  16  NIM44119.1_Nitrososphaeria_archaeon                                0.00%    passed     99.69%
+  17  MBS7658289.1_Candidatus_Bathyarchaeota                             0.00%    passed     26.81%
+  18  UCD26156.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.67%
+  19  HDI08010.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.97%
+  20  RLG92746.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.92%
+  21  RLI35203.1_Candidatus_Bathyarchaeota                               0.00%    passed     11.29%
+  22  RJS67718.1_Candidatus_Bathyarchaeota                               0.00%    passed     35.76%
+  23  MBS7635917.1_Candidatus_Bathyarchaeota                             0.00%    passed    100.00%
+  24  MCS7124454.1_Candidatus_Bathyarchaeota                             0.00%    passed     99.99%
+  25  RJS79794.1_Candidatus_Bathyarchaeota                               0.20%    passed     26.57%
+  26  MBS7608350.1_Candidatus_Bathyarchaeota                             0.00%    passed     99.97%
+  27  MCK4477606.1_Candidatus_Bathyarchaeota                             0.00%    passed     99.63%
+  28  MBS7605139.1_Candidatus_Bathyarchaeota                             0.00%    passed     99.96%
+  29  MCL6578653.1_Candidatus_Bathyarchaeota                             0.00%    passed     96.99%
+  30  MCD6470822.1_Candidatus_Bathyarchaeota                             0.00%    passed     99.81%
+  31  MCD6088440.1_Candidatus_Bathyarchaeota                             0.20%    passed     99.29%
+  32  MBS7616358.1_Candidatus_Bathyarchaeota                             0.00%    passed    100.00%
+  33  HIE14609.1_Candidatus_Bathyarchaeota                               0.00%    passed     97.67%
+  34  MBS7646389.1_Candidatus_Bathyarchaeota                             0.00%    passed     99.96%
+  35  MCJ7610128.1_Candidatus_Bathyarchaeota                             0.00%    passed     95.48%
+  36  NWG10883.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.99%
+  37  NWF87580.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.96%
+  38  MCD6164328.1_Candidatus_Odinarchaeota                              0.20%    passed     82.90%
+  39  RJS76450.1_Candidatus_Bathyarchaeota                               0.00%    passed    100.00%
+  40  NIR87641.1_Candidatus_Bathyarchaeota                               0.00%    passed    100.00%
+  41  HDD69578.1_Candidatus_Bathyarchaeota                               0.00%    passed    100.00%
+  42  MBS7641301.1_Candidatus_Bathyarchaeota                             0.00%    passed    100.00%
+  43  RJS85245.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.65%
+  44  RLI17842.1_Candidatus_Bathyarchaeota                               0.00%    passed    100.00%
+  45  KYH42154.1_Candidatus_Bathyarchaeota                               0.00%    passed     47.38%
+  46  MBX5321524.1_Candidatus_Bathyarchaeota                             0.00%    passed    100.00%
+  47  MBS7624299.1_Candidatus_Bathyarchaeota                             0.00%    passed    100.00%
+  48  MBS7655404.1_Candidatus_Bathyarchaeota                             0.00%    passed     25.71%
+  49  NIO37692.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.75%
+  50  MBX5329303.1_Candidatus_Bathyarchaeota                             0.00%    passed     94.20%
+  51  UCC28665.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.95%
+  52  RJS94609.1_Candidatus_Bathyarchaeota                               0.00%    passed     92.77%
+  53  MBE0512360.1_Candidatus_Bathyarchaeota                             0.00%    passed     99.86%
+  54  TET57005.1_Candidatus_Bathyarchaeota                               0.00%    passed     98.40%
+  55  RLI30396.1_Candidatus_Bathyarchaeota                               0.00%    passed     81.77%
+  56  MCK4435329.1_Candidatus_Bathyarchaeota                             0.00%    passed     97.47%
+  57  RLI33952.1_Candidatus_Bathyarchaeota                               0.20%    failed      0.53%
+  58  MBS7610705.1_Candidatus_Bathyarchaeota                             0.00%    passed     94.49%
+  59  MCK5592579.1_Candidatus_Bathyarchaeota                             0.00%    passed    100.00%
+  60  TET19308.1_Candidatus_Bathyarchaeota                               0.00%    passed    100.00%
+  61  OGD49700.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.40%
+  62  MCK4440264.1_Candidatus_Bathyarchaeota                             0.00%    passed     99.68%
+  63  MBS7648687.1_Candidatus_Bathyarchaeota                             0.00%    passed     99.72%
+  64  MBS7613330.1_Candidatus_Bathyarchaeota                             0.00%    passed     92.18%
+  65  MBS7606563.1_Candidatus_Bathyarchaeota                             0.00%    passed     99.97%
+  66  RJS89785.1_Candidatus_Bathyarchaeota                               0.20%    failed      0.51%
+  67  RLI34823.1_Candidatus_Bathyarchaeota                               0.00%    passed     84.91%
+  68  MCK4633566.1_Candidatus_Bathyarchaeota                             0.00%    passed     97.05%
+  69  MBS7617014.1_Candidatus_Bathyarchaeota                             0.00%    passed     95.47%
+  70  TEU07168.1_Candidatus_Bathyarchaeota                               0.00%    passed    100.00%
+  71  MBS7638916.1_Candidatus_Bathyarchaeota                             0.00%    passed     88.63%
+  72  MCK5631361.1_Candidatus_Bathyarchaeota                             0.00%    passed     99.99%
+  73  RJS76688.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.86%
+  74  MBX5326885.1_Candidatus_Bathyarchaeota                             0.00%    passed     98.83%
+  75  UCG36718.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.24%
+  76  MCD6469830.1_Candidatus_Bathyarchaeota                             0.00%    passed     99.97%
+  77  KYH37045.1_Candidatus_Bathyarchaeota                               0.00%    passed     76.02%
+  78  RLI26066.1_Candidatus_Bathyarchaeota                               0.00%    passed     76.02%
+  79  MBS7653891.1_Candidatus_Bathyarchaeota                             0.00%    passed     99.99%
+  80  MBS7625958.1_Candidatus_Bathyarchaeota                             0.00%    passed     99.33%
+  81  MBS7650705.1_Candidatus_Bathyarchaeota                             0.00%    passed     97.59%
+  82  UCH31028.1_Candidatus_Bathyarchaeota                               0.00%    passed     97.35%
+  83  UCC34096.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.98%
+  84  MBS7656660.1_Candidatus_Bathyarchaeota                             0.00%    passed     99.96%
+  85  MCD6445751.1_Candidatus_Bathyarchaeota                             0.00%    passed     97.56%
+  86  KON27140.1_miscellaneous_Crenarchaeota                             0.00%    passed     94.52%
+  87  RJS86916.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.79%
+  88  MBS7614410.1_Candidatus_Bathyarchaeota                             0.00%    passed     97.54%
+  89  RJS80068.1_Candidatus_Bathyarchaeota                               0.00%    passed     96.80%
+  90  MCK4497686.1_Candidatus_Bathyarchaeota                             0.00%    passed    100.00%
+  91  MBE0519584.1_Candidatus_Bathyarchaeota                             0.00%    passed    100.00%
+  92  RLG55534.1_Candidatus_Korarchaeota                                 0.00%    passed     96.50%
+  93  UCE95623.1_Candidatus_Bathyarchaeota                               0.00%    passed     97.64%
+  94  RLI22401.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.48%
+  95  UCC58649.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.66%
+  96  UCE17000.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.99%
+  97  PDM26455.1_Candidatus_Bathyarchaeota                               0.00%    passed     98.15%
+  98  PVX24892.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.30%
+  99  HID18711.1_Candidatus                                              0.81%    passed     94.17%
+ 100  OGD54519.1_Candidatus_Bathyarchaeota                               0.00%    passed     99.70%
+ 101  MBS7632139.1_Candidatus                                            0.00%    passed     86.24%
+ 102  D197_116_contig2_48                                                0.00%    passed     92.67%
+ 103  D197_2_contig53_6                                                 44.20%    passed     97.72%
+ 104  Thaumarchaeota_unknown_archaeon_sequence_RBG_16_49_8-contig34_2    8.96%    passed     89.68%
+ 105  Mariana_Trench_sediment_5533m_4-6cm_Bin1                           0.00%    passed     89.50%
+ 106  XS84_Bin3_contig40_4                                               0.00%    passed     89.50%
+ 107  Deep-sea_sediment_ERR1730303_Bin1                                  0.00%    passed     89.50%
+ 108  Deep-sea_sediment_DRR121209_Bin1                                   0.00%    passed     89.50%
+WARNING: 1 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                                              1.29%  3 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: RLI26066.1_Candidatus_Bathyarchaeota is identical to KYH37045.1_Candidatus_Bathyarchaeota but kept for subsequent analysis
+NOTE: XS84_Bin3_contig40_4 is identical to Mariana_Trench_sediment_5533m_4-6cm_Bin1 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.0628296 secs using 4627% CPU
+Identifying sites to remove: done in 0.000843282 secs using 345.8% CPU
+NOTE: 2 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: Deep-sea_sediment_ERR1730303_Bin1 (identical to Mariana_Trench_sediment_5533m_4-6cm_Bin1) is ignored but added at the end
+NOTE: Deep-sea_sediment_DRR121209_Bin1 (identical to Mariana_Trench_sediment_5533m_4-6cm_Bin1) is ignored but added at the end
+Alignment was printed to cat_added_fwdA_reformat_mafft_trimal.fa.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to cat_added_fwdA_reformat_mafft_trimal.fa.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.036 seconds
+Measuring multi-threading efficiency up to 250 CPU cores
+Increase to 10 rounds for branch lengths
+170 trees examined
+Threads: 1 / Time: 253.256 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -46571
+Threads: 2 / Time: 174.485 sec / Speedup: 1.451 / Efficiency: 73% / LogL: -46571
+Threads: 3 / Time: 137.440 sec / Speedup: 1.843 / Efficiency: 61% / LogL: -46571
+Threads: 4 / Time: 91.048 sec / Speedup: 2.782 / Efficiency: 70% / LogL: -46571
+Threads: 5 / Time: 85.467 sec / Speedup: 2.963 / Efficiency: 59% / LogL: -46571
+Threads: 6 / Time: 96.209 sec / Speedup: 2.632 / Efficiency: 44% / LogL: -46571
+Determining AUTO threadcount: done in 837.913 secs using 276.2% CPU
+BEST NUMBER OF THREADS: 5
+
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Optimizing NNI: done in 0.64526 secs using 499.2% CPU
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -27152.840
+Optimal log-likelihood: -27152.657
+Proportion of invariable sites: 0.087
+Gamma shape alpha: 0.838
+Parameters optimization took 1 rounds (0.194 sec)
+Time for fast ML tree search: 1.437 seconds
+
+NOTE: ModelFinder requires 34 MB RAM!
+ModelFinder will test up to 224 protein models (sample size: 491) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            29246.385    209 58910.769    59223.154    59787.826
+  2  LG+I          28699.871    210 57819.742    58136.242    58700.995
+  3  LG+G4         27165.909    210 54751.818    55068.318    55633.072
+  4  LG+I+G4       27152.347    211 54726.693    55047.353    55612.143
+  8  LG+F+I+G4     27143.719    230 54747.437    55156.129    55712.619
+ 12  WAG+I+G4      27499.528    211 55421.056    55741.715    56306.506
+ 16  WAG+F+I+G4    27420.192    230 55300.384    55709.077    56265.567
+ 20  JTT+I+G4      27388.967    211 55199.934    55520.593    56085.384
+ 24  JTT+F+I+G4    27419.017    230 55298.035    55706.727    56263.217
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 28  Q.pfam+I+G4   27255.315    211 54932.630    55253.290    55818.080
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 32  Q.pfam+F+I+G4 27247.375    230 54954.751    55363.443    55919.933
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 36  Q.bird+I+G4   27769.176    211 55960.352    56281.011    56845.801
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 40  Q.bird+F+I+G4 27858.013    230 56176.026    56584.718    57141.208
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 44  Q.mammal+I+G4 27614.067    211 55650.134    55970.793    56535.583
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 48  Q.mammal+F+I+G4 27670.007    230 55800.014    56208.706    56765.196
+ 52  Q.insect+I+G4 27198.772    211 54819.545    55140.204    55704.994
+ 56  Q.insect+F+I+G4 27302.120    230 55064.241    55472.933    56029.423
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 60  Q.plant+I+G4  27256.884    211 54935.768    55256.428    55821.218
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 64  Q.plant+F+I+G4 27354.355    230 55168.709    55577.401    56133.891
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 68  Q.yeast+I+G4  27198.163    211 54818.325    55138.985    55703.775
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 72  Q.yeast+F+I+G4 27237.520    230 54935.041    55343.733    55900.223
+ 76  JTTDCMut+I+G4 27384.745    211 55191.491    55512.150    56076.941
+ 80  JTTDCMut+F+I+G4 27410.707    230 55281.414    55690.106    56246.596
+ 84  DCMut+I+G4    27906.389    211 56234.777    56555.437    57120.227
+ 88  DCMut+F+I+G4  27820.680    230 56101.360    56510.052    57066.542
+ 92  VT+I+G4       27612.468    211 55646.935    55967.595    56532.385
+ 96  VT+F+I+G4     27604.138    230 55668.276    56076.968    56633.458
+100  PMB+I+G4      27863.244    211 56148.488    56469.148    57033.938
+104  PMB+F+I+G4    27830.550    230 56121.100    56529.792    57086.282
+108  Blosum62+I+G4 27785.921    211 55993.842    56314.502    56879.292
+112  Blosum62+F+I+G4 27802.832    230 56065.664    56474.357    57030.846
+116  Dayhoff+I+G4  27901.517    211 56225.034    56545.694    57110.484
+120  Dayhoff+F+I+G4 27815.837    230 56091.675    56500.367    57056.857
+124  mtREV+I+G4    29049.651    211 58521.303    58841.962    59406.753
+128  mtREV+F+I+G4  28044.425    230 56548.849    56957.541    57514.031
+132  mtART+I+G4    28983.340    211 58388.680    58709.340    59274.130
+136  mtART+F+I+G4  27952.027    230 56364.054    56772.746    57329.236
+140  mtZOA+I+G4    28250.429    211 56922.857    57243.517    57808.307
+144  mtZOA+F+I+G4  27555.891    230 55571.782    55980.474    56536.964
+148  mtMet+I+G4    28722.466    211 57866.932    58187.592    58752.382
+152  mtMet+F+I+G4  27833.881    230 56127.762    56536.454    57092.944
+156  mtVer+I+G4    29220.433    211 58862.866    59183.525    59748.315
+160  mtVer+F+I+G4  28374.645    230 57209.289    57617.981    58174.471
+164  mtInv+I+G4    28774.427    211 57970.854    58291.514    58856.304
+168  mtInv+F+I+G4  27631.156    230 55722.312    56131.004    56687.494
+172  mtMAM+I+G4    29539.345    211 59500.690    59821.349    60386.139
+176  mtMAM+F+I+G4  28678.985    230 57817.971    58226.663    58783.153
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+180  FLAVI+I+G4    27996.903    211 56415.806    56736.465    57301.256
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+184  FLAVI+F+I+G4  28132.216    230 56724.432    57133.124    57689.614
+188  HIVb+I+G4     27735.954    211 55893.909    56214.568    56779.358
+192  HIVb+F+I+G4   27849.976    230 56159.953    56568.645    57125.135
+196  HIVw+I+G4     28592.086    211 57606.172    57926.832    58491.622
+200  HIVw+F+I+G4   28519.103    230 57498.207    57906.899    58463.389
+204  FLU+I+G4      27410.964    211 55243.928    55564.587    56129.378
+208  FLU+F+I+G4    27510.332    230 55480.664    55889.356    56445.846
+212  rtREV+I+G4    27589.184    211 55600.368    55921.027    56485.817
+216  rtREV+F+I+G4  27365.096    230 55190.193    55598.885    56155.375
+220  cpREV+I+G4    27308.395    211 55038.790    55359.449    55924.240
+224  cpREV+F+I+G4  27305.692    230 55071.384    55480.077    56036.566
+Akaike Information Criterion:           LG+I+G4
+Corrected Akaike Information Criterion: LG+I+G4
+Bayesian Information Criterion:         LG+I+G4
+Best-fit model: LG+I+G4 chosen according to BIC
+
+All model information printed to cat_added_fwdA_reformat_mafft_trimal.fa.model.gz
+CPU time for ModelFinder: 2572.481 seconds (0h:42m:52s)
+Wall-clock time for ModelFinder: 888.746 seconds (0h:14m:48s)
+Generating 1500 samples for ultrafast bootstrap (seed: 797724)...
+
+NOTE: 34 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 0.851 / Estimate: 0.000, 0.687 / LogL: -27165.859
+Init pinv, alpha: 0.016, 0.851 / Estimate: 0.090, 0.845 / LogL: -27152.333
+Init pinv, alpha: 0.033, 0.851 / Estimate: 0.090, 0.845 / LogL: -27152.342
+Init pinv, alpha: 0.049, 0.851 / Estimate: 0.089, 0.842 / LogL: -27152.366
+Init pinv, alpha: 0.065, 0.851 / Estimate: 0.090, 0.845 / LogL: -27152.347
+Init pinv, alpha: 0.081, 0.851 / Estimate: 0.090, 0.844 / LogL: -27152.358
+Init pinv, alpha: 0.098, 0.851 / Estimate: 0.096, 0.859 / LogL: -27152.338
+Init pinv, alpha: 0.114, 0.851 / Estimate: 0.096, 0.860 / LogL: -27152.316
+Init pinv, alpha: 0.130, 0.851 / Estimate: 0.097, 0.864 / LogL: -27152.332
+Init pinv, alpha: 0.147, 0.851 / Estimate: 0.096, 0.861 / LogL: -27152.294
+Optimal pinv,alpha: 0.096, 0.861 / LogL: -27152.294
+
+Parameters optimization took 8.201 sec
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.381873 secs using 498.1% CPU
+Computing ML distances took 0.406391 sec (of wall-clock time) 1.959424 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.0358212 secs using 114.8% CPU
+Constructing RapidNJ tree: done in 0.551911 secs using 233% CPU
+Computing RapidNJ tree took 0.588267 sec (of wall-clock time) 1.327869 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -27411.458
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 5.088 second
+Computing log-likelihood of 98 initial trees ... 7.579 seconds
+Current best score: -27152.294
+
+Do NNI search on 20 best initial trees
+Optimizing NNI: done in 0.702359 secs using 405.8% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -27152.059
+Optimizing NNI: done in 0.832027 secs using 497.9% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -27148.730
+Optimizing NNI: done in 1.26122 secs using 497.8% CPU
+Optimizing NNI: done in 1.30822 secs using 498% CPU
+Optimizing NNI: done in 1.2445 secs using 500.4% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 5: -27147.504
+Optimizing NNI: done in 1.24213 secs using 499.2% CPU
+Optimizing NNI: done in 1.13478 secs using 499.3% CPU
+Optimizing NNI: done in 1.13376 secs using 497.9% CPU
+Optimizing NNI: done in 0.956953 secs using 498.2% CPU
+Optimizing NNI: done in 1.09952 secs using 499.8% CPU
+Iteration 10 / LogL: -27151.955 / Time: 0h:0m:34s
+Optimizing NNI: done in 1.07293 secs using 496.7% CPU
+Optimizing NNI: done in 1.02954 secs using 500.6% CPU
+Optimizing NNI: done in 1.09471 secs using 499.2% CPU
+Optimizing NNI: done in 1.05974 secs using 499% CPU
+Optimizing NNI: done in 1.65345 secs using 496.6% CPU
+Optimizing NNI: done in 1.65779 secs using 496.8% CPU
+Optimizing NNI: done in 1.74713 secs using 498.6% CPU
+Optimizing NNI: done in 1.8824 secs using 498.8% CPU
+Optimizing NNI: done in 1.96538 secs using 481.6% CPU
+Optimizing NNI: done in 1.79556 secs using 492.9% CPU
+Iteration 20 / LogL: -27163.832 / Time: 0h:0m:49s
+Finish initializing candidate tree set (13)
+Current best tree score: -27147.504 / CPU time: 39.519
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Optimizing NNI: done in 2.41064 secs using 486% CPU
+Optimizing NNI: done in 1.87023 secs using 499.1% CPU
+Optimizing NNI: done in 1.87422 secs using 497.7% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 23: -27147.473
+Optimizing NNI: done in 2.11628 secs using 499.3% CPU
+Optimizing NNI: done in 1.88041 secs using 498.1% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 25: -27146.497
+Optimizing NNI: done in 1.87444 secs using 496.5% CPU
+Optimizing NNI: done in 2.82155 secs using 497% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 27: -27144.557
+Optimizing NNI: done in 1.86121 secs using 499.4% CPU
+Optimizing NNI: done in 1.88606 secs using 497.7% CPU
+Optimizing NNI: done in 2.79605 secs using 498.7% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 30: -27142.533
+Iteration 30 / LogL: -27142.533 / Time: 0h:1m:12s (0h:4m:8s left)
+Optimizing NNI: done in 2.27233 secs using 498.3% CPU
+Optimizing NNI: done in 2.57245 secs using 498.1% CPU
+Optimizing NNI: done in 2.71144 secs using 499% CPU
+Optimizing NNI: done in 1.70771 secs using 499.3% CPU
+Optimizing NNI: done in 2.58502 secs using 497.6% CPU
+Optimizing NNI: done in 2.01187 secs using 498% CPU
+Optimizing NNI: done in 1.57343 secs using 498.8% CPU
+Optimizing NNI: done in 2.01591 secs using 497.9% CPU
+Optimizing NNI: done in 2.08662 secs using 499.5% CPU
+BETTER TREE FOUND at iteration 39: -27142.523
+Optimizing NNI: done in 1.0755 secs using 498.7% CPU
+Iteration 40 / LogL: -27153.238 / Time: 0h:1m:33s (0h:3m:56s left)
+Optimizing NNI: done in 1.20584 secs using 499.4% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 41: -27142.278
+Optimizing NNI: done in 1.11604 secs using 496.7% CPU
+Optimizing NNI: done in 1.22286 secs using 497.5% CPU
+Optimizing NNI: done in 1.41585 secs using 497.8% CPU
+Optimizing NNI: done in 1.40976 secs using 497.3% CPU
+Optimizing NNI: done in 1.39044 secs using 499.1% CPU
+Optimizing NNI: done in 1.42647 secs using 499.3% CPU
+Optimizing NNI: done in 1.53042 secs using 497.4% CPU
+Optimizing NNI: done in 1.03416 secs using 495.8% CPU
+Optimizing NNI: done in 1.43954 secs using 494.2% CPU
+Iteration 50 / LogL: -27143.217 / Time: 0h:1m:46s (0h:3m:18s left)
+Log-likelihood cutoff on original alignment: -27218.318
+Optimizing NNI: done in 1.19734 secs using 495.1% CPU
+Optimizing NNI: done in 1.24695 secs using 497.8% CPU
+Optimizing NNI: done in 1.24852 secs using 496% CPU
+Optimizing NNI: done in 1.30214 secs using 499.6% CPU
+Optimizing NNI: done in 1.49267 secs using 495.3% CPU
+Optimizing NNI: done in 1.48272 secs using 497.2% CPU
+Optimizing NNI: done in 1.27953 secs using 494.8% CPU
+Optimizing NNI: done in 1.36852 secs using 498.4% CPU
+Optimizing NNI: done in 1.85141 secs using 497% CPU
+Optimizing NNI: done in 1.42251 secs using 496.9% CPU
+Iteration 60 / LogL: -27146.295 / Time: 0h:2m:1s (0h:2m:46s left)
+Optimizing NNI: done in 1.15761 secs using 496.3% CPU
+Optimizing NNI: done in 1.26583 secs using 495.4% CPU
+Optimizing NNI: done in 1.17518 secs using 496.6% CPU
+Optimizing NNI: done in 1.25628 secs using 496.9% CPU
+Optimizing NNI: done in 1.48739 secs using 496.8% CPU
+Optimizing NNI: done in 1.32074 secs using 497.4% CPU
+Optimizing NNI: done in 1.40311 secs using 498.2% CPU
+Optimizing NNI: done in 1.64109 secs using 498.6% CPU
+Optimizing NNI: done in 1.44922 secs using 498.9% CPU
+Optimizing NNI: done in 1.63009 secs using 499.5% CPU
+Iteration 70 / LogL: -27148.359 / Time: 0h:2m:15s (0h:2m:19s left)
+Optimizing NNI: done in 1.33801 secs using 499.1% CPU
+Optimizing NNI: done in 1.45193 secs using 498.1% CPU
+Optimizing NNI: done in 1.33343 secs using 499.8% CPU
+Optimizing NNI: done in 1.08822 secs using 499.5% CPU
+Optimizing NNI: done in 1.34006 secs using 499.1% CPU
+Optimizing NNI: done in 1.05717 secs using 499.2% CPU
+Optimizing NNI: done in 1.20537 secs using 498.6% CPU
+Optimizing NNI: done in 1.55926 secs using 498.6% CPU
+Optimizing NNI: done in 1.28041 secs using 499.2% CPU
+Optimizing NNI: done in 1.47456 secs using 499.2% CPU
+Iteration 80 / LogL: -27146.898 / Time: 0h:2m:28s (0h:1m:54s left)
+Optimizing NNI: done in 1.16477 secs using 499.7% CPU
+Optimizing NNI: done in 1.25316 secs using 498.8% CPU
+Optimizing NNI: done in 1.14405 secs using 498.5% CPU
+Optimizing NNI: done in 1.16499 secs using 499% CPU
+Optimizing NNI: done in 1.27419 secs using 498.3% CPU
+Optimizing NNI: done in 1.26205 secs using 498.9% CPU
+Optimizing NNI: done in 1.21488 secs using 497.7% CPU
+Optimizing NNI: done in 1.11503 secs using 498.9% CPU
+Optimizing NNI: done in 1.30898 secs using 499% CPU
+Optimizing NNI: done in 1.37026 secs using 499.9% CPU
+Iteration 90 / LogL: -27146.501 / Time: 0h:2m:41s (0h:1m:32s left)
+Optimizing NNI: done in 1.28076 secs using 499.5% CPU
+Optimizing NNI: done in 1.83051 secs using 499% CPU
+Optimizing NNI: done in 1.60798 secs using 499.6% CPU
+Optimizing NNI: done in 1.76942 secs using 499.4% CPU
+Optimizing NNI: done in 1.7893 secs using 498.3% CPU
+Optimizing NNI: done in 1.46226 secs using 499.6% CPU
+Optimizing NNI: done in 1.3548 secs using 498.6% CPU
+Optimizing NNI: done in 1.12002 secs using 497.3% CPU
+Optimizing NNI: done in 1.45959 secs using 496.8% CPU
+Optimizing NNI: done in 1.3055 secs using 498.9% CPU
+Iteration 100 / LogL: -27142.922 / Time: 0h:2m:56s (0h:1m:13s left)
+Log-likelihood cutoff on original alignment: -27218.318
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.997
+Optimizing NNI: done in 1.38662 secs using 499.5% CPU
+Optimizing NNI: done in 1.66127 secs using 499.8% CPU
+Optimizing NNI: done in 1.59881 secs using 499% CPU
+Optimizing NNI: done in 1.39293 secs using 498.8% CPU
+Optimizing NNI: done in 1.33503 secs using 497.2% CPU
+Optimizing NNI: done in 1.32031 secs using 499.5% CPU
+Optimizing NNI: done in 1.41396 secs using 497.3% CPU
+Optimizing NNI: done in 1.59806 secs using 500% CPU
+Optimizing NNI: done in 1.53884 secs using 499.4% CPU
+Optimizing NNI: done in 1.22637 secs using 499.5% CPU
+Iteration 110 / LogL: -27146.931 / Time: 0h:3m:11s (0h:2m:38s left)
+Optimizing NNI: done in 1.39628 secs using 499% CPU
+Optimizing NNI: done in 1.75543 secs using 497.6% CPU
+Optimizing NNI: done in 1.52489 secs using 498.9% CPU
+Optimizing NNI: done in 1.32825 secs using 498.1% CPU
+Optimizing NNI: done in 1.31292 secs using 499.7% CPU
+Optimizing NNI: done in 1.33301 secs using 498.4% CPU
+Optimizing NNI: done in 1.28067 secs using 491.2% CPU
+Optimizing NNI: done in 1.28032 secs using 495.1% CPU
+Optimizing NNI: done in 1.10566 secs using 499% CPU
+Optimizing NNI: done in 1.14095 secs using 498.2% CPU
+Iteration 120 / LogL: -27144.167 / Time: 0h:3m:25s (0h:2m:18s left)
+Optimizing NNI: done in 1.28374 secs using 497.5% CPU
+Optimizing NNI: done in 1.29061 secs using 499.8% CPU
+Optimizing NNI: done in 1.02906 secs using 499.2% CPU
+Optimizing NNI: done in 1.13789 secs using 500.4% CPU
+Optimizing NNI: done in 1.14819 secs using 498.1% CPU
+Optimizing NNI: done in 1.26007 secs using 498.1% CPU
+Optimizing NNI: done in 1.39107 secs using 497.5% CPU
+Optimizing NNI: done in 1.15922 secs using 499.6% CPU
+Optimizing NNI: done in 1.24442 secs using 497.9% CPU
+Optimizing NNI: done in 1.29018 secs using 498.7% CPU
+Iteration 130 / LogL: -27148.394 / Time: 0h:3m:38s (0h:1m:58s left)
+Optimizing NNI: done in 1.21646 secs using 499.2% CPU
+Optimizing NNI: done in 1.22116 secs using 498.2% CPU
+Optimizing NNI: done in 1.24353 secs using 499.7% CPU
+Optimizing NNI: done in 1.26722 secs using 499.1% CPU
+Optimizing NNI: done in 1.30558 secs using 500.1% CPU
+Optimizing NNI: done in 1.21938 secs using 499.1% CPU
+Optimizing NNI: done in 1.08537 secs using 497.9% CPU
+Optimizing NNI: done in 1.21905 secs using 499.6% CPU
+Optimizing NNI: done in 1.40314 secs using 499.1% CPU
+Optimizing NNI: done in 1.57672 secs using 500.3% CPU
+Iteration 140 / LogL: -27142.911 / Time: 0h:3m:51s (0h:1m:39s left)
+Optimizing NNI: done in 1.72863 secs using 498.6% CPU
+Optimizing NNI: done in 1.26705 secs using 499% CPU
+TREE SEARCH COMPLETED AFTER 142 ITERATIONS / Time: 0h:3m:54s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -27142.278
+Optimal log-likelihood: -27142.271
+Proportion of invariable sites: 0.093
+Gamma shape alpha: 0.850
+Parameters optimization took 1 rounds (0.206 sec)
+BEST SCORE FOUND : -27142.271
+Creating bootstrap support values...
+Split supports printed to NEXUS file cat_added_fwdA_reformat_mafft_trimal.fa.splits.nex
+Total tree length: 20.731
+
+Total number of iterations: 142
+CPU time used for tree search: 1089.680 sec (0h:18m:9s)
+Wall-clock time used for tree search: 224.438 sec (0h:3m:44s)
+Total CPU time used: 1137.930 sec (0h:18m:57s)
+Total wall-clock time used: 234.802 sec (0h:3m:54s)
+
+Computing bootstrap consensus tree...
+Reading input file cat_added_fwdA_reformat_mafft_trimal.fa.splits.nex...
+106 taxa and 479 splits.
+Consensus tree written to cat_added_fwdA_reformat_mafft_trimal.fa.contree
+Reading input trees file cat_added_fwdA_reformat_mafft_trimal.fa.contree
+Log-likelihood of consensus tree: -27143.284
+
+Analysis results written to: 
+  IQ-TREE report:                cat_added_fwdA_reformat_mafft_trimal.fa.iqtree
+  Maximum-likelihood tree:       cat_added_fwdA_reformat_mafft_trimal.fa.treefile
+  Likelihood distances:          cat_added_fwdA_reformat_mafft_trimal.fa.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          cat_added_fwdA_reformat_mafft_trimal.fa.splits.nex
+  Consensus tree:                cat_added_fwdA_reformat_mafft_trimal.fa.contree
+  Screen log file:               cat_added_fwdA_reformat_mafft_trimal.fa.log
+
+Date and Time: Sat Sep  2 17:56:35 2023

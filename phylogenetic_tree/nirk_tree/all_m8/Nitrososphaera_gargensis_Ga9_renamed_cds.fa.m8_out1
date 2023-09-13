@@ -1,0 +1,1490 @@
+Nitrososphaera_gargensis_Ga9-contig1_1	99.8	K10725	archaeal cell division control protein 6	cdc6
+Nitrososphaera_gargensis_Ga9-contig1_2	99.8	K02323	DNA polymerase II small subunit [EC:2.7.7.7]	polB1
+Nitrososphaera_gargensis_Ga9-contig1_5	99.3	K02259	cytochrome c oxidase assembly protein subunit 15	ctaA
+Nitrososphaera_gargensis_Ga9-contig1_6	31.4	K07775	two-component system, OmpR family, response regulator ResD	resD
+Nitrososphaera_gargensis_Ga9-contig1_6	31.4	K07775	two-component system, OmpR family, response regulator ResD	resD
+Nitrososphaera_gargensis_Ga9-contig1_6	31.4	K07775	two-component system, OmpR family, response regulator ResD	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_6	33.6	K07775	two-component system, OmpR family, response regulator ResD	two-component response regulator
+Nitrososphaera_gargensis_Ga9-contig1_9	100	K03136	transcription initiation factor TFIIE subunit alpha	tfe
+Nitrososphaera_gargensis_Ga9-contig1_12	99.1	K07731	putative transcriptional regulator	putative helix-turn-helix domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_13	100	K01821	4-oxalocrotonate tautomerase [EC:5.3.2.6]	putative 4-oxalocrotonate tautomerase
+Nitrososphaera_gargensis_Ga9-contig1_13	87.9	K01821	4-oxalocrotonate tautomerase [EC:5.3.2.6]	uncharacterized protein, 4-oxalocrotonate tautomerase (EC:5.3.2.-)
+Nitrososphaera_gargensis_Ga9-contig1_15	35.0	K13566	omega-amidase [EC:3.5.1.3]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_17	99.9	K03168	DNA topoisomerase I [EC:5.99.1.2]	topA
+Nitrososphaera_gargensis_Ga9-contig1_20	100	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	acetoacetyl-CoA thiolase (EC:2.3.1.9 2.3.1.16)
+Nitrososphaera_gargensis_Ga9-contig1_21	100	K07068	uncharacterized protein	putative nucleic-acid-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_26	100	K00527	ribonucleoside-triphosphate reductase [EC:1.17.4.2]	putative anaerobic ribonucleoside-triphosphate reductase
+Nitrososphaera_gargensis_Ga9-contig1_27	100	K00525	ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	nrdZ
+Nitrososphaera_gargensis_Ga9-contig1_29	100	K09816	zinc transport system permease protein	ABC uptake transporter, permease protein
+Nitrososphaera_gargensis_Ga9-contig1_30	84.8	K09816	zinc transport system permease protein	ABC-type Mn2+/Zn2+ transport system, permease component
+Nitrososphaera_gargensis_Ga9-contig1_31	99.6	K09817	zinc transport system ATP-binding protein [EC:3.6.3.-]	ABC uptake transporter, ATP-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_32	100	K09815	zinc transport system substrate-binding protein	ABC uptake transporter, substrate-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_33	99.2	K07722	CopG family transcriptional regulator, nickel-responsive regulator	putative nickel-responsive regulator 1
+Nitrososphaera_gargensis_Ga9-contig1_34	100	K02563	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]	putative UDP-glucuronosyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_41	100	K03665	GTPase	putative GTP-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_45	100	K03236	translation initiation factor 1A	eIF-1a1
+Nitrososphaera_gargensis_Ga9-contig1_47	46.2	K02427	23S rRNA (uridine2552-2'-O)-methyltransferase [EC:2.1.1.166]	ftsJ
+Nitrososphaera_gargensis_Ga9-contig1_54	31.6	K03455	monovalent cation:H+ antiporter-2, CPA2 family	sodium/hydrogen exchanger
+Nitrososphaera_gargensis_Ga9-contig1_54	31.6	K03455	monovalent cation:H+ antiporter-2, CPA2 family	monovalent cation:H+ antiporter-2, CPA2 family
+Nitrososphaera_gargensis_Ga9-contig1_54	31.3	K03455	monovalent cation:H+ antiporter-2, CPA2 family	sodium/hydrogen exchanger family protein
+Nitrososphaera_gargensis_Ga9-contig1_56	100	K18828	tRNA(fMet)-specific endonuclease VapC [EC:3.1.-.-]	PIN domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_56	100	K18828	tRNA(fMet)-specific endonuclease VapC [EC:3.1.-.-]	PilT domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_64	100	K18828	tRNA(fMet)-specific endonuclease VapC [EC:3.1.-.-]	PIN domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_65	100	K18828	tRNA(fMet)-specific endonuclease VapC [EC:3.1.-.-]	PIN domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_70	100	K00971	mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	mannose-6-phosphate isomerase type II (EC:5.3.1.8)
+Nitrososphaera_gargensis_Ga9-contig1_75	89.7	K07496	putative transposase	putative transposase IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_76	90.0	K07496	putative transposase	putative transposase IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_77	100	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_78	36.1	K07496	putative transposase	transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_82	88.9	K07496	putative transposase	putative transposase
+Nitrososphaera_gargensis_Ga9-contig1_83	100	K18828	tRNA(fMet)-specific endonuclease VapC [EC:3.1.-.-]	PilT-like protein
+Nitrososphaera_gargensis_Ga9-contig1_87	100	K06218	mRNA interferase RelE/StbE	putative RelE protein
+Nitrososphaera_gargensis_Ga9-contig1_88	100	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_89	100	K02863	large subunit ribosomal protein L1	rpl1p
+Nitrososphaera_gargensis_Ga9-contig1_90	100	K02864	large subunit ribosomal protein L10	rpl10p
+Nitrososphaera_gargensis_Ga9-contig1_92	43.3	K07495	putative transposase	transposase
+Nitrososphaera_gargensis_Ga9-contig1_92	43.3	K07495	putative transposase	transposase IS4
+Nitrososphaera_gargensis_Ga9-contig1_96	100	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_98	41.9	K18700	fluoroacetyl-CoA thioesterase [EC:3.1.2.29]	thioesterase
+Nitrososphaera_gargensis_Ga9-contig1_99	43.7	K09497	T-complex protein 1 subunit epsilon	T-complex protein 1, epsilon subunit
+Nitrososphaera_gargensis_Ga9-contig1_99	43.5	K09497	T-complex protein 1 subunit epsilon	T-complex protein 1 epsilon subunit, putative
+Nitrososphaera_gargensis_Ga9-contig1_99	43.5	K09497	T-complex protein 1 subunit epsilon	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_99	43.5	K09497	T-complex protein 1 subunit epsilon	T-complex protein 1 subunit epsilon
+Nitrososphaera_gargensis_Ga9-contig1_99	43.9	K09497	T-complex protein 1 subunit epsilon	T-complex protein 1 epsilon subunit
+Nitrososphaera_gargensis_Ga9-contig1_99	43.5	K09497	T-complex protein 1 subunit epsilon	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_99	42.7	K09496	T-complex protein 1 subunit delta	TCP-1 (CTT or eukaryotic type II) chaperonin family, delta subunit
+Nitrososphaera_gargensis_Ga9-contig1_99	43.5	K09497	T-complex protein 1 subunit epsilon	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_99	42.6	K09497	T-complex protein 1 subunit epsilon	Cct5 T-complex protein 1, epsilon subunit
+Nitrososphaera_gargensis_Ga9-contig1_106	100	K02929	large subunit ribosomal protein L44e	rpl44e
+Nitrososphaera_gargensis_Ga9-contig1_107	100	K02978	small subunit ribosomal protein S27e	rps27e
+Nitrososphaera_gargensis_Ga9-contig1_108	34.4	K00991	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]	ispD
+Nitrososphaera_gargensis_Ga9-contig1_109	99.6	K02233	adenosylcobinamide-GDP ribazoletransferase [EC:2.7.8.26]	cobS
+Nitrososphaera_gargensis_Ga9-contig1_110	100	K02227	adenosylcobinamide-phosphate synthase [EC:6.3.1.10]	cobD
+Nitrososphaera_gargensis_Ga9-contig1_111	100	K02232	adenosylcobyric acid synthase [EC:6.3.5.10]	cobQ
+Nitrososphaera_gargensis_Ga9-contig1_112	100	K04720	threonine-phosphate decarboxylase [EC:4.1.1.81]	putative aminotransferase class I and II
+Nitrososphaera_gargensis_Ga9-contig1_116	99.8	K09744	uncharacterized protein	protein of unknown function DUF790
+Nitrososphaera_gargensis_Ga9-contig1_117	59.6	K07496	putative transposase	transposase, IS605 OrfB family, central region
+Nitrososphaera_gargensis_Ga9-contig1_118	100	K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	asd
+Nitrososphaera_gargensis_Ga9-contig1_122	92.9	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	putative transcriptional regulator, AsnC family
+Nitrososphaera_gargensis_Ga9-contig1_122	92.9	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	transcriptional regulator
+Nitrososphaera_gargensis_Ga9-contig1_123	99.7	K02301	protoheme IX farnesyltransferase [EC:2.5.1.-]	ctaB1
+Nitrososphaera_gargensis_Ga9-contig1_124	100	K14568	rRNA small subunit pseudouridine methyltransferase Nep1 [EC:2.1.1.260]	putative ribosome biogenesis protein
+Nitrososphaera_gargensis_Ga9-contig1_126	99.0	K03540	ribonuclease P protein subunit RPR2 [EC:3.1.26.5]	putative ribonuclease P protein component 4
+Nitrososphaera_gargensis_Ga9-contig1_128	100	K07496	putative transposase	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_130	68.9	K07496	putative transposase	putative transposase
+Nitrososphaera_gargensis_Ga9-contig1_131	100	K02966	small subunit ribosomal protein S19e	rps19e
+Nitrososphaera_gargensis_Ga9-contig1_132	100	K06875	programmed cell death protein 5	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_133	30.8	K14446	crotonyl-CoA carboxylase/reductase [EC:1.3.1.85]	Crotonyl-CoA carboxylase/reductase, ethylmalonyl-CoA producing
+Nitrososphaera_gargensis_Ga9-contig1_134	100	K01644	citrate lyase subunit beta / citryl-CoA lyase [EC:4.1.3.34]	citE
+Nitrososphaera_gargensis_Ga9-contig1_135	100	K03455	monovalent cation:H+ antiporter-2, CPA2 family	monovalent cation/proton antiporter-2 family protein
+Nitrososphaera_gargensis_Ga9-contig1_136	100	K01821	4-oxalocrotonate tautomerase [EC:5.3.2.6]	putative 4-oxalocrotonate tautomerase family enzyme
+Nitrososphaera_gargensis_Ga9-contig1_137	99.7	K03453	bile acid:Na+ symporter, BASS family	arsenical resistance-3 family protein
+Nitrososphaera_gargensis_Ga9-contig1_138	100	K08602	oligoendopeptidase F [EC:3.4.24.-]	pepF
+Nitrososphaera_gargensis_Ga9-contig1_142	45.9	K03294	basic amino acid/polyamine antiporter, APA family	amino acid permease
+Nitrososphaera_gargensis_Ga9-contig1_143	37.7	K07182	CBS domain-containing protein	CBS domain and cyclic nucleotide-regulated nucleotidyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_145	34.1	K12574	ribonuclease J [EC:3.1.-.-]	RNA-metabolising metallo-beta-lactamase
+Nitrososphaera_gargensis_Ga9-contig1_149	100	K01495	GTP cyclohydrolase I [EC:3.5.4.16]	folE
+Nitrososphaera_gargensis_Ga9-contig1_150	31.5	K10026	7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]	radical SAM superfamily protein (EC:1.97.1.4)
+Nitrososphaera_gargensis_Ga9-contig1_150	31.5	K10026	7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]	radical SAM superfamily protein
+Nitrososphaera_gargensis_Ga9-contig1_150	31.5	K10026	7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]	queE
+Nitrososphaera_gargensis_Ga9-contig1_151	99.6	K06920	7-cyano-7-deazaguanine synthase [EC:6.3.4.20]	queC1
+Nitrososphaera_gargensis_Ga9-contig1_152	100	K09705	uncharacterized protein	putative enolase
+Nitrososphaera_gargensis_Ga9-contig1_153	99.8	K06942	uncharacterized protein	GTP binding protein
+Nitrososphaera_gargensis_Ga9-contig1_154	100	K01409	N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]	putative metalloendopeptidase glycoprotease family
+Nitrososphaera_gargensis_Ga9-contig1_156	99.5	K08851	TP53 regulating kinase and related kinases [EC:2.7.11.1]	putative Mn2+-dependent serine/threonine protein kinase
+Nitrososphaera_gargensis_Ga9-contig1_157	100	K02428	XTP/dITP diphosphohydrolase [EC:3.6.1.66]	putative nucleoside-triphosphatase
+Nitrososphaera_gargensis_Ga9-contig1_158	100	K15449	tRNA wybutosine-synthesizing protein 1 [EC:4.1.3.44]	wyosine base formation domain protein
+Nitrososphaera_gargensis_Ga9-contig1_160	99.8	K12339	cysteine synthase B [EC:2.5.1.47]	cysM1
+Nitrososphaera_gargensis_Ga9-contig1_162	98.8	K03053	DNA-directed RNA polymerase subunit H [EC:2.7.7.6]	rpoH
+Nitrososphaera_gargensis_Ga9-contig1_163	100	K13798	DNA-directed RNA polymerase subunit B [EC:2.7.7.6]	rpoB
+Nitrososphaera_gargensis_Ga9-contig1_164	100	K03041	DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]	rpoA
+Nitrososphaera_gargensis_Ga9-contig1_165	100	K02908	large subunit ribosomal protein L30e	rpl30e
+Nitrososphaera_gargensis_Ga9-contig1_166	100	K02600	N utilization substance protein A	archaeal NusA family KH domain containing protein
+Nitrososphaera_gargensis_Ga9-contig1_167	100	K02950	small subunit ribosomal protein S12	rps12p
+Nitrososphaera_gargensis_Ga9-contig1_168	100	K02992	small subunit ribosomal protein S7	rps7p
+Nitrososphaera_gargensis_Ga9-contig1_171	100	K04800	replication factor C large subunit	rfcL
+Nitrososphaera_gargensis_Ga9-contig1_179	32.8	K03281	chloride channel protein, CIC family	Cl-channel voltage-gated family protein
+Nitrososphaera_gargensis_Ga9-contig1_181	99.1	K06884	uncharacterized protein	putative glucose starvation-inducible protein B
+Nitrososphaera_gargensis_Ga9-contig1_196	49.3	K03646	colicin import membrane protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_197	100	K18604	acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3]	accB
+Nitrososphaera_gargensis_Ga9-contig1_198	100	K18603	acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3]	accC
+Nitrososphaera_gargensis_Ga9-contig1_199	100	K18605	biotin carboxyl carrier protein	putative biotin/lipoyl attachment domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_201	42.3	K03564	peroxiredoxin Q/BCP [EC:1.11.1.15]	bacterioferritin comigratory protein
+Nitrososphaera_gargensis_Ga9-contig1_202	100	K04487	cysteine desulfurase [EC:2.8.1.7]	iscS
+Nitrososphaera_gargensis_Ga9-contig1_203	100	K06864	uncharacterized protein	putative ATP-utilizing enzyme of the PP-loop superfamily
+Nitrososphaera_gargensis_Ga9-contig1_204	100	K09121	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_206	100	K00024	malate dehydrogenase [EC:1.1.1.37]	mdh
+Nitrososphaera_gargensis_Ga9-contig1_207	100	K06898	uncharacterized protein	putative 1-(5-phosphoribosyl)-5-amino-4-imidazole-carboxylate (AIR) carboxylase
+Nitrososphaera_gargensis_Ga9-contig1_208	99.6	K02881	large subunit ribosomal protein L18	rpl18p
+Nitrososphaera_gargensis_Ga9-contig1_209	100	K02988	small subunit ribosomal protein S5	rps5p
+Nitrososphaera_gargensis_Ga9-contig1_210	100	K02907	large subunit ribosomal protein L30	rpl30p
+Nitrososphaera_gargensis_Ga9-contig1_211	100	K02876	large subunit ribosomal protein L15	rpl15p
+Nitrososphaera_gargensis_Ga9-contig1_212	100	K03076	preprotein translocase subunit SecY	secY
+Nitrososphaera_gargensis_Ga9-contig1_213	99.5	K00939	adenylate kinase [EC:2.7.4.3]	adkA
+Nitrososphaera_gargensis_Ga9-contig1_215	99.5	K00945	cytidylate kinase [EC:2.7.4.14]	putative cytidylate kinase
+Nitrososphaera_gargensis_Ga9-contig1_216	99.7	K11131	H/ACA ribonucleoprotein complex subunit 4 [EC:5.4.99.-]	truB
+Nitrososphaera_gargensis_Ga9-contig1_228	100	K09932	uncharacterized protein	antibiotic biosynthesis monooxygenase
+Nitrososphaera_gargensis_Ga9-contig1_229	99.7	K03124	transcription initiation factor TFIIB	tfb1
+Nitrososphaera_gargensis_Ga9-contig1_230	100	K06911	uncharacterized protein	pirin domain protein
+Nitrososphaera_gargensis_Ga9-contig1_232	96.1	K13525	transitional endoplasmic reticulum ATPase	cdc48
+Nitrososphaera_gargensis_Ga9-contig1_238	100	K03124	transcription initiation factor TFIIB	tfb2
+Nitrososphaera_gargensis_Ga9-contig1_254	33.3	K07496	putative transposase	transposase
+Nitrososphaera_gargensis_Ga9-contig1_257	99.8	K09136	ribosomal protein S12 methylthiotransferase accessory factor	putative UPF0142 protein
+Nitrososphaera_gargensis_Ga9-contig1_258	34.6	K09136	ribosomal protein S12 methylthiotransferase accessory factor	uncharacterized domain protein
+Nitrososphaera_gargensis_Ga9-contig1_258	34.6	K09136	ribosomal protein S12 methylthiotransferase accessory factor	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_259	50.8	K07663	two-component system, OmpR family, catabolic regulation response regulator CreB	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_260	100	K00798	cob(I)alamin adenosyltransferase [EC:2.5.1.17]	putative ATP--cobalamin adenosyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_263	100	K07023	putative hydrolases of HD superfamily	putative metal dependent phosphohydrolase with HD domain
+Nitrososphaera_gargensis_Ga9-contig1_266	31.2	K07495	putative transposase	transposase IS4
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	quinoprotein glucose dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	Glucose/sorbosone dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	Quinoprotein glucose dehydrogenase B precursor
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	glucose/sorbosone dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	dehydrogenase, PQQ-dependent, s-GDH family
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	glucose/sorbosone dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	glucose/sorbosone dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	gdhB
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	Glucose/sorbosone dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	Glucose/sorbosone dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	Glucose/sorbosone dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	glucose/sorbosone dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	quinoprotein glucose dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	quinoprotein glucose dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	quinoprotein glucose dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	quinoprotein glucose dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	quinoprotein glucose dehydrogenase B
+Nitrososphaera_gargensis_Ga9-contig1_269	52.6	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	gdhB
+Nitrososphaera_gargensis_Ga9-contig1_270	45.3	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	gdhB
+Nitrososphaera_gargensis_Ga9-contig1_275	59.0	K07305	peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12]	msrB1
+Nitrososphaera_gargensis_Ga9-contig1_277	100	K02434	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]	gatB
+Nitrososphaera_gargensis_Ga9-contig1_278	99.8	K02433	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]	gatA
+Nitrososphaera_gargensis_Ga9-contig1_279	100	K02435	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7]	gatC
+Nitrososphaera_gargensis_Ga9-contig1_280	100	K01876	aspartyl-tRNA synthetase [EC:6.1.1.12]	aspS1
+Nitrososphaera_gargensis_Ga9-contig1_281	41.8	K14981	two-component system, OmpR family, response regulator ChvI	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_282	99.7	K01872	alanyl-tRNA synthetase [EC:6.1.1.7]	putative threonyl/alanyl--tRNA ligase, SAD
+Nitrososphaera_gargensis_Ga9-contig1_283	99.7	K06863	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.23]	purP1
+Nitrososphaera_gargensis_Ga9-contig1_284	100	K01485	cytosine deaminase [EC:3.5.4.1]	putative cytosine/adenosine deaminase
+Nitrososphaera_gargensis_Ga9-contig1_291	100	K14166	copper transport protein	copper resistance family protein
+Nitrososphaera_gargensis_Ga9-contig1_296	99.7	K02016	iron complex transport system substrate-binding protein	ABC uptake transporter, putative heme-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_298	100	K02946	small subunit ribosomal protein S10	rps10p
+Nitrososphaera_gargensis_Ga9-contig1_299	100	K03231	elongation factor 1-alpha	tuf
+Nitrososphaera_gargensis_Ga9-contig1_300	100	K01622	fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11]	fbp
+Nitrososphaera_gargensis_Ga9-contig1_301	99.5	K01803	triosephosphate isomerase (TIM) [EC:5.3.1.1]	tpiA
+Nitrososphaera_gargensis_Ga9-contig1_310	41.6	K07486	transposase	transposase
+Nitrososphaera_gargensis_Ga9-contig1_314	99.7	K14728	phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase [EC:1.2.-.-]	luciferase-like monooxygenase family protein
+Nitrososphaera_gargensis_Ga9-contig1_329	31.2	K07495	putative transposase	transposase IS4
+Nitrososphaera_gargensis_Ga9-contig1_384	100	K00027	malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]	ytsJ
+Nitrososphaera_gargensis_Ga9-contig1_385	100	K01647	citrate synthase [EC:2.3.3.1]	gltA
+Nitrososphaera_gargensis_Ga9-contig1_386	99.7	K01933	phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	purM
+Nitrososphaera_gargensis_Ga9-contig1_387	99.8	K07739	elongator complex protein 3 [EC:2.3.1.48]	histone acetyltransferase, ELP3 family (EC:2.3.1.48)
+Nitrososphaera_gargensis_Ga9-contig1_388	100	K04566	lysyl-tRNA synthetase, class I [EC:6.1.1.6]	lysS
+Nitrososphaera_gargensis_Ga9-contig1_389	100	K19085	CRISPR-associated protein Csa1	csa1
+Nitrososphaera_gargensis_Ga9-contig1_390	99.7	K15342	CRISP-associated protein Cas1	cas1
+Nitrososphaera_gargensis_Ga9-contig1_391	100	K09951	CRISPR-associated protein Cas2	cas2
+Nitrososphaera_gargensis_Ga9-contig1_392	100	K07464	CRISPR-associated exonuclease Cas4 [EC:3.1.12.1]	cas4
+Nitrososphaera_gargensis_Ga9-contig1_396	100	K07012	CRISPR-associated endonuclease/helicase Cas3 [EC:3.1.-.- 3.6.4.-]	cas3`
+Nitrososphaera_gargensis_Ga9-contig1_398	100	K19075	CRISPR-associated protein Cst2	putarive CRISPR-associated protein, DevR (Cas7) family
+Nitrososphaera_gargensis_Ga9-contig1_400	99.6	K19091	CRISPR-associated endoribonuclease Cas6 [EC:3.1.-.-]	cas6
+Nitrososphaera_gargensis_Ga9-contig1_403	99.5	K10725	archaeal cell division control protein 6	cdc6
+Nitrososphaera_gargensis_Ga9-contig1_404	31.2	K07495	putative transposase	transposase IS4
+Nitrososphaera_gargensis_Ga9-contig1_405	68.4	K10725	archaeal cell division control protein 6	cdc6-4
+Nitrososphaera_gargensis_Ga9-contig1_407	36.7	K01838	beta-phosphoglucomutase [EC:5.4.2.6]	Beta-phosphoglucomutase (EC:5.4.2.6)
+Nitrososphaera_gargensis_Ga9-contig1_407	36.7	K01838	beta-phosphoglucomutase [EC:5.4.2.6]	Beta-phosphoglucomutase
+Nitrososphaera_gargensis_Ga9-contig1_409	49.8	K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	short-chain dehydrogenase/reductase SDR
+Nitrososphaera_gargensis_Ga9-contig1_412	100	K04751	nitrogen regulatory protein P-II 1	putative nitrogen regulatory protein P-II
+Nitrososphaera_gargensis_Ga9-contig1_413	33.6	K00031	isocitrate dehydrogenase [EC:1.1.1.42]	isocitrate dehydrogenase, NADP-dependent
+Nitrososphaera_gargensis_Ga9-contig1_427	48.9	K01533	Cu2+-exporting ATPase [EC:3.6.3.4]	heavy metal translocating P-type ATPase
+Nitrososphaera_gargensis_Ga9-contig1_428	46.0	K06196	cytochrome c-type biogenesis protein	Cytochrome c biogenesis protein transmembrane region
+Nitrososphaera_gargensis_Ga9-contig1_430	100	K03671	thioredoxin 1	trxA1
+Nitrososphaera_gargensis_Ga9-contig1_434	100	K04751	nitrogen regulatory protein P-II 1	putative nitrogen regulatory protein P-II
+Nitrososphaera_gargensis_Ga9-contig1_435	100	K00368	nitrite reductase (NO-forming) [EC:1.7.2.1]	nirK
+Nitrososphaera_gargensis_Ga9-contig1_438	100	K03059	DNA-directed RNA polymerase subunit P [EC:2.7.7.6]	rpoP
+Nitrososphaera_gargensis_Ga9-contig1_439	100	K01006	pyruvate, orthophosphate dikinase [EC:2.7.9.1]	ppdK
+Nitrososphaera_gargensis_Ga9-contig1_442	43.3	K14981	two-component system, OmpR family, response regulator ChvI	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_443	100	K07577	putative mRNA 3-end processing factor	putative exonuclease of the beta-lactamase fold protein
+Nitrososphaera_gargensis_Ga9-contig1_447	99.5	K11175	phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]	purN
+Nitrososphaera_gargensis_Ga9-contig1_448	37.9	K19576	MFS transporter, DHA1 family, quinolone resistance protein	MFS transporter permease
+Nitrososphaera_gargensis_Ga9-contig1_449	99.6	K03183	demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	ubiE1
+Nitrososphaera_gargensis_Ga9-contig1_452	100	K06877	DEAD/DEAH box helicase domain-containing protein	DEAD/DEAH box helicase domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_454	100	K03163	DNA topoisomerase I [EC:5.99.1.2]	top1
+Nitrososphaera_gargensis_Ga9-contig1_460	100	K01756	adenylosuccinate lyase [EC:4.3.2.2]	purB
+Nitrososphaera_gargensis_Ga9-contig1_461	99.8	K14415	tRNA-splicing ligase RtcB [EC:6.5.1.3]	uncharacterized protein family UPF0027
+Nitrososphaera_gargensis_Ga9-contig1_466	100	K02948	small subunit ribosomal protein S11	rps11p
+Nitrososphaera_gargensis_Ga9-contig1_467	100	K00946	thiamine-monophosphate kinase [EC:2.7.4.16]	thiL
+Nitrososphaera_gargensis_Ga9-contig1_468	70.3	K15778	phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2]	alpha-D-phosphohexomutase (EC:5.4.2.-)
+Nitrososphaera_gargensis_Ga9-contig1_492	100	K13953	alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1]	adh2
+Nitrososphaera_gargensis_Ga9-contig1_493	100	K01515	ADP-ribose pyrophosphatase [EC:3.6.1.13]	nudF1
+Nitrososphaera_gargensis_Ga9-contig1_498	100	K01893	asparaginyl-tRNA synthetase [EC:6.1.1.22]	asnS
+Nitrososphaera_gargensis_Ga9-contig1_500	99.7	K00548	5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	metH1
+Nitrososphaera_gargensis_Ga9-contig1_502	34.5	K15943	nogalonic acid methyl ester cyclase / aklanonic acid methyl ester cyclase [EC:5.5.1.26 5.5.1.23]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_502	34.5	K15943	nogalonic acid methyl ester cyclase / aklanonic acid methyl ester cyclase [EC:5.5.1.26 5.5.1.23]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_503	99.9	K00548	5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	metH2
+Nitrososphaera_gargensis_Ga9-contig1_514	100	K02049	NitT/TauT family transport system ATP-binding protein	ABC uptake transporter, ATP-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_521	99.8	K12574	ribonuclease J [EC:3.1.-.-]	hydrolase of the metallo-beta-lactamase superfamily
+Nitrososphaera_gargensis_Ga9-contig1_531	28.5	K03498	trk system potassium uptake protein	conserved membrane protein of unknown function
+Nitrososphaera_gargensis_Ga9-contig1_535	32.3	K00031	isocitrate dehydrogenase [EC:1.1.1.42]	isocitrate dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_539	38.9	K09495	T-complex protein 1 subunit gamma	CCT3
+Nitrososphaera_gargensis_Ga9-contig1_539	38.9	K09495	T-complex protein 1 subunit gamma	CCT3
+Nitrososphaera_gargensis_Ga9-contig1_539	38.5	K09495	T-complex protein 1 subunit gamma	T-complex protein 1 subunit gamma, putative
+Nitrososphaera_gargensis_Ga9-contig1_539	38.7	K09495	T-complex protein 1 subunit gamma	T-complex protein 1 subunit gamma
+Nitrososphaera_gargensis_Ga9-contig1_539	37.2	K09495	T-complex protein 1 subunit gamma	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_539	38.7	K09495	T-complex protein 1 subunit gamma	T-complex protein 1 subunit gamma
+Nitrososphaera_gargensis_Ga9-contig1_539	39.2	K09495	T-complex protein 1 subunit gamma	Tcomplex protein 1, gamma subunit
+Nitrososphaera_gargensis_Ga9-contig1_539	37.7	K09495	T-complex protein 1 subunit gamma	TDEL0E04670
+Nitrososphaera_gargensis_Ga9-contig1_540	31.3	K07721	ArsR family transcriptional regulator	ArS family heat shock protein
+Nitrososphaera_gargensis_Ga9-contig1_542	98.9	K13993	HSP20 family protein	hsp20
+Nitrososphaera_gargensis_Ga9-contig1_543	100	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily (EC:3.6.4.6)
+Nitrososphaera_gargensis_Ga9-contig1_544	100	K06870	uncharacterized protein	putative archaeal serine protease
+Nitrososphaera_gargensis_Ga9-contig1_563	99.6	K07024	uncharacterized protein	phosphoglycolate phosphatase (EC:3.1.3.18)
+Nitrososphaera_gargensis_Ga9-contig1_564	100	K01887	arginyl-tRNA synthetase [EC:6.1.1.19]	argS
+Nitrososphaera_gargensis_Ga9-contig1_566	99.6	K07442	tRNA (adenine57-N1/adenine58-N1)-methyltransferase [EC:2.1.1.219 2.1.1.220]	putative tRNA methyltransferase complex GCD14 subunit
+Nitrososphaera_gargensis_Ga9-contig1_568	99.5	K09005	uncharacterized protein	protein of unknown function DUF192
+Nitrososphaera_gargensis_Ga9-contig1_569	61.2	K07496	putative transposase	putative transposase
+Nitrososphaera_gargensis_Ga9-contig1_569	56.3	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_569	60.2	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_569	60.2	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_573	36.9	K12196	vacuolar protein-sorting-associated protein 4	vat_4
+Nitrososphaera_gargensis_Ga9-contig1_574	99.5	K01507	inorganic pyrophosphatase [EC:3.6.1.1]	ppa
+Nitrososphaera_gargensis_Ga9-contig1_576	89.2	K07496	putative transposase	transposase, IS605 OrfB
+Nitrososphaera_gargensis_Ga9-contig1_577	81.4	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_578	100	K15987	K(+)-stimulated pyrophosphate-energized sodium pump [EC:3.6.1.1]	hppA
+Nitrososphaera_gargensis_Ga9-contig1_580	100	K01870	isoleucyl-tRNA synthetase [EC:6.1.1.5]	ileS
+Nitrososphaera_gargensis_Ga9-contig1_583	99.4	K14165	atypical dual specificity phosphatase [EC:3.1.3.16 3.1.3.48]	dusP
+Nitrososphaera_gargensis_Ga9-contig1_586	99.3	K02991	small subunit ribosomal protein S6e	rps6e
+Nitrososphaera_gargensis_Ga9-contig1_587	99.8	K03242	translation initiation factor 2 subunit 3	eif2g
+Nitrososphaera_gargensis_Ga9-contig1_588	69.8	K07158	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_588	69.8	K07158	uncharacterized protein	PilT domain protein
+Nitrososphaera_gargensis_Ga9-contig1_589	100	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_595	100	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	asnB1
+Nitrososphaera_gargensis_Ga9-contig1_598	99.7	K00604	methionyl-tRNA formyltransferase [EC:2.1.2.9]	putative methionyl-tRNA formyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_601	100	K07488	transposase	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_603	44.4	K07498	putative transposase	putative integrase family protein
+Nitrososphaera_gargensis_Ga9-contig1_603	44.4	K07498	putative transposase	putative integrase family protein
+Nitrososphaera_gargensis_Ga9-contig1_603	44.4	K07498	putative transposase	putative integrase family protein
+Nitrososphaera_gargensis_Ga9-contig1_603	44.4	K07498	putative transposase	putative integrase family protein
+Nitrososphaera_gargensis_Ga9-contig1_603	44.4	K07498	putative transposase	putative transposase
+Nitrososphaera_gargensis_Ga9-contig1_603	44.4	K07498	putative transposase	putative integrase family protein
+Nitrososphaera_gargensis_Ga9-contig1_606	99.7	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	putative UDP-glucose 4-epimerase
+Nitrososphaera_gargensis_Ga9-contig1_609	99.9	K07151	dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.99.18]	dolichyl-diphosphooligosaccharide--protein glycotransferase (EC:2.4.99.18)
+Nitrososphaera_gargensis_Ga9-contig1_614	100	K03497	chromosome partitioning protein, ParB family	putative transcriptional regulator
+Nitrososphaera_gargensis_Ga9-contig1_615	100	K03719	Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein	putative GAF sensor protein
+Nitrososphaera_gargensis_Ga9-contig1_620	82.1	K07496	putative transposase	putative transposase, IS605 OrfB
+Nitrososphaera_gargensis_Ga9-contig1_621	100	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_624	100	K08717	urea transporter	putative urea transporter
+Nitrososphaera_gargensis_Ga9-contig1_626	100	K01430	urease subunit gamma [EC:3.5.1.5]	ureA
+Nitrososphaera_gargensis_Ga9-contig1_627	100	K01429	urease subunit beta [EC:3.5.1.5]	ureB
+Nitrososphaera_gargensis_Ga9-contig1_628	100	K01428	urease subunit alpha [EC:3.5.1.5]	ureC
+Nitrososphaera_gargensis_Ga9-contig1_629	30.4	K09493	T-complex protein 1 subunit alpha	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_631	100	K03187	urease accessory protein	ureE
+Nitrososphaera_gargensis_Ga9-contig1_632	100	K03188	urease accessory protein	ureF
+Nitrososphaera_gargensis_Ga9-contig1_633	99.5	K03189	urease accessory protein	ureG
+Nitrososphaera_gargensis_Ga9-contig1_634	99.7	K03190	urease accessory protein	ureD
+Nitrososphaera_gargensis_Ga9-contig1_640	100	K00809	deoxyhypusine synthase [EC:2.5.1.46]	dys1
+Nitrososphaera_gargensis_Ga9-contig1_642	28.1	K03455	monovalent cation:H+ antiporter-2, CPA2 family	monovalent cation/proton antiporter-2 family protein
+Nitrososphaera_gargensis_Ga9-contig1_643	99.7	K00809	deoxyhypusine synthase [EC:2.5.1.46]	dys2
+Nitrososphaera_gargensis_Ga9-contig1_647	100	K00033	6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]	gnd1
+Nitrososphaera_gargensis_Ga9-contig1_649	99.5	K07130	arylformamidase [EC:3.5.1.9]	putative cyclase family protein
+Nitrososphaera_gargensis_Ga9-contig1_650	100	K01807	ribose 5-phosphate isomerase A [EC:5.3.1.6]	rpiA1
+Nitrososphaera_gargensis_Ga9-contig1_651	99.7	K15510	coenzyme F420-dependent glucose-6-phosphate dehydrogenase [EC:1.1.98.2]	putative F420-dependent glucose-6-phosphate dehydrogenase (EC:1.1.98.2)
+Nitrososphaera_gargensis_Ga9-contig1_653	100	K01975	2'-5' RNA ligase [EC:6.5.1.-]	putative 2'-5' RNA ligase
+Nitrososphaera_gargensis_Ga9-contig1_654	100	K07558	tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72]	cca
+Nitrososphaera_gargensis_Ga9-contig1_655	100	K07176	putative serine/threonine protein kinase	putative Ser/Thr protein kinase
+Nitrososphaera_gargensis_Ga9-contig1_656	100	K01247	DNA-3-methyladenine glycosylase II [EC:3.2.2.21]	putative DNA-3-methyladenine glycosylase II
+Nitrososphaera_gargensis_Ga9-contig1_658	100	K02886	large subunit ribosomal protein L2	rpl2p
+Nitrososphaera_gargensis_Ga9-contig1_659	49.7	K04750	PhnB protein	glyoxalase/bleomycin resistance protein/dioxygenase
+Nitrososphaera_gargensis_Ga9-contig1_660	100	K00392	sulfite reductase (ferredoxin) [EC:1.8.7.1]	sir1
+Nitrososphaera_gargensis_Ga9-contig1_661	100	K01011	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	putative rhodanese sulfurtransferase
+Nitrososphaera_gargensis_Ga9-contig1_663	99.3	K09736	uncharacterized protein	protein of unknown function, DUF54
+Nitrososphaera_gargensis_Ga9-contig1_664	56.5	K03168	DNA topoisomerase I [EC:5.99.1.2]	topA
+Nitrososphaera_gargensis_Ga9-contig1_665	100	K01990	ABC-2 type transport system ATP-binding protein	ABC efflux transporter, ATP-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_666	100	K01992	ABC-2 type transport system permease protein	ABC efflux transporter, permease protein
+Nitrososphaera_gargensis_Ga9-contig1_685	99.6	K09819	manganese/iron transport system permease protein	mntC
+Nitrososphaera_gargensis_Ga9-contig1_686	71.0	K11710	manganese/zinc/iron transport system ATP- binding protein	mntB
+Nitrososphaera_gargensis_Ga9-contig1_687	52.2	K09818	manganese/iron transport system substrate-binding protein	periplasmic solute binding protein
+Nitrososphaera_gargensis_Ga9-contig1_690	100	K07722	CopG family transcriptional regulator, nickel-responsive regulator	putative nickel-responsive regulator
+Nitrososphaera_gargensis_Ga9-contig1_691	100	K02035	peptide/nickel transport system substrate-binding protein	peptide/opine/nickel ABC uptake transporter, putative substrate-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_692	99.6	K03147	phosphomethylpyrimidine synthase [EC:4.1.99.17]	thiC1
+Nitrososphaera_gargensis_Ga9-contig1_695	100	K07991	archaeal preflagellin peptidase FlaK [EC:3.4.23.52]	flaK1
+Nitrososphaera_gargensis_Ga9-contig1_700	43.7	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	galE
+Nitrososphaera_gargensis_Ga9-contig1_702	100	K18235	virginiamycin B lyase [EC:4.2.99.-]	putative virginiamycin B lyase
+Nitrososphaera_gargensis_Ga9-contig1_705	99.5	K00033	6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]	gnd2
+Nitrososphaera_gargensis_Ga9-contig1_706	100	K00033	6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]	6-phosphogluconate dehydrogenase-like protein
+Nitrososphaera_gargensis_Ga9-contig1_712	100	K00034	glucose 1-dehydrogenase [EC:1.1.1.47]	gdh
+Nitrososphaera_gargensis_Ga9-contig1_722	100	K03179	4-hydroxybenzoate polyprenyltransferase [EC:2.5.1.39]	putative UbiA prenyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_724	100	K07051	uncharacterized protein	putative TatD-like deoxyribonuclease
+Nitrososphaera_gargensis_Ga9-contig1_725	99.7	K00008	L-iditol 2-dehydrogenase [EC:1.1.1.14]	putative alcohol dehydrogenase superfamily, zinc-containing
+Nitrososphaera_gargensis_Ga9-contig1_730	100	K01470	creatinine amidohydrolase [EC:3.5.2.10]	creatininase subfamily (EC:3.5.2.10)
+Nitrososphaera_gargensis_Ga9-contig1_738	31.2	K07495	putative transposase	transposase IS4
+Nitrososphaera_gargensis_Ga9-contig1_739	100	K07243	high-affinity iron transporter	putative iron/lead transporter
+Nitrososphaera_gargensis_Ga9-contig1_743	100	K04801	replication factor C small subunit	rfcS
+Nitrososphaera_gargensis_Ga9-contig1_744	100	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_745	100	K09723	DNA replication factor GINS	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_746	99.9	K10726	replicative DNA helicase Mcm [EC:3.6.4.-]	mcm
+Nitrososphaera_gargensis_Ga9-contig1_747	100	K03726	helicase [EC:3.6.4.-]	ski2-like helicase (EC:3.6.4.-)
+Nitrososphaera_gargensis_Ga9-contig1_748	100	K01001	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [EC:2.7.8.15]	putative glycosyl transferase, family 4
+Nitrososphaera_gargensis_Ga9-contig1_753	100	K04751	nitrogen regulatory protein P-II 1	putative nitrogen regulatory protein P-II
+Nitrososphaera_gargensis_Ga9-contig1_754	100	K06915	uncharacterized protein	DUF87 domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_762	99.8	K03330	glutamyl-tRNA(Gln) amidotransferase subunit E [EC:6.3.5.7]	gatE
+Nitrososphaera_gargensis_Ga9-contig1_763	99.8	K09482	glutamyl-tRNA(Gln) amidotransferase subunit D [EC:6.3.5.7]	gatD
+Nitrososphaera_gargensis_Ga9-contig1_764	100	K07090	uncharacterized protein	putative sulfonate transporter
+Nitrososphaera_gargensis_Ga9-contig1_769	100	K05595	multiple antibiotic resistance protein	putative amino acid transporter
+Nitrososphaera_gargensis_Ga9-contig1_771	99.4	K00952	nicotinamide-nucleotide adenylyltransferase [EC:2.7.7.1]	nicotinamide-nucleotide adenylyltransferase (EC:2.7.7.1)
+Nitrososphaera_gargensis_Ga9-contig1_772	99.7	K01974	RNA 3'-terminal phosphate cyclase (ATP) [EC:6.5.1.4]	rtcA
+Nitrososphaera_gargensis_Ga9-contig1_777	40.9	K16874	2,5-furandicarboxylate decarboxylase 1	UbiD family decarboxylase
+Nitrososphaera_gargensis_Ga9-contig1_777	40.3	K16874	2,5-furandicarboxylate decarboxylase 1	UbiD family decarboxylase
+Nitrososphaera_gargensis_Ga9-contig1_777	39.2	K16874	2,5-furandicarboxylate decarboxylase 1	UbiD
+Nitrososphaera_gargensis_Ga9-contig1_780	100	K07561	2-(3-amino-3-carboxypropyl)histidine synthase [EC:2.5.1.108]	diphthamide biosynthesis protein
+Nitrososphaera_gargensis_Ga9-contig1_802	99.6	K08884	serine/threonine protein kinase, bacterial [EC:2.7.11.1]	putative serine/threonine protein kinase
+Nitrososphaera_gargensis_Ga9-contig1_803	100	K07496	putative transposase	putative transposase
+Nitrososphaera_gargensis_Ga9-contig1_817	99.7	K07991	archaeal preflagellin peptidase FlaK [EC:3.4.23.52]	flaK2
+Nitrososphaera_gargensis_Ga9-contig1_823	100	K10773	endonuclease III [EC:4.2.99.18]	putative endonuclease III
+Nitrososphaera_gargensis_Ga9-contig1_824	31.2	K07496	putative transposase	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_824	31.2	K07496	putative transposase	IS1341-type transposase (TCE31)
+Nitrososphaera_gargensis_Ga9-contig1_825	99.7	K09123	uncharacterized protein	putative aconitase subunit 1
+Nitrososphaera_gargensis_Ga9-contig1_826	100	K09128	uncharacterized protein	DUF126 domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_827	79.3	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_830	100	K09131	uncharacterized protein	protein of unknown function DUF167
+Nitrososphaera_gargensis_Ga9-contig1_832	99.4	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	putative HTH-type transcriptional regulator, AsnC family
+Nitrososphaera_gargensis_Ga9-contig1_833	35.0	K14168	cytoplasmic tRNA 2-thiolation protein 1 [EC:2.7.7.-]	adenine nucleotide alpha hydrolase
+Nitrososphaera_gargensis_Ga9-contig1_833	33.1	K14168	cytoplasmic tRNA 2-thiolation protein 1 [EC:2.7.7.-]	Adenine nucleotide alpha hydrolase
+Nitrososphaera_gargensis_Ga9-contig1_847	54.6	K07243	high-affinity iron transporter	putative iron/lead transporter
+Nitrososphaera_gargensis_Ga9-contig1_848	71.3	K07243	high-affinity iron transporter	putative iron/lead transporter
+Nitrososphaera_gargensis_Ga9-contig1_851	51.9	K14981	two-component system, OmpR family, response regulator ChvI	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_853	47.7	K14981	two-component system, OmpR family, response regulator ChvI	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_865	38.2	K07658	two-component system, OmpR family, alkaline phosphatase synthesis response regulator PhoP	winged helix family two component transcriptional regulator
+Nitrososphaera_gargensis_Ga9-contig1_865	38.2	K07658	two-component system, OmpR family, alkaline phosphatase synthesis response regulator PhoP	phoB
+Nitrososphaera_gargensis_Ga9-contig1_878	100	K06869	uncharacterized protein	3-isopropylmalate dehydratase
+Nitrososphaera_gargensis_Ga9-contig1_881	99.7	K07496	putative transposase	transposase, IS605 OrfB
+Nitrososphaera_gargensis_Ga9-contig1_894	99.7	K07496	putative transposase	putative transposase, IS605 OrfB
+Nitrososphaera_gargensis_Ga9-contig1_899	99.7	K07496	putative transposase	putative transposase, IS605 OrfB
+Nitrososphaera_gargensis_Ga9-contig1_903	100	K00860	adenylylsulfate kinase [EC:2.7.1.25]	putative adenylylsulfate kinase
+Nitrososphaera_gargensis_Ga9-contig1_904	100	K07496	putative transposase	transposase, IS605 OrfB
+Nitrososphaera_gargensis_Ga9-contig1_912	39.5	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	dolichol-phosphate mannosyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_913	23.0	K19002	1,2-diacylglycerol 3-alpha-glucosyltransferase [EC:2.4.1.-]	glycosyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_914	100	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	UDP-N-acetylglucosamine 2-epimerase (EC:5.1.3.14)
+Nitrososphaera_gargensis_Ga9-contig1_923	25.4	K03208	colanic acid biosynthesis glycosyl transferase WcaI	glycosyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_936	100	K07496	putative transposase	putative transposase IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_938	30.1	K07499	putative transposase	transposon ISC1048 Orf1
+Nitrososphaera_gargensis_Ga9-contig1_938	30.1	K07499	putative transposase	transposon ISC1048 Orf1
+Nitrososphaera_gargensis_Ga9-contig1_938	30.1	K07499	putative transposase	transposon ISC1048 Orf1
+Nitrososphaera_gargensis_Ga9-contig1_938	30.1	K07499	putative transposase	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_938	30.1	K07499	putative transposase	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_938	30.1	K07499	putative transposase	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_938	30.5	K07494	putative transposase	transposase ISC1048
+Nitrososphaera_gargensis_Ga9-contig1_938	30.5	K07494	putative transposase	transposase ISC1048
+Nitrososphaera_gargensis_Ga9-contig1_938	30.5	K07499	putative transposase	transposon ISC1048 Orf1
+Nitrososphaera_gargensis_Ga9-contig1_938	30.5	K07499	putative transposase	transposon ISC1048 Orf1
+Nitrososphaera_gargensis_Ga9-contig1_938	30.5	K07499	putative transposase	transposon ISC1048 Orf1
+Nitrososphaera_gargensis_Ga9-contig1_938	30.5	K07494	putative transposase	transposase-like protein
+Nitrososphaera_gargensis_Ga9-contig1_938	30.5	K07494	putative transposase	integrase catalytic subunit
+Nitrososphaera_gargensis_Ga9-contig1_938	30.5	K07494	putative transposase	DDE endonuclease
+Nitrososphaera_gargensis_Ga9-contig1_938	30.5	K07494	putative transposase	DDE endonuclease
+Nitrososphaera_gargensis_Ga9-contig1_938	30.5	K07494	putative transposase	DDE endonuclease
+Nitrososphaera_gargensis_Ga9-contig1_950	44.1	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	GalE family epimerase/dehydratase
+Nitrososphaera_gargensis_Ga9-contig1_954	100	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	NAD-dependent epimerase/dehydratase family, includes UDP-galactose 4-epimerase-like proteins (EC:5.1.3.2)
+Nitrososphaera_gargensis_Ga9-contig1_968	30.1	K07499	putative transposase	transposon ISC1048 Orf1
+Nitrososphaera_gargensis_Ga9-contig1_968	30.1	K07499	putative transposase	transposon ISC1048 Orf1
+Nitrososphaera_gargensis_Ga9-contig1_968	30.1	K07499	putative transposase	transposon ISC1048 Orf1
+Nitrososphaera_gargensis_Ga9-contig1_968	30.1	K07499	putative transposase	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_968	30.1	K07499	putative transposase	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_968	30.1	K07499	putative transposase	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_968	30.5	K07494	putative transposase	transposase ISC1048
+Nitrososphaera_gargensis_Ga9-contig1_968	30.5	K07494	putative transposase	transposase ISC1048
+Nitrososphaera_gargensis_Ga9-contig1_968	30.5	K07499	putative transposase	transposon ISC1048 Orf1
+Nitrososphaera_gargensis_Ga9-contig1_968	30.5	K07499	putative transposase	transposon ISC1048 Orf1
+Nitrososphaera_gargensis_Ga9-contig1_968	30.5	K07499	putative transposase	transposon ISC1048 Orf1
+Nitrososphaera_gargensis_Ga9-contig1_968	30.5	K07494	putative transposase	transposase-like protein
+Nitrososphaera_gargensis_Ga9-contig1_968	30.5	K07494	putative transposase	integrase catalytic subunit
+Nitrososphaera_gargensis_Ga9-contig1_968	30.5	K07494	putative transposase	DDE endonuclease
+Nitrososphaera_gargensis_Ga9-contig1_968	30.5	K07494	putative transposase	DDE endonuclease
+Nitrososphaera_gargensis_Ga9-contig1_968	30.5	K07494	putative transposase	DDE endonuclease
+Nitrososphaera_gargensis_Ga9-contig1_970	99.7	K07496	putative transposase	transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_971	94.1	K07496	putative transposase	putative transposase
+Nitrososphaera_gargensis_Ga9-contig1_979	100	K07171	mRNA interferase MazF [EC:3.1.-.-]	putative transcriptional modulator of MazE/toxin, MazF
+Nitrososphaera_gargensis_Ga9-contig1_980	32.1	K07495	putative transposase	glpK-1
+Nitrososphaera_gargensis_Ga9-contig1_987	92.7	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_987	92.7	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_994	100	K02037	phosphate transport system permease protein	pstS1
+Nitrososphaera_gargensis_Ga9-contig1_995	100	K02038	phosphate transport system permease protein	pstA
+Nitrososphaera_gargensis_Ga9-contig1_996	99.6	K02036	phosphate transport system ATP-binding protein [EC:3.6.3.27]	pstB
+Nitrososphaera_gargensis_Ga9-contig1_997	34.7	K07496	putative transposase	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_997	34.7	K07496	putative transposase	IS1341-type transposase (TCE31)
+Nitrososphaera_gargensis_Ga9-contig1_998	99.5	K02039	phosphate transport system protein	putative phosphate uptake regulator, PhoU
+Nitrososphaera_gargensis_Ga9-contig1_1003	31.2	K07495	putative transposase	transposase IS4
+Nitrososphaera_gargensis_Ga9-contig1_1017	32.0	K13589	two-component system, cell cycle response regulator CpdR	response regulator
+Nitrososphaera_gargensis_Ga9-contig1_1021	100	K07325	archaeal flagellin FlaB	flaB
+Nitrososphaera_gargensis_Ga9-contig1_1023	100	K07330	archaeal flagellar protein FlaG	flaG
+Nitrososphaera_gargensis_Ga9-contig1_1025	100	K07331	archaeal flagellar protein FlaH	flaH
+Nitrososphaera_gargensis_Ga9-contig1_1026	100	K07333	archaeal flagellar protein FlaJ	flaJ
+Nitrososphaera_gargensis_Ga9-contig1_1027	100	K07332	archaeal flagellar protein FlaI	flaI
+Nitrososphaera_gargensis_Ga9-contig1_1028	100	K00575	chemotaxis protein methyltransferase CheR [EC:2.1.1.80]	cheR
+Nitrososphaera_gargensis_Ga9-contig1_1029	100	K03411	chemotaxis protein CheD [EC:3.5.1.44]	cheD
+Nitrososphaera_gargensis_Ga9-contig1_1030	100	K03410	chemotaxis protein CheC	putative chemotaxis protein cheC, inhibitor of mcp methylation
+Nitrososphaera_gargensis_Ga9-contig1_1031	100	K03407	two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]	cheA
+Nitrososphaera_gargensis_Ga9-contig1_1032	100	K03412	two-component system, chemotaxis family, response regulator CheB [EC:3.1.1.61]	cheB
+Nitrososphaera_gargensis_Ga9-contig1_1033	100	K03413	two-component system, chemotaxis family, response regulator CheY	cheY
+Nitrososphaera_gargensis_Ga9-contig1_1034	99.5	K03408	purine-binding chemotaxis protein CheW	cheW
+Nitrososphaera_gargensis_Ga9-contig1_1035	100	K03406	methyl-accepting chemotaxis protein	putative methyl-accepting chemotaxis protein
+Nitrososphaera_gargensis_Ga9-contig1_1039	100	K07496	putative transposase	putative transposase
+Nitrososphaera_gargensis_Ga9-contig1_1041	100	K00958	sulfate adenylyltransferase [EC:2.7.7.4]	sat
+Nitrososphaera_gargensis_Ga9-contig1_1042	100	K00390	phosphoadenosine phosphosulfate reductase [EC:1.8.4.8]	putative PAPS reductase
+Nitrososphaera_gargensis_Ga9-contig1_1043	100	K07496	putative transposase	putative transposase
+Nitrososphaera_gargensis_Ga9-contig1_1045	100	K02503	histidine triad (HIT) family protein	putiative histidine triad (HIT) protein
+Nitrososphaera_gargensis_Ga9-contig1_1047	67.4	K07025	putative hydrolase of the HAD superfamily	haloacid dehalogenase superfamily enzyme, subfamily IA
+Nitrososphaera_gargensis_Ga9-contig1_1048	31.2	K07495	putative transposase	transposase IS4
+Nitrososphaera_gargensis_Ga9-contig1_1051	99.6	K01011	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	thiosulfate sulfurtransferase (EC:2.8.1.1)
+Nitrososphaera_gargensis_Ga9-contig1_1052	43.7	K09984	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1053	99.7	K08097	phosphosulfolactate synthase [EC:4.4.1.19]	comA
+Nitrososphaera_gargensis_Ga9-contig1_1054	100	K02051	NitT/TauT family transport system substrate-binding protein	ABC uptake transporter, substrate-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_1055	100	K02049	NitT/TauT family transport system ATP-binding protein	ABC uptake transporter, ATP-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_1056	100	K02050	NitT/TauT family transport system permease protein	ABC uptake transporter, permease protein
+Nitrososphaera_gargensis_Ga9-contig1_1057	59.3	K07496	putative transposase	putative transposase
+Nitrososphaera_gargensis_Ga9-contig1_1058	28.6	K17830	digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]	geranylgeranyl reductase
+Nitrososphaera_gargensis_Ga9-contig1_1061	99.4	K07477	translin	putative translin family protein
+Nitrososphaera_gargensis_Ga9-contig1_1062	100	K07496	putative transposase	putative transposase
+Nitrososphaera_gargensis_Ga9-contig1_1063	99.4	K03552	holliday junction resolvase, archaea type	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1064	100	K09143	uncharacterized protein	protein of unknown function DUF369
+Nitrososphaera_gargensis_Ga9-contig1_1065	43.0	K02238	competence protein ComEC	beta-lactamase domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_1067	100	K04042	bifunctional UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]	putative sugar-phosphate nucleotidyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_1068	46.9	K01342	subtilisin [EC:3.4.21.62]	subtilisin
+Nitrososphaera_gargensis_Ga9-contig1_1069	30.5	K03413	two-component system, chemotaxis family, response regulator CheY	Response regulator receiver protein
+Nitrososphaera_gargensis_Ga9-contig1_1070	99.6	K03124	transcription initiation factor TFIIB	tfb3
+Nitrososphaera_gargensis_Ga9-contig1_1073	31.2	K07495	putative transposase	transposase IS4
+Nitrososphaera_gargensis_Ga9-contig1_1076	100	K14981	two-component system, OmpR family, response regulator ChvI	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_1077	100	K17758	NAD(P)H-hydrate epimerase [EC:5.1.99.6]	putative carbohydrate kinase
+Nitrososphaera_gargensis_Ga9-contig1_1078	100	K06878	tRNA-binding protein	putative methionine--tRNA ligase
+Nitrososphaera_gargensis_Ga9-contig1_1084	46.9	K13525	transitional endoplasmic reticulum ATPase	cdc48
+Nitrososphaera_gargensis_Ga9-contig1_1087	100	K07159	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1088	100	K00020	3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31]	garR
+Nitrososphaera_gargensis_Ga9-contig1_1092	100	K03574	8-oxo-dGTP diphosphatase [EC:3.6.1.55]	nudF2
+Nitrososphaera_gargensis_Ga9-contig1_1093	100	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_1095	100	K09014	Fe-S cluster assembly protein SufB	sufB
+Nitrososphaera_gargensis_Ga9-contig1_1096	75.7	K09014	Fe-S cluster assembly protein SufB	ABC-type transport system involved in Fe-S cluster assembly, permease component
+Nitrososphaera_gargensis_Ga9-contig1_1096	75.4	K09014	Fe-S cluster assembly protein SufB	sufD
+Nitrososphaera_gargensis_Ga9-contig1_1097	35.9	K05710	3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin subunit	Rieske (2Fe-2S) domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_1098	100	K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	sufS
+Nitrososphaera_gargensis_Ga9-contig1_1099	99.3	K04488	nitrogen fixation protein NifU and related proteins	nifU
+Nitrososphaera_gargensis_Ga9-contig1_1101	99.6	K19302	undecaprenyl-diphosphatase [EC:3.6.1.27]	putative phosphoesterase PA-phosphatase
+Nitrososphaera_gargensis_Ga9-contig1_1107	100	K03116	sec-independent protein translocase protein TatA	tatA1
+Nitrososphaera_gargensis_Ga9-contig1_1108	100	K00261	glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]	gdhA
+Nitrososphaera_gargensis_Ga9-contig1_1109	82.2	K13628	iron-sulfur cluster assembly protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1110	57.7	K01802	peptidylprolyl isomerase [EC:5.2.1.8]	FKBP-type peptidylprolyl isomerase
+Nitrososphaera_gargensis_Ga9-contig1_1111	36.5	K00436	NAD-reducing hydrogenase large subunit [EC:1.12.1.2]	dhsS
+Nitrososphaera_gargensis_Ga9-contig1_1113	100	K01271	Xaa-Pro dipeptidase [EC:3.4.13.9]	pepQ
+Nitrososphaera_gargensis_Ga9-contig1_1115	100	K13038	phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36 6.3.2.5]	coaBC
+Nitrososphaera_gargensis_Ga9-contig1_1116	100	K00606	3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]	panB
+Nitrososphaera_gargensis_Ga9-contig1_1117	99.6	K09722	4-phosphopantoate---beta-alanine ligase [EC:6.3.2.36]	putative pantothenate synthetase
+Nitrososphaera_gargensis_Ga9-contig1_1118	99.7	K06982	pantoate kinase [EC:2.7.1.169]	putative GHMP kinase
+Nitrososphaera_gargensis_Ga9-contig1_1121	31.2	K07495	putative transposase	transposase IS4
+Nitrososphaera_gargensis_Ga9-contig1_1122	99.7	K07001	NTE family protein	putative pyridine nucleotide-disulfide oxidoreductase family protein
+Nitrososphaera_gargensis_Ga9-contig1_1123	100	K00869	mevalonate kinase [EC:2.7.1.36]	mvk
+Nitrososphaera_gargensis_Ga9-contig1_1124	99.6	K06990	uncharacterized protein	uncharacterized protein family UPF0103
+Nitrososphaera_gargensis_Ga9-contig1_1125	100	K02967	small subunit ribosomal protein S2	rps2p
+Nitrososphaera_gargensis_Ga9-contig1_1130	100	K01689	enolase [EC:4.2.1.11]	eno
+Nitrososphaera_gargensis_Ga9-contig1_1131	100	K03058	DNA-directed RNA polymerase subunit N [EC:2.7.7.6]	rpoN
+Nitrososphaera_gargensis_Ga9-contig1_1135	31.2	K07495	putative transposase	transposase IS4
+Nitrososphaera_gargensis_Ga9-contig1_1152	100	K03564	peroxiredoxin Q/BCP [EC:1.11.1.15]	alkyl hydroperoxide reductase
+Nitrososphaera_gargensis_Ga9-contig1_1155	100	K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	glucose/ribitol dehydrogenase family protein (EC:1.1.1.-)
+Nitrososphaera_gargensis_Ga9-contig1_1160	100	K03568	TldD protein	putative protease TldD
+Nitrososphaera_gargensis_Ga9-contig1_1161	100	K03592	PmbA protein	putative TldD/pmbA family protein
+Nitrososphaera_gargensis_Ga9-contig1_1162	100	K17830	digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]	putative digeranylgeranylglycerophospholipid reductase
+Nitrososphaera_gargensis_Ga9-contig1_1163	67.7	K00330	NADH-quinone oxidoreductase subunit A [EC:1.6.5.3]	NADH-ubiquinone/plastoquinone oxidoreductase, chain 3
+Nitrososphaera_gargensis_Ga9-contig1_1164	100	K00331	NADH-quinone oxidoreductase subunit B [EC:1.6.5.3]	nuoB1
+Nitrososphaera_gargensis_Ga9-contig1_1165	100	K00332	NADH-quinone oxidoreductase subunit C [EC:1.6.5.3]	nuoC
+Nitrososphaera_gargensis_Ga9-contig1_1166	100	K00333	NADH-quinone oxidoreductase subunit D [EC:1.6.5.3]	nuoD1
+Nitrososphaera_gargensis_Ga9-contig1_1167	100	K00337	NADH-quinone oxidoreductase subunit H [EC:1.6.5.3]	nuoH
+Nitrososphaera_gargensis_Ga9-contig1_1168	100	K00338	NADH-quinone oxidoreductase subunit I [EC:1.6.5.3]	nuoI
+Nitrososphaera_gargensis_Ga9-contig1_1169	100	K00339	NADH-quinone oxidoreductase subunit J [EC:1.6.5.3]	nuoJ
+Nitrososphaera_gargensis_Ga9-contig1_1170	85.0	K00340	NADH-quinone oxidoreductase subunit K [EC:1.6.5.3]	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K) (EC:1.6.5.3)
+Nitrososphaera_gargensis_Ga9-contig1_1170	84.0	K00340	NADH-quinone oxidoreductase subunit K [EC:1.6.5.3]	nuoK
+Nitrososphaera_gargensis_Ga9-contig1_1171	100	K00342	NADH-quinone oxidoreductase subunit M [EC:1.6.5.3]	nuoM
+Nitrososphaera_gargensis_Ga9-contig1_1172	100	K00341	NADH-quinone oxidoreductase subunit L [EC:1.6.5.3]	nuoL
+Nitrososphaera_gargensis_Ga9-contig1_1173	100	K00343	NADH-quinone oxidoreductase subunit N [EC:1.6.5.3]	nuoN
+Nitrososphaera_gargensis_Ga9-contig1_1174	99.6	K02523	octaprenyl-diphosphate synthase [EC:2.5.1.90]	gds1
+Nitrososphaera_gargensis_Ga9-contig1_1175	100	K06137	pyrroloquinoline-quinone synthase [EC:1.3.3.11]	putative coenzyme PQQ synthesis protein c
+Nitrososphaera_gargensis_Ga9-contig1_1192	99.6	K09020	ureidoacrylate peracid hydrolase [EC:3.5.1.110]	putative isochorismatase family protein
+Nitrososphaera_gargensis_Ga9-contig1_1193	100	K03453	bile acid:Na+ symporter, BASS family	arsenical resistance-3 family protein
+Nitrososphaera_gargensis_Ga9-contig1_1194	100	K13693	glucosyl-3-phosphoglycerate synthase [EC:2.4.1.266]	putative glycosyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_1198	100	K15383	MtN3 and saliva related transmembrane protein	PQ loop repeat-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_1207	100	K06869	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1211	33.1	K19286	FMN reductase [NAD(P)H] [EC:1.5.1.39]	nitroreductase
+Nitrososphaera_gargensis_Ga9-contig1_1216	58.3	K07100	putative phosphoribosyl transferase	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1216	60.8	K07100	putative phosphoribosyl transferase	phosphoribosyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_1217	53.4	K06880	erythromycin esterase [EC:3.1.1.-]	protein-L-isoaspartate O-methyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_1218	46.1	K06880	erythromycin esterase [EC:3.1.1.-]	protein-L-isoaspartate O-methyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_1220	99.3	K00331	NADH-quinone oxidoreductase subunit B [EC:1.6.5.3]	nuoB2
+Nitrososphaera_gargensis_Ga9-contig1_1221	100	K00333	NADH-quinone oxidoreductase subunit D [EC:1.6.5.3]	nuoD2
+Nitrososphaera_gargensis_Ga9-contig1_1222	100	K15510	coenzyme F420-dependent glucose-6-phosphate dehydrogenase [EC:1.1.98.2]	luciferase-like/flavin-/F420 oxidoreductase
+Nitrososphaera_gargensis_Ga9-contig1_1241	29.0	K06149	universal stress protein A	UspA domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_1252	46.6	K08070	2-alkenal reductase [EC:1.3.1.74]	2-alkenal reductase (EC:1.3.1.74)
+Nitrososphaera_gargensis_Ga9-contig1_1253	99.7	K11779	FO synthase [EC:2.5.1.-]	cofG
+Nitrososphaera_gargensis_Ga9-contig1_1254	67.1	K11781	FO synthase subunit 2 [EC:2.5.1.77]	cofH
+Nitrososphaera_gargensis_Ga9-contig1_1255	100	K03124	transcription initiation factor TFIIB	tfb
+Nitrososphaera_gargensis_Ga9-contig1_1264	99.4	K00558	DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	putative cytosine-specific methyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_1271	38.8	K07652	two-component system, OmpR family, sensor histidine kinase VicK [EC:2.7.13.3]	multi-sensor signal transduction histidine kinase
+Nitrososphaera_gargensis_Ga9-contig1_1271	38.8	K07652	two-component system, OmpR family, sensor histidine kinase VicK [EC:2.7.13.3]	multi-sensor signal transduction histidine kinase
+Nitrososphaera_gargensis_Ga9-contig1_1273	39.7	K03413	two-component system, chemotaxis family, response regulator CheY	cheY
+Nitrososphaera_gargensis_Ga9-contig1_1275	100	K00259	alanine dehydrogenase [EC:1.4.1.1]	ald
+Nitrososphaera_gargensis_Ga9-contig1_1277	100	K00363	nitrite reductase (NADH) small subunit [EC:1.7.1.15]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1281	100	K03703	excinuclease ABC subunit C	uvrC
+Nitrososphaera_gargensis_Ga9-contig1_1282	100	K03701	excinuclease ABC subunit A	uvrA
+Nitrososphaera_gargensis_Ga9-contig1_1283	99.8	K03702	excinuclease ABC subunit B	uvrB
+Nitrososphaera_gargensis_Ga9-contig1_1286	99.7	K03521	electron transfer flavoprotein beta subunit	etfB
+Nitrososphaera_gargensis_Ga9-contig1_1287	100	K03522	electron transfer flavoprotein alpha subunit	etfA
+Nitrososphaera_gargensis_Ga9-contig1_1288	100	K00313	electron transfer flavoprotein-quinone oxidoreductase [EC:1.5.5.-]	fixC
+Nitrososphaera_gargensis_Ga9-contig1_1294	39.6	K15865	threonylcarbamoyladenosine tRNA methylthiotransferase CDKAL1 [EC:2.8.4.5]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1295	100	K03531	cell division protein FtsZ	ftsZ1
+Nitrososphaera_gargensis_Ga9-contig1_1298	100	K02910	large subunit ribosomal protein L31e	rpl31e
+Nitrososphaera_gargensis_Ga9-contig1_1299	100	K02924	large subunit ribosomal protein L39e	rpl39e
+Nitrososphaera_gargensis_Ga9-contig1_1306	100	K01845	glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]	hemL1
+Nitrososphaera_gargensis_Ga9-contig1_1310	39.7	K03809	NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	repressor
+Nitrososphaera_gargensis_Ga9-contig1_1310	39.7	K03809	NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	wrbA
+Nitrososphaera_gargensis_Ga9-contig1_1312	100	K07463	archaea-specific RecJ-like exonuclease	putative phosphoesterase, DHHA1
+Nitrososphaera_gargensis_Ga9-contig1_1315	100	K06888	uncharacterized protein	protein of unknown function DUF255
+Nitrososphaera_gargensis_Ga9-contig1_1320	99.5	K07005	uncharacterized protein	putative pyridoxamine 5'-phosphate oxidase, FMN-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_1327	25.5	K03455	monovalent cation:H+ antiporter-2, CPA2 family	Kef-type K+ transport system, predicted NAD-binding component
+Nitrososphaera_gargensis_Ga9-contig1_1329	38.5	K14981	two-component system, OmpR family, response regulator ChvI	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_1330	25.3	K13283	ferrous-iron efflux pump FieF	Cobalt-zinc-cadmium resistance protein
+Nitrososphaera_gargensis_Ga9-contig1_1343	99.4	K03469	ribonuclease HI [EC:3.1.26.4]	putative ribonuclease H
+Nitrososphaera_gargensis_Ga9-contig1_1351	32.4	K13770	TetR/AcrR family transcriptional regulator, fatty acid metabolism regulator protein	Fatty acid degradation regulator YsiA, TetR family
+Nitrososphaera_gargensis_Ga9-contig1_1352	100	K03768	peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]	putative peptidyl-prolyl cis-trans isomerase
+Nitrososphaera_gargensis_Ga9-contig1_1358	99.8	K04479	DNA polymerase IV (archaeal DinB-like DNA polymerase) [EC:2.7.7.7]	dbh1
+Nitrososphaera_gargensis_Ga9-contig1_1361	31.8	K15970	8-O-methyltransferase	tcmO
+Nitrososphaera_gargensis_Ga9-contig1_1366	38.0	K00249	acyl-CoA dehydrogenase [EC:1.3.8.7]	acyl-CoA dehydrogenase (EC:1.3.99.3)
+Nitrososphaera_gargensis_Ga9-contig1_1368	99.8	K00823	4-aminobutyrate aminotransferase [EC:2.6.1.19]	argD1
+Nitrososphaera_gargensis_Ga9-contig1_1369	41.0	K13589	two-component system, cell cycle response regulator CpdR	response regulator
+Nitrososphaera_gargensis_Ga9-contig1_1372	31.4	K09155	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1373	100	K03464	muconolactone D-isomerase [EC:5.3.3.4]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1374	100	K01915	glutamine synthetase [EC:6.3.1.2]	glnA1
+Nitrososphaera_gargensis_Ga9-contig1_1375	46.2	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	transcriptional regulatory protein, AsnC family
+Nitrososphaera_gargensis_Ga9-contig1_1376	100	K03124	transcription initiation factor TFIIB	tfb4
+Nitrososphaera_gargensis_Ga9-contig1_1403	43.0	K01945	phosphoribosylamine--glycine ligase [EC:6.3.4.13]	phosphoribosylamine--glycine ligase (EC:6.3.4.13)
+Nitrososphaera_gargensis_Ga9-contig1_1403	42.7	K01945	phosphoribosylamine--glycine ligase [EC:6.3.4.13]	Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain protein
+Nitrososphaera_gargensis_Ga9-contig1_1408	39.5	K00540		short chain dehydrogenase (EC:1.-.-.-)
+Nitrososphaera_gargensis_Ga9-contig1_1408	39.5	K00540		short chain dehydrogenase (EC:1.-.-.-)
+Nitrososphaera_gargensis_Ga9-contig1_1409	100	K01464	dihydropyrimidinase [EC:3.5.2.2]	putative amidohydrolase family protein
+Nitrososphaera_gargensis_Ga9-contig1_1410	100	K03282	large conductance mechanosensitive channel	mscL
+Nitrososphaera_gargensis_Ga9-contig1_1412	99.5	K01807	ribose 5-phosphate isomerase A [EC:5.3.1.6]	rpiA2
+Nitrososphaera_gargensis_Ga9-contig1_1417	98.7	K03124	transcription initiation factor TFIIB	tfb1
+Nitrososphaera_gargensis_Ga9-contig1_1419	100	K03113	translation initiation factor 1	putative protein translation factor SUI1
+Nitrososphaera_gargensis_Ga9-contig1_1422	100	K08979	putative membrane protein	putative membran protein with domain of unknown function DUF2070
+Nitrososphaera_gargensis_Ga9-contig1_1425	100	K14941	2-phospho-L-lactate guanylyltransferase [EC:2.7.7.68]	cofC
+Nitrososphaera_gargensis_Ga9-contig1_1426	99.7	K11212	LPPG:FO 2-phospho-L-lactate transferase [EC:2.7.8.28]	cofD
+Nitrososphaera_gargensis_Ga9-contig1_1429	100	K07565	60S ribosome subunit biogenesis protein NIP7	PUA domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_1430	41.0	K14835	ribosomal RNA methyltransferase Nop2 [EC:2.1.1.-]	Tb04.30O21.90
+Nitrososphaera_gargensis_Ga9-contig1_1434	100	K06223	DNA adenine methylase [EC:2.1.1.72]	putative DNA adenine methylase
+Nitrososphaera_gargensis_Ga9-contig1_1437	99.4	K09140	pre-rRNA-processing protein TSR3	DUF367 domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_1438	27.4	K10843	DNA excision repair protein ERCC-3 [EC:3.6.4.12]	helicase domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_1440	100	K15016	enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.35]	hydroxyacyl-CoA dehydrogenase (EC:1.1.1.35)
+Nitrososphaera_gargensis_Ga9-contig1_1441	99.4	K06966	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1442	45.9	K00777		prsT
+Nitrososphaera_gargensis_Ga9-contig1_1443	100	K01251	adenosylhomocysteinase [EC:3.3.1.1]	ahcY1
+Nitrososphaera_gargensis_Ga9-contig1_1445	100	K02927	large subunit ribosomal protein L40e	rpl40e
+Nitrososphaera_gargensis_Ga9-contig1_1447	36.7	K00971	mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	cupin 2 barrel domain protein
+Nitrososphaera_gargensis_Ga9-contig1_1449	100	K09807	uncharacterized protein	protein of unknown function DUF541
+Nitrososphaera_gargensis_Ga9-contig1_1455	37.6	K14981	two-component system, OmpR family, response regulator ChvI	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_1456	99.7	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	putative DNA methylase
+Nitrososphaera_gargensis_Ga9-contig1_1460	100	K03497	chromosome partitioning protein, ParB family	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1466	99.6	K17759	NAD(P)H-hydrate epimerase [EC:5.1.99.6]	carbohydrate kinase, YjeF-like protein
+Nitrososphaera_gargensis_Ga9-contig1_1467	37.2	K01069	hydroxyacylglutathione hydrolase [EC:3.1.2.6]	Zn-dependent hydrolase
+Nitrososphaera_gargensis_Ga9-contig1_1467	38.1	K17725	sulfur dioxygenase [EC:1.13.11.18]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1470	99.5	K03652	DNA-3-methyladenine glycosylase [EC:3.2.2.21]	putative 3-methyladenine DNA glycosylase
+Nitrososphaera_gargensis_Ga9-contig1_1471	99.5	K02334	DNA polymerase bacteriophage-type [EC:2.7.7.7]	putative uracil DNA glycosylase superfamily protein
+Nitrososphaera_gargensis_Ga9-contig1_1474	100	K03320	ammonium transporter, Amt family	nrgA1
+Nitrososphaera_gargensis_Ga9-contig1_1476	99.7	K03455	monovalent cation:H+ antiporter-2, CPA2 family	putative sodium/hydrogen exchange
+Nitrososphaera_gargensis_Ga9-contig1_1481	100	K03660	N-glycosylase/DNA lyase [EC:3.2.2.- 4.2.99.18]	ogg
+Nitrososphaera_gargensis_Ga9-contig1_1483	33.3	K10216	2-hydroxymuconate-semialdehyde hydrolase [EC:3.7.1.9]	2-hydroxy-6-oxo-2,4-heptadienoate hydrolase
+Nitrososphaera_gargensis_Ga9-contig1_1483	32.0	K10216	2-hydroxymuconate-semialdehyde hydrolase [EC:3.7.1.9]	2,6-dioxo-6-phenylhexa-3-enoate hydrolase (EC:3.7.1.8)
+Nitrososphaera_gargensis_Ga9-contig1_1485	63.8	K06193	protein PhnA	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1485	71.9	K06193	protein PhnA	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1486	100	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_1487	72.5	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_1494	100	K00412	ubiquinol-cytochrome c reductase cytochrome b subunit	petB
+Nitrososphaera_gargensis_Ga9-contig1_1495	76.4	K00411	ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:1.10.2.2]	petC
+Nitrososphaera_gargensis_Ga9-contig1_1497	100	K00586	diphthine synthase [EC:2.1.1.98]	putative diphthine synthase
+Nitrososphaera_gargensis_Ga9-contig1_1498	99.7	K05831	LysW-gamma-L-lysine/LysW-L-ornithine carboxypeptidase	lysK
+Nitrososphaera_gargensis_Ga9-contig1_1499	99.7	K05827	[lysine-biosynthesis-protein LysW]---L-2-aminoadipate ligase [EC:6.3.2.43]	lysX1
+Nitrososphaera_gargensis_Ga9-contig1_1500	98.2	K05826	alpha-aminoadipate/glutamate carrier protein LysW	lysW
+Nitrososphaera_gargensis_Ga9-contig1_1501	100	K01649	2-isopropylmalate synthase [EC:2.3.3.13]	cimA
+Nitrososphaera_gargensis_Ga9-contig1_1502	100	K01755	argininosuccinate lyase [EC:4.3.2.1]	argH
+Nitrososphaera_gargensis_Ga9-contig1_1505	100	K09726	uncharacterized protein	protein of unknown function DUF354
+Nitrososphaera_gargensis_Ga9-contig1_1507	100	K03926	periplasmic divalent cation tolerance protein	putative cutA1 divalent ion tolerance protein
+Nitrososphaera_gargensis_Ga9-contig1_1508	100	K06965	protein pelota	pelA
+Nitrososphaera_gargensis_Ga9-contig1_1510	100	K03709	DtxR family transcriptional regulator, Mn-dependent transcriptional regulator	putative iron (metal) dependent repressor, DtxR family
+Nitrososphaera_gargensis_Ga9-contig1_1512	100	K06937	7,8-dihydro-6-hydroxymethylpterin dimethyltransferase [EC:2.1.1.-]	radical SAM domain protein
+Nitrososphaera_gargensis_Ga9-contig1_1515	65.4	K00411	ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:1.10.2.2]	petC
+Nitrososphaera_gargensis_Ga9-contig1_1517	100	K03433	proteasome beta subunit [EC:3.4.25.1]	psmB1
+Nitrososphaera_gargensis_Ga9-contig1_1521	99.8	K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	leuC1
+Nitrososphaera_gargensis_Ga9-contig1_1522	100	K01704	3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	leuD1
+Nitrososphaera_gargensis_Ga9-contig1_1523	100	K00764	amidophosphoribosyltransferase [EC:2.4.2.14]	putative amidophosphoribosyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_1526	37.9	K05967	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1526	33.7	K05967	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1532	62.1	K06118	UDP-sulfoquinovose synthase [EC:3.13.1.1]	putative NAD-dependent epimerase/dehydratase
+Nitrososphaera_gargensis_Ga9-contig1_1535	99.7	K01955	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	putative carbamoyl-phosphate synthase, large chain
+Nitrososphaera_gargensis_Ga9-contig1_1536	100	K04477	putative hydrolase	PHP domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_1541	100	K01955	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	putative carbamoyl-phosphate synthase, large chain
+Nitrososphaera_gargensis_Ga9-contig1_1550	100	K09981	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1552	100	K09020	ureidoacrylate peracid hydrolase [EC:3.5.1.110]	putative isochorismatase hydrolase
+Nitrososphaera_gargensis_Ga9-contig1_1569	99.6	K05896	segregation and condensation protein A	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1570	99.5	K06024	segregation and condensation protein B	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1571	100	K02995	small subunit ribosomal protein S8e	rps8e
+Nitrososphaera_gargensis_Ga9-contig1_1573	99.1	K03105	signal recognition particle subunit SRP19	srp19
+Nitrososphaera_gargensis_Ga9-contig1_1575	100	K07569	RNA-binding protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1576	100	K03124	transcription initiation factor TFIIB	tfb6
+Nitrososphaera_gargensis_Ga9-contig1_1579	100	K15635	2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	apgM
+Nitrososphaera_gargensis_Ga9-contig1_1583	99.7	K00965	UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]	galT
+Nitrososphaera_gargensis_Ga9-contig1_1588	43.8	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	UDP-N-acetylglucosamine 2-epimerase (EC:5.1.3.14)
+Nitrososphaera_gargensis_Ga9-contig1_1589	27.5	K00973	glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]	glucose-1-phosphate thymidylyltransferase (EC:2.7.7.24)
+Nitrososphaera_gargensis_Ga9-contig1_1590	100	K00966	mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	nucleotidyl-transferasse
+Nitrososphaera_gargensis_Ga9-contig1_1591	99.8	K00941	hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7]	thiD
+Nitrososphaera_gargensis_Ga9-contig1_1595	41.3	K03457	nucleobase:cation symporter-1, NCS1 family	nucleobase/cation symporter, (NCS1) family
+Nitrososphaera_gargensis_Ga9-contig1_1598	100	K01903	succinyl-CoA synthetase beta subunit [EC:6.2.1.5]	sucC
+Nitrososphaera_gargensis_Ga9-contig1_1599	100	K01902	succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]	sucD
+Nitrososphaera_gargensis_Ga9-contig1_1604	100	K07301	cation:H+ antiporter	calcium/cation antiporter family protein
+Nitrososphaera_gargensis_Ga9-contig1_1605	33.3	K06149	universal stress protein A	UspA domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_1608	97.9	K09721	uncharacterized protein	uncharacterized protein family UPF0147
+Nitrososphaera_gargensis_Ga9-contig1_1610	100	K07041	uncharacterized protein	beta-lactamase domain protein
+Nitrososphaera_gargensis_Ga9-contig1_1614	99.7	K01990	ABC-2 type transport system ATP-binding protein	ABC efflux transporter, ATP-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_1615	100	K01992	ABC-2 type transport system permease protein	ABC efflux transporter, permease protein
+Nitrososphaera_gargensis_Ga9-contig1_1616	100	K07101	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1640	84.0	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	purS
+Nitrososphaera_gargensis_Ga9-contig1_1646	35.3	K04767	acetoin utilization protein AcuB	acetoin utilization AcuB protein
+Nitrososphaera_gargensis_Ga9-contig1_1646	37.3	K07182	CBS domain-containing protein	nucleotidyltransferase family protein
+Nitrososphaera_gargensis_Ga9-contig1_1646	35.1	K04767	acetoin utilization protein AcuB	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1647	100	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	purQ
+Nitrososphaera_gargensis_Ga9-contig1_1648	100	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	purL
+Nitrososphaera_gargensis_Ga9-contig1_1649	99.8	K00764	amidophosphoribosyltransferase [EC:2.4.2.14]	purF
+Nitrososphaera_gargensis_Ga9-contig1_1652	100	K06929	uncharacterized protein	putative CoA-binding domain protein
+Nitrososphaera_gargensis_Ga9-contig1_1656	100	K06942	uncharacterized protein	putative GTP binding protein
+Nitrososphaera_gargensis_Ga9-contig1_1659	100	K03524	BirA family transcriptional regulator, biotin operon repressor / biotin-[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	birA
+Nitrososphaera_gargensis_Ga9-contig1_1660	41.7	K11529	glycerate 2-kinase [EC:2.7.1.165]	glycerate 2-kinase (EC:1.1.1.81)
+Nitrososphaera_gargensis_Ga9-contig1_1663	100	K05947	mannosyl-3-phosphoglycerate synthase [EC:2.4.1.217]	mngA1
+Nitrososphaera_gargensis_Ga9-contig1_1667	100	K02548	1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.74 2.5.1.-]	menA
+Nitrososphaera_gargensis_Ga9-contig1_1673	100	K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	putative GMP synthase
+Nitrososphaera_gargensis_Ga9-contig1_1674	99.9	K09118	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1676	100	K02683	DNA primase small subunit [EC:2.7.7.-]	priA
+Nitrososphaera_gargensis_Ga9-contig1_1677	99.7	K18882	DNA primase large subunit [EC:2.7.7.-]	priB
+Nitrososphaera_gargensis_Ga9-contig1_1678	100	K01151	deoxyribonuclease IV [EC:3.1.21.2]	nfo
+Nitrososphaera_gargensis_Ga9-contig1_1682	100	K16306	fructose-bisphosphate aldolase / 2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase [EC:4.1.2.13 2.2.1.10]	aroGFH
+Nitrososphaera_gargensis_Ga9-contig1_1683	100	K11646	3-dehydroquinate synthase II [EC:1.4.1.24]	aroB
+Nitrososphaera_gargensis_Ga9-contig1_1685	100	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	putative DNA methylase N-4/N-6 domain protein
+Nitrososphaera_gargensis_Ga9-contig1_1690	99.6	K03785	3-dehydroquinate dehydratase I [EC:4.2.1.10]	aroD
+Nitrososphaera_gargensis_Ga9-contig1_1691	99.6	K00014	shikimate dehydrogenase [EC:1.1.1.25]	aroE
+Nitrososphaera_gargensis_Ga9-contig1_1692	100	K00891	shikimate kinase [EC:2.7.1.71]	aroK
+Nitrososphaera_gargensis_Ga9-contig1_1693	100	K00800	3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]	aroA
+Nitrososphaera_gargensis_Ga9-contig1_1694	100	K01736	chorismate synthase [EC:4.2.3.5]	aroC
+Nitrososphaera_gargensis_Ga9-contig1_1695	100	K00812	aspartate aminotransferase [EC:2.6.1.1]	aspC
+Nitrososphaera_gargensis_Ga9-contig1_1696	99.7	K04517	prephenate dehydrogenase [EC:1.3.1.12]	putative prephenate dehydrogenase (EC:1.3.1.12)
+Nitrososphaera_gargensis_Ga9-contig1_1709	67.4	K03686	molecular chaperone DnaJ	DnaJ-class molecular chaperone with C-terminal Zn finger domain
+Nitrososphaera_gargensis_Ga9-contig1_1711	100	K02122	V/A-type H+-transporting ATPase subunit F	atpF
+Nitrososphaera_gargensis_Ga9-contig1_1712	99.5	K01628	L-fuculose-phosphate aldolase [EC:4.1.2.17]	putative class II aldolase/adducin family protein
+Nitrososphaera_gargensis_Ga9-contig1_1717	100	K17884	archaetidylinositol phosphate synthase [EC:2.7.8.39]	pgsA
+Nitrososphaera_gargensis_Ga9-contig1_1718	100	K02976	small subunit ribosomal protein S26e	rps26e
+Nitrososphaera_gargensis_Ga9-contig1_1720	100	K00858	NAD+ kinase [EC:2.7.1.23]	putative inorganic polyphosphate/ATP-NAD kinase
+Nitrososphaera_gargensis_Ga9-contig1_1721	99.8	K01937	CTP synthase [EC:6.3.4.2]	pyrG
+Nitrososphaera_gargensis_Ga9-contig1_1725	99.8	K10725	archaeal cell division control protein 6	cdc6
+Nitrososphaera_gargensis_Ga9-contig1_1726	100	K01609	indole-3-glycerol phosphate synthase [EC:4.1.1.48]	trpC
+Nitrososphaera_gargensis_Ga9-contig1_1727	99.8	K01696	tryptophan synthase beta chain [EC:4.2.1.20]	trpB
+Nitrososphaera_gargensis_Ga9-contig1_1728	100	K01695	tryptophan synthase alpha chain [EC:4.2.1.20]	trpA
+Nitrososphaera_gargensis_Ga9-contig1_1735	99.7	K04483	DNA repair protein RadA	radA1
+Nitrososphaera_gargensis_Ga9-contig1_1736	100	K00766	anthranilate phosphoribosyltransferase [EC:2.4.2.18]	trpD
+Nitrososphaera_gargensis_Ga9-contig1_1737	100	K01658	anthranilate synthase component II [EC:4.1.3.27]	trpG
+Nitrososphaera_gargensis_Ga9-contig1_1738	99.7	K00150	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59]	gap
+Nitrososphaera_gargensis_Ga9-contig1_1753	100	K03265	peptide chain release factor subunit 1	prf1
+Nitrososphaera_gargensis_Ga9-contig1_1756	100	K03433	proteasome beta subunit [EC:3.4.25.1]	psmB2
+Nitrososphaera_gargensis_Ga9-contig1_1757	100	K07575	PUA domain protein	putative PUA domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_1760	99.7	K00003	homoserine dehydrogenase [EC:1.1.1.3]	hom
+Nitrososphaera_gargensis_Ga9-contig1_1761	100	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	putative transcriptional regulator, AsnC family
+Nitrososphaera_gargensis_Ga9-contig1_1762	22.3	K04763	integrase/recombinase XerD	conserved hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1766	100	K10726	replicative DNA helicase Mcm [EC:3.6.4.-]	MCM family domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_1769	100	K18842	antitoxin ChpS	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1777	100	K04096	DNA processing protein	putative SMF family protein
+Nitrososphaera_gargensis_Ga9-contig1_1780	100	K07090	uncharacterized protein	putative sulfonate transporter
+Nitrososphaera_gargensis_Ga9-contig1_1784	100	K01588	5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]	purE
+Nitrososphaera_gargensis_Ga9-contig1_1785	100	K01589	5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]	purK
+Nitrososphaera_gargensis_Ga9-contig1_1786	100	K01923	phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]	purC
+Nitrososphaera_gargensis_Ga9-contig1_1788	100	K09738	uncharacterized protein	protein of unknown function DUF371
+Nitrososphaera_gargensis_Ga9-contig1_1789	99.5	K03432	proteasome alpha subunit [EC:3.4.25.1]	psmA1
+Nitrososphaera_gargensis_Ga9-contig1_1789	87.6	K03432	proteasome alpha subunit [EC:3.4.25.1]	proteasome endopeptidase complex, archaeal, alpha subunit (EC:3.4.25.1)
+Nitrososphaera_gargensis_Ga9-contig1_1791	100	K09142	uncharacterized protein	protein of unknown function DUF171
+Nitrososphaera_gargensis_Ga9-contig1_1792	100	K09807	uncharacterized protein	protein of unknown function DUF541
+Nitrososphaera_gargensis_Ga9-contig1_1793	100	K02906	large subunit ribosomal protein L3	rpl3p
+Nitrososphaera_gargensis_Ga9-contig1_1794	100	K02930	large subunit ribosomal protein L4e	rpl4p
+Nitrososphaera_gargensis_Ga9-contig1_1795	100	K02892	large subunit ribosomal protein L23	rpl23p
+Nitrososphaera_gargensis_Ga9-contig1_1796	99.3	K02965	small subunit ribosomal protein S19	rps19p
+Nitrososphaera_gargensis_Ga9-contig1_1797	100	K02890	large subunit ribosomal protein L22	rpl22p
+Nitrososphaera_gargensis_Ga9-contig1_1798	100	K02982	small subunit ribosomal protein S3	rps3p
+Nitrososphaera_gargensis_Ga9-contig1_1799	86.8	K02904	large subunit ribosomal protein L29	rpl29p
+Nitrososphaera_gargensis_Ga9-contig1_1800	100	K03538	ribonuclease P protein subunit POP4 [EC:3.1.26.5]	rpn1
+Nitrososphaera_gargensis_Ga9-contig1_1801	100	K02961	small subunit ribosomal protein S17	rps17p
+Nitrososphaera_gargensis_Ga9-contig1_1802	100	K02874	large subunit ribosomal protein L14	rpl14p
+Nitrososphaera_gargensis_Ga9-contig1_1803	100	K02895	large subunit ribosomal protein L24	rpl24p
+Nitrososphaera_gargensis_Ga9-contig1_1804	100	K02987	small subunit ribosomal protein S4e	rps4e
+Nitrososphaera_gargensis_Ga9-contig1_1805	100	K02931	large subunit ribosomal protein L5	rpl5p
+Nitrososphaera_gargensis_Ga9-contig1_1806	100	K02954	small subunit ribosomal protein S14	rps14p
+Nitrososphaera_gargensis_Ga9-contig1_1807	99.3	K02994	small subunit ribosomal protein S8	rps8p
+Nitrososphaera_gargensis_Ga9-contig1_1808	99.5	K02933	large subunit ribosomal protein L6	rpl6p
+Nitrososphaera_gargensis_Ga9-contig1_1811	99.0	K07068	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1812	99.7	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	acetoacetyl-CoA thiolase or ketoacyl-CoA thiolase (EC:2.3.1.9)
+Nitrososphaera_gargensis_Ga9-contig1_1813	27.3	K00320	5,10-methylenetetrahydromethanopterin reductase [EC:1.5.98.2]	5,10-methylenetetrahydromethanopterin reductase (EC:1.5.99.11)
+Nitrososphaera_gargensis_Ga9-contig1_1813	27.8	K00320	5,10-methylenetetrahydromethanopterin reductase [EC:1.5.98.2]	5,10-methylenetetrahydromethanopterin reductase
+Nitrososphaera_gargensis_Ga9-contig1_1814	49.6	K00973	glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]	sugar-phosphate nucleotidyl transferase
+Nitrososphaera_gargensis_Ga9-contig1_1818	100	K01935	dethiobiotin synthetase [EC:6.3.3.3]	bioD
+Nitrososphaera_gargensis_Ga9-contig1_1819	100	K00833	adenosylmethionine---8-amino-7-oxononanoate aminotransferase [EC:2.6.1.62]	bioA
+Nitrososphaera_gargensis_Ga9-contig1_1821	100	K01012	biotin synthase [EC:2.8.1.6]	bioB
+Nitrososphaera_gargensis_Ga9-contig1_1822	99.7	K00639	glycine C-acetyltransferase [EC:2.3.1.29]	bioF
+Nitrososphaera_gargensis_Ga9-contig1_1826	100	K01733	threonine synthase [EC:4.2.3.1]	thrC1
+Nitrososphaera_gargensis_Ga9-contig1_1827	99.8	K01657	anthranilate synthase component I [EC:4.1.3.27]	trpE
+Nitrososphaera_gargensis_Ga9-contig1_1828	100	K01687	dihydroxy-acid dehydratase [EC:4.2.1.9]	ilvD
+Nitrososphaera_gargensis_Ga9-contig1_1830	100	K02503	histidine triad (HIT) family protein	putative histidine triad protein
+Nitrososphaera_gargensis_Ga9-contig1_1834	100	K01170	tRNA-intron endonuclease, archaea type [EC:3.1.27.9]	endA1
+Nitrososphaera_gargensis_Ga9-contig1_1835	59.9	K07220	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1835	59.9	K07220	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1835	59.9	K07220	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1835	60.4	K07220	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1835	59.9	K07220	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1837	40.4	K00540		oxygen-independent coproporphyrinogen III oxidase (EC:1.-.-.-)
+Nitrososphaera_gargensis_Ga9-contig1_1840	100	K07581	RNA-binding protein	uncharacterized protein family UPF0201
+Nitrososphaera_gargensis_Ga9-contig1_1841	100	K02984	small subunit ribosomal protein S3Ae	rps3ae
+Nitrososphaera_gargensis_Ga9-contig1_1842	100	K01875	seryl-tRNA synthetase [EC:6.1.1.11]	serS
+Nitrososphaera_gargensis_Ga9-contig1_1844	100	K07463	archaea-specific RecJ-like exonuclease	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1845	100	K02956	small subunit ribosomal protein S15	rps15p
+Nitrososphaera_gargensis_Ga9-contig1_1850	100	K09141	uncharacterized protein	AMMECR1 domain protein
+Nitrososphaera_gargensis_Ga9-contig1_1853	100	K09862	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_1855	49.1	K03417	methylisocitrate lyase [EC:4.1.3.30]	2,3-dimethylmalate lyase (EC:4.1.3.32)
+Nitrososphaera_gargensis_Ga9-contig1_1858	39.8	K01073	acyl-CoA hydrolase [EC:3.1.2.20]	Acyl-CoA hydrolase (EC:3.1.2.20)
+Nitrososphaera_gargensis_Ga9-contig1_1860	100	K11130	H/ACA ribonucleoprotein complex subunit 3	nop10
+Nitrososphaera_gargensis_Ga9-contig1_1861	100	K03237	translation initiation factor 2 subunit 1	eif2a
+Nitrososphaera_gargensis_Ga9-contig1_1863	100	K19221	cob(I)alamin adenosyltransferase [EC:2.5.1.17]	cobO
+Nitrososphaera_gargensis_Ga9-contig1_1864	100	K02224	cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11]	cobB
+Nitrososphaera_gargensis_Ga9-contig1_1865	100	K06042	precorrin-8X/cobalt-precorrin-8 methylmutase [EC:5.4.99.61 5.4.99.60]	cobH
+Nitrososphaera_gargensis_Ga9-contig1_1866	72.0	K06042	precorrin-8X/cobalt-precorrin-8 methylmutase [EC:5.4.99.61 5.4.99.60]	putative cobalamin (vitamin B12) biosynthesis CbiX protein (modular protein)
+Nitrososphaera_gargensis_Ga9-contig1_1866	70.8	K06042	precorrin-8X/cobalt-precorrin-8 methylmutase [EC:5.4.99.61 5.4.99.60]	precorrin isomerase (EC:5.4.99.61)
+Nitrososphaera_gargensis_Ga9-contig1_1870	99.7	K02189	cobalt-precorrin 5A hydrolase [EC:3.7.1.12]	cbiG
+Nitrososphaera_gargensis_Ga9-contig1_1872	80.3	K03719	Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein	putative AsnC family transcriptional regulator
+Nitrososphaera_gargensis_Ga9-contig1_1873	100	K02188	cobalt-precorrin-5B (C1)-methyltransferase [EC:2.1.1.195]	cbiD
+Nitrososphaera_gargensis_Ga9-contig1_1874	65.9	K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	dehydrogenase of unknown specificity, short-chain alcohol dehydrogenase like (EC:1.1.1.100)
+Nitrososphaera_gargensis_Ga9-contig1_1875	100	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	metK
+Nitrososphaera_gargensis_Ga9-contig1_1876	100	K04796	small nuclear ribonucleoprotein	putative snRNP Sm-like protein
+Nitrososphaera_gargensis_Ga9-contig1_1877	99.6	K04482	DNA repair protein RAD51	radA2
+Nitrososphaera_gargensis_Ga9-contig1_1878	99.7	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	dpm
+Nitrososphaera_gargensis_Ga9-contig1_1882	100	K00577	tetrahydromethanopterin S-methyltransferase subunit A [EC:2.1.1.86]	putative tetrahydromethanopterin S-methyltransferase, subunit A
+Nitrososphaera_gargensis_Ga9-contig1_1894	40.3	K13993	HSP20 family protein	heat shock protein Hsp20
+Nitrososphaera_gargensis_Ga9-contig1_1905	41.0	K01759	lactoylglutathione lyase [EC:4.4.1.5]	glyoxalase/bleomycin resistance protein/dioxygenase
+Nitrososphaera_gargensis_Ga9-contig1_1907	31.5	K00104	glycolate oxidase [EC:1.1.3.15]	glcD
+Nitrososphaera_gargensis_Ga9-contig1_1909	100	K09735	uncharacterized protein	protein of unknown function DUF359
+Nitrososphaera_gargensis_Ga9-contig1_1910	100	K03593	ATP-binding protein involved in chromosome partitioning	Mrp family signature-containing protein and domain of unknown function DUF59
+Nitrososphaera_gargensis_Ga9-contig1_1911	100	K03124	transcription initiation factor TFIIB	tfb7
+Nitrososphaera_gargensis_Ga9-contig1_1913	100	K03049	DNA-directed RNA polymerase subunit E' [EC:2.7.7.6]	rpoE`
+Nitrososphaera_gargensis_Ga9-contig1_1914	98.4	K03050	DNA-directed RNA polymerase subunit E" [EC:2.7.7.6]	rpoE``
+Nitrososphaera_gargensis_Ga9-contig1_1915	99.7	K00767	nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	nadC
+Nitrososphaera_gargensis_Ga9-contig1_1916	100	K03517	quinolinate synthase [EC:2.5.1.72]	nadA
+Nitrososphaera_gargensis_Ga9-contig1_1917	100	K02983	small subunit ribosomal protein S30e	rps30e
+Nitrososphaera_gargensis_Ga9-contig1_1918	100	K06989	aspartate dehydrogenase [EC:1.4.1.21]	nadX
+Nitrososphaera_gargensis_Ga9-contig1_1922	99.7	K06944	uncharacterized protein	small GTP-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_1926	59.7	K11991	tRNA(adenine34) deaminase [EC:3.5.4.33]	CMP/dCMP deaminase zinc-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_1929	100	K01170	tRNA-intron endonuclease, archaea type [EC:3.1.27.9]	endA2
+Nitrososphaera_gargensis_Ga9-contig1_1930	100	K02866	large subunit ribosomal protein L10e	rpl10e
+Nitrososphaera_gargensis_Ga9-contig1_1936	25.5	K13283	ferrous-iron efflux pump FieF	putative cation efflux system protein
+Nitrososphaera_gargensis_Ga9-contig1_1937	99.8	K00927	phosphoglycerate kinase [EC:2.7.2.3]	pgk
+Nitrososphaera_gargensis_Ga9-contig1_1940	56.0	K18235	virginiamycin B lyase [EC:4.2.99.-]	putative streptogramin lyase
+Nitrososphaera_gargensis_Ga9-contig1_1942	100	K04794	peptidyl-tRNA hydrolase, PTH2 family [EC:3.1.1.29]	pth
+Nitrososphaera_gargensis_Ga9-contig1_1943	29.7	K17830	digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]	geranylgeranyl hydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_1944	100	K03232	elongation factor 1-beta	ef1b
+Nitrososphaera_gargensis_Ga9-contig1_1945	99.9	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily (EC:3.6.4.6)
+Nitrososphaera_gargensis_Ga9-contig1_1948	100	K02301	protoheme IX farnesyltransferase [EC:2.5.1.-]	ctaB2
+Nitrososphaera_gargensis_Ga9-contig1_1955	100	K01876	aspartyl-tRNA synthetase [EC:6.1.1.12]	aspS2
+Nitrososphaera_gargensis_Ga9-contig1_1958	99.7	K02031	peptide/nickel transport system ATP-binding protein	oppD
+Nitrososphaera_gargensis_Ga9-contig1_1959	100	K08714	voltage-gated sodium channel	putative ion transport protein
+Nitrososphaera_gargensis_Ga9-contig1_1965	100	K04479	DNA polymerase IV (archaeal DinB-like DNA polymerase) [EC:2.7.7.7]	dbh2
+Nitrososphaera_gargensis_Ga9-contig1_1967	100	K03622	archaea-specific DNA-binding protein	albA2
+Nitrososphaera_gargensis_Ga9-contig1_1971	99.7	K01883	cysteinyl-tRNA synthetase [EC:6.1.1.16]	cysS1
+Nitrososphaera_gargensis_Ga9-contig1_1974	100	K01858	myo-inositol-1-phosphate synthase [EC:5.5.1.4]	ino1
+Nitrososphaera_gargensis_Ga9-contig1_1975	99.9	K03529	chromosome segregation protein	chromosome segregation protein SMC
+Nitrososphaera_gargensis_Ga9-contig1_1976	100	K16264	cobalt-zinc-cadmium efflux system protein	cation diffusion facilitator family transporter
+Nitrososphaera_gargensis_Ga9-contig1_1981	31.2	K07495	putative transposase	transposase IS4
+Nitrososphaera_gargensis_Ga9-contig1_1992	99.8	K01881	prolyl-tRNA synthetase [EC:6.1.1.15]	proS
+Nitrososphaera_gargensis_Ga9-contig1_1998	100	K14656	FAD synthetase	putative cytidylyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_1999	100	K07732	riboflavin kinase, archaea type [EC:2.7.1.161]	rfk
+Nitrososphaera_gargensis_Ga9-contig1_2000	39.2	K02316	DNA primase [EC:2.7.7.-]	DNA primase
+Nitrososphaera_gargensis_Ga9-contig1_2002	42.8	K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	conserved hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2003	99.9	K18594	3-hydroxypropionyl-CoA synthetase (ADP-forming) [EC:6.2.1.-]	CoA-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_2006	27.8	K10843	DNA excision repair protein ERCC-3 [EC:3.6.4.12]	DNA/RNA helicase, superfamily II (EC:3.6.4.12)
+Nitrososphaera_gargensis_Ga9-contig1_2006	30.0	K10843	DNA excision repair protein ERCC-3 [EC:3.6.4.12]	helicase
+Nitrososphaera_gargensis_Ga9-contig1_2018	100	K07991	archaeal preflagellin peptidase FlaK [EC:3.4.23.52]	flaK3
+Nitrososphaera_gargensis_Ga9-contig1_2031	99.8	K10843	DNA excision repair protein ERCC-3 [EC:3.6.4.12]	res
+Nitrososphaera_gargensis_Ga9-contig1_2032	99.9	K10896	fanconi anemia group M protein	putative ATP-dependent RNA helicase
+Nitrososphaera_gargensis_Ga9-contig1_2041	100	K00520	mercuric reductase [EC:1.16.1.1]	merA1
+Nitrososphaera_gargensis_Ga9-contig1_2060	38.7	K06206	sugar fermentation stimulation protein A	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2067	100	K07333	archaeal flagellar protein FlaJ	putative membrane bound type IV pili protein
+Nitrososphaera_gargensis_Ga9-contig1_2068	100	K07332	archaeal flagellar protein FlaI	putative type IV pilus assembly ATPase of Type II secretion system protein family
+Nitrososphaera_gargensis_Ga9-contig1_2069	31.2	K07495	putative transposase	transposase IS4
+Nitrososphaera_gargensis_Ga9-contig1_2073	82.3	K03497	chromosome partitioning protein, ParB family	ParB-like nuclease domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_2085	100	K10725	archaeal cell division control protein 6	cdc6
+Nitrososphaera_gargensis_Ga9-contig1_2088	40.4	K00540		nitroreductase family protein (EC:1.-.-.-)
+Nitrososphaera_gargensis_Ga9-contig1_2100	37.8	K06149	universal stress protein A	universal stress protein UspA
+Nitrososphaera_gargensis_Ga9-contig1_2100	37.8	K06149	universal stress protein A	universal stress protein
+Nitrososphaera_gargensis_Ga9-contig1_2100	37.8	K06149	universal stress protein A	universal stress protein
+Nitrososphaera_gargensis_Ga9-contig1_2100	37.8	K06149	universal stress protein A	universal stress protein
+Nitrososphaera_gargensis_Ga9-contig1_2100	37.8	K06149	universal stress protein A	universal stress protein
+Nitrososphaera_gargensis_Ga9-contig1_2100	37.8	K06149	universal stress protein A	universal stress protein
+Nitrososphaera_gargensis_Ga9-contig1_2100	37.8	K06149	universal stress protein A	universal stress protein
+Nitrososphaera_gargensis_Ga9-contig1_2100	37.8	K06149	universal stress protein A	universal stress protein
+Nitrososphaera_gargensis_Ga9-contig1_2101	25.1	K07182	CBS domain-containing protein	CBS domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_2102	100	K13953	alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1]	adh3
+Nitrososphaera_gargensis_Ga9-contig1_2107	100	K03821	polyhydroxyalkanoate synthase [EC:2.3.1.-]	phbC1
+Nitrososphaera_gargensis_Ga9-contig1_2113	34.0	K06149	universal stress protein A	universal stress protein UspA
+Nitrososphaera_gargensis_Ga9-contig1_2115	36.8	K10610	DNA damage-binding protein 1	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2116	47.5	K03294	basic amino acid/polyamine antiporter, APA family	amino acid permease
+Nitrososphaera_gargensis_Ga9-contig1_2117	30.9	K03498	trk system potassium uptake protein	Trk-type K+ transport system, membrane component
+Nitrososphaera_gargensis_Ga9-contig1_2120	100	K01822	steroid delta-isomerase [EC:5.3.3.1]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2125	100	K13993	HSP20 family protein	hsp22
+Nitrososphaera_gargensis_Ga9-contig1_2132	99.6	K00858	NAD+ kinase [EC:2.7.1.23]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2133	33.3	K06149	universal stress protein A	universal stress protein UspA
+Nitrososphaera_gargensis_Ga9-contig1_2135	100	K04751	nitrogen regulatory protein P-II 1	putative nitrogen regulatory protein P-II
+Nitrososphaera_gargensis_Ga9-contig1_2136	100	K06869	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2137	40.2	K09497	T-complex protein 1 subunit epsilon	TCP-1 (CTT or eukaryotic type II) chaperonin family, epsilon subunit
+Nitrososphaera_gargensis_Ga9-contig1_2137	38.6	K09495	T-complex protein 1 subunit gamma	TPHA0A04660
+Nitrososphaera_gargensis_Ga9-contig1_2137	37.8	K09495	T-complex protein 1 subunit gamma	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2146	100	K03821	polyhydroxyalkanoate synthase [EC:2.3.1.-]	phaC1
+Nitrososphaera_gargensis_Ga9-contig1_2149	25.3	K01473	N-methylhydantoinase A [EC:3.5.2.14]	N-methylhydantoinase
+Nitrososphaera_gargensis_Ga9-contig1_2150	100	K07566	L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]	putative Sua5/YciO/YrdC/YwlC family protein
+Nitrososphaera_gargensis_Ga9-contig1_2151	99.4	K06963	tRNA acetyltransferase TAN1	putative THUMP domain protein
+Nitrososphaera_gargensis_Ga9-contig1_2152	100	K07006	uncharacterized protein	putative pyridoxamine 5'-phosphate oxidase-like, FMN-binding domain protein
+Nitrososphaera_gargensis_Ga9-contig1_2155	99.6	K03424	TatD DNase family protein [EC:3.1.21.-]	putative TatD-like deoxyribonuclease
+Nitrososphaera_gargensis_Ga9-contig1_2169	81.7	K03551	holliday junction DNA helicase RuvB [EC:3.6.4.12]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2170	99.7	K04799	flap endonuclease-1 [EC:3.-.-.-]	fen
+Nitrososphaera_gargensis_Ga9-contig1_2171	99.6	K09866	aquaporin-4	major intrinsic protein
+Nitrososphaera_gargensis_Ga9-contig1_2172	28.9	K03594	bacterioferritin [EC:1.16.3.1]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2172	29.3	K03594	bacterioferritin [EC:1.16.3.1]	dps5
+Nitrososphaera_gargensis_Ga9-contig1_2174	100	K01892	histidyl-tRNA synthetase [EC:6.1.1.21]	hisS
+Nitrososphaera_gargensis_Ga9-contig1_2177	99.8	K00239	succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]	sdhA
+Nitrososphaera_gargensis_Ga9-contig1_2178	100	K00241	succinate dehydrogenase / fumarate reductase, cytochrome b subunit	sdhC
+Nitrososphaera_gargensis_Ga9-contig1_2179	100	K00242	succinate dehydrogenase / fumarate reductase, membrane anchor subunit	sdhD
+Nitrososphaera_gargensis_Ga9-contig1_2180	100	K00240	succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]	sdhB
+Nitrososphaera_gargensis_Ga9-contig1_2182	99.7	K00015	glyoxylate reductase [EC:1.1.1.26]	gyaR
+Nitrososphaera_gargensis_Ga9-contig1_2185	100	K18855	UDP-N-acetylglucosamine 3-dehydrogenase [EC:1.1.1.374]	putative oxidoreductase domain protein
+Nitrososphaera_gargensis_Ga9-contig1_2186	100	K00826	branched-chain amino acid aminotransferase [EC:2.6.1.42]	ilvE1
+Nitrososphaera_gargensis_Ga9-contig1_2191	100	K03622	archaea-specific DNA-binding protein	albA
+Nitrososphaera_gargensis_Ga9-contig1_2195	100	K01011	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	putative thiosulfate sulfurtransferase
+Nitrososphaera_gargensis_Ga9-contig1_2197	45.7	K11924	DtxR family transcriptional regulator, manganese transport regulator	manganese transport regulator MntR
+Nitrososphaera_gargensis_Ga9-contig1_2197	45.7	K11924	DtxR family transcriptional regulator, manganese transport regulator	mntR
+Nitrososphaera_gargensis_Ga9-contig1_2197	45.7	K11924	DtxR family transcriptional regulator, manganese transport regulator	mntR
+Nitrososphaera_gargensis_Ga9-contig1_2197	45.7	K11924	DtxR family transcriptional regulator, manganese transport regulator	manganese transport regulator MntR
+Nitrososphaera_gargensis_Ga9-contig1_2198	99.8	K06865	ATPase	putative PilT protein domain protein
+Nitrososphaera_gargensis_Ga9-contig1_2200	100	K04751	nitrogen regulatory protein P-II 1	putative nitrogen regulatory protein P-II
+Nitrososphaera_gargensis_Ga9-contig1_2203	100	K01265	methionyl aminopeptidase [EC:3.4.11.18]	map
+Nitrososphaera_gargensis_Ga9-contig1_2211	100	K03183	demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	ubiE2
+Nitrososphaera_gargensis_Ga9-contig1_2215	36.3	K00974	tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72 3.1.3.- 3.1.4.-]	polynucleotide adenylyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_2220	100	K00528	ferredoxin--NADP+ reductase [EC:1.18.1.2]	putative oxidoreductase FAD/NAD(P)-binding subunit
+Nitrososphaera_gargensis_Ga9-contig1_2233	37.4	K13589	two-component system, cell cycle response regulator CpdR	response regulator
+Nitrososphaera_gargensis_Ga9-contig1_2238	41.9	K05921	5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase / 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase [EC:4.1.1.68 5.3.3.-]	fumarylacetoacetate (FAA) hydrolase
+Nitrososphaera_gargensis_Ga9-contig1_2238	40.9	K05921	5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase / 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase [EC:4.1.1.68 5.3.3.-]	4-hydroxyphenylacetate degradation bifunctional isomerase/decarboxylase subunit HpaG2 (EC:5.3.3.10)
+Nitrososphaera_gargensis_Ga9-contig1_2238	40.9	K05921	5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase / 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase [EC:4.1.1.68 5.3.3.-]	4-hydroxyphenylacetate degradation bifunctional isomerase/decarboxylase subunit HpaG2
+Nitrososphaera_gargensis_Ga9-contig1_2239	99.8	K01885	glutamyl-tRNA synthetase [EC:6.1.1.17]	gltX
+Nitrososphaera_gargensis_Ga9-contig1_2240	100	K13787	geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29]	gds2
+Nitrososphaera_gargensis_Ga9-contig1_2241	99.7	K01823	isopentenyl-diphosphate delta-isomerase [EC:5.3.3.2]	fni
+Nitrososphaera_gargensis_Ga9-contig1_2242	99.6	K06981	isopentenyl phosphate kinase [EC:2.7.4.26]	putative aspartate/glutamate/uridylate kinase
+Nitrososphaera_gargensis_Ga9-contig1_2246	100	K01858	myo-inositol-1-phosphate synthase [EC:5.5.1.4]	putative myo-inositol-1-phosphate synthase
+Nitrososphaera_gargensis_Ga9-contig1_2247	100	K03146	thiamine thiazole synthase	putative thiazole biosynthetic enzyme
+Nitrososphaera_gargensis_Ga9-contig1_2250	100	K03594	bacterioferritin [EC:1.16.3.1]	putative ferritin Dps family protein
+Nitrososphaera_gargensis_Ga9-contig1_2253	100	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9]	trxB
+Nitrososphaera_gargensis_Ga9-contig1_2257	100	K12339	cysteine synthase B [EC:2.5.1.47]	cysM2
+Nitrososphaera_gargensis_Ga9-contig1_2258	41.4	K04085	tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]	SirA-like domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_2263	99.6	K12234	coenzyme F420-0:L-glutamate ligase / coenzyme F420-1:gamma-L-glutamate ligase [EC:6.3.2.31 6.3.2.34]	cofE1
+Nitrososphaera_gargensis_Ga9-contig1_2267	99.6	K01079	phosphoserine phosphatase [EC:3.1.3.3]	serB
+Nitrososphaera_gargensis_Ga9-contig1_2269	100	K03405	magnesium chelatase subunit I [EC:6.6.1.1]	putative Mg-chelatase subunit
+Nitrososphaera_gargensis_Ga9-contig1_2271	100	K02952	small subunit ribosomal protein S13	rps13p
+Nitrososphaera_gargensis_Ga9-contig1_2272	100	K02986	small subunit ribosomal protein S4	rps4p
+Nitrososphaera_gargensis_Ga9-contig1_2274	100	K00820	glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	glmS1
+Nitrososphaera_gargensis_Ga9-contig1_2278	99.7	K07027	uncharacterized protein	uncharacterized protein family UPF0104
+Nitrososphaera_gargensis_Ga9-contig1_2279	100	K06883	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2280	99.7	K00872	homoserine kinase [EC:2.7.1.39]	thrB
+Nitrososphaera_gargensis_Ga9-contig1_2281	100	K15019	3-hydroxypropionyl-coenzyme A dehydratase [EC:4.2.1.116]	3-hydroxybutyryl-CoA dehydratase (EC:4.2.1.55)
+Nitrososphaera_gargensis_Ga9-contig1_2282	99.6	K01480	agmatinase [EC:3.5.3.11]	putative agmatinase
+Nitrososphaera_gargensis_Ga9-contig1_2283	34.9	K07667	two-component system, OmpR family, KDP operon response regulator KdpE	Response regulators consisting of a CheY-like receiver domain and a winged-helix DNA-binding domain
+Nitrososphaera_gargensis_Ga9-contig1_2291	32.7	K03609	septum site-determining protein MinD	cell division inhibitor minD
+Nitrososphaera_gargensis_Ga9-contig1_2297	45.9	K17686	Cu+-exporting ATPase [EC:3.6.3.54]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2298	100	K17686	Cu+-exporting ATPase [EC:3.6.3.54]	copA
+Nitrososphaera_gargensis_Ga9-contig1_2302	85.9	K00520	mercuric reductase [EC:1.16.1.1]	merA2
+Nitrososphaera_gargensis_Ga9-contig1_2302	87.3	K00520	mercuric reductase [EC:1.16.1.1]	merA
+Nitrososphaera_gargensis_Ga9-contig1_2303	100	K00520	mercuric reductase [EC:1.16.1.1]	putative mercuric reductase, MerA
+Nitrososphaera_gargensis_Ga9-contig1_2304	100	K00520	mercuric reductase [EC:1.16.1.1]	putative mercuric reductase, MerA
+Nitrososphaera_gargensis_Ga9-contig1_2308	100	K07159	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2311	99.8	K10747	DNA ligase 1 [EC:6.5.1.1 6.5.1.6 6.5.1.7]	lig
+Nitrososphaera_gargensis_Ga9-contig1_2312	100	K02975	small subunit ribosomal protein S25e	rps25e
+Nitrososphaera_gargensis_Ga9-contig1_2313	100	K09143	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2315	99.4	K03014	DNA-directed RNA polymerases I, II, and III subunit RPABC2	rpoK
+Nitrososphaera_gargensis_Ga9-contig1_2318	100	K07108	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2319	100	K00008	L-iditol 2-dehydrogenase [EC:1.1.1.14]	putative alcohol dehydrogenase zinc-binding domain protein
+Nitrososphaera_gargensis_Ga9-contig1_2321	25.7	K06113	arabinan endo-1,5-alpha-L-arabinosidase [EC:3.2.1.99]	glycoside hydrolase family 43
+Nitrososphaera_gargensis_Ga9-contig1_2321	26.5	K06113	arabinan endo-1,5-alpha-L-arabinosidase [EC:3.2.1.99]	glycoside hydrolase
+Nitrososphaera_gargensis_Ga9-contig1_2321	26.5	K06113	arabinan endo-1,5-alpha-L-arabinosidase [EC:3.2.1.99]	yxiA1
+Nitrososphaera_gargensis_Ga9-contig1_2321	26.5	K06113	arabinan endo-1,5-alpha-L-arabinosidase [EC:3.2.1.99]	xynB
+Nitrososphaera_gargensis_Ga9-contig1_2321	26.5	K06113	arabinan endo-1,5-alpha-L-arabinosidase [EC:3.2.1.99]	glycoside hydrolase
+Nitrososphaera_gargensis_Ga9-contig1_2323	100	K08321	putative autoinducer-2 (AI-2) aldolase [EC:4.1.2.-]	lsrF
+Nitrososphaera_gargensis_Ga9-contig1_2327	100	K01652	acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	ilvB
+Nitrososphaera_gargensis_Ga9-contig1_2328	99.4	K01653	acetolactate synthase I/III small subunit [EC:2.2.1.6]	ilvH
+Nitrososphaera_gargensis_Ga9-contig1_2329	99.8	K01649	2-isopropylmalate synthase [EC:2.3.3.13]	leuA
+Nitrososphaera_gargensis_Ga9-contig1_2330	99.7	K00052	3-isopropylmalate dehydrogenase [EC:1.1.1.85]	leuB
+Nitrososphaera_gargensis_Ga9-contig1_2332	50.0	K09807	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2334	99.8	K01956	carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	carA
+Nitrososphaera_gargensis_Ga9-contig1_2335	100	K01955	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	carB
+Nitrososphaera_gargensis_Ga9-contig1_2338	64.6	K14981	two-component system, OmpR family, response regulator ChvI	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_2342	100	K06953	uncharacterized protein	putative phosphoesterase
+Nitrososphaera_gargensis_Ga9-contig1_2344	100	K06884	uncharacterized protein	gsiB
+Nitrososphaera_gargensis_Ga9-contig1_2345	99.8	K01945	phosphoribosylamine--glycine ligase [EC:6.3.4.13]	purD
+Nitrososphaera_gargensis_Ga9-contig1_2346	100	K01934	5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]	putative 5-formyltetrahydrofolate cyclo-ligase
+Nitrososphaera_gargensis_Ga9-contig1_2347	99.7	K01491	methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]	folD
+Nitrososphaera_gargensis_Ga9-contig1_2349	29.6	K07029	diacylglycerol kinase (ATP) [EC:2.7.1.107]	lipid kinase
+Nitrososphaera_gargensis_Ga9-contig1_2349	28.6	K07029	diacylglycerol kinase (ATP) [EC:2.7.1.107]	lipid kinase
+Nitrososphaera_gargensis_Ga9-contig1_2349	28.6	K07029	diacylglycerol kinase (ATP) [EC:2.7.1.107]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2351	100	K02922	large subunit ribosomal protein L37e	rpl37ae
+Nitrososphaera_gargensis_Ga9-contig1_2352	100	K04796	small nuclear ribonucleoprotein	putative small nuclear ribonucleoprotein
+Nitrososphaera_gargensis_Ga9-contig1_2352	100	K04796	small nuclear ribonucleoprotein	putative small nuclear ribonucleoprotein
+Nitrososphaera_gargensis_Ga9-contig1_2352	100	K04796	small nuclear ribonucleoprotein	Small nuclear ribonucleoprotein, LSM family
+Nitrososphaera_gargensis_Ga9-contig1_2353	100	K01470	creatinine amidohydrolase [EC:3.5.2.10]	creatinine amidohydrolase (EC:3.5.2.10)
+Nitrososphaera_gargensis_Ga9-contig1_2354	100	K01433	formyltetrahydrofolate deformylase [EC:3.5.1.10]	purU
+Nitrososphaera_gargensis_Ga9-contig1_2369	99.6	K07159	uncharacterized protein	putative 3-isopropylmalate dehydratase
+Nitrososphaera_gargensis_Ga9-contig1_2370	100	K07466	replication factor A1	putative nucleic acid binding OB-fold tRNA/helicase-type
+Nitrososphaera_gargensis_Ga9-contig1_2375	100	K09005	uncharacterized protein	putative protein of unknown function DUF192
+Nitrososphaera_gargensis_Ga9-contig1_2377	99.8	K01895	acetyl-CoA synthetase [EC:6.2.1.1]	acsA1
+Nitrososphaera_gargensis_Ga9-contig1_2392	100	K01698	porphobilinogen synthase [EC:4.2.1.24]	hemB1
+Nitrososphaera_gargensis_Ga9-contig1_2393	100	K02492	glutamyl-tRNA reductase [EC:1.2.1.70]	hemA
+Nitrososphaera_gargensis_Ga9-contig1_2394	99.6	K02304	precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:1.3.1.76 4.99.1.4]	putative siroheme synthase
+Nitrososphaera_gargensis_Ga9-contig1_2395	100	K02601	transcriptional antiterminator NusG	nusG
+Nitrososphaera_gargensis_Ga9-contig1_2397	100	K09716	D-aminoacyl-tRNA deacylase [EC:3.1.1.96]	putative D-tyrosyl-tRNA(Tyr) deacylase (EC:3.1.-.-)
+Nitrososphaera_gargensis_Ga9-contig1_2398	99.1	K00567	methylated-DNA-[protein]-cysteine S-methyltransferase [EC:2.1.1.63]	putative methylated-DNA--protein-cysteine methyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_2399	100	K02885	large subunit ribosomal protein L19e	rpl19e
+Nitrososphaera_gargensis_Ga9-contig1_2400	100	K02912	large subunit ribosomal protein L32e	rpl32e
+Nitrososphaera_gargensis_Ga9-contig1_2409	99.7	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	putative UDP-glucose 4-epimerase
+Nitrososphaera_gargensis_Ga9-contig1_2411	100	K01955	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	putative carbamoylphosphate synthase large subunit
+Nitrososphaera_gargensis_Ga9-contig1_2412	36.2	K01090	protein phosphatase [EC:3.1.3.16]	metallophosphoesterase
+Nitrososphaera_gargensis_Ga9-contig1_2413	99.6	K03124	transcription initiation factor TFIIB	tfb8
+Nitrososphaera_gargensis_Ga9-contig1_2416	100	K00784	ribonuclease Z [EC:3.1.26.11]	rnz
+Nitrososphaera_gargensis_Ga9-contig1_2417	99.7	K00948	ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	prs
+Nitrososphaera_gargensis_Ga9-contig1_2419	100	K09763	uncharacterized protein	putative protein of unknown function DUF309
+Nitrososphaera_gargensis_Ga9-contig1_2420	29.7	K00368	nitrite reductase (NO-forming) [EC:1.7.2.1]	nitrite reductase (NO-forming) (EC:1.7.2.1)
+Nitrososphaera_gargensis_Ga9-contig1_2426	100	K00368	nitrite reductase (NO-forming) [EC:1.7.2.1]	nirK1
+Nitrososphaera_gargensis_Ga9-contig1_2430	28.6	K03833	selenocysteine-specific elongation factor	GTPase - translation elongation factor
+Nitrososphaera_gargensis_Ga9-contig1_2431	99.5	K09120	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2432	27.8	K07071	uncharacterized protein	cell division inhibitor SULA
+Nitrososphaera_gargensis_Ga9-contig1_2433	99.7	K00096	glycerol-1-phosphate dehydrogenase [NAD(P)+] [EC:1.1.1.261]	egsA
+Nitrososphaera_gargensis_Ga9-contig1_2435	100	K07041	uncharacterized protein	beta-lactamase domain protein
+Nitrososphaera_gargensis_Ga9-contig1_2436	90.0	K09152	uncharacterized protein	putative protein of unknown function DUF552
+Nitrososphaera_gargensis_Ga9-contig1_2436	90.0	K09152	uncharacterized protein	Protein of unknown function (DUF552)
+Nitrososphaera_gargensis_Ga9-contig1_2437	44.5	K00566	tRNA-specific 2-thiouridylase [EC:2.8.1.-]	queuosine synthesis
+Nitrososphaera_gargensis_Ga9-contig1_2437	43.2	K00566	tRNA-specific 2-thiouridylase [EC:2.8.1.-]	thiamine biosynthesis protein:ExsB
+Nitrososphaera_gargensis_Ga9-contig1_2440	100	K01890	phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	pheT
+Nitrososphaera_gargensis_Ga9-contig1_2441	100	K01889	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	pheS
+Nitrososphaera_gargensis_Ga9-contig1_2442	100	K01867	tryptophanyl-tRNA synthetase [EC:6.1.1.2]	trpS
+Nitrososphaera_gargensis_Ga9-contig1_2445	99.4	K02201	pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]	coaD
+Nitrososphaera_gargensis_Ga9-contig1_2453	100	K01011	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	thiosulfate sulfurtransferase (EC:2.8.1.1)
+Nitrososphaera_gargensis_Ga9-contig1_2459	28.4	K00363	nitrite reductase (NADH) small subunit [EC:1.7.1.15]	Rieske family iron-sulfur cluster-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_2463	100	K00858	NAD+ kinase [EC:2.7.1.23]	putative inorganic polyphosphate/ATP-NAD kinase
+Nitrososphaera_gargensis_Ga9-contig1_2464	99.4	K07060	endoribonuclease Nob1 [EC:3.1.-.-]	putative nucleotide binding protein
+Nitrososphaera_gargensis_Ga9-contig1_2465	99.6	K10848	DNA excision repair protein ERCC-4 [EC:3.1.-.-]	ERCC4-type nuclease
+Nitrososphaera_gargensis_Ga9-contig1_2466	100	K04798	prefoldin beta subunit	pfdB
+Nitrososphaera_gargensis_Ga9-contig1_2468	98.8	K09741	KEOPS complex subunit Pcc1	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2469	100	K02921	large subunit ribosomal protein L37Ae	rpl37e
+Nitrososphaera_gargensis_Ga9-contig1_2470	100	K12589	exosome complex component RRP42	ecx1
+Nitrososphaera_gargensis_Ga9-contig1_2471	100	K11600	exosome complex component RRP41	ecx2
+Nitrososphaera_gargensis_Ga9-contig1_2472	99.6	K03679	exosome complex component RRP4	ecr
+Nitrososphaera_gargensis_Ga9-contig1_2473	100	K14574	ribosome maturation protein SDO1	putative ribosome maturation protein SDO1
+Nitrososphaera_gargensis_Ga9-contig1_2474	88.1	K03047	DNA-directed RNA polymerase subunit D [EC:2.7.7.6]	DNA-directed RNA polymerase, alpha subunit/40 kD subunit (EC:2.7.7.6)
+Nitrososphaera_gargensis_Ga9-contig1_2475	100	K02883	large subunit ribosomal protein L18e	rpl18e2
+Nitrososphaera_gargensis_Ga9-contig1_2476	99.3	K02871	large subunit ribosomal protein L13	rpl13p
+Nitrososphaera_gargensis_Ga9-contig1_2477	100	K02996	small subunit ribosomal protein S9	rps9p
+Nitrososphaera_gargensis_Ga9-contig1_2484	40.9	K03442	small conductance mechanosensitive channel	MscS mechanosensitive ion channel
+Nitrososphaera_gargensis_Ga9-contig1_2485	100	K09149	uncharacterized protein	putative protein of unknown function DUF432
+Nitrososphaera_gargensis_Ga9-contig1_2490	28.3	K00368	nitrite reductase (NO-forming) [EC:1.7.2.1]	nitrite reductase (EC:1.7.2.1)
+Nitrososphaera_gargensis_Ga9-contig1_2490	30.4	K00368	nitrite reductase (NO-forming) [EC:1.7.2.1]	nitrite reductase
+Nitrososphaera_gargensis_Ga9-contig1_2492	100	K01754	threonine dehydratase [EC:4.3.1.19]	ilvA
+Nitrososphaera_gargensis_Ga9-contig1_2494	100	K01641	hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10]	hcs
+Nitrososphaera_gargensis_Ga9-contig1_2499	100	K04564	superoxide dismutase, Fe-Mn family [EC:1.15.1.1]	sodA
+Nitrososphaera_gargensis_Ga9-contig1_2500	99.6	K06940	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2507	100	K01610	phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]	pckA
+Nitrososphaera_gargensis_Ga9-contig1_2512	29.9	K03455	monovalent cation:H+ antiporter-2, CPA2 family	transporter CPA2 family
+Nitrososphaera_gargensis_Ga9-contig1_2512	29.7	K03455	monovalent cation:H+ antiporter-2, CPA2 family	sodium/hydrogen exchanger
+Nitrososphaera_gargensis_Ga9-contig1_2512	29.9	K03455	monovalent cation:H+ antiporter-2, CPA2 family	sodium/hydrogen exchanger family protein
+Nitrososphaera_gargensis_Ga9-contig1_2514	38.2	K05710	3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin subunit	putative ferredoxin
+Nitrososphaera_gargensis_Ga9-contig1_2515	100	K09003	uncharacterized protein	protein of unknown function DUF763
+Nitrososphaera_gargensis_Ga9-contig1_2517	39.5	K01077	alkaline phosphatase [EC:3.1.3.1]	dedA
+Nitrososphaera_gargensis_Ga9-contig1_2518	99.7	K00611	ornithine carbamoyltransferase [EC:2.1.3.3]	argF
+Nitrososphaera_gargensis_Ga9-contig1_2519	100	K03110	fused signal recognition particle receptor	ftsY
+Nitrososphaera_gargensis_Ga9-contig1_2520	99.3	K04797	prefoldin alpha subunit	putative prefoldin subunit alpha
+Nitrososphaera_gargensis_Ga9-contig1_2525	100	K01869	leucyl-tRNA synthetase [EC:6.1.1.4]	leuS
+Nitrososphaera_gargensis_Ga9-contig1_2526	99.9	K01872	alanyl-tRNA synthetase [EC:6.1.1.7]	alaS
+Nitrososphaera_gargensis_Ga9-contig1_2527	100	K03671	thioredoxin 1	trxA2
+Nitrososphaera_gargensis_Ga9-contig1_2529	70.5	K07342	protein transport protein SEC61 subunit gamma and related proteins	secE
+Nitrososphaera_gargensis_Ga9-contig1_2530	92.4	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	putative transcriptional regulator, AsnC family
+Nitrososphaera_gargensis_Ga9-contig1_2532	69.8	K07451	5-methylcytosine-specific restriction enzyme A [EC:3.1.21.-]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2535	100	K09807	uncharacterized protein	putative outer membrane protein
+Nitrososphaera_gargensis_Ga9-contig1_2537	100	K06940	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2539	100	K06197	cation transport regulator	putative ChaB family protein
+Nitrososphaera_gargensis_Ga9-contig1_2540	99.4	K01704	3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	leuD2
+Nitrososphaera_gargensis_Ga9-contig1_2541	100	K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	leuC2
+Nitrososphaera_gargensis_Ga9-contig1_2542	39.4	K12234	coenzyme F420-0:L-glutamate ligase / coenzyme F420-1:gamma-L-glutamate ligase [EC:6.3.2.31 6.3.2.34]	coenzyme f420-0 gamma-glutamyl ligase (EC:6.3.2.-)
+Nitrososphaera_gargensis_Ga9-contig1_2551	100	K17105	geranylgeranylglycerol-phosphate geranylgeranyltransferase [EC:2.5.1.42]	putative digeranylgeranylglyceryl phosphate synthase (EC:2.5.1.42)
+Nitrososphaera_gargensis_Ga9-contig1_2556	100	K03306	inorganic phosphate transporter, PiT family	putative phosphate transporter family protein
+Nitrososphaera_gargensis_Ga9-contig1_2557	100	K07220	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2564	29.8	K00590	site-specific DNA-methyltransferase (cytosine-N4-specific) [EC:2.1.1.113]	DNA methylase
+Nitrososphaera_gargensis_Ga9-contig1_2565	99.6	K04719	5,6-dimethylbenzimidazole synthase [EC:1.13.11.79]	putative cob(II)yrinic acid a,c-diamide reductase
+Nitrososphaera_gargensis_Ga9-contig1_2569	99.3	K07006	uncharacterized protein	putative pyridoxamine 5'-phosphate oxidase FMN-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_2574	30.6	K00936		PAS/PAC sensor hybrid histidine kinase (EC:2.7.3.-)
+Nitrososphaera_gargensis_Ga9-contig1_2580	100	K08982	putative membrane protein	putative protein of unknown function DUF2078
+Nitrososphaera_gargensis_Ga9-contig1_2585	100	K00053	ketol-acid reductoisomerase [EC:1.1.1.86]	ilvC
+Nitrososphaera_gargensis_Ga9-contig1_2588	32.0	K13924	two-component system, chemotaxis family, CheB/CheR fusion protein [EC:2.1.1.80 3.1.1.61]	chemotaxis protein CheB (EC:2.1.1.80 3.1.1.61)
+Nitrososphaera_gargensis_Ga9-contig1_2591	100	K01849	methylmalonyl-CoA mutase, C-terminal domain [EC:5.4.99.2]	methylmalonyl-CoA mutase, small subunit (EC:5.4.99.2)
+Nitrososphaera_gargensis_Ga9-contig1_2593	100	K07588	LAO/AO transport system kinase [EC:2.7.-.-]	ABC transporter, ATP-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_2594	100	K01848	methylmalonyl-CoA mutase, N-terminal domain [EC:5.4.99.2]	mut
+Nitrososphaera_gargensis_Ga9-contig1_2595	100	K03455	monovalent cation:H+ antiporter-2, CPA2 family	putative Na+(Li+)/H+ antiporter
+Nitrososphaera_gargensis_Ga9-contig1_2596	100	K05606	methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1]	putative methylmalonyl-CoA epimerase
+Nitrososphaera_gargensis_Ga9-contig1_2597	99.7	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	putative asparagine synthase (EC:6.3.5.4)
+Nitrososphaera_gargensis_Ga9-contig1_2599	100	K02003	putative ABC transport system ATP-binding protein	ABC efflux transporter, ATP-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_2601	100	K02004	putative ABC transport system permease protein	ABC efflux transporter, FtsX-domain permease protein
+Nitrososphaera_gargensis_Ga9-contig1_2605	100	K10946	methane/ammonia monooxygenase subunit C	amoC1
+Nitrososphaera_gargensis_Ga9-contig1_2609	99.7	K00031	isocitrate dehydrogenase [EC:1.1.1.42]	icd
+Nitrososphaera_gargensis_Ga9-contig1_2610	100	K02493	release factor glutamine methyltransferase [EC:2.1.1.297]	putative N6 adenine-specific DNA methyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_2611	100	K02528	16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]	rsmA
+Nitrososphaera_gargensis_Ga9-contig1_2612	99.5	K07572	putative nucleotide binding protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2613	100	K03051	DNA-directed RNA polymerase subunit F [EC:2.7.7.6]	rpb4
+Nitrososphaera_gargensis_Ga9-contig1_2614	100	K02889	large subunit ribosomal protein L21e	rpl21e
+Nitrososphaera_gargensis_Ga9-contig1_2615	100	K04483	DNA repair protein RadA	radA3
+Nitrososphaera_gargensis_Ga9-contig1_2616	99.5	K10945	methane/ammonia monooxygenase subunit B	amoB
+Nitrososphaera_gargensis_Ga9-contig1_2617	100	K05934	precorrin-3B C17-methyltransferase [EC:2.1.1.131]	cbiHC
+Nitrososphaera_gargensis_Ga9-contig1_2618	100	K00928	aspartate kinase [EC:2.7.2.4]	thrA
+Nitrososphaera_gargensis_Ga9-contig1_2619	99.6	K04802	proliferating cell nuclear antigen	pcn
+Nitrososphaera_gargensis_Ga9-contig1_2620	100	K03057	DNA-directed RNA polymerase subunit M	rpoM
+Nitrososphaera_gargensis_Ga9-contig1_2621	100	K03056	DNA-directed RNA polymerase subunit L [EC:2.7.7.6]	rpoL
+Nitrososphaera_gargensis_Ga9-contig1_2623	99.7	K04069	pyruvate formate lyase activating enzyme [EC:1.97.1.4]	radical SAM domain protein
+Nitrososphaera_gargensis_Ga9-contig1_2627	95.8	K10944	methane/ammonia monooxygenase subunit A [EC:1.14.18.3 1.14.99.39]	amoA
+Nitrososphaera_gargensis_Ga9-contig1_2627	95.4	K10944	methane/ammonia monooxygenase subunit A [EC:1.14.18.3 1.14.99.39]	ammonia monooxygenase subunit A (EC:1.13.12.-)
+Nitrososphaera_gargensis_Ga9-contig1_2634	50.3	K00100		UDP-glucose/GDP-mannose dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_2635	99.7	K08963	methylthioribose-1-phosphate isomerase [EC:5.3.1.23]	mtnA
+Nitrososphaera_gargensis_Ga9-contig1_2637	100	K03439	tRNA (guanine-N7-)-methyltransferase [EC:2.1.1.33]	putative tRNA (guanine-N(7)-)-methyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_2639	100	K01880	glycyl-tRNA synthetase [EC:6.1.1.14]	glyS
+Nitrososphaera_gargensis_Ga9-contig1_2640	41.0	K14260	alanine-synthesizing transaminase [EC:2.6.1.66 2.6.1.2]	tyrosine/nicotianamine aminotransferase
+Nitrososphaera_gargensis_Ga9-contig1_2641	24.1	K08167	MFS transporter, DHA2 family, multidrug resistance protein	transmembrane transport protein
+Nitrososphaera_gargensis_Ga9-contig1_2646	99.7	K03799	heat shock protein HtpX [EC:3.4.24.-]	putative protease htpX
+Nitrososphaera_gargensis_Ga9-contig1_2649	100	K03969	phage shock protein A	putative phage shock protein A
+Nitrososphaera_gargensis_Ga9-contig1_2651	100	K06988	uncharacterized protein	putative NADPH-dependent F420 reductase
+Nitrososphaera_gargensis_Ga9-contig1_2652	99.7	K03284	magnesium transporter	putative CorA ion transporter
+Nitrososphaera_gargensis_Ga9-contig1_2653	99.5	K15634	probable phosphoglycerate mutase [EC:5.4.2.12]	gpmB
+Nitrososphaera_gargensis_Ga9-contig1_2655	100	K02275	cytochrome c oxidase subunit II [EC:1.9.3.1]	coxB
+Nitrososphaera_gargensis_Ga9-contig1_2656	100	K02274	cytochrome c oxidase subunit I [EC:1.9.3.1]	coxA
+Nitrososphaera_gargensis_Ga9-contig1_2658	100	K02259	cytochrome c oxidase assembly protein subunit 15	ctaA2
+Nitrososphaera_gargensis_Ga9-contig1_2660	100	K18602	malonic semialdehyde reductase [EC:1.1.1.-]	iron-containing alcohol dehydrogenase (EC:1.1.1.1)
+Nitrososphaera_gargensis_Ga9-contig1_2666	100	K09165	uncharacterized protein	putative protein of unknown function DUF1458
+Nitrososphaera_gargensis_Ga9-contig1_2669	30.7	K06149	universal stress protein A	Universal stress protein UspA
+Nitrososphaera_gargensis_Ga9-contig1_2670	99.3	K13993	HSP20 family protein	hsp20
+Nitrososphaera_gargensis_Ga9-contig1_2671	98.2	K13993	HSP20 family protein	small heat-shock protein
+Nitrososphaera_gargensis_Ga9-contig1_2677	100	K03821	polyhydroxyalkanoate synthase [EC:2.3.1.-]	phaC2
+Nitrososphaera_gargensis_Ga9-contig1_2679	41.4	K09497	T-complex protein 1 subunit epsilon	TCP-1 (CTT or eukaryotic type II) chaperonin family, epsilon subunit
+Nitrososphaera_gargensis_Ga9-contig1_2679	41.2	K09497	T-complex protein 1 subunit epsilon	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2679	41.6	K09497	T-complex protein 1 subunit epsilon	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2682	39.5	K01250	pyrimidine-specific ribonucleoside hydrolase [EC:3.2.-.-]	purine nucleosidase (EC:3.2.2.1)
+Nitrososphaera_gargensis_Ga9-contig1_2683	100	K00852	ribokinase [EC:2.7.1.15]	putative ribokinase
+Nitrososphaera_gargensis_Ga9-contig1_2690	41.5	K14981	two-component system, OmpR family, response regulator ChvI	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_2702	100	K01719	uroporphyrinogen-III synthase [EC:4.2.1.75]	hemD
+Nitrososphaera_gargensis_Ga9-contig1_2703	100	K02303	uroporphyrin-III C-methyltransferase [EC:2.1.1.107]	cysG
+Nitrososphaera_gargensis_Ga9-contig1_2704	100	K01749	hydroxymethylbilane synthase [EC:2.5.1.61]	hemC
+Nitrososphaera_gargensis_Ga9-contig1_2705	99.8	K01845	glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]	hemL2
+Nitrososphaera_gargensis_Ga9-contig1_2715	37.2	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9]	FAD-dependent pyridine nucleotide-disulfide oxidoreductase
+Nitrososphaera_gargensis_Ga9-contig1_2715	32.3	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9]	Cgl0693
+Nitrososphaera_gargensis_Ga9-contig1_2715	32.3	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9]	FAD-dependent pyridine nucleotide-disulphide oxidoreductase
+Nitrososphaera_gargensis_Ga9-contig1_2715	32.3	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9]	thioredoxin reductase (EC:1.8.1.9)
+Nitrososphaera_gargensis_Ga9-contig1_2715	32.3	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9]	putative oxidoreductase
+Nitrososphaera_gargensis_Ga9-contig1_2717	100	K02873	large subunit ribosomal protein L13e	rpl13e
+Nitrososphaera_gargensis_Ga9-contig1_2718	100	K06176	tRNA pseudouridine13 synthase [EC:5.4.99.27]	truD
+Nitrososphaera_gargensis_Ga9-contig1_2720	100	K07464	CRISPR-associated exonuclease Cas4 [EC:3.1.12.1]	putative CRISPR-associated exonuclease, Cas4 family
+Nitrososphaera_gargensis_Ga9-contig1_2725	99.6	K09903	uridylate kinase [EC:2.7.4.22]	pyrH
+Nitrososphaera_gargensis_Ga9-contig1_2726	100	K06885	uncharacterized protein	putative metal dependent phosphohydrolase
+Nitrososphaera_gargensis_Ga9-contig1_2727	99.5	K00943	dTMP kinase [EC:2.7.4.9]	putative thymidylate kinase
+Nitrososphaera_gargensis_Ga9-contig1_2729	100	K07580	Zn-ribbon RNA-binding protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_2730	40.0	K13993	HSP20 family protein	heat shock protein Hsp20
+Nitrososphaera_gargensis_Ga9-contig1_2737	32.7	K03688	ubiquinone biosynthesis protein	ABC-1 domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_2737	32.5	K03688	ubiquinone biosynthesis protein	2-octaprenylphenol hydroxylase (EC:1.14.13.-)
+Nitrososphaera_gargensis_Ga9-contig1_2739	100	K01515	ADP-ribose pyrophosphatase [EC:3.6.1.13]	putative NUDIX hydrolase
+Nitrososphaera_gargensis_Ga9-contig1_2740	100	K08097	phosphosulfolactate synthase [EC:4.4.1.19]	putative phosphosulfolactate synthase
+Nitrososphaera_gargensis_Ga9-contig1_2741	99.6	K02050	NitT/TauT family transport system permease protein	ABC uptake transporter, permease protein
+Nitrososphaera_gargensis_Ga9-contig1_2742	99.6	K02049	NitT/TauT family transport system ATP-binding protein	ABC uptake transporter, ATP-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_2743	100	K02051	NitT/TauT family transport system substrate-binding protein	ABC uptake transporter, substrate-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_2745	100	K00156	pyruvate dehydrogenase (quinone) [EC:1.2.5.1]	pox
+Nitrososphaera_gargensis_Ga9-contig1_2746	100	K01724	4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]	putative pterin-4-alpha-carbinolamine dehydratase
+Nitrososphaera_gargensis_Ga9-contig1_2752	41.7	K14981	two-component system, OmpR family, response regulator ChvI	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_2753	36.2	K01439	succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]	acetylornithine deacetylase/succinyl-diaminopimelate desuccinylase
+Nitrososphaera_gargensis_Ga9-contig1_2755	100	K18593	4-hydroxybutyryl-CoA synthetase (ADP-forming) [EC:6.2.1.-]	acetate--CoA ligase (EC:6.2.1.13)
+Nitrososphaera_gargensis_Ga9-contig1_2757	99.6	K01992	ABC-2 type transport system permease protein	ABC efflux transporter, permease protein
+Nitrososphaera_gargensis_Ga9-contig1_2758	100	K01990	ABC-2 type transport system ATP-binding protein	ABC efflux transporter, ATP-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_2759	100	K00382	dihydrolipoamide dehydrogenase [EC:1.8.1.4]	putative dihydrolipoamide dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_2760	100	K07466	replication factor A1	RPA-like protein
+Nitrososphaera_gargensis_Ga9-contig1_2763	100	K03724	ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	ATP-dependent helicase
+Nitrososphaera_gargensis_Ga9-contig1_2771	91.4	K02877	large subunit ribosomal protein L15e	rpl15e
+Nitrososphaera_gargensis_Ga9-contig1_2771	90.1	K02877	large subunit ribosomal protein L15e	LSU ribosomal protein L15E
+Nitrososphaera_gargensis_Ga9-contig1_2771	100	K02877	large subunit ribosomal protein L15e	rpl15e
+Nitrososphaera_gargensis_Ga9-contig1_2772	100	K00058	D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	serA
+Nitrososphaera_gargensis_Ga9-contig1_2774	100	K01744	aspartate ammonia-lyase [EC:4.3.1.1]	fumC
+Nitrososphaera_gargensis_Ga9-contig1_2776	100	K13953	alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1]	adh4
+Nitrososphaera_gargensis_Ga9-contig1_2779	100	K18601	aldehyde dehydrogenase [EC:1.2.1.-]	gabD
+Nitrososphaera_gargensis_Ga9-contig1_2780	100	K01698	porphobilinogen synthase [EC:4.2.1.24]	hemB2
+Nitrososphaera_gargensis_Ga9-contig1_2782	100	K03284	magnesium transporter	corA
+Nitrososphaera_gargensis_Ga9-contig1_2784	100	K03263	translation initiation factor 5A	eIF-5A
+Nitrososphaera_gargensis_Ga9-contig1_2785	100	K02034	peptide/nickel transport system permease protein	dppC
+Nitrososphaera_gargensis_Ga9-contig1_2786	99.7	K02033	peptide/nickel transport system permease protein	appB
+Nitrososphaera_gargensis_Ga9-contig1_2787	99.9	K02035	peptide/nickel transport system substrate-binding protein	peptide/opine/nickel ABC uptake transporter, substrate-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_2788	99.6	K02032	peptide/nickel transport system ATP-binding protein	appF
+Nitrososphaera_gargensis_Ga9-contig1_2789	40.2	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	metal-binding-domain/4Fe-4S-binding-domain containing ABC transporter, ATP-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_2790	100	K03106	signal recognition particle subunit SRP54	srp54
+Nitrososphaera_gargensis_Ga9-contig1_2791	100	K07583	tRNA pseudouridine synthase 10 [EC:5.4.99.-]	putative pseudouridylate synthase-like protein
+Nitrososphaera_gargensis_Ga9-contig1_2794	100	K02977	small subunit ribosomal protein S27Ae	rps27ae
+Nitrososphaera_gargensis_Ga9-contig1_2795	99.2	K02974	small subunit ribosomal protein S24e	rps24e
+Nitrososphaera_gargensis_Ga9-contig1_2803	100	K03182	4-hydroxy-3-polyprenylbenzoate decarboxylase [EC:4.1.1.98]	ubiD
+Nitrososphaera_gargensis_Ga9-contig1_2804	99.7	K11784	cyclic dehypoxanthinyl futalosine synthase [EC:1.21.98.1]	cofH2
+Nitrososphaera_gargensis_Ga9-contig1_2805	69.2	K18285	aminodeoxyfutalosine synthase [EC:2.5.1.120]	radical SAM protein
+Nitrososphaera_gargensis_Ga9-contig1_2808	46.8	K08070	2-alkenal reductase [EC:1.3.1.74]	2-alkenal reductase (EC:1.3.1.74)
+Nitrososphaera_gargensis_Ga9-contig1_2809	100	K11785	1,4-dihydroxy-6-naphthoate synthase [EC:1.14.-.-]	protein of unknown function DUF178
+Nitrososphaera_gargensis_Ga9-contig1_2810	100	K03234	elongation factor 2	fusA
+Nitrososphaera_gargensis_Ga9-contig1_2820	99.8	K05947	mannosyl-3-phosphoglycerate synthase [EC:2.4.1.217]	mngA2
+Nitrososphaera_gargensis_Ga9-contig1_2821	100	K01079	phosphoserine phosphatase [EC:3.1.3.3]	phosphatase of the haloacid dehalogenase (HAD)-like hydrolase family
+Nitrososphaera_gargensis_Ga9-contig1_2822	100	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	asnB2
+Nitrososphaera_gargensis_Ga9-contig1_2824	100	K08999	uncharacterized protein	DUF151 domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_2838	100	K00382	dihydrolipoamide dehydrogenase [EC:1.8.1.4]	putative dihydrolipoyl dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_2840	100	K00520	mercuric reductase [EC:1.16.1.1]	merA2
+Nitrososphaera_gargensis_Ga9-contig1_2847	99.7	K06863	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.23]	purP2
+Nitrososphaera_gargensis_Ga9-contig1_2848	100	K03116	sec-independent protein translocase protein TatA	tatA2
+Nitrososphaera_gargensis_Ga9-contig1_2849	100	K03118	sec-independent protein translocase protein TatC	tatC
+Nitrososphaera_gargensis_Ga9-contig1_2855	100	K06072	deoxyhypusine monooxygenase [EC:1.14.99.29]	putative HEAT repeat-containing PBS lyase
+Nitrososphaera_gargensis_Ga9-contig1_2858	99.8	K03498	trk system potassium uptake protein	K+ transporter family protein
+Nitrososphaera_gargensis_Ga9-contig1_2859	100	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_2860	100	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_2861	100	K09816	zinc transport system permease protein	ABC uptake transporter, permease protein
+Nitrososphaera_gargensis_Ga9-contig1_2862	99.6	K09817	zinc transport system ATP-binding protein [EC:3.6.3.-]	ABC uptake transporter, ATP-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_2863	100	K09815	zinc transport system substrate-binding protein	ABC uptake transporter, substrate-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_2864	100	K07722	CopG family transcriptional regulator, nickel-responsive regulator	putative nickel-responsive regulator 1
+Nitrososphaera_gargensis_Ga9-contig1_2870	70.1	K07663	two-component system, OmpR family, catabolic regulation response regulator CreB	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_2882	99.9	K02336	DNA polymerase II [EC:2.7.7.7]	polB2
+Nitrososphaera_gargensis_Ga9-contig1_2885	26.5	K00590	site-specific DNA-methyltransferase (cytosine-N4-specific) [EC:2.1.1.113]	putative methyltransferase Cytosine (N4) specific (C1-like) (EC:2.1.1.113)
+Nitrososphaera_gargensis_Ga9-contig1_2894	31.2	K07495	putative transposase	transposase IS4
+Nitrososphaera_gargensis_Ga9-contig1_2911	30.5	K07130	arylformamidase [EC:3.5.1.9]	arylformamidase (EC:3.5.1.9)
+Nitrososphaera_gargensis_Ga9-contig1_2913	100	K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	putative cysteine desulfurase
+Nitrososphaera_gargensis_Ga9-contig1_2917	41.0	K03168	DNA topoisomerase I [EC:5.99.1.2]	DNA topoisomerase I (EC:5.99.1.2)
+Nitrososphaera_gargensis_Ga9-contig1_2918	40.7	K09495	T-complex protein 1 subunit gamma	Tcomplex protein 1, gamma subunit
+Nitrososphaera_gargensis_Ga9-contig1_2919	33.7	K07059	uncharacterized protein	Rhomboid family protein
+Nitrososphaera_gargensis_Ga9-contig1_2926	100	K02867	large subunit ribosomal protein L11	rpl11p
+Nitrososphaera_gargensis_Ga9-contig1_2928	100	K03671	thioredoxin 1	trxA3
+Nitrososphaera_gargensis_Ga9-contig1_2929	100	K03243	translation initiation factor 5B	aIF-2
+Nitrososphaera_gargensis_Ga9-contig1_2930	100	K00940	nucleoside-diphosphate kinase [EC:2.7.4.6]	putative nucleoside diphosphate kinase
+Nitrososphaera_gargensis_Ga9-contig1_2931	100	K02896	large subunit ribosomal protein L24e	rpl24e1
+Nitrososphaera_gargensis_Ga9-contig1_2932	100	K02979	small subunit ribosomal protein S28e	rps28e
+Nitrososphaera_gargensis_Ga9-contig1_2933	100	K02936	large subunit ribosomal protein L7Ae	rpl7ae
+Nitrososphaera_gargensis_Ga9-contig1_2934	100	K15778	phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2]	glmM
+Nitrososphaera_gargensis_Ga9-contig1_2947	80.0	K07991	archaeal preflagellin peptidase FlaK [EC:3.4.23.52]	flaK1
+Nitrososphaera_gargensis_Ga9-contig1_2951	99.7	K07300	Ca2+:H+ antiporter	cax
+Nitrososphaera_gargensis_Ga9-contig1_2954	99.5	K08681	5'-phosphate synthase pdxT subunit [EC:4.3.3.6]	pdxT
+Nitrososphaera_gargensis_Ga9-contig1_2955	100	K06215	pyridoxal 5'-phosphate synthase pdxS subunit [EC:4.3.3.6]	pdxS
+Nitrososphaera_gargensis_Ga9-contig1_2957	100	K01681	aconitate hydratase [EC:4.2.1.3]	aco
+Nitrososphaera_gargensis_Ga9-contig1_2961	100	K03124	transcription initiation factor TFIIB	tfb9
+Nitrososphaera_gargensis_Ga9-contig1_2962	100	K00820	glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	glmS2
+Nitrososphaera_gargensis_Ga9-contig1_2964	99.8	K00174	2-oxoglutarate ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3]	korA
+Nitrososphaera_gargensis_Ga9-contig1_2965	99.7	K00175	2-oxoglutarate ferredoxin oxidoreductase subunit beta [EC:1.2.7.3]	korB
+Nitrososphaera_gargensis_Ga9-contig1_2972	100	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_2973	99.5	K07496	putative transposase	putative transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_2989	37.3	K14981	two-component system, OmpR family, response regulator ChvI	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_2992	100	K09013	Fe-S cluster assembly ATP-binding protein	sufC
+Nitrososphaera_gargensis_Ga9-contig1_2994	100	K09162	chlorite dismutase [EC:1.13.11.49]	cld
+Nitrososphaera_gargensis_Ga9-contig1_2996	39.6	K00540		probable oxidoreductase (aldo-keto reductase family protein) (EC:1.1.1.-)
+Nitrososphaera_gargensis_Ga9-contig1_3003	33.6	K14981	two-component system, OmpR family, response regulator ChvI	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_3003	36.3	K14981	two-component system, OmpR family, response regulator ChvI	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_3005	30.5	K13584	two-component system, cell cycle response regulator CtrA	chemotaxis protein CheY
+Nitrososphaera_gargensis_Ga9-contig1_3006	40.1	K09495	T-complex protein 1 subunit gamma	Tcomplex protein 1, gamma subunit
+Nitrososphaera_gargensis_Ga9-contig1_3006	41.5	K09497	T-complex protein 1 subunit epsilon	TCP-1 (CTT or eukaryotic type II) chaperonin family, epsilon subunit
+Nitrososphaera_gargensis_Ga9-contig1_3006	42.1	K09497	T-complex protein 1 subunit epsilon	YALI0E21692p
+Nitrososphaera_gargensis_Ga9-contig1_3013	55.5	K03652	DNA-3-methyladenine glycosylase [EC:3.2.2.21]	DNA-3-methyladenine glycosylase
+Nitrososphaera_gargensis_Ga9-contig1_3017	99.3	K09807	uncharacterized protein	putative protein of unknown function DUF541
+Nitrososphaera_gargensis_Ga9-contig1_3033	100	K03427	type I restriction enzyme M protein [EC:2.1.1.72]	N-6 DNA methylase
+Nitrososphaera_gargensis_Ga9-contig1_3034	100	K01154	type I restriction enzyme, S subunit [EC:3.1.21.3]	putative restriction modification system DNA specificity domain protein
+Nitrososphaera_gargensis_Ga9-contig1_3035	100	K01153	type I restriction enzyme, R subunit [EC:3.1.21.3]	type I site-specific deoxyribonuclease, HsdR family (EC:3.1.21.3)
+Nitrososphaera_gargensis_Ga9-contig1_3049	100	K04748	nitric oxide reductase NorQ protein	putative ATPase, AAA-5
+Nitrososphaera_gargensis_Ga9-contig1_3055	100	K07332	archaeal flagellar protein FlaI	type II secretion system-like protein E
+Nitrososphaera_gargensis_Ga9-contig1_3056	100	K07333	archaeal flagellar protein FlaJ	type II secretion system-like protein F
+Nitrososphaera_gargensis_Ga9-contig1_3059	100	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	putative asparagine synthase
+Nitrososphaera_gargensis_Ga9-contig1_3062	64.3	K15342	CRISP-associated protein Cas1	cas1-2
+Nitrososphaera_gargensis_Ga9-contig1_3064	73.7	K07496	putative transposase	transposase, IS605 OrfB family, central region
+Nitrososphaera_gargensis_Ga9-contig1_3065	100	K01737	6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_3066	100	K06920	7-cyano-7-deazaguanine synthase [EC:6.3.4.20]	queC2
+Nitrososphaera_gargensis_Ga9-contig1_3067	100	K06947	polynucleotide 5'-hydroxyl-kinase GRC3/NOL9 [EC:2.7.1.-]	GTPase or GTP-binding protein-like protein
+Nitrososphaera_gargensis_Ga9-contig1_3069	100	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily (EC:3.6.4.6)
+Nitrososphaera_gargensis_Ga9-contig1_3081	100	K06950	uncharacterized protein	putative metal dependent phosphohydrolase
+Nitrososphaera_gargensis_Ga9-contig1_3084	100	K03531	cell division protein FtsZ	ftsZ2
+Nitrososphaera_gargensis_Ga9-contig1_3085	66.7	K06988	uncharacterized protein	putative dinucleotide-binding enzyme
+Nitrososphaera_gargensis_Ga9-contig1_3090	99.7	K17105	geranylgeranylglycerol-phosphate geranylgeranyltransferase [EC:2.5.1.42]	putative digeranylgeranylglyceryl phosphate synthase
+Nitrososphaera_gargensis_Ga9-contig1_3093	100	K00254	dihydroorotate dehydrogenase [EC:1.3.5.2]	putative dihydroorotate dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_3095	100	K00971	mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	putative mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase (EC:5.3.1.8)
+Nitrososphaera_gargensis_Ga9-contig1_3097	100	K15383	MtN3 and saliva related transmembrane protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_3099	99.9	K03167	DNA topoisomerase VI subunit B [EC:5.99.1.3]	top6B
+Nitrososphaera_gargensis_Ga9-contig1_3100	100	K03166	DNA topoisomerase VI subunit A [EC:5.99.1.3]	top6A
+Nitrososphaera_gargensis_Ga9-contig1_3106	100	K06897	7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene 5'-phosphate synthase [EC:2.5.1.105]	putative beta-lactamase domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_3107	99.6	K07043	uncharacterized protein	protein of unknown function DUF45
+Nitrososphaera_gargensis_Ga9-contig1_3110	100	K01866	tyrosyl-tRNA synthetase [EC:6.1.1.1]	tyrS
+Nitrososphaera_gargensis_Ga9-contig1_3115	42.6	K06154	Lrp/AsnC family transcriptional regulator, involved in the regulation of lysine biosynthesis	lysM
+Nitrososphaera_gargensis_Ga9-contig1_3116	100	K05830	LysW-gamma-L-lysine/LysW-L-ornithine aminotransferase [EC:2.6.1.-]	argD2
+Nitrososphaera_gargensis_Ga9-contig1_3117	100	K05828	LysW-gamma-L-alpha-aminoadipate/LysW-L-glutamate kinase [EC:2.7.2.-]	argB
+Nitrososphaera_gargensis_Ga9-contig1_3118	100	K05829	LysW-gamma-L-alpha-aminoadipyl-6-phosphate/LysW-L-glutamyl-5-phosphate reductase [EC:1.2.1.-]	argC
+Nitrososphaera_gargensis_Ga9-contig1_3119	100	K05827	[lysine-biosynthesis-protein LysW]---L-2-aminoadipate ligase [EC:6.3.2.43]	lysX2
+Nitrososphaera_gargensis_Ga9-contig1_3120	100	K05826	alpha-aminoadipate/glutamate carrier protein LysW	putative lysine biosynthesis protein LysW
+Nitrososphaera_gargensis_Ga9-contig1_3121	99.0	K01940	argininosuccinate synthase [EC:6.3.4.5]	argG
+Nitrososphaera_gargensis_Ga9-contig1_3126	100	K09165	uncharacterized protein	protein of unknown function DUF1458
+Nitrososphaera_gargensis_Ga9-contig1_3129	100	K07217	Mn-containing catalase	putative catalase, Mn-containing (EC:1.11.1.6)
+Nitrososphaera_gargensis_Ga9-contig1_3130	37.3	K00001	alcohol dehydrogenase [EC:1.1.1.1]	zinc-binding alcohol dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_3130	37.2	K00001	alcohol dehydrogenase [EC:1.1.1.1]	alcohol dehydrogenase
+Nitrososphaera_gargensis_Ga9-contig1_3136	98.4	K04047	starvation-inducible DNA-binding protein	protein of unknown function DUF1458
+Nitrososphaera_gargensis_Ga9-contig1_3138	100	K03236	translation initiation factor 1A	eIF-1a2
+Nitrososphaera_gargensis_Ga9-contig1_3142	100	K02869	large subunit ribosomal protein L12	rpl12p
+Nitrososphaera_gargensis_Ga9-contig1_3143	70.0	K00852	ribokinase [EC:2.7.1.15]	sugar kinase, ribokinase
+Nitrososphaera_gargensis_Ga9-contig1_3143	70.0	K00852	ribokinase [EC:2.7.1.15]	pfkB family carbohydrate kinase (EC:2.7.1.-)
+Nitrososphaera_gargensis_Ga9-contig1_3156	100	K13993	HSP20 family protein	hsp20
+Nitrososphaera_gargensis_Ga9-contig1_3157	99.7	K03686	molecular chaperone DnaJ	dnaJ2
+Nitrososphaera_gargensis_Ga9-contig1_3158	100	K04043	molecular chaperone DnaK	dnaK
+Nitrososphaera_gargensis_Ga9-contig1_3159	99.5	K03687	molecular chaperone GrpE	grpE
+Nitrososphaera_gargensis_Ga9-contig1_3160	100	K03671	thioredoxin 1	trxA4
+Nitrososphaera_gargensis_Ga9-contig1_3165	100	K03238	translation initiation factor 2 subunit 2	eif2b
+Nitrososphaera_gargensis_Ga9-contig1_3166	100	K07316	adenine-specific DNA-methyltransferase [EC:2.1.1.72]	putative methylase N-4/N-6 domain protein
+Nitrososphaera_gargensis_Ga9-contig1_3172	100	K00752	hyaluronan synthase [EC:2.4.1.212]	putative glycosyl transferase family 2
+Nitrososphaera_gargensis_Ga9-contig1_3173	39.4	K01567	peptidoglycan-N-acetylmuramic acid deacetylase [EC:3.5.1.-]	polysaccharide deacetylase
+Nitrososphaera_gargensis_Ga9-contig1_3174	100	K06118	UDP-sulfoquinovose synthase [EC:3.13.1.1]	putative NAD-dependent epimerase/dehydratase
+Nitrososphaera_gargensis_Ga9-contig1_3175	42.0	K13010	perosamine synthetase [EC:2.6.1.102]	putative PLP-dependent enzyme possibly involved in cell wall biogenesis
+Nitrososphaera_gargensis_Ga9-contig1_3176	100	K03320	ammonium transporter, Amt family	amtA
+Nitrososphaera_gargensis_Ga9-contig1_3177	100	K01551	arsenite-transporting ATPase [EC:3.6.3.16]	arsA
+Nitrososphaera_gargensis_Ga9-contig1_3184	100	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily (EC:3.6.4.6)
+Nitrososphaera_gargensis_Ga9-contig1_3188	34.6	K03498	trk system potassium uptake protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_3192	44.0	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	glucose dehydrogenase [pyrroloquinoline-quinone] (EC:1.1.5.2)
+Nitrososphaera_gargensis_Ga9-contig1_3193	100	K00054	hydroxymethylglutaryl-CoA reductase [EC:1.1.1.88]	mvaA
+Nitrososphaera_gargensis_Ga9-contig1_3194	100	K00765	ATP phosphoribosyltransferase [EC:2.4.2.17]	hisG
+Nitrososphaera_gargensis_Ga9-contig1_3195	100	K00013	histidinol dehydrogenase [EC:1.1.1.23]	hisD
+Nitrososphaera_gargensis_Ga9-contig1_3196	100	K00817	histidinol-phosphate aminotransferase [EC:2.6.1.9]	hisC
+Nitrososphaera_gargensis_Ga9-contig1_3198	100	K13993	HSP20 family protein	hsp20
+Nitrososphaera_gargensis_Ga9-contig1_3199	99.5	K01693	imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]	hisB
+Nitrososphaera_gargensis_Ga9-contig1_3200	99.5	K02501	glutamine amidotransferase [EC:2.4.2.-]	hisH
+Nitrososphaera_gargensis_Ga9-contig1_3201	100	K01814	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]	hisA
+Nitrososphaera_gargensis_Ga9-contig1_3202	100	K02500	cyclase [EC:4.1.3.-]	hisF
+Nitrososphaera_gargensis_Ga9-contig1_3208	98.9	K01512	acylphosphatase [EC:3.6.1.7]	acyP
+Nitrososphaera_gargensis_Ga9-contig1_3209	99.8	K01586	diaminopimelate decarboxylase [EC:4.1.1.20]	lysA
+Nitrososphaera_gargensis_Ga9-contig1_3210	99.9	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily protein (EC:3.6.4.6)
+Nitrososphaera_gargensis_Ga9-contig1_3211	100	K07573	exosome complex component CSL4	putative RNA-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_3212	100	K04518	prephenate dehydratase [EC:4.2.1.51]	pheA
+Nitrososphaera_gargensis_Ga9-contig1_3218	99.8	K00088	IMP dehydrogenase [EC:1.1.1.205]	guaB
+Nitrososphaera_gargensis_Ga9-contig1_3219	99.6	K00796	dihydropteroate synthase [EC:2.5.1.15]	putative dihydropteroate synthase
+Nitrososphaera_gargensis_Ga9-contig1_3221	100	K02626	arginine decarboxylase [EC:4.1.1.19]	pdaD
+Nitrososphaera_gargensis_Ga9-contig1_3225	47.5	K00121	S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_3230	100	K04047	starvation-inducible DNA-binding protein	putative ferritin Dps family protein
+Nitrososphaera_gargensis_Ga9-contig1_3231	31.2	K06402	stage IV sporulation protein FB [EC:3.4.24.-]	peptidase M50
+Nitrososphaera_gargensis_Ga9-contig1_3247	100	K07104	catechol 2,3-dioxygenase [EC:1.13.11.2]	putative glyoxalase/bleomycin resistance protein/dioxygenase
+Nitrososphaera_gargensis_Ga9-contig1_3248	36.6	K00344	NADPH2:quinone reductase [EC:1.6.5.5]	yfmJ1
+Nitrososphaera_gargensis_Ga9-contig1_3249	100	K01873	valyl-tRNA synthetase [EC:6.1.1.9]	valS
+Nitrososphaera_gargensis_Ga9-contig1_3252	99.6	K07142	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_3258	31.2	K07495	putative transposase	transposase IS4
+Nitrososphaera_gargensis_Ga9-contig1_3267	100	K06999	phospholipase/carboxylesterase	phospholipase/carboxylesterase family protein (EC:3.1.1.1)
+Nitrososphaera_gargensis_Ga9-contig1_3268	100	K15975	glyoxalase family protein	putative glyoxalase family protein
+Nitrososphaera_gargensis_Ga9-contig1_3269	34.8	K03699	putative hemolysin	integral membrane protein
+Nitrososphaera_gargensis_Ga9-contig1_3271	100	K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	guaA
+Nitrososphaera_gargensis_Ga9-contig1_3272	27.3	K10725	archaeal cell division control protein 6	cdc6
+Nitrososphaera_gargensis_Ga9-contig1_3277	100	K01299	carboxypeptidase Taq [EC:3.4.17.19]	thermostable carboxypeptidase 1 (EC:3.4.17.19)
+Nitrososphaera_gargensis_Ga9-contig1_3282	100	K01725	cyanate lyase [EC:4.2.1.104]	cynS
+Nitrososphaera_gargensis_Ga9-contig1_3285	100	K03497	chromosome partitioning protein, ParB family	putative chromosome partitioning protein
+Nitrososphaera_gargensis_Ga9-contig1_3287	100	K03719	Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein	putative GAF sensor protein
+Nitrososphaera_gargensis_Ga9-contig1_3292	100	K03147	phosphomethylpyrimidine synthase [EC:4.1.99.17]	thiC2
+Nitrososphaera_gargensis_Ga9-contig1_3306	99.8	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily (EC:3.6.4.6)
+Nitrososphaera_gargensis_Ga9-contig1_3307	68.6	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily
+Nitrososphaera_gargensis_Ga9-contig1_3311	24.8	K05275	pyridoxine 4-dehydrogenase [EC:1.1.1.65]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_3313	32.6	K02533	tRNA/rRNA methyltransferase [EC:2.1.1.-]	RNA methylase
+Nitrososphaera_gargensis_Ga9-contig1_3322	100	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	DNA methylase N-4/N-6 domain protein (EC:2.1.1.113)
+Nitrososphaera_gargensis_Ga9-contig1_3323	99.5	K02191	cobalt-precorrin-6B (C15)-methyltransferase [EC:2.1.1.196]	cbiT
+Nitrososphaera_gargensis_Ga9-contig1_3329	99.4	K09122	uncharacterized protein	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_3330	100	K02121	V/A-type H+-transporting ATPase subunit E	atpE
+Nitrososphaera_gargensis_Ga9-contig1_3331	100	K02117	V/A-type H+-transporting ATPase subunit A [EC:3.6.3.14]	atpA
+Nitrososphaera_gargensis_Ga9-contig1_3332	99.8	K02118	V/A-type H+-transporting ATPase subunit B	atpB
+Nitrososphaera_gargensis_Ga9-contig1_3333	100	K02120	V/A-type H+-transporting ATPase subunit D	atpD
+Nitrososphaera_gargensis_Ga9-contig1_3335	100	K02124	V/A-type H+-transporting ATPase subunit K	atpK
+Nitrososphaera_gargensis_Ga9-contig1_3336	100	K02123	V/A-type H+-transporting ATPase subunit I	atpI
+Nitrososphaera_gargensis_Ga9-contig1_3337	100	K02119	V/A-type H+-transporting ATPase subunit C	atpC
+Nitrososphaera_gargensis_Ga9-contig1_3340	39.8	K07496	putative transposase	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_3340	39.8	K07496	putative transposase	IS1341-type transposase (TCE31)
+Nitrososphaera_gargensis_Ga9-contig1_3344	100	K00610	aspartate carbamoyltransferase regulatory subunit	pyrI
+Nitrososphaera_gargensis_Ga9-contig1_3347	99.6	K06196	cytochrome c-type biogenesis protein	ccdA
+Nitrososphaera_gargensis_Ga9-contig1_3350	100	K05592	ATP-dependent RNA helicase DeaD [EC:3.6.4.13]	DEAD-box ATP-dependent RNA helicase
+Nitrososphaera_gargensis_Ga9-contig1_3354	99.5	K18532	adenylate kinase [EC:2.7.4.3]	putative adenylate kinase
+Nitrososphaera_gargensis_Ga9-contig1_3359	99.8	K18779	7-cyano-7-deazaguanine tRNA-ribosyltransferase [EC:2.4.2.48]	tgtA
+Nitrososphaera_gargensis_Ga9-contig1_3360	99.5	K05982	deoxyribonuclease V [EC:3.1.21.7]	nfi
+Nitrososphaera_gargensis_Ga9-contig1_3368	99.8	K07577	putative mRNA 3-end processing factor	putative beta-lactamase domain protein
+Nitrososphaera_gargensis_Ga9-contig1_3371	100	K01883	cysteinyl-tRNA synthetase [EC:6.1.1.16]	cysS2
+Nitrososphaera_gargensis_Ga9-contig1_3373	99.0	K00363	nitrite reductase (NADH) small subunit [EC:1.7.1.15]	Rieske (2Fe-2S) domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_3375	100	K01251	adenosylhomocysteinase [EC:3.3.1.1]	ahcY2
+Nitrososphaera_gargensis_Ga9-contig1_3376	100	K01874	methionyl-tRNA synthetase [EC:6.1.1.10]	metG
+Nitrososphaera_gargensis_Ga9-contig1_3377	100	K00952	nicotinamide-nucleotide adenylyltransferase [EC:2.7.7.1]	nicotinamide-nucleotide adenylyltransferase (EC:2.7.7.1)
+Nitrososphaera_gargensis_Ga9-contig1_3381	100	K06911	uncharacterized protein	putative pirin family protein
+Nitrososphaera_gargensis_Ga9-contig1_3382	66.3	K00299	FMN reductase [EC:1.5.1.38]	putative flavoprotein
+Nitrososphaera_gargensis_Ga9-contig1_3384	42.4	K04771	serine protease Do [EC:3.4.21.107]	periplasmic serine protease, Do/DeqQ family
+Nitrososphaera_gargensis_Ga9-contig1_3385	98.9	K03113	translation initiation factor 1	putative translation factor SUI1
+Nitrososphaera_gargensis_Ga9-contig1_3388	82.9	K07498	putative transposase	putative integrase family protein
+Nitrososphaera_gargensis_Ga9-contig1_3388	82.9	K07498	putative transposase	putative integrase family protein
+Nitrososphaera_gargensis_Ga9-contig1_3388	82.9	K07498	putative transposase	putative integrase family protein
+Nitrososphaera_gargensis_Ga9-contig1_3388	82.9	K07498	putative transposase	putative integrase family protein
+Nitrososphaera_gargensis_Ga9-contig1_3388	82.9	K07498	putative transposase	putative transposase
+Nitrososphaera_gargensis_Ga9-contig1_3388	82.9	K07498	putative transposase	putative integrase family protein
+Nitrososphaera_gargensis_Ga9-contig1_3391	100	K03433	proteasome beta subunit [EC:3.4.25.1]	psmB3
+Nitrososphaera_gargensis_Ga9-contig1_3392	100	K03432	proteasome alpha subunit [EC:3.4.25.1]	psmA2
+Nitrososphaera_gargensis_Ga9-contig1_3396	100	K03124	transcription initiation factor TFIIB	tfb10
+Nitrososphaera_gargensis_Ga9-contig1_3400	100	K01092	myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	putative inositol-1-monophosphatase (EC:3.1.3.25)
+Nitrososphaera_gargensis_Ga9-contig1_3402	99.6	K00318	proline dehydrogenase [EC:1.5.-.-]	putative proline dehydrogenase (EC:1.5.99.8)
+Nitrososphaera_gargensis_Ga9-contig1_3403	100	K00294	1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88]	rocA
+Nitrososphaera_gargensis_Ga9-contig1_3409	100	K14654	2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase [EC:1.1.1.302]	ribD
+Nitrososphaera_gargensis_Ga9-contig1_3410	33.8	K01485	cytosine deaminase [EC:3.5.4.1]	guaD3
+Nitrososphaera_gargensis_Ga9-contig1_3411	100	K08096	GTP cyclohydrolase IIa [EC:3.5.4.29]	gch3
+Nitrososphaera_gargensis_Ga9-contig1_3412	99.3	K00794	6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]	ribH
+Nitrososphaera_gargensis_Ga9-contig1_3413	99.6	K02858	3,4-dihydroxy 2-butanone 4-phosphate synthase [EC:4.1.99.12]	ribB
+Nitrososphaera_gargensis_Ga9-contig1_3415	100	K00793	riboflavin synthase [EC:2.5.1.9]	ribE
+Nitrososphaera_gargensis_Ga9-contig1_3416	100	K04768	acetoin utilization protein AcuC	putative histone deacetylase superfamily
+Nitrososphaera_gargensis_Ga9-contig1_3419	100	K03821	polyhydroxyalkanoate synthase [EC:2.3.1.-]	phbC4
+Nitrososphaera_gargensis_Ga9-contig1_3422	25.7	K00754		N-acetylglucosaminyltransferase (EC:2.4.1.-)
+Nitrososphaera_gargensis_Ga9-contig1_3425	33.2	K03686	molecular chaperone DnaJ	chaperone protein dnaJ
+Nitrososphaera_gargensis_Ga9-contig1_3426	29.6	K05714	2-hydroxy-6-oxonona-2,4-dienedioate hydrolase [EC:3.7.1.14]	alpha/beta hydrolase fold protein
+Nitrososphaera_gargensis_Ga9-contig1_3426	29.6	K05714	2-hydroxy-6-oxonona-2,4-dienedioate hydrolase [EC:3.7.1.14]	predicted hydrolase or acyltransferase of alpha/beta superfamily
+Nitrososphaera_gargensis_Ga9-contig1_3427	100	K00600	glycine hydroxymethyltransferase [EC:2.1.2.1]	glyA
+Nitrososphaera_gargensis_Ga9-contig1_3428	100	K01299	carboxypeptidase Taq [EC:3.4.17.19]	thermostable carboxypeptidase 1 (EC:3.4.17.19)
+Nitrososphaera_gargensis_Ga9-contig1_3431	38.3	K04771	serine protease Do [EC:3.4.21.107]	protease Do
+Nitrososphaera_gargensis_Ga9-contig1_3433	100	K13051	beta-aspartyl-peptidase (threonine type) [EC:3.4.19.5]	putative L-asparaginase
+Nitrososphaera_gargensis_Ga9-contig1_3434	100	K08194	MFS transporter, ACS family, D-galactonate transporter	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_3437	100	K07095	uncharacterized protein	putative phosphodiesterase
+Nitrososphaera_gargensis_Ga9-contig1_3440	30.9	K08369	MFS transporter, putative metabolite:H+ symporter	major facilitator superfamily protein
+Nitrososphaera_gargensis_Ga9-contig1_3444	100	K07305	peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12]	msrB
+Nitrososphaera_gargensis_Ga9-contig1_3445	100	K07304	peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	msrA
+Nitrososphaera_gargensis_Ga9-contig1_3447	47.8	K00100		oxidoreductase (EC:1.1.1.-)
+Nitrososphaera_gargensis_Ga9-contig1_3452	100	K04070	putative pyruvate formate lyase activating enzyme [EC:1.97.1.4]	putative radical SAM domain protein
+Nitrososphaera_gargensis_Ga9-contig1_3459	100	K07663	two-component system, OmpR family, catabolic regulation response regulator CreB	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_3465	52.8	K07646	two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]	sensor protein KdpD
+Nitrososphaera_gargensis_Ga9-contig1_3465	52.8	K07646	two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]	kdpD
+Nitrososphaera_gargensis_Ga9-contig1_3465	52.8	K07646	two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]	sensor protein KdpD
+Nitrososphaera_gargensis_Ga9-contig1_3465	52.8	K07646	two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]	sensor protein KdpD
+Nitrososphaera_gargensis_Ga9-contig1_3465	52.8	K07646	two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]	sensor protein kdpD
+Nitrososphaera_gargensis_Ga9-contig1_3465	52.8	K07646	two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]	kdpD
+Nitrososphaera_gargensis_Ga9-contig1_3468	39.3	K13924	two-component system, chemotaxis family, CheB/CheR fusion protein [EC:2.1.1.80 3.1.1.61]	two-component sensor histidine kinase
+Nitrososphaera_gargensis_Ga9-contig1_3478	35.7	K14981	two-component system, OmpR family, response regulator ChvI	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_3479	99.0	K03685	ribonuclease III [EC:3.1.26.3]	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_3496	100	K02896	large subunit ribosomal protein L24e	rpl24e2
+Nitrososphaera_gargensis_Ga9-contig1_3497	33.2	K07636	two-component system, OmpR family, phosphate regulon sensor histidine kinase PhoR [EC:2.7.13.3]	multi-sensor signal transduction histidine kinase
+Nitrososphaera_gargensis_Ga9-contig1_3501	100	K01845	glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]	hemL3
+Nitrososphaera_gargensis_Ga9-contig1_3502	100	K01845	glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]	hemL4
+Nitrososphaera_gargensis_Ga9-contig1_3505	100	K10946	methane/ammonia monooxygenase subunit C	amoC2
+Nitrososphaera_gargensis_Ga9-contig1_3508	100	K03320	ammonium transporter, Amt family	nrgA2
+Nitrososphaera_gargensis_Ga9-contig1_3510	100	K02003	putative ABC transport system ATP-binding protein	ABC efflux transporter, ATP-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_3511	100	K02004	putative ABC transport system permease protein	ABC efflux transporter, FtsX-domain permease protein
+Nitrososphaera_gargensis_Ga9-contig1_3516	100	K01724	4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]	putative pterin-4-alpha-carbinolamine dehydratase
+Nitrososphaera_gargensis_Ga9-contig1_3518	100	K00609	aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	pyrB
+Nitrososphaera_gargensis_Ga9-contig1_3519	35.7	K07496	putative transposase	transposase, IS605 OrfB family
+Nitrososphaera_gargensis_Ga9-contig1_3525	56.8	K03498	trk system potassium uptake protein	Trk-type K+ transport system, membrane component
+Nitrososphaera_gargensis_Ga9-contig1_3526	49.3	K03498	trk system potassium uptake protein	Trk-type K+ transport system, membrane component
+Nitrososphaera_gargensis_Ga9-contig1_3527	100	K03498	trk system potassium uptake protein	K+ transporter family protein
+Nitrososphaera_gargensis_Ga9-contig1_3528	54.2	K03498	trk system potassium uptake protein	Trk-type K+ transport system, membrane component
+Nitrososphaera_gargensis_Ga9-contig1_3528	53.2	K03498	trk system potassium uptake protein	Trk-type K+ transport system, membrane component
+Nitrososphaera_gargensis_Ga9-contig1_3529	100	K03264	translation initiation factor 6	eif6
+Nitrososphaera_gargensis_Ga9-contig1_3530	34.4	K03742	nicotinamide-nucleotide amidase [EC:3.5.1.42]	competence damage-inducible protein A
+Nitrososphaera_gargensis_Ga9-contig1_3533	100	K03531	cell division protein FtsZ	ftsZ3
+Nitrososphaera_gargensis_Ga9-contig1_3536	100	K00826	branched-chain amino acid aminotransferase [EC:2.6.1.42]	ilvE2
+Nitrososphaera_gargensis_Ga9-contig1_3537	100	K00928	aspartate kinase [EC:2.7.2.4]	putative aspartokinase (EC:2.7.2.4)
+Nitrososphaera_gargensis_Ga9-contig1_3539	100	K07403	membrane-bound serine protease (ClpP class)	putative integral membrane ClpP-type serine endoprotease
+Nitrososphaera_gargensis_Ga9-contig1_3542	100	K18828	tRNA(fMet)-specific endonuclease VapC [EC:3.1.-.-]	PIN domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_3542	100	K18828	tRNA(fMet)-specific endonuclease VapC [EC:3.1.-.-]	PilT domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_3544	100	K14981	two-component system, OmpR family, response regulator ChvI	putative signal transduction response regulator, receiver domain protein
+Nitrososphaera_gargensis_Ga9-contig1_3549	100	K05794	tellurite resistance protein TerC	terC1
+Nitrososphaera_gargensis_Ga9-contig1_3552	100	K03546	exonuclease SbcC	rad50
+Nitrososphaera_gargensis_Ga9-contig1_3557	99.8	K06915	uncharacterized protein	DUF87 domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_3559	37.8	K07496	putative transposase	transposase
+Nitrososphaera_gargensis_Ga9-contig1_3559	37.8	K07496	putative transposase	transposase
+Nitrososphaera_gargensis_Ga9-contig1_3560	100	K15736	L-2-hydroxyglutarate oxidase [EC:1.1.3.-]	putative FAD dependent oxidoreductase
+Nitrososphaera_gargensis_Ga9-contig1_3563	100	K07496	putative transposase	putative transposase
+Nitrososphaera_gargensis_Ga9-contig1_3564	99.9	K02319	DNA polymerase I [EC:2.7.7.7]	dpo
+Nitrososphaera_gargensis_Ga9-contig1_3566	99.7	K01480	agmatinase [EC:3.5.3.11]	putative agmatinase
+Nitrososphaera_gargensis_Ga9-contig1_3568	31.2	K07495	putative transposase	transposase IS4
+Nitrososphaera_gargensis_Ga9-contig1_3570	100	K01868	threonyl-tRNA synthetase [EC:6.1.1.3]	thrS
+Nitrososphaera_gargensis_Ga9-contig1_3580	100	K01939	adenylosuccinate synthase [EC:6.3.4.4]	purA
+Nitrososphaera_gargensis_Ga9-contig1_3583	100	K01591	orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]	pyrF
+Nitrososphaera_gargensis_Ga9-contig1_3584	38.7	K00974	tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72 3.1.3.- 3.1.4.-]	polynucleotide adenylyltransferase/metal dependent phosphohydrolase
+Nitrososphaera_gargensis_Ga9-contig1_3586	100	K08975	putative membrane protein	protein of unknown function DUF373
+Nitrososphaera_gargensis_Ga9-contig1_3587	100	K02427	23S rRNA (uridine2552-2'-O)-methyltransferase [EC:2.1.1.166]	rlmE
+Nitrososphaera_gargensis_Ga9-contig1_3589	100	K14534	4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase [EC:4.2.1.120 5.3.3.3]	4-hydroxybutyryl-CoA dehydratase (EC:4.2.1.120)
+Nitrososphaera_gargensis_Ga9-contig1_3591	99.5	K00759	adenine phosphoribosyltransferase [EC:2.4.2.7]	apt
+Nitrososphaera_gargensis_Ga9-contig1_3592	100	K00772	5'-methylthioadenosine phosphorylase [EC:2.4.2.28]	5'-methylthioadenosine phosphorylase (EC:2.4.2.28)
+Nitrososphaera_gargensis_Ga9-contig1_3596	100	K03594	bacterioferritin [EC:1.16.3.1]	putative ferritin, Dps family protein
+Nitrososphaera_gargensis_Ga9-contig1_3597	43.7	K00856	adenosine kinase [EC:2.7.1.20]	carbohydrate kinase (EC:2.7.1.20)
+Nitrososphaera_gargensis_Ga9-contig1_3598	99.5	K03186	4-hydroxy-3-polyprenylbenzoate decarboxylase [EC:4.1.1.98]	3-octaprenyl-4-hydroxybenzoate carboxy-lyase, phenylacrylic acid decarboxylase
+Nitrososphaera_gargensis_Ga9-contig1_3600	100	K06961	ribosomal RNA assembly protein	putative RNA-binding protein containing KH domain
+Nitrososphaera_gargensis_Ga9-contig1_3601	100	K07178	RIO kinase 1 [EC:2.7.11.1]	putative serine/threonine protein kinase
+Nitrososphaera_gargensis_Ga9-contig1_3602	100	K09148	uncharacterized protein	putative protein of unknown function DUF424
+Nitrososphaera_gargensis_Ga9-contig1_3603	100	K00528	ferredoxin--NADP+ reductase [EC:1.18.1.2]	FAD/NAD(P)-binding oxidoreductase
+Nitrososphaera_gargensis_Ga9-contig1_3607	99.7	K00555	tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase [EC:2.1.1.215 2.1.1.216]	trm1
+Nitrososphaera_gargensis_Ga9-contig1_3608	100	K03470	ribonuclease HII [EC:3.1.26.4]	rnhB
+Nitrososphaera_gargensis_Ga9-contig1_3609	99.6	K04795	fibrillarin-like pre-rRNA processing protein	flpA
+Nitrososphaera_gargensis_Ga9-contig1_3610	100	K14564	nucleolar protein 56	putative pre-mRNA processing ribonucleoprotein, snoRNA-binding domain protein
+Nitrososphaera_gargensis_Ga9-contig1_3612	99.5	K13280	signal peptidase, endoplasmic reticulum-type [EC:3.4.-.-]	putative signal peptidase
+Nitrososphaera_gargensis_Ga9-contig1_3614	100	K03120	transcription initiation factor TFIID TATA-box-binding protein	tbp
+Nitrososphaera_gargensis_Ga9-contig1_3615	100	K00762	orotate phosphoribosyltransferase [EC:2.4.2.10]	pyrE
+Nitrososphaera_gargensis_Ga9-contig1_3618	100	K03789	ribosomal-protein-alanine N-acetyltransferase [EC:2.3.1.128]	putative ribosomal-protein-alanine acetyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_3620	100	K15429	tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]	putative methyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_3621	99.8	K06174	ATP-binding cassette, sub-family E, member 1	ABC transporter, RNase L inhibitor
+Nitrososphaera_gargensis_Ga9-contig1_3629	100	K01255	leucyl aminopeptidase [EC:3.4.11.1]	pepA
+Nitrososphaera_gargensis_Ga9-contig1_3631	100	K00615	transketolase [EC:2.2.1.1]	tktA
+Nitrososphaera_gargensis_Ga9-contig1_3632	100	K00615	transketolase [EC:2.2.1.1]	tktB
+Nitrososphaera_gargensis_Ga9-contig1_3633	100	K00616	transaldolase [EC:2.2.1.2]	tal
+Nitrososphaera_gargensis_Ga9-contig1_3635	100	K04748	nitric oxide reductase NorQ protein	putative NorQ like ATPase
+Nitrososphaera_gargensis_Ga9-contig1_3640	99.7	K05794	tellurite resistance protein TerC	terC2
+Nitrososphaera_gargensis_Ga9-contig1_3644	99.3	K02107	V/A-type H+-transporting ATPase subunit G/H	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_3645	100	K03626	nascent polypeptide-associated complex subunit alpha	putative nascent polypeptide-associated complex protein
+Nitrososphaera_gargensis_Ga9-contig1_3646	100	K07398	conserved protein with predicted RNA binding PUA domain	putative PUA domain profile
+Nitrososphaera_gargensis_Ga9-contig1_3648	100	K03627	putative transcription factor	putative MBF1 (multiprotein Bridging factor)
+Nitrososphaera_gargensis_Ga9-contig1_3649	100	K03665	GTPase	putative GTP-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_3650	100	K07254	tRNA (cytidine56-2'-O)-methyltransferase [EC:2.1.1.206]	putative tRNA ribose 2'-O-methyltransferase
+Nitrososphaera_gargensis_Ga9-contig1_3653	40.9	K03892	ArsR family transcriptional regulator	arsR
+Nitrososphaera_gargensis_Ga9-contig1_3656	99.8	K01895	acetyl-CoA synthetase [EC:6.2.1.1]	acsA2
+Nitrososphaera_gargensis_Ga9-contig1_3658	57.8	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	modification methylase EcaI (EC:2.1.1.72)
+Nitrososphaera_gargensis_Ga9-contig1_3659	100	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	putative DNA methylase N-4/N-6
+Nitrososphaera_gargensis_Ga9-contig1_3665	100	K01256	aminopeptidase N [EC:3.4.11.2]	putative membrane alanyl aminopeptidase (EC:3.4.11.2)
+Nitrososphaera_gargensis_Ga9-contig1_3666	36.5	K16050	4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase [EC:3.7.1.17]	alpha/beta hydrolase
+Nitrososphaera_gargensis_Ga9-contig1_3669	100	K01493	dCMP deaminase [EC:3.5.4.12]	putative CMP/dCMP deaminase zinc-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_3674	100	K02347	DNA polymerase (family X)	DNA polymerase X family (EC:2.7.7.7)
+Nitrososphaera_gargensis_Ga9-contig1_3676	100	K17218	sulfide:quinone oxidoreductase [EC:1.8.5.-]	putative FAD-dependent pyridine nucleotide-disulfide oxidoreductase
+Nitrososphaera_gargensis_Ga9-contig1_3678	54.0	K00540		short-chain dehydrogenase/reductase (EC:1.-.-.-)
+Nitrososphaera_gargensis_Ga9-contig1_3681	100	K09723	DNA replication factor GINS	hypothetical protein
+Nitrososphaera_gargensis_Ga9-contig1_3682	100	K01915	glutamine synthetase [EC:6.3.1.2]	glnA2
+Nitrososphaera_gargensis_Ga9-contig1_3686	100	K07533	foldase protein PrsA [EC:5.2.1.8]	putative PpiC-type peptidyl-prolyl cis-trans isomerase
+Nitrososphaera_gargensis_Ga9-contig1_3691	100	K00951	GTP pyrophosphokinase [EC:2.7.6.5]	putative (P)ppGpp synthetase I, SpoT/RelA
+Nitrososphaera_gargensis_Ga9-contig1_3695	100	K03686	molecular chaperone DnaJ	putative chaperone, dnaJ
+Nitrososphaera_gargensis_Ga9-contig1_3696	100	K03394	precorrin-2/cobalt-factor-2 C20-methyltransferase [EC:2.1.1.130 2.1.1.151]	cobI
+Nitrososphaera_gargensis_Ga9-contig1_3697	100	K05936	precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271]	cobM
+Nitrososphaera_gargensis_Ga9-contig1_3709	100	K07507	putative Mg2+ transporter-C (MgtC) family protein	putative magnesium transporter-C family protein
+Nitrososphaera_gargensis_Ga9-contig1_3712	99.6	K01776	glutamate racemase [EC:5.1.1.3]	putative glutamate racemase
+Nitrososphaera_gargensis_Ga9-contig1_3713	100	K15888	tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific] [EC:2.5.1.89]	uppS
+Nitrososphaera_gargensis_Ga9-contig1_3717	28.0	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	glucose dehydrogenase [pyrroloquinoline-quinone] (EC:1.1.5.2)
+Nitrososphaera_gargensis_Ga9-contig1_3719	100	K02040	phosphate transport system substrate-binding protein	pstS2
+Nitrososphaera_gargensis_Ga9-contig1_3723	100	K01916	NAD+ synthase [EC:6.3.1.5]	nadE
+Nitrososphaera_gargensis_Ga9-contig1_3734	100	K00860	adenylylsulfate kinase [EC:2.7.1.25]	putative adenylyl-sulfate kinase
+Nitrososphaera_gargensis_Ga9-contig1_3737	99.6	K06153	undecaprenyl-diphosphatase [EC:3.6.1.27]	putative undecaprenyl-diphosphatase
+Nitrososphaera_gargensis_Ga9-contig1_3739	72.2	K02039	phosphate transport system protein	putative phosphate uptake regulator, PhoU
+Nitrososphaera_gargensis_Ga9-contig1_3740	100	K02040	phosphate transport system substrate-binding protein	pstC
+Nitrososphaera_gargensis_Ga9-contig1_3742	100	K02040	phosphate transport system substrate-binding protein	putative phosphate ABC transporter, periplasmic phosphate-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_3743	99.6	K02040	phosphate transport system substrate-binding protein	putative phosphate ABC transporter, periplasmic phosphate-binding protein
+Nitrososphaera_gargensis_Ga9-contig1_3746	42.7	K03892	ArsR family transcriptional regulator	ArsR family transcriptional regulator
+Nitrososphaera_gargensis_Ga9-contig1_3747	51.9	K03741	arsenate reductase [EC:1.20.4.1]	arsenate reductase
+Nitrososphaera_gargensis_Ga9-contig1_3747	51.9	K03741	arsenate reductase [EC:1.20.4.1]	arsenate reductase
+Nitrososphaera_gargensis_Ga9-contig1_3748	99.6	K06188	aquaporin Z	major intrinsic protein
+Nitrososphaera_gargensis_Ga9-contig1_3749	100	K03455	monovalent cation:H+ antiporter-2, CPA2 family	monovalent cation/proton antiporter-2 family protein
+Nitrososphaera_gargensis_Ga9-contig1_3753	99.6	K03399	cobalt-precorrin-7 (C5)-methyltransferase [EC:2.1.1.289]	cbiE
+Nitrososphaera_gargensis_Ga9-contig1_3758	99.8	K06932	tRNA(Ile2)-agmatinylcytidine synthase [EC:6.3.4.22]	DUF1743 domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_3759	100	K06199	CrcB protein	crcB
+Nitrososphaera_gargensis_Ga9-contig1_3760	100	K09137	uncharacterized protein	DUF190 domain-containing protein
+Nitrososphaera_gargensis_Ga9-contig1_3761	100	K01496	phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19]	hisI
+Nitrososphaera_gargensis_Ga9-contig1_3762	100	K01733	threonine synthase [EC:4.2.3.1]	thrC2
+Nitrososphaera_gargensis_Ga9-contig1_3763	99.8	K11996	adenylyltransferase and sulfurtransferase	putative molybdopterin biosynthesis protein MoeB
+Nitrososphaera_gargensis_Ga9-contig1_3764	100	K02322	DNA polymerase II large subunit [EC:2.7.7.7]	polC
+Nitrososphaera_gargensis_Ga9-contig1_3765	99.6	K17104	phosphoglycerol geranylgeranyltransferase [EC:2.5.1.41]	geranylgeranylglyceryl phosphate synthase (EC:2.5.1.41)

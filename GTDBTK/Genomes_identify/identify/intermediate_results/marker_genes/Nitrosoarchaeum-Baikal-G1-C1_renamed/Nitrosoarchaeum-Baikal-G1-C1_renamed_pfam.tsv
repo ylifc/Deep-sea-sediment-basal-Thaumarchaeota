@@ -1,0 +1,46 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:51.694195
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Nitrosoarchaeum-Baikal-G1-C1_renamed/Nitrosoarchaeum-Baikal-G1-C1_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Nitrosoarchaeum-Baikal-G1-C1-contig1_40       3    137      3    138 PF01090.20  Ribosomal_S19e    Family     1   136   137    159.0   4.1e-48   1 CL0123   
+Nitrosoarchaeum-Baikal-G1-C1-contig2_191     54    166     54    166 PF01000.27  RNA_pol_A_bac     Domain     1   112   112     86.6   1.1e-25   1 No_clan  
+Nitrosoarchaeum-Baikal-G1-C1-contig2_194     12    149     11    149 PF00380.20  Ribosomal_S9      Family     2   121   121    117.5   3.8e-35   1 CL0329   
+Nitrosoarchaeum-Baikal-G1-C1-contig2_229      4    143      4    145 PF01280.21  Ribosomal_L19e    Family     1   141   144    131.2   2.2e-39   1 No_clan  
+Nitrosoarchaeum-Baikal-G1-C1-contig2_235     19    206     11    207 PF00687.22  Ribosomal_L1      Domain     5   203   204    131.8   2.1e-39   1 No_clan  
+Nitrosoarchaeum-Baikal-G1-C1-contig2_236     11    105      7    107 PF00466.21  Ribosomal_L10     Family     5    98   100     68.1   4.8e-20   1 No_clan  
+Nitrosoarchaeum-Baikal-G1-C1-contig2_361      7     69      6     69 PF01200.19  Ribosomal_S28e    Family     2    64    64     97.3   2.8e-29   1 CL0021   
+Nitrosoarchaeum-Baikal-G1-C1-contig3_48       6    130      5    130 PF00410.20  Ribosomal_S8      Domain     2   126   126     75.8   2.3e-22   1 No_clan  
+Nitrosoarchaeum-Baikal-G1-C1-contig3_51      98    169     96    169 PF00900.21  Ribosomal_S4e     Family     3    75    75     64.9   3.7e-19   1 CL0021   
+Nitrosoarchaeum-Baikal-G1-C1-contig5_19      32    186      3    186 PF01025.20  GrpE              Family     9   166   166    122.6   9.9e-37   1 No_clan  
+Nitrosoarchaeum-Baikal-G1-C1-contig5_38     123    226    121    227 PF07541.13  EIF_2_alpha       Family     4   113   114     69.0   2.8e-20   1 No_clan  
+Nitrosoarchaeum-Baikal-G1-C1-contig6_22      20    143     13    146 PF00827.18  Ribosomal_L15e    Family    22   145   189    153.2   5.2e-46   1 CL0652   
+Nitrosoarchaeum-Baikal-G1-C1-contig6_79      12    187     11    187 PF04919.13  DUF655            Family     2   181   181    154.1     3e-46   1 CL0198   
+Nitrosoarchaeum-Baikal-G1-C1-contig7_65       4    193      3    194 PF01015.19  Ribosomal_S3Ae    Family     2   194   195    213.6   1.4e-64   1 No_clan  

@@ -1,0 +1,8 @@
+Thaumarchaeota_archaeon_UBA164-contig5_177	5.75e-38	WP_094906781.1	SDR family oxidoreductase [Salinicoccus roseus]
+Thaumarchaeota_archaeon_UBA164-contig5_177	1.60e-37	WP_140837683.1	glucose 1-dehydrogenase [Weissella paramesenteroides]
+Thaumarchaeota_archaeon_UBA164-contig5_296	1.25e-09	MBI3697829.1	tungsten formylmethanofuran dehydrogenase [Acidobacteriota bacterium]
+Thaumarchaeota_archaeon_UBA164-contig5_297	8.96e-19	TMB47929.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Thaumarchaeota_archaeon_UBA164-contig6_170	2.04e-14	WP_089023288.1	4Fe-4S binding protein [Natranaerobius trueperi]
+Thaumarchaeota_archaeon_UBA164-contig10_62	1.99e-18	WP_155308456.1	4Fe-4S dicluster domain-containing protein [Desulfosarcina ovata]
+Thaumarchaeota_archaeon_UBA164-contig10_117	5.73e-69	MBF6614822.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Thaumarchaeota_archaeon_UBA164-contig10_158	4.13e-19	OYT60015.1	tungsten formylmethanofuran dehydrogenase [Euryarchaeota archaeon ex4484_178]

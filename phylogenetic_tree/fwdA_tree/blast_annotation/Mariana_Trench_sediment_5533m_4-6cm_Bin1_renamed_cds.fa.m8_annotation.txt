@@ -1,0 +1,8 @@
+Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig93_3	5.25e-111	GGN95214.1	tungsten formylmethanofuran dehydrogenase subunit E [Halomicroarcula pellucida]
+Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig93_3	3.77e-110	TME16620.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig93_3	3.58e-110	TMD52845.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig93_3	3.77e-110	TME16247.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig133_3	2.87e-103	WP_294083239.1	citrate/2-methylcitrate synthase [Sphaerobacter sp.]
+Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig133_3	1.85e-102	MBX6342053.1	tungsten formylmethanofuran dehydrogenase [Thermomicrobiaceae bacterium]
+Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig133_3	1.31e-102	MBF6614822.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig335_1	1.81e-12	MCH7573844.1	tungsten formylmethanofuran dehydrogenase [Candidatus Marinimicrobia bacterium]

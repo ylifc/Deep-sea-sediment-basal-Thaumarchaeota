@@ -1,0 +1,98 @@
+IQ-TREE multicore version 2.2.2.7 COVID-edition for Linux 64-bit built Jun  7 2023
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    ylifc (AVX2, FMA3, 1007 GB RAM)
+Command: iqtree2 --seqtype AA -s nirK_cat_all_mafft_trimal.faa --threads-max 250 -T AUTO -m TEST -B 1000
+Seed:    547604 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Aug 29 14:44:20 2023
+Kernel:  AVX+FMA - auto-detect threads (256 CPU cores detected)
+
+Reading alignment file nirK_cat_all_mafft_trimal.faa ... Fasta format detected
+Reading fasta file: done in 0.00794485 secs using 99.98% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.0067514 secs using 7346% CPU
+Alignment has 481 sequences with 564 columns, 564 distinct patterns
+538 parsimony-informative, 15 singleton sites, 11 constant sites
+ERROR: Duplicated sequence name AAA007-N19-contig2_54
+ERROR: Duplicated sequence name AAA288-D22-contig9_10
+ERROR: Duplicated sequence name Candidatus_Nitrosocosmicus_franklandus_C13-contig1_1314
+ERROR: Duplicated sequence name Candidatus_Nitrosopumilus_sp_MTA1-contig2_95
+ERROR: Duplicated sequence name Marine_Group_1_crenarchaeote_sp_SCGC-contig9_8
+ERROR: Duplicated sequence name Nitrosarchaeum_koreense_MY1-contig1_1373
+ERROR: Duplicated sequence name Nitrosarchaeum_koreense_MY1-contig1_1373
+ERROR: Duplicated sequence name Nitrosarchaeum_koreense_MY1-contig1_1373
+ERROR: Duplicated sequence name Nitrosarchaeum_koreense_MY1-contig1_1373
+ERROR: Duplicated sequence name Nitrosarchaeum_limnium_BG20-contig67_4
+ERROR: Duplicated sequence name Nitrosarchaeum_limnium_BG20-contig67_4
+ERROR: Duplicated sequence name Nitrosarchaeum_limnium_BG20-contig67_4
+ERROR: Duplicated sequence name Nitrosarchaeum_limnium_BG20-contig67_4
+ERROR: Duplicated sequence name Nitrosarchaeum_limnium_SFB1-contig34_3
+ERROR: Duplicated sequence name Nitrosarchaeum_limnium_SFB1-contig37_3
+ERROR: Duplicated sequence name Nitrosarchaeum_limnium_SFB1-contig37_3
+ERROR: Duplicated sequence name Nitrosarchaeum_limnium_SFB1-contig37_3
+ERROR: Duplicated sequence name Nitrosarchaeum_limnium_SFB1-contig37_3
+ERROR: Duplicated sequence name Nitrosarchaeum_limnium_SFB1-contig47_12
+ERROR: Duplicated sequence name Nitrosoarchaeum-Baikal-G1-C1-contig2_407
+ERROR: Duplicated sequence name Nitrosoarchaeum-Baikal-G1-C1-contig2_407
+ERROR: Duplicated sequence name Nitrosoarchaeum-Baikal-G1-C1-contig2_407
+ERROR: Duplicated sequence name Nitrosoarchaeum-Baikal-G1-C1-contig6_27
+ERROR: Duplicated sequence name Nitrosoarchaeum-Baikal-G1-C1-contig6_27
+ERROR: Duplicated sequence name Nitrosoarchaeum-Baikal-G1-C1-contig6_27
+ERROR: Duplicated sequence name Nitrosoarchaeum_sp_BD3-contig1_26
+ERROR: Duplicated sequence name Nitrosoarchaeum_sp_BD3-contig1_26
+ERROR: Duplicated sequence name Nitrosoarchaeum_sp_BD3-contig1_26
+ERROR: Duplicated sequence name Nitrosoarchaeum_sp_BD3-contig1_26
+ERROR: Duplicated sequence name Nitrosocosmicus_hydrocola_strain_G61-contig1_500
+ERROR: Duplicated sequence name Nitrosocosmicus_hydrocola_strain_G61-contig1_500
+ERROR: Duplicated sequence name Nitrosocosmicus_hydrocola_strain_G61-contig1_500
+ERROR: Duplicated sequence name Nitrosocosmicus_hydrocola_strain_G61-contig1_500
+ERROR: Duplicated sequence name Nitrosocosmicus_hydrocola_strain_G61-contig1_500
+ERROR: Duplicated sequence name Nitrosocosmicus_oleophilus_strain_MY3-contig1_438
+ERROR: Duplicated sequence name Nitrosocosmicus_oleophilus_strain_MY3-contig1_438
+ERROR: Duplicated sequence name Nitrosocosmicus_oleophilus_strain_MY3-contig1_438
+ERROR: Duplicated sequence name Nitrosopelagicus_brevis_U25-contig16_24
+ERROR: Duplicated sequence name Nitrosopelagicus_brevis_strain_CN25-contig1_212
+ERROR: Duplicated sequence name Nitrosopelagicus_brevis_strain_CN25-contig1_212
+ERROR: Duplicated sequence name Nitrosopelagicus_sp_REDSEA-S31_B2-contig74_9
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_isolate_NPMR_NP_iota_1-contig13_1
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_isolate_NPMR_NP_iota_1-contig13_1
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_isolate_NPMR_NP_iota_1-contig13_1
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_isolate_NPMR_NP_iota_1-contig14_32
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_isolate_NPMR_NP_iota_1-contig14_32
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_strain_NPMR_NP_delta_3-contig7_1
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_strain_NPMR_NP_delta_3-contig7_1
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_strain_NPMR_NP_delta_3-contig7_1
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_strain_NPMR_NP_delta_3-contig7_1
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_strain_NPMR_NP_theta_1-contig9_4
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_strain_NPMR_NP_theta_2-contig176_6
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_strain_NPMR_NP_theta_2-contig176_6
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_strain_NPMR_NP_theta_2-contig22_3
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_strain_NPMR_NP_theta_2-contig22_3
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_strain_NPMR_NP_theta_2-contig22_3
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3-contig19_8
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_strain_NPMR_NP_theta_4-contig208_4
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_strain_NPMR_NP_theta_4-contig208_4
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_strain_NPMR_NP_theta_4-contig208_4
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_strain_NPMR_NP_theta_4-contig208_4
+ERROR: Duplicated sequence name Nitrosopumilales_archaeon_strain_NPMR_NP_theta_4-contig43_4
+ERROR: Duplicated sequence name Nitrosopumilus_salaria_BD31-contig55_6
+ERROR: Duplicated sequence name Nitrosopumilus_sp_DDS1-contig136_1
+ERROR: Duplicated sequence name Nitrosopumilus_sp_DDS1-contig137_1
+ERROR: Duplicated sequence name Nitrosopumilus_sp_DDS1-contig138_1
+ERROR: Duplicated sequence name Nitrosopumilus_sp_DDS1-contig930_1
+ERROR: Duplicated sequence name Nitrososphaera_gargensis_Ga9-contig1_2490
+ERROR: Duplicated sequence name Nitrosotalea_bavarica_SbT1-contig10_91
+ERROR: Duplicated sequence name Nitrosotalea_devanaterra_Nd1-contig1_162
+ERROR: Duplicated sequence name Nitrosotalea_devanaterra_Nd1-contig1_162
+ERROR: Duplicated sequence name Nitrosotalea_koreensis_CS-contig1_1894
+ERROR: Duplicated sequence name Thaumarchaeota_YK1309_1N_NP_iota-contig123_2
+ERROR: Duplicated sequence name Thaumarchaeota_archaeon_CSP1-1_contig6_201
+ERROR: Duplicated sequence name Thaumarchaeota_archaeon_CSP1-1_contig6_201
+ERROR: Duplicated sequence name Thaumarchaeota_archaeon_CSP1-1_contig6_201
+ERROR: Duplicated sequence name Thaumarchaeota_archaeon_N4-contig6_257
+ERROR: Duplicated sequence name Thaumarchaeota_archaeon_SCGC_AAA007-O23-contig12_37
+ERROR: Duplicated sequence name Thaumarchaeota_archaeon_strain_BS3-contig18_1
+ERROR: Duplicated sequence name Thaumarchaeota_bin_Fn1-contig11_3
+ERROR: Duplicated sequence name YK1312_12N_NP_theta-contig207_1
+ERROR: Please rename sequences listed above!

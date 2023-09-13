@@ -1,0 +1,1041 @@
+D197_2_contig1_8	32.4	K00527	ribonucleoside-triphosphate reductase [EC:1.17.4.2]	adenosylcobalamin-dependent ribonucleoside-triphosphate reductase (EC:1.17.4.2)
+D197_2_contig1_12	45.7	K03553	recombination protein RecA	recombinase A
+D197_2_contig1_12	44.1	K03553	recombination protein RecA	recA protein (EC:3.6.3.8)
+D197_2_contig2_19	57.4	K03496	chromosome partitioning protein	parA
+D197_2_contig2_19	57.4	K03496	chromosome partitioning protein	AAA domain protein
+D197_2_contig2_27	45.9	K17677	ATP-dependent helicase IRC3 [EC:3.6.4.-]	type III restriction enzyme, res subunit
+D197_2_contig2_27	45.9	K17677	ATP-dependent helicase IRC3 [EC:3.6.4.-]	type III restriction enzyme, res subunit
+D197_2_contig3_10	58.5	K01698	porphobilinogen synthase [EC:4.2.1.24]	hemB_1
+D197_2_contig3_11	28.9	K02304	precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:1.3.1.76 4.99.1.4]	siroheme synthase
+D197_2_contig3_11	31.7	K02304	precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:1.3.1.76 4.99.1.4]	siroheme synthase
+D197_2_contig3_14	39.7	K02197	cytochrome c-type biogenesis protein CcmE	hypothetical protein
+D197_2_contig3_14	41.1	K02197	cytochrome c-type biogenesis protein CcmE	hypothetical protein
+D197_2_contig3_15	38.1	K02198	cytochrome c-type biogenesis protein CcmF	cytochrome C assembly protein
+D197_2_contig3_16	31.4	K02194	heme exporter protein B	cytochrome C biogenesis protein CcmB
+D197_2_contig3_16	31.9	K02194	heme exporter protein B	cytochrome C biogenesis protein CcmB
+D197_2_contig3_17	40.0	K02193	heme exporter protein A [EC:3.6.3.41]	ABC transporter-like protein
+D197_2_contig5_1	53.6	K01609	indole-3-glycerol phosphate synthase [EC:4.1.1.48]	trpC
+D197_2_contig5_2	37.3	K01817	phosphoribosylanthranilate isomerase [EC:5.3.1.24]	Phosphoribosylanthranilate isomerase (EC:5.3.1.24)
+D197_2_contig5_3	68.1	K01696	tryptophan synthase beta chain [EC:4.2.1.20]	tryptophan synthase, beta chain (EC:4.2.1.20)
+D197_2_contig5_3	67.8	K01696	tryptophan synthase beta chain [EC:4.2.1.20]	trpB
+D197_2_contig5_4	47.9	K01695	tryptophan synthase alpha chain [EC:4.2.1.20]	trpA
+D197_2_contig5_4	48.3	K01695	tryptophan synthase alpha chain [EC:4.2.1.20]	tryptophan synthase subunit alpha
+D197_2_contig5_4	47.1	K01695	tryptophan synthase alpha chain [EC:4.2.1.20]	tryptophan synthase subunit alpha (EC:4.2.1.20)
+D197_2_contig5_6	48.6	K09903	uridylate kinase [EC:2.7.4.22]	uridylate kinase
+D197_2_contig5_6	49.3	K09903	uridylate kinase [EC:2.7.4.22]	uridylate kinase
+D197_2_contig5_6	46.9	K09903	uridylate kinase [EC:2.7.4.22]	pyrH
+D197_2_contig5_9	54.6	K00294	1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88]	rocA
+D197_2_contig5_11	39.5	K06153	undecaprenyl-diphosphatase [EC:3.6.1.27]	uppP
+D197_2_contig5_12	51.1	K00172	pyruvate ferredoxin oxidoreductase gamma subunit [EC:1.2.7.1]	2-oxoacid:acceptor oxidoreductase, gamma subunit, pyruvate/2-ketoisovalerate family protein
+D197_2_contig5_13	54.5	K00171	pyruvate ferredoxin oxidoreductase delta subunit [EC:1.2.7.1]	pyruvate ferredoxin/flavodoxin oxidoreductase subunit delta
+D197_2_contig5_13	51.6	K00171	pyruvate ferredoxin oxidoreductase delta subunit [EC:1.2.7.1]	pyruvate ferredoxin/flavodoxin oxidoreductase subunit delta
+D197_2_contig5_14	60.6	K00169	pyruvate ferredoxin oxidoreductase alpha subunit [EC:1.2.7.1]	pyruvate flavodoxin/ferredoxin oxidoreductase domain-containing protein
+D197_2_contig5_14	58.6	K00169	pyruvate ferredoxin oxidoreductase alpha subunit [EC:1.2.7.1]	pyruvate ferredoxin oxidoreductase subunit alpha (EC:1.2.7.1)
+D197_2_contig5_15	63.1	K00170	pyruvate ferredoxin oxidoreductase beta subunit [EC:1.2.7.1]	PorB subunit of pyruvate:flavodoxin oxidoreductase
+D197_2_contig5_16	56.6	K00192	acetyl-CoA decarbonylase/synthase complex subunit alpha [EC:1.2.7.4]	acetyl-CoA decarbonylase/synthase complex subunit alpha
+D197_2_contig6_1	19.9	K07466	replication factor A1	replication factor A
+D197_2_contig6_2	39.4	K19225	rhomboid protease GluP [EC:3.4.21.105]	integral membrane protein rhomboid-like protein
+D197_2_contig6_5	36.8	K04655	hydrogenase expression/formation protein HypE	hydrogenase maturation factor
+D197_2_contig6_6	54.7	K16789	thiamine transporter	hypothetical protein
+D197_2_contig6_6	54.7	K16789	thiamine transporter	proton-coupled thiamine transporter YuaJ
+D197_2_contig6_6	54.7	K16789	thiamine transporter	putative proton-coupled thiamine transporter YuaJ
+D197_2_contig6_6	54.7	K16789	thiamine transporter	proton-coupled thiamine transporter YuaJ
+D197_2_contig6_6	54.7	K16789	thiamine transporter	putative proton-coupled thiamine transporter YuaJ
+D197_2_contig6_6	54.7	K16789	thiamine transporter	proton-coupled thiamine transporter YuaJ
+D197_2_contig6_8	50.7	K06929	uncharacterized protein	CoA-binding domain-containing protein
+D197_2_contig6_10	62.1	K19221	cob(I)alamin adenosyltransferase [EC:2.5.1.17]	Cob(I)alamin adenosyltransferase
+D197_2_contig6_10	63.0	K19221	cob(I)alamin adenosyltransferase [EC:2.5.1.17]	cob(I)alamin adenosyltransferase
+D197_2_contig6_10	62.6	K19221	cob(I)alamin adenosyltransferase [EC:2.5.1.17]	Cob(I)alamin adenosyltransferase
+D197_2_contig6_12	53.5	K17686	Cu+-exporting ATPase [EC:3.6.3.54]	copA
+D197_2_contig6_12	54.3	K17686	Cu+-exporting ATPase [EC:3.6.3.54]	copper-(or silver)-translocating P-type ATPase (EC:3.6.3.4)
+D197_2_contig6_15	46.0	K13993	HSP20 family protein	small heat shock protein HSP20
+D197_2_contig6_16	43.1	K07108	uncharacterized protein	conserved hypothetical protein
+D197_2_contig6_17	55.7	K07166	ACT domain-containing protein	ACT domain-containing protein
+D197_2_contig6_18	56.0	K09157	uncharacterized protein	hypothetical protein
+D197_2_contig7_1	58.3	K01251	adenosylhomocysteinase [EC:3.3.1.1]	adenosylhomocysteinase
+D197_2_contig7_2	38.5	K09148	uncharacterized protein	putative protein of unknown function DUF424
+D197_2_contig7_2	37.5	K09148	uncharacterized protein	hypothetical protein
+D197_2_contig7_3	46.1	K07178	RIO kinase 1 [EC:2.7.11.1]	putative serine/threonine protein kinase
+D197_2_contig7_4	51.9	K06961	ribosomal RNA assembly protein	putative RNA-binding protein containing KH domain
+D197_2_contig7_5	41.2	K03167	DNA topoisomerase VI subunit B [EC:5.99.1.3]	DNA topoisomerase VI subunit B
+D197_2_contig7_5	48.2	K03167	DNA topoisomerase VI subunit B [EC:5.99.1.3]	DNA topoisomerase VI subunit B (EC:5.99.1.3)
+D197_2_contig7_6	69.0	K03166	DNA topoisomerase VI subunit A [EC:5.99.1.3]	DNA topoisomerase
+D197_2_contig7_8	47.2	K00330	NADH-quinone oxidoreductase subunit A [EC:1.6.5.3]	NADH-ubiquinone oxidoreductase subunit A
+D197_2_contig7_8	46.3	K00330	NADH-quinone oxidoreductase subunit A [EC:1.6.5.3]	NADH-ubiquinone/plastoquinone oxidoreductase, chain 3
+D197_2_contig7_9	61.3	K00331	NADH-quinone oxidoreductase subunit B [EC:1.6.5.3]	NADH-quinone oxidoreductase subunit B (EC:1.6.99.5)
+D197_2_contig7_9	61.3	K00331	NADH-quinone oxidoreductase subunit B [EC:1.6.5.3]	NADH-quinone oxidoreductase subunit B
+D197_2_contig7_9	61.3	K00331	NADH-quinone oxidoreductase subunit B [EC:1.6.5.3]	NADH-quinone oxidoreductase subunit B
+D197_2_contig7_9	61.3	K00331	NADH-quinone oxidoreductase subunit B [EC:1.6.5.3]	NADH-quinone oxidoreductase subunit B
+D197_2_contig7_9	61.3	K00331	NADH-quinone oxidoreductase subunit B [EC:1.6.5.3]	NADH-quinone oxidoreductase subunit B
+D197_2_contig7_10	48.7	K00332	NADH-quinone oxidoreductase subunit C [EC:1.6.5.3]	nuoC
+D197_2_contig7_10	50.6	K00332	NADH-quinone oxidoreductase subunit C [EC:1.6.5.3]	nuoC
+D197_2_contig7_10	50.0	K00332	NADH-quinone oxidoreductase subunit C [EC:1.6.5.3]	NADH:ubiquinone oxidoreductase 27 kD subunit (EC:1.6.5.3)
+D197_2_contig7_11	57.9	K00333	NADH-quinone oxidoreductase subunit D [EC:1.6.5.3]	NADH dehydrogenase subunit D (EC:1.6.5.3)
+D197_2_contig7_11	57.9	K00333	NADH-quinone oxidoreductase subunit D [EC:1.6.5.3]	nuoD
+D197_2_contig7_11	56.5	K00333	NADH-quinone oxidoreductase subunit D [EC:1.6.5.3]	nuoD2
+D197_2_contig7_11	58.2	K00333	NADH-quinone oxidoreductase subunit D [EC:1.6.5.3]	nuoD1
+D197_2_contig7_12	49.4	K00337	NADH-quinone oxidoreductase subunit H [EC:1.6.5.3]	NADH-ubiquinone oxidoreductase
+D197_2_contig7_12	51.5	K00337	NADH-quinone oxidoreductase subunit H [EC:1.6.5.3]	nuoH
+D197_2_contig7_12	52.2	K00337	NADH-quinone oxidoreductase subunit H [EC:1.6.5.3]	NADH dehydrogenase subunit H (EC:1.6.5.3)
+D197_2_contig7_13	62.4	K00338	NADH-quinone oxidoreductase subunit I [EC:1.6.5.3]	nuoI
+D197_2_contig7_13	63.1	K00338	NADH-quinone oxidoreductase subunit I [EC:1.6.5.3]	nuoI
+D197_2_contig7_14	48.6	K00339	NADH-quinone oxidoreductase subunit J [EC:1.6.5.3]	nuoJ
+D197_2_contig7_15	52.9	K00340	NADH-quinone oxidoreductase subunit K [EC:1.6.5.3]	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K) (EC:1.6.5.3)
+D197_2_contig7_15	52.9	K00340	NADH-quinone oxidoreductase subunit K [EC:1.6.5.3]	nuoK
+D197_2_contig7_16	55.1	K00342	NADH-quinone oxidoreductase subunit M [EC:1.6.5.3]	proton-translocating NADH-quinone oxidoreductase subunit M (EC:1.6.99.5)
+D197_2_contig8_6	33.1	K08651	thermitase [EC:3.4.21.66]	peptidase S8/S53 subtilisin kexin sedolisin
+D197_2_contig8_6	32.1	K08651	thermitase [EC:3.4.21.66]	alkaline serine protease
+D197_2_contig8_9	32.8	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	hypothetical protein
+D197_2_contig9_1	35.6	K02683	DNA primase small subunit [EC:2.7.7.-]	DNA primase small subunit
+D197_2_contig9_2	40.2	K18882	DNA primase large subunit [EC:2.7.7.-]	DNA primase, large subunit (EC:2.7.7.-)
+D197_2_contig9_2	40.4	K18882	DNA primase large subunit [EC:2.7.7.-]	priB
+D197_2_contig9_2	40.6	K18882	DNA primase large subunit [EC:2.7.7.-]	DNA primase
+D197_2_contig9_3	53.0	K04802	proliferating cell nuclear antigen	pcn
+D197_2_contig9_5	41.1	K03057	DNA-directed RNA polymerase subunit M	rpoM1
+D197_2_contig9_5	40.9	K03057	DNA-directed RNA polymerase subunit M	transcription factor S, archaeal
+D197_2_contig9_5	44.6	K03057	DNA-directed RNA polymerase subunit M	transcription termination factor Tfs
+D197_2_contig9_7	52.6	K14170	chorismate mutase / prephenate dehydratase [EC:5.4.99.5 4.2.1.51]	chorismate mutase I/prephenate dehydratase (EC:4.2.1.51)
+D197_2_contig9_7	53.8	K14170	chorismate mutase / prephenate dehydratase [EC:5.4.99.5 4.2.1.51]	pheA
+D197_2_contig9_8	50.2	K00826	branched-chain amino acid aminotransferase [EC:2.6.1.42]	branched-chain amino acid aminotransferase, group I (EC:2.6.1.42)
+D197_2_contig9_8	50.0	K00826	branched-chain amino acid aminotransferase [EC:2.6.1.42]	ilvE1
+D197_2_contig9_8	52.0	K00826	branched-chain amino acid aminotransferase [EC:2.6.1.42]	branched-chain amino acid aminotransferase
+D197_2_contig9_9	34.6	K07573	exosome complex component CSL4	RNA-binding protein
+D197_2_contig9_10	40.2	K07561	2-(3-amino-3-carboxypropyl)histidine synthase [EC:2.5.1.108]	diphthamide biosynthesis protein
+D197_2_contig9_11	53.6	K02866	large subunit ribosomal protein L10e	50S ribosomal protein L16
+D197_2_contig10_2	51.4	K01652	acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	thiamine pyrophosphate-dependent enzyme, possible carboligase or decarboxylase
+D197_2_contig10_2	52.8	K01652	acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	thiamine pyrophosphate domain-containing TPP-binding protein
+D197_2_contig10_3	52.8	K00135	succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	succinate-semialdehyde dehydrogenase (NAD(P)+) (EC:1.2.1.16)
+D197_2_contig10_4	44.3	K00392	sulfite reductase (ferredoxin) [EC:1.8.7.1]	putative Sulfite reductase, contains SirA-like domain (EC:1.8.7.1)
+D197_2_contig10_4	43.4	K00392	sulfite reductase (ferredoxin) [EC:1.8.7.1]	sir1
+D197_2_contig10_6	33.0	K01011	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	sulfurtransferase
+D197_2_contig10_7	41.0	K03183	demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	Methyltransferase type 11
+D197_2_contig10_7	40.5	K03183	demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	Methyltransferase type 11
+D197_2_contig10_8	38.0	K03635	molybdopterin synthase catalytic subunit [EC:2.8.1.12]	molybdenum cofactor biosynthesis protein E
+D197_2_contig10_9	43.4	K07060	endoribonuclease Nob1 [EC:3.1.-.-]	PIN domain protein
+D197_2_contig10_10	37.7	K00858	NAD+ kinase [EC:2.7.1.23]	ATP-NAD/AcoX kinase
+D197_2_contig10_10	37.7	K00858	NAD+ kinase [EC:2.7.1.23]	ppnK
+D197_2_contig10_10	38.1	K00858	NAD+ kinase [EC:2.7.1.23]	ATP-NAD/AcoX kinase
+D197_2_contig10_11	72.7	K03263	translation initiation factor 5A	eIF-5A
+D197_2_contig11_1	32.9	K08303	putative protease [EC:3.4.-.-]	peptidase U32
+D197_2_contig11_2	32.4	K14168	cytoplasmic tRNA 2-thiolation protein 1 [EC:2.7.7.-]	hypothetical protein
+D197_2_contig11_4	45.7	K03926	periplasmic divalent cation tolerance protein	uncharacterized protein involved in tolerance to divalent cations
+D197_2_contig11_5	42.6	K06965	protein pelota	mRNA surveillance protein Pelota
+D197_2_contig11_6	39.7	K02316	DNA primase [EC:2.7.7.-]	DNA primase
+D197_2_contig11_7	63.2	K03767	peptidyl-prolyl cis-trans isomerase A (cyclophilin A) [EC:5.2.1.8]	Peptidyl-prolyl cis-trans isomerase (rotamase)-cyclophilin family (EC:5.2.1.8)
+D197_2_contig11_8	42.3	K09005	uncharacterized protein	conserved hypothetical protein
+D197_2_contig11_8	37.3	K09005	uncharacterized protein	hypothetical protein
+D197_2_contig12_1	35.8	K01466	allantoinase [EC:3.5.2.5]	amidohydrolase
+D197_2_contig12_2	61.1	K00239	succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]	succinate dehydrogenase or fumarate reductase, flavoprotein subunit (EC:1.3.99.1)
+D197_2_contig12_3	37.5	K00241	succinate dehydrogenase / fumarate reductase, cytochrome b subunit	sdhC
+D197_2_contig12_3	36.6	K00241	succinate dehydrogenase / fumarate reductase, cytochrome b subunit	succinate dehydrogenase subunit C (EC:1.3.5.1)
+D197_2_contig12_4	44.3	K00242	succinate dehydrogenase / fumarate reductase, membrane anchor subunit	succinate dehydrogenase subunit (EC:1.3.99.1)
+D197_2_contig12_5	48.1	K00240	succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]	succinate dehydrogenase iron-sulfur subunit (EC:1.3.5.1)
+D197_2_contig12_6	40.5	K01890	phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	phenylalanyl-tRNA synthetase beta subunit (EC:6.1.1.20)
+D197_2_contig12_7	49.2	K01890	phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	pheT
+D197_2_contig12_8	48.0	K01889	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	pheS
+D197_2_contig12_8	48.0	K01889	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	pheS
+D197_2_contig12_8	48.2	K01889	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	phenylalanyl-tRNA synthetase, alpha subunit (EC:6.1.1.20)
+D197_2_contig12_9	57.6	K01867	tryptophanyl-tRNA synthetase [EC:6.1.1.2]	trpS
+D197_2_contig12_9	57.3	K01867	tryptophanyl-tRNA synthetase [EC:6.1.1.2]	trpS
+D197_2_contig12_9	58.2	K01867	tryptophanyl-tRNA synthetase [EC:6.1.1.2]	trpS
+D197_2_contig13_6	44.3	K04085	tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]	FAD-dependent pyridine nucleotide-disulfide oxidoreductase
+D197_2_contig13_7	35.1	K03593	ATP-binding protein involved in chromosome partitioning	ParA/MinD-like ATPase
+D197_2_contig13_8	50.3	K04487	cysteine desulfurase [EC:2.8.1.7]	iscS1
+D197_2_contig13_8	50.3	K04487	cysteine desulfurase [EC:2.8.1.7]	iscS1
+D197_2_contig13_8	50.0	K04487	cysteine desulfurase [EC:2.8.1.7]	nifS
+D197_2_contig13_8	52.0	K04487	cysteine desulfurase [EC:2.8.1.7]	cysteine desulfurase (EC:2.8.1.7)
+D197_2_contig13_9	71.0	K04488	nitrogen fixation protein NifU and related proteins	FeS cluster assembly scaffold protein NifU, Clostridium type
+D197_2_contig13_10	62.5	K17830	digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]	geranylgeranyl reductase
+D197_2_contig13_11	52.0	K00024	malate dehydrogenase [EC:1.1.1.37]	mdh
+D197_2_contig13_12	36.9	K07108	uncharacterized protein	hypothetical protein
+D197_2_contig14_1	38.5	K07059	uncharacterized protein	rhomboid family protein
+D197_2_contig14_2	41.8	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	ptr1
+D197_2_contig14_3	35.4	K02492	glutamyl-tRNA reductase [EC:1.2.1.70]	hemA_1
+D197_2_contig14_4	64.5	K01845	glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]	hemL_4
+D197_2_contig14_5	47.1	K01749	hydroxymethylbilane synthase [EC:2.5.1.61]	porphobilinogen deaminase (EC:2.5.1.61)
+D197_2_contig14_6	55.5	K02303	uroporphyrin-III C-methyltransferase [EC:2.1.1.107]	sumT_1
+D197_2_contig15_1	39.5	K01807	ribose 5-phosphate isomerase A [EC:5.3.1.6]	ribose-5-phosphate isomerase A (EC:5.3.1.6)
+D197_2_contig15_3	46.3	K02922	large subunit ribosomal protein L37e	rpl37e
+D197_2_contig15_4	71.8	K04796	small nuclear ribonucleoprotein	putative small nuclear ribonucleoprotein
+D197_2_contig15_4	71.8	K04796	small nuclear ribonucleoprotein	putative small nuclear ribonucleoprotein
+D197_2_contig15_4	71.8	K04796	small nuclear ribonucleoprotein	Small nuclear ribonucleoprotein, LSM family
+D197_2_contig15_5	38.7	K07575	PUA domain protein	putative PUA domain-containing protein
+D197_2_contig15_6	55.4	K09152	uncharacterized protein	putative protein of unknown function DUF552
+D197_2_contig15_6	55.4	K09152	uncharacterized protein	Protein of unknown function (DUF552)
+D197_2_contig15_7	56.6	K07041	uncharacterized protein	beta-lactamase
+D197_2_contig15_8	60.7	K03433	proteasome beta subunit [EC:3.4.25.1]	psmB2
+D197_2_contig15_8	60.2	K03433	proteasome beta subunit [EC:3.4.25.1]	proteasome endopeptidase complex, beta component (EC:3.4.25.1)
+D197_2_contig15_9	54.5	K01874	methionyl-tRNA synthetase [EC:6.1.1.10]	methionyl-tRNA synthetase
+D197_2_contig15_9	57.4	K01874	methionyl-tRNA synthetase [EC:6.1.1.10]	methionyl-tRNA synthetase (EC:6.1.1.10)
+D197_2_contig15_9	57.0	K01874	methionyl-tRNA synthetase [EC:6.1.1.10]	metG
+D197_2_contig15_10	57.1	K01251	adenosylhomocysteinase [EC:3.3.1.1]	adenosylhomocysteinase
+D197_2_contig16_4	27.9	K07333	archaeal flagellar protein FlaJ	hypothetical protein
+D197_2_contig16_4	27.6	K07333	archaeal flagellar protein FlaJ	hypothetical protein
+D197_2_contig16_4	28.4	K07333	archaeal flagellar protein FlaJ	hypothetical protein
+D197_2_contig16_5	47.0	K07332	archaeal flagellar protein FlaI	type II secretion system-like protein E
+D197_2_contig16_7	68.2	K04748	nitric oxide reductase NorQ protein	putative ATPase, AAA-5
+D197_2_contig19_2	42.0	K07398	conserved protein with predicted RNA binding PUA domain	PUA domain-containing protein
+D197_2_contig19_3	36.1	K03627	putative transcription factor	transcription factor
+D197_2_contig19_4	50.3	K03665	GTPase	putative GTP-binding protein
+D197_2_contig19_5	54.1	K07254	tRNA (cytidine56-2'-O)-methyltransferase [EC:2.1.1.206]	putative tRNA ribose 2'-O-methyltransferase
+D197_2_contig19_5	53.5	K07254	tRNA (cytidine56-2'-O)-methyltransferase [EC:2.1.1.206]	hypothetical protein
+D197_2_contig19_5	51.4	K07254	tRNA (cytidine56-2'-O)-methyltransferase [EC:2.1.1.206]	hypothetical protein
+D197_2_contig19_6	66.5	K03136	transcription initiation factor TFIIE subunit alpha	tfe
+D197_2_contig19_7	44.3	K14165	atypical dual specificity phosphatase [EC:3.1.3.16 3.1.3.48]	protein tyrosine phosphatase
+D197_2_contig19_8	46.8	K06932	tRNA(Ile2)-agmatinylcytidine synthase [EC:6.3.4.22]	hypothetical protein
+D197_2_contig19_8	46.0	K06932	tRNA(Ile2)-agmatinylcytidine synthase [EC:6.3.4.22]	hypothetical protein
+D197_2_contig20_2	42.5	K03593	ATP-binding protein involved in chromosome partitioning	hypothetical protein
+D197_2_contig20_2	41.4	K03593	ATP-binding protein involved in chromosome partitioning	hypothetical protein
+D197_2_contig20_4	47.8	K17758	NAD(P)H-hydrate epimerase [EC:5.1.99.6]	nnrD
+D197_2_contig20_4	47.8	K17758	NAD(P)H-hydrate epimerase [EC:5.1.99.6]	nnrD
+D197_2_contig20_4	45.3	K17758	NAD(P)H-hydrate epimerase [EC:5.1.99.6]	putative carbohydrate kinase
+D197_2_contig20_4	48.2	K17758	NAD(P)H-hydrate epimerase [EC:5.1.99.6]	carbohydrate kinase
+D197_2_contig20_4	46.2	K17758	NAD(P)H-hydrate epimerase [EC:5.1.99.6]	sugar kinase
+D197_2_contig20_5	59.6	K00759	adenine phosphoribosyltransferase [EC:2.4.2.7]	adenine phosphoribosyltransferase
+D197_2_contig20_6	63.9	K00772	5'-methylthioadenosine phosphorylase [EC:2.4.2.28]	methylthioadenosine phosphorylase
+D197_2_contig20_8	43.0	K00584	tetrahydromethanopterin S-methyltransferase subunit H [EC:2.1.1.86]	Tetrahydromethanopterin S-methyltransferase, subunit H (EC:2.1.1.86)
+D197_2_contig22_1	59.6	K03106	signal recognition particle subunit SRP54	signal peptide-binding domain protein
+D197_2_contig22_2	31.9	K07583	tRNA pseudouridine synthase 10 [EC:5.4.99.-]	pseudouridylate synthase-like protein
+D197_2_contig22_3	49.5	K02889	large subunit ribosomal protein L21e	rpl21e
+D197_2_contig22_4	51.0	K03051	DNA-directed RNA polymerase subunit F [EC:2.7.7.6]	rpb4
+D197_2_contig22_5	58.4	K07572	putative nucleotide binding protein	hypothetical protein
+D197_2_contig22_5	59.4	K07572	putative nucleotide binding protein	hypothetical protein
+D197_2_contig22_5	57.9	K07572	putative nucleotide binding protein	hypothetical protein
+D197_2_contig22_5	56.3	K07572	putative nucleotide binding protein	putative RNA-binding protein
+D197_2_contig22_6	42.0	K02528	16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]	Ribosomal RNA adenine methylase transferase
+D197_2_contig22_7	41.8	K02493	release factor glutamine methyltransferase [EC:2.1.1.297]	methylase
+D197_2_contig22_8	29.1	K02533	tRNA/rRNA methyltransferase [EC:2.1.1.-]	LasT
+D197_2_contig23_1	34.4	K08975	putative membrane protein	protein of unknown function DUF373
+D197_2_contig23_2	59.7	K15888	tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific] [EC:2.5.1.89]	uppS
+D197_2_contig23_3	61.9	K01939	adenylosuccinate synthase [EC:6.3.4.4]	adenylosuccinate synthetase (EC:6.3.4.4)
+D197_2_contig23_3	61.0	K01939	adenylosuccinate synthase [EC:6.3.4.4]	purA
+D197_2_contig23_3	61.0	K01939	adenylosuccinate synthase [EC:6.3.4.4]	adenylosuccinate synthetase (EC:6.3.4.4)
+D197_2_contig23_3	61.1	K01939	adenylosuccinate synthase [EC:6.3.4.4]	purA
+D197_2_contig23_3	61.0	K01939	adenylosuccinate synthase [EC:6.3.4.4]	adenylosuccinate synthetase (EC:6.3.4.4)
+D197_2_contig23_7	46.2	K01591	orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]	putative orotidine 5'-phosphate decarboxylase
+D197_2_contig23_8	34.8	K02334	DNA polymerase bacteriophage-type [EC:2.7.7.7]	DNA polymerase
+D197_2_contig23_9	31.1	K01092	myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	inositol monophosphatase/fructose-1,6-bisphosphatase family protein (EC:3.1.3.25)
+D197_2_contig23_10	54.8	K01858	myo-inositol-1-phosphate synthase [EC:5.5.1.4]	myo-inositol-1-phosphate synthase (EC:5.5.1.4)
+D197_2_contig23_10	54.1	K01858	myo-inositol-1-phosphate synthase [EC:5.5.1.4]	ino
+D197_2_contig23_10	52.9	K01858	myo-inositol-1-phosphate synthase [EC:5.5.1.4]	ino1
+D197_2_contig24_2	37.6	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	dpnA
+D197_2_contig25_3	35.2	K13787	geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29]	Dimethylallyltranstransferase (EC:2.5.1.1)
+D197_2_contig26_6	29.7	K12984	(heptosyl)LPS beta-1,4-glucosyltransferase [EC:2.4.1.-]	family 2 glycosyl transferase
+D197_2_contig26_8	33.7	K01709	CDP-glucose 4,6-dehydratase [EC:4.2.1.45]	hypothetical protein
+D197_2_contig27_1	54.0	K01916	NAD+ synthase [EC:6.3.1.5]	NAD+ synthetase
+D197_2_contig27_3	43.9	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	acetyl-CoA acetyltransferase
+D197_2_contig27_3	42.7	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	paaJ
+D197_2_contig27_3	42.9	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	acetyl-CoA acetyltransferase
+D197_2_contig27_3	42.3	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	acetyl-CoA acetyltransferase (EC:2.3.1.9)
+D197_2_contig27_3	42.9	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	atoB
+D197_2_contig27_3	42.2	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	nonspecific lipid-transfer protein (acethyl CoA synthetase)
+D197_2_contig27_3	42.6	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	acetyl-CoA acetyltransferase (EC:2.3.1.9)
+D197_2_contig27_5	50.6	K15635	2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	phosphoglycerate mutase (EC:5.4.2.1)
+D197_2_contig27_6	54.6	K09128	uncharacterized protein	hypothetical protein
+D197_2_contig27_7	50.0	K09123	uncharacterized protein	aconitase (EC:4.2.1.3)
+D197_2_contig28_2	36.2	K03635	molybdopterin synthase catalytic subunit [EC:2.8.1.12]	molybdenum cofactor biosynthesis protein D/E
+D197_2_contig28_2	36.2	K03635	molybdopterin synthase catalytic subunit [EC:2.8.1.12]	molybdenum cofactor biosynthesis protein D/E
+D197_2_contig28_2	36.2	K03635	molybdopterin synthase catalytic subunit [EC:2.8.1.12]	molybdenum cofactor biosynthesis protein D/E
+D197_2_contig28_2	38.3	K03635	molybdopterin synthase catalytic subunit [EC:2.8.1.12]	molybdenum biosynthesis protein MoaD
+D197_2_contig28_2	35.9	K03636	molybdopterin synthase sulfur carrier subunit	MoaD family protein
+D197_2_contig28_3	34.6	K15865	threonylcarbamoyladenosine tRNA methylthiotransferase CDKAL1 [EC:2.8.4.5]	RNA modification enzyme, MiaB family domain-containing protein (EC:1.3.1.74)
+D197_2_contig28_4	26.5	K03531	cell division protein FtsZ	cell division protein FtsZ
+D197_2_contig28_4	26.5	K03531	cell division protein FtsZ	Cell division protein ftsZ
+D197_2_contig28_5	51.2	K02910	large subunit ribosomal protein L31e	rpl31e
+D197_2_contig28_5	52.2	K02910	large subunit ribosomal protein L31e	ribosomal protein L31E
+D197_2_contig28_6	51.1	K02924	large subunit ribosomal protein L39e	rpl39e
+D197_2_contig28_7	49.4	K06875	programmed cell death protein 5	DNA-binding protein
+D197_2_contig28_8	52.7	K02966	small subunit ribosomal protein S19e	rps19e
+D197_2_contig28_8	52.0	K02966	small subunit ribosomal protein S19e	rps19e
+D197_2_contig28_8	52.0	K02966	small subunit ribosomal protein S19e	SSU ribosomal protein S19E
+D197_2_contig28_9	50.0	K03540	ribonuclease P protein subunit RPR2 [EC:3.1.26.5]	putative ribonuclease P protein component 4
+D197_2_contig28_10	55.1	K14568	rRNA small subunit pseudouridine methyltransferase Nep1 [EC:2.1.1.260]	putative ribosome biogenesis protein
+D197_2_contig28_11	54.2	K14568	rRNA small subunit pseudouridine methyltransferase Nep1 [EC:2.1.1.260]	putative ribosome biogenesis protein
+D197_2_contig29_1	56.5	K00194	acetyl-CoA decarbonylase/synthase complex subunit delta [EC:2.1.1.245]	CO dehydrogenase/acetyl-CoA synthase subunit delta
+D197_2_contig29_2	48.8	K00197	acetyl-CoA decarbonylase/synthase complex subunit gamma [EC:2.1.1.245]	acetyl-CoA decarbonylase/synthase complex subunit gamma (EC:2.1.1.-)
+D197_2_contig29_4	45.3	K03738	aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5]	aldehyde ferredoxin oxidoreductase (EC:1.2.7.5)
+D197_2_contig29_5	35.0	K02025	multiple sugar transport system permease protein	transmembrane transporter
+D197_2_contig29_5	33.3	K02025	multiple sugar transport system permease protein	binding-protein-dependent transport system inner membrane protein
+D197_2_contig29_6	37.4	K02026	multiple sugar transport system permease protein	putative ABC-type sugar transport system, permease component
+D197_2_contig29_6	37.3	K02026	multiple sugar transport system permease protein	binding-protein-dependent transport system inner membrane protein
+D197_2_contig30_1	37.4	K13317	NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	eryBIII
+D197_2_contig30_2	35.5	K13010	perosamine synthetase [EC:2.6.1.102]	hypothetical protein
+D197_2_contig30_4	61.6	K00067	dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]	dTDP-4-dehydrorhamnose reductase
+D197_2_contig30_5	70.3	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	UDP-N-acetylglucosamine 2-epimerase
+D197_2_contig31_4	30.2	K04014	protein NrfC	4Fe-4S ferredoxin
+D197_2_contig31_4	29.4	K04014	protein NrfC	4Fe-4S ferredoxin
+D197_2_contig31_5	30.1	K03738	aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5]	aldehyde ferredoxin oxidoreductase (EC:1.2.7.5)
+D197_2_contig32_1	34.1	K06176	tRNA pseudouridine13 synthase [EC:5.4.99.27]	tRNA pseudouridine synthase D TruD
+D197_2_contig32_2	51.0	K04799	flap endonuclease-1 [EC:3.-.-.-]	flap endonuclease-1
+D197_2_contig32_2	51.6	K04799	flap endonuclease-1 [EC:3.-.-.-]	flap endonuclease-1
+D197_2_contig32_2	51.6	K04799	flap endonuclease-1 [EC:3.-.-.-]	fen
+D197_2_contig32_3	62.9	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily (EC:3.6.4.6)
+D197_2_contig32_4	41.9	K03232	elongation factor 1-beta	ef1b
+D197_2_contig32_5	64.8	K07580	Zn-ribbon RNA-binding protein	putative Zn-ribbon RNA-binding protein
+D197_2_contig32_6	29.6	K17830	digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]	2,3-di-o-geranylgeranylglyceryl phosphate reductase (EC:1.3.99.-)
+D197_2_contig32_7	57.4	K04794	peptidyl-tRNA hydrolase, PTH2 family [EC:3.1.1.29]	peptidyl-tRNA hydrolase (EC:3.1.1.29)
+D197_2_contig32_7	53.5	K04794	peptidyl-tRNA hydrolase, PTH2 family [EC:3.1.1.29]	peptidyl-tRNA hydrolase (EC:3.1.1.29)
+D197_2_contig33_3	36.2	K08482	circadian clock protein KaiC	circadian clock protein KaiC
+D197_2_contig33_3	36.6	K08482	circadian clock protein KaiC	circadian clock protein KaiC
+D197_2_contig33_3	36.6	K08482	circadian clock protein KaiC	kaiC
+D197_2_contig33_3	36.6	K08482	circadian clock protein KaiC	kaiC
+D197_2_contig33_3	36.6	K08482	circadian clock protein KaiC	kaiC
+D197_2_contig33_3	35.8	K08482	circadian clock protein KaiC	circadian clock protein KaiC
+D197_2_contig33_3	36.2	K08482	circadian clock protein KaiC	kaiC
+D197_2_contig33_3	36.2	K08482	circadian clock protein KaiC	circadian clock protein KaiC
+D197_2_contig33_3	36.2	K08482	circadian clock protein KaiC	kaiC
+D197_2_contig33_3	36.2	K08482	circadian clock protein KaiC	circadian clock protein KaiC
+D197_2_contig33_3	36.2	K08482	circadian clock protein KaiC	circadian clock protein KaiC (EC:2.7.11.1)
+D197_2_contig33_3	36.2	K08482	circadian clock protein KaiC	kaiC
+D197_2_contig33_3	36.2	K08482	circadian clock protein KaiC	kaiC
+D197_2_contig33_5	50.0	K13038	phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36 6.3.2.5]	phosphopantothenoylcysteine decarboxylase/phosphopantothenate/cysteine ligase (EC:6.3.2.5)
+D197_2_contig33_6	37.3	K13038	phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36 6.3.2.5]	coaBC
+D197_2_contig33_6	39.7	K13038	phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36 6.3.2.5]	phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase (EC:4.1.1.36 6.3.2.5)
+D197_2_contig34_1	63.6	K01880	glycyl-tRNA synthetase [EC:6.1.1.14]	glyS
+D197_2_contig34_2	37.3	K03809	NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	repressor
+D197_2_contig34_3	53.0	K07442	tRNA (adenine57-N1/adenine58-N1)-methyltransferase [EC:2.1.1.219 2.1.1.220]	putative tRNA methyltransferase complex GCD14 subunit
+D197_2_contig34_5	51.9	K02334	DNA polymerase bacteriophage-type [EC:2.7.7.7]	phage SPO1 DNA polymerase-like protein
+D197_2_contig34_5	53.0	K02334	DNA polymerase bacteriophage-type [EC:2.7.7.7]	phage SPO1 DNA polymerase-like protein
+D197_2_contig34_5	50.8	K02334	DNA polymerase bacteriophage-type [EC:2.7.7.7]	putative uracil DNA glycosylase superfamily protein
+D197_2_contig34_8	61.0	K01881	prolyl-tRNA synthetase [EC:6.1.1.15]	proS
+D197_2_contig34_8	59.5	K01881	prolyl-tRNA synthetase [EC:6.1.1.15]	proS
+D197_2_contig34_8	58.8	K01881	prolyl-tRNA synthetase [EC:6.1.1.15]	prolyl-tRNA synthetase (EC:6.1.1.15)
+D197_2_contig35_1	50.5	K01892	histidyl-tRNA synthetase [EC:6.1.1.21]	hisS
+D197_2_contig35_2	55.4	K04801	replication factor C small subunit	rfc
+D197_2_contig35_3	27.8	K09723	DNA replication factor GINS	hypothetical protein
+D197_2_contig35_3	27.5	K09723	DNA replication factor GINS	hypothetical protein
+D197_2_contig35_3	27.7	K09723	DNA replication factor GINS	hypothetical protein
+D197_2_contig35_4	51.9	K10726	replicative DNA helicase Mcm [EC:3.6.4.-]	mcm
+D197_2_contig35_5	50.2	K03726	helicase [EC:3.6.4.-]	RNA helicase
+D197_2_contig35_5	52.4	K03726	helicase [EC:3.6.4.-]	DEAD/DEAH box helicase
+D197_2_contig37_3	32.4	K15916	glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8]	glucose-6-phosphate/mannose-6-phosphate isomerase
+D197_2_contig37_4	41.6	K09497	T-complex protein 1 subunit epsilon	T-complex protein 1, epsilon subunit
+D197_2_contig37_4	41.8	K09497	T-complex protein 1 subunit epsilon	T-complex protein 1 epsilon subunit, putative
+D197_2_contig37_4	41.8	K09497	T-complex protein 1 subunit epsilon	hypothetical protein
+D197_2_contig37_4	41.8	K09497	T-complex protein 1 subunit epsilon	T-complex protein 1 subunit epsilon
+D197_2_contig37_4	41.9	K09497	T-complex protein 1 subunit epsilon	hypothetical protein
+D197_2_contig37_6	69.7	K00031	isocitrate dehydrogenase [EC:1.1.1.42]	icd
+D197_2_contig38_3	54.6	K01990	ABC-2 type transport system ATP-binding protein	daunorubicin resistance ABC transporter ATP-binding protein
+D197_2_contig38_3	54.6	K01990	ABC-2 type transport system ATP-binding protein	ABC-type transport system, ATPase component
+D197_2_contig38_3	58.0	K01990	ABC-2 type transport system ATP-binding protein	daunorubicin resistance ABC transporter ATPase subunit (EC:3.6.3.25)
+D197_2_contig38_4	43.6	K01992	ABC-2 type transport system permease protein	ABC transporter permease
+D197_2_contig38_5	65.3	K02936	large subunit ribosomal protein L7Ae	LSU ribosomal protein L7AE
+D197_2_contig38_6	74.6	K02979	small subunit ribosomal protein S28e	rps28e
+D197_2_contig38_6	74.6	K02979	small subunit ribosomal protein S28e	ribosomal protein S28E/S33
+D197_2_contig38_7	58.6	K02896	large subunit ribosomal protein L24e	50S ribosomal protein L24e
+D197_2_contig38_7	58.6	K02896	large subunit ribosomal protein L24e	50S ribosomal protein L24e
+D197_2_contig38_7	58.6	K02896	large subunit ribosomal protein L24e	50S ribosomal protein L24e
+D197_2_contig38_7	58.6	K02896	large subunit ribosomal protein L24e	50S ribosomal protein L24
+D197_2_contig38_7	60.3	K02896	large subunit ribosomal protein L24e	rpl24e
+D197_2_contig38_8	63.4	K00940	nucleoside-diphosphate kinase [EC:2.7.4.6]	putative nucleoside diphosphate kinase
+D197_2_contig38_8	60.0	K00940	nucleoside-diphosphate kinase [EC:2.7.4.6]	ndk
+D197_2_contig38_9	70.1	K03243	translation initiation factor 5B	infB
+D197_2_contig38_9	69.3	K03243	translation initiation factor 5B	translation initiation factor 2
+D197_2_contig39_1	51.3	K00764	amidophosphoribosyltransferase [EC:2.4.2.14]	purF
+D197_2_contig39_1	51.3	K00764	amidophosphoribosyltransferase [EC:2.4.2.14]	amidophosphoribosyltransferase (EC:2.4.2.14)
+D197_2_contig39_2	51.1	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	purL
+D197_2_contig39_3	56.7	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	phosphoribosylformylglycinamidine synthase subunit I (EC:6.3.5.3)
+D197_2_contig39_3	56.7	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC:6.3.5.3)
+D197_2_contig39_3	56.3	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC:6.3.5.3)
+D197_2_contig39_3	56.3	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC:6.3.5.3)
+D197_2_contig39_3	55.8	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC:6.3.5.3)
+D197_2_contig39_3	55.8	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC:6.3.5.3)
+D197_2_contig39_4	56.3	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	purS
+D197_2_contig39_5	50.1	K01756	adenylosuccinate lyase [EC:4.3.2.2]	purB
+D197_2_contig40_3	66.1	K00053	ketol-acid reductoisomerase [EC:1.1.1.86]	ilvC
+D197_2_contig40_5	40.2	K03431	phosphoglucosamine mutase [EC:5.4.2.10]	phosphomannomutase
+D197_2_contig40_6	44.0	K00946	thiamine-monophosphate kinase [EC:2.7.4.16]	thiL
+D197_2_contig41_4	31.6	K03455	monovalent cation:H+ antiporter-2, CPA2 family	membrane protein of unknown function
+D197_2_contig42_2	47.7	K04479	DNA polymerase IV (archaeal DinB-like DNA polymerase) [EC:2.7.7.7]	DNA-directed DNA polymerase (EC:2.7.7.7)
+D197_2_contig42_3	51.6	K03265	peptide chain release factor subunit 1	prf1
+D197_2_contig42_3	53.3	K03265	peptide chain release factor subunit 1	peptide chain release factor subunit 1 (aeRF-1)
+D197_2_contig42_3	52.6	K03265	peptide chain release factor subunit 1	prf
+D197_2_contig42_4	61.5	K01873	valyl-tRNA synthetase [EC:6.1.1.9]	valS
+D197_2_contig44_1	46.5	K01649	2-isopropylmalate synthase [EC:2.3.3.13]	2-isopropylmalate synthase (EC:2.3.3.13)
+D197_2_contig44_3	70.7	K03432	proteasome alpha subunit [EC:3.4.25.1]	proteasome endopeptidase complex, archaeal, alpha subunit (EC:3.4.25.1)
+D197_2_contig44_3	70.3	K03432	proteasome alpha subunit [EC:3.4.25.1]	psmA1
+D197_2_contig44_4	50.4	K14574	ribosome maturation protein SDO1	Shwachman-Bodian-Diamond syndrome protein
+D197_2_contig44_5	55.3	K03679	exosome complex component RRP4	ecr
+D197_2_contig44_6	63.8	K11600	exosome complex component RRP41	ecx1
+D197_2_contig44_6	63.4	K11600	exosome complex component RRP41	ribosomal RNA-processing protein RRP41/SKI6
+D197_2_contig44_7	55.9	K12589	exosome complex component RRP42	ribosomal RNA-processing protein RRP42 (EC:3.1.13.-)
+D197_2_contig44_7	57.7	K12589	exosome complex component RRP42	exosome complex RNA-binding protein Rrp42
+D197_2_contig45_1	53.8	K03529	chromosome segregation protein	chromosome segregation protein SMC
+D197_2_contig45_2	35.1	K05896	segregation and condensation protein A	ScpA/B-like protein
+D197_2_contig45_3	40.1	K06024	segregation and condensation protein B	Chromosome segregation and condensation protein ScpB
+D197_2_contig45_3	45.0	K06024	segregation and condensation protein B	hypothetical protein
+D197_2_contig45_4	54.5	K02995	small subunit ribosomal protein S8e	rps8e
+D197_2_contig45_5	42.2	K03105	signal recognition particle subunit SRP19	srp19
+D197_2_contig45_6	43.6	K00555	tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase [EC:2.1.1.215 2.1.1.216]	trm
+D197_2_contig45_6	42.8	K00555	tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase [EC:2.1.1.215 2.1.1.216]	trm1
+D197_2_contig45_7	43.4	K02427	23S rRNA (uridine2552-2'-O)-methyltransferase [EC:2.1.1.166]	rlmE
+D197_2_contig45_9	43.5	K03124	transcription initiation factor TFIIB	tfb6
+D197_2_contig46_7	42.4	K10896	fanconi anemia group M protein	Hef nuclease
+D197_2_contig46_7	41.4	K10896	fanconi anemia group M protein	hef
+D197_2_contig46_7	41.4	K10896	fanconi anemia group M protein	ERCC4-like helicase
+D197_2_contig46_7	41.4	K10896	fanconi anemia group M protein	DEAD/DEAH box helicase
+D197_2_contig46_7	41.4	K10896	fanconi anemia group M protein	ATP-dependent RNA helicase
+D197_2_contig46_8	59.2	K03306	inorganic phosphate transporter, PiT family	putative low-affinity inorganic phosphate transporter
+D197_2_contig46_8	58.6	K03306	inorganic phosphate transporter, PiT family	pit
+D197_2_contig46_8	59.7	K03306	inorganic phosphate transporter, PiT family	inorganic phosphate transporter
+D197_2_contig48_1	53.1	K01956	carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	carA
+D197_2_contig48_1	53.1	K01956	carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	carbamoyl-phosphate synthase, small subunit (EC:6.3.5.5)
+D197_2_contig48_2	61.5	K01955	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	carB
+D197_2_contig48_2	58.8	K01955	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	carB
+D197_2_contig48_3	46.0	K02863	large subunit ribosomal protein L1	50S ribosomal protein L1
+D197_2_contig48_3	49.3	K02863	large subunit ribosomal protein L1	rpl
+D197_2_contig49_2	38.8	K00762	orotate phosphoribosyltransferase [EC:2.4.2.10]	pyrE
+D197_2_contig49_2	39.3	K00762	orotate phosphoribosyltransferase [EC:2.4.2.10]	pyrE
+D197_2_contig49_8	34.5	K11105	cell volume regulation protein A	Sodium/hydrogen exchanger
+D197_2_contig49_8	35.7	K11105	cell volume regulation protein A	transporter, CPA2 family
+D197_2_contig52_1	50.9	K03626	nascent polypeptide-associated complex subunit alpha	putative nascent polypeptide-associated complex protein
+D197_2_contig52_1	49.1	K03626	nascent polypeptide-associated complex subunit alpha	putative nascent polypeptide-associated complex protein
+D197_2_contig52_1	49.1	K03626	nascent polypeptide-associated complex subunit alpha	Nascent polypeptide associated complex NAC
+D197_2_contig52_3	35.9	K02119	V/A-type H+-transporting ATPase subunit C	ATPase
+D197_2_contig52_4	33.0	K02123	V/A-type H+-transporting ATPase subunit I	V-type H+-transporting ATPase subunit I (EC:3.6.3.14)
+D197_2_contig52_5	53.1	K02122	V/A-type H+-transporting ATPase subunit F	atpF
+D197_2_contig52_5	53.1	K02122	V/A-type H+-transporting ATPase subunit F	archaeal/vacuolar-type H+-ATPase subunit F (EC:4.2.1.20)
+D197_2_contig52_6	25.0	K02121	V/A-type H+-transporting ATPase subunit E	archaeal/vacuolar-type H -ATPase subunit E (EC:3.6.3.14)
+D197_2_contig53_2	32.0	K09717	uncharacterized protein	DNA polymerase subunit beta
+D197_2_contig53_2	31.8	K09717	uncharacterized protein	DNA polymerase beta domain-containing protein region
+D197_2_contig53_3	35.9	K09717	uncharacterized protein	hypothetical protein
+D197_2_contig53_4	41.9	K00203	formylmethanofuran dehydrogenase subunit D [EC:1.2.99.5]	molydopterin dinucleotide-binding region
+D197_2_contig53_5	50.8	K00201	formylmethanofuran dehydrogenase subunit B [EC:1.2.99.5]	formylmethanofuran dehydrogenase subunit B (EC:1.2.99.5)
+D197_2_contig53_6	55.5	K00200	formylmethanofuran dehydrogenase subunit A [EC:1.2.99.5]	formylmethanofuran dehydrogenase, subunit a (EC:1.2.99.5)
+D197_2_contig53_6	55.5	K00200	formylmethanofuran dehydrogenase subunit A [EC:1.2.99.5]	tungsten formylmethanofuran dehydrogenase subunit A
+D197_2_contig54_2	56.1	K05826	alpha-aminoadipate/glutamate carrier protein LysW	putative lysine biosynthesis protein LysW
+D197_2_contig54_2	56.1	K05826	alpha-aminoadipate/glutamate carrier protein LysW	hypothetical protein
+D197_2_contig54_3	43.9	K01755	argininosuccinate lyase [EC:4.3.2.1]	argininosuccinate lyase
+D197_2_contig54_3	43.3	K01755	argininosuccinate lyase [EC:4.3.2.1]	argininosuccinate lyase
+D197_2_contig54_4	62.3	K01940	argininosuccinate synthase [EC:6.3.4.5]	argG
+D197_2_contig54_6	53.3	K09738	uncharacterized protein	hypothetical protein
+D197_2_contig55_1	40.9	K01271	Xaa-Pro dipeptidase [EC:3.4.13.9]	peptidase M24
+D197_2_contig55_3	41.7	K01759	lactoylglutathione lyase [EC:4.4.1.5]	glyoxalase I (EC:4.4.1.5)
+D197_2_contig55_3	40.9	K01759	lactoylglutathione lyase [EC:4.4.1.5]	lactoylglutathione lyase (EC:4.4.1.5)
+D197_2_contig55_4	47.0	K02039	phosphate transport system protein	putative phosphate uptake regulator, PhoU
+D197_2_contig55_5	61.7	K02036	phosphate transport system ATP-binding protein [EC:3.6.3.27]	phosphate ABC transporter ATPase
+D197_2_contig55_5	62.1	K02036	phosphate transport system ATP-binding protein [EC:3.6.3.27]	phosphate ABC transporter ATPase
+D197_2_contig55_5	62.1	K02036	phosphate transport system ATP-binding protein [EC:3.6.3.27]	phosphate ABC transporter ATPase
+D197_2_contig55_5	60.4	K02036	phosphate transport system ATP-binding protein [EC:3.6.3.27]	pstB
+D197_2_contig55_5	63.2	K02036	phosphate transport system ATP-binding protein [EC:3.6.3.27]	Phosphate transport ATP-binding protein PstB
+D197_2_contig55_6	60.8	K02038	phosphate transport system permease protein	pstA
+D197_2_contig56_1	61.8	K06942	uncharacterized protein	ychF
+D197_2_contig56_1	64.3	K06942	uncharacterized protein	translation-associated GTPase
+D197_2_contig56_1	63.2	K06942	uncharacterized protein	GTP-binding and nucleic acid-binding protein YchF
+D197_2_contig56_1	63.2	K06942	uncharacterized protein	GTP-binding and nucleic acid-binding protein YchF
+D197_2_contig56_2	47.1	K00858	NAD+ kinase [EC:2.7.1.23]	NAD(+)/NADH kinase (EC:2.7.1.-)
+D197_2_contig56_3	47.9	K00767	nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	nadC
+D197_2_contig56_3	47.1	K00767	nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	nicotinate-nucleotide pyrophosphorylase (EC:2.4.2.19)
+D197_2_contig56_3	47.9	K00767	nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	nadC
+D197_2_contig56_3	47.9	K00767	nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	nadC
+D197_2_contig56_4	48.1	K06989	aspartate dehydrogenase [EC:1.4.1.21]	aspartate dehydrogenase (EC:1.4.1.21)
+D197_2_contig56_5	60.7	K03517	quinolinate synthase [EC:2.5.1.72]	Quinolinate synthase
+D197_2_contig56_6	47.9	K02984	small subunit ribosomal protein S3Ae	30S ribosomal protein S3
+D197_2_contig57_1	55.7	K05829	LysW-gamma-L-alpha-aminoadipyl-6-phosphate/LysW-L-glutamyl-5-phosphate reductase [EC:1.2.1.-]	N-acetyl-gamma-glutamyl-phosphate reductase (EC:1.2.1.38)
+D197_2_contig57_1	55.4	K05829	LysW-gamma-L-alpha-aminoadipyl-6-phosphate/LysW-L-glutamyl-5-phosphate reductase [EC:1.2.1.-]	argC
+D197_2_contig57_1	55.7	K05829	LysW-gamma-L-alpha-aminoadipyl-6-phosphate/LysW-L-glutamyl-5-phosphate reductase [EC:1.2.1.-]	argC
+D197_2_contig57_2	58.3	K05828	LysW-gamma-L-alpha-aminoadipate/LysW-L-glutamate kinase [EC:2.7.2.-]	N-acetylglutamate kinase (EC:2.7.2.8)
+D197_2_contig57_2	58.3	K05828	LysW-gamma-L-alpha-aminoadipate/LysW-L-glutamate kinase [EC:2.7.2.-]	argB
+D197_2_contig57_3	53.3	K05830	LysW-gamma-L-lysine/LysW-L-ornithine aminotransferase [EC:2.6.1.-]	pyridoxal-5'-phosphate-dependent protein
+D197_2_contig57_3	52.1	K05830	LysW-gamma-L-lysine/LysW-L-ornithine aminotransferase [EC:2.6.1.-]	acetylornithine and succinylornithine aminotransferase
+D197_2_contig57_3	50.9	K05830	LysW-gamma-L-lysine/LysW-L-ornithine aminotransferase [EC:2.6.1.-]	argD
+D197_2_contig57_3	52.1	K05830	LysW-gamma-L-lysine/LysW-L-ornithine aminotransferase [EC:2.6.1.-]	acetylornithine and succinylornithine aminotransferase
+D197_2_contig57_3	51.8	K05830	LysW-gamma-L-lysine/LysW-L-ornithine aminotransferase [EC:2.6.1.-]	argD
+D197_2_contig57_4	49.3	K06154	Lrp/AsnC family transcriptional regulator, involved in the regulation of lysine biosynthesis	transcriptional regulator
+D197_2_contig57_5	59.1	K01649	2-isopropylmalate synthase [EC:2.3.3.13]	2-isopropylmalate synthase
+D197_2_contig57_6	73.3	K05826	alpha-aminoadipate/glutamate carrier protein LysW	lysine biosynthesis protein LysW
+D197_2_contig58_1	49.9	K01875	seryl-tRNA synthetase [EC:6.1.1.11]	serS
+D197_2_contig58_1	50.4	K01875	seryl-tRNA synthetase [EC:6.1.1.11]	seryl-tRNA synthetase (EC:6.1.1.11)
+D197_2_contig58_1	48.9	K01875	seryl-tRNA synthetase [EC:6.1.1.11]	serS
+D197_2_contig58_3	37.2	K07463	archaea-specific RecJ-like exonuclease	hypothetical protein
+D197_2_contig58_4	56.1	K02956	small subunit ribosomal protein S15	rps15p
+D197_2_contig58_5	46.2	K02428	XTP/dITP diphosphohydrolase [EC:3.6.1.66]	dITPase (EC:3.6.1.- 3.6.1.15)
+D197_2_contig58_6	49.3	K08851	TP53 regulating kinase and related kinases [EC:2.7.11.1]	Kae1-associated kinase Bud32 (EC:2.7.1.-)
+D197_2_contig58_7	52.7	K01409	N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]	metalloendopeptidase glycoprotease family protein
+D197_2_contig58_7	51.6	K01409	N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]	Metallohydrolase, glycoprotease/Kae1 family
+D197_2_contig59_2	29.0	K06019	pyrophosphatase PpaX [EC:3.6.1.1]	HAD-superfamily hydrolase (EC:3.6.1.1)
+D197_2_contig59_4	53.0	K15429	tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]	putative methyltransferase (EC:2.1.1.228)
+D197_2_contig59_6	56.9	K03789	ribosomal-protein-alanine N-acetyltransferase [EC:2.3.1.128]	putative ribosomal-protein-alanine acetyltransferase
+D197_2_contig60_2	41.2	K01990	ABC-2 type transport system ATP-binding protein	multidrug ABC transporter ATPase
+D197_2_contig60_4	34.9	K14941	2-phospho-L-lactate guanylyltransferase [EC:2.7.7.68]	CofC protein
+D197_2_contig60_5	46.2	K06877	DEAD/DEAH box helicase domain-containing protein	DEAD/DEAH box helicase domain-containing protein
+D197_2_contig60_6	45.0	K06877	DEAD/DEAH box helicase domain-containing protein	DEAD/DEAH box helicase
+D197_2_contig60_6	46.7	K06877	DEAD/DEAH box helicase domain-containing protein	DEAD/DEAH box helicase
+D197_2_contig60_6	45.0	K06877	DEAD/DEAH box helicase domain-containing protein	DEAD/DEAH box helicase domain protein
+D197_2_contig62_4	28.4	K03620	Ni/Fe-hydrogenase 1 B-type cytochrome subunit	Ni/Fe-hydrogenase, b-type cytochrome subunit
+D197_2_contig62_6	63.4	K03236	translation initiation factor 1A	eIF1A
+D197_2_contig62_8	69.6	K01687	dihydroxy-acid dehydratase [EC:4.2.1.9]	dihydroxy-acid dehydratase (EC:4.2.1.9)
+D197_2_contig63_1	28.3	K05358	quinate dehydrogenase (quinone) [EC:1.1.5.8]	quinate dehydrogenase
+D197_2_contig63_2	50.7	K00100		probable oxidoreductase (short-chain dehydrogenase family) (EC:1.1.1.-)
+D197_2_contig63_5	55.4	K01647	citrate synthase [EC:2.3.3.1]	gltA
+D197_2_contig63_5	55.1	K01647	citrate synthase [EC:2.3.3.1]	gltA
+D197_2_contig63_5	54.6	K01647	citrate synthase [EC:2.3.3.1]	2-methylcitrate synthase/citrate synthase II (EC:2.3.3.1)
+D197_2_contig64_7	23.5	K11367	chromodomain-helicase-DNA-binding protein 1 [EC:3.6.4.12]	NCAS0A03690
+D197_2_contig66_1	60.2	K01868	threonyl-tRNA synthetase [EC:6.1.1.3]	thrS
+D197_2_contig66_1	60.2	K01868	threonyl-tRNA synthetase [EC:6.1.1.3]	threonyl-tRNA synthetase (EC:6.1.1.3)
+D197_2_contig66_1	58.8	K01868	threonyl-tRNA synthetase [EC:6.1.1.3]	threonine--tRNA ligase (EC:6.1.1.3)
+D197_2_contig66_2	54.8	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	putative DNA methylase N-4/N-6 domain protein
+D197_2_contig66_4	44.7	K17884	archaetidylinositol phosphate synthase [EC:2.7.8.39]	CDP-alcohol phosphatidyltransferase
+D197_2_contig66_5	70.8	K02976	small subunit ribosomal protein S26e	rps26e
+D197_2_contig66_5	69.7	K02976	small subunit ribosomal protein S26e	rps26e
+D197_2_contig66_5	69.7	K02976	small subunit ribosomal protein S26e	SSU ribosomal protein S26E
+D197_2_contig66_7	60.7	K01881	prolyl-tRNA synthetase [EC:6.1.1.15]	proS
+D197_2_contig66_7	68.4	K01881	prolyl-tRNA synthetase [EC:6.1.1.15]	proS
+D197_2_contig67_1	62.3	K01689	enolase [EC:4.2.1.11]	eno
+D197_2_contig67_1	62.3	K01689	enolase [EC:4.2.1.11]	Enolase (EC:4.2.1.11)
+D197_2_contig67_1	63.5	K01689	enolase [EC:4.2.1.11]	Enolase 2
+D197_2_contig67_1	62.1	K01689	enolase [EC:4.2.1.11]	eno
+D197_2_contig67_1	63.0	K01689	enolase [EC:4.2.1.11]	eno
+D197_2_contig67_6	44.4	K04763	integrase/recombinase XerD	Site-specific recombinase
+D197_2_contig68_1	50.0	K01858	myo-inositol-1-phosphate synthase [EC:5.5.1.4]	putative myo-inositol-1-phosphate synthase
+D197_2_contig68_2	68.5	K03769	peptidyl-prolyl cis-trans isomerase C [EC:5.2.1.8]	ppiC
+D197_2_contig69_2	43.6	K09142	uncharacterized protein	protein of unknown function DUF171
+D197_2_contig69_3	50.8	K02906	large subunit ribosomal protein L3	rpl3p
+D197_2_contig69_4	48.0	K02930	large subunit ribosomal protein L4e	rpl4lp
+D197_2_contig69_5	55.3	K02892	large subunit ribosomal protein L23	rpl23p
+D197_2_contig69_6	52.3	K02886	large subunit ribosomal protein L2	rpl2p
+D197_2_contig69_6	53.1	K02886	large subunit ribosomal protein L2	LSU ribosomal protein L2P
+D197_2_contig69_7	57.8	K02965	small subunit ribosomal protein S19	rps19p
+D197_2_contig69_7	63.0	K02965	small subunit ribosomal protein S19	rps19p
+D197_2_contig69_7	59.5	K02965	small subunit ribosomal protein S19	rps19p
+D197_2_contig70_1	53.8	K11996	adenylyltransferase and sulfurtransferase	ThiF family protein
+D197_2_contig70_2	44.1	K11996	adenylyltransferase and sulfurtransferase	UBA/THIF-type NAD/FAD binding protein
+D197_2_contig70_3	59.6	K01733	threonine synthase [EC:4.2.3.1]	threonine synthase (EC:4.2.3.1)
+D197_2_contig70_3	60.8	K01733	threonine synthase [EC:4.2.3.1]	thrC2
+D197_2_contig70_4	41.9	K07023	putative hydrolases of HD superfamily	Metal dependent phosphohydrolase
+D197_2_contig70_4	43.5	K07023	putative hydrolases of HD superfamily	metal dependent phosphohydrolase
+D197_2_contig70_6	38.1	K01829	protein disulfide-isomerase [EC:5.3.4.1]	protein disulfide isomerase (EC:5.3.4.1)
+D197_2_contig71_1	47.7	K03424	TatD DNase family protein [EC:3.1.21.-]	putative TatD-like deoxyribonuclease
+D197_2_contig71_1	49.2	K03424	TatD DNase family protein [EC:3.1.21.-]	Mg-dependent DNase (EC:3.1.21.-)
+D197_2_contig71_2	47.7	K02962	small subunit ribosomal protein S17e	hypothetical protein
+D197_2_contig71_5	44.3	K06963	tRNA acetyltransferase TAN1	putative THUMP domain protein
+D197_2_contig71_6	42.9	K07566	L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]	putative Sua5/YciO/YrdC/YwlC family protein
+D197_2_contig71_8	66.0	K01622	fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11]	hypothetical protein
+D197_2_contig71_9	51.1	K01803	triosephosphate isomerase (TIM) [EC:5.3.1.1]	tpiA
+D197_2_contig72_2	55.3	K01876	aspartyl-tRNA synthetase [EC:6.1.1.12]	aspartyl-tRNA synthetase
+D197_2_contig72_4	52.2	K03622	archaea-specific DNA-binding protein	nucleoid protein Alba
+D197_2_contig72_4	56.7	K03622	archaea-specific DNA-binding protein	conserved hypothetical protein
+D197_2_contig72_4	56.7	K03622	archaea-specific DNA-binding protein	DNA-binding protein Alba
+D197_2_contig72_4	55.6	K03622	archaea-specific DNA-binding protein	DNA-binding protein Alba
+D197_2_contig72_7	55.4	K10747	DNA ligase 1 [EC:6.5.1.1 6.5.1.6 6.5.1.7]	lig
+D197_2_contig73_1	39.5	K02026	multiple sugar transport system permease protein	binding-protein-dependent transport system inner membrane protein
+D197_2_contig73_4	53.1	K10112	multiple sugar transport system ATP-binding protein	PH0194
+D197_2_contig73_4	52.0	K10112	multiple sugar transport system ATP-binding protein	ABC-type maltodextrin transport system ATPase componant
+D197_2_contig73_4	50.9	K10112	multiple sugar transport system ATP-binding protein	maltose/maltodextrin transport ATP-binding protein
+D197_2_contig73_4	53.0	K10112	multiple sugar transport system ATP-binding protein	msmK
+D197_2_contig73_4	49.3	K10112	multiple sugar transport system ATP-binding protein	ABC transporter-like protein
+D197_2_contig74_1	34.2	K03719	Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein	lrpC
+D197_2_contig74_2	56.6	K00261	glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]	glutamate dehydrogenase
+D197_2_contig74_2	57.8	K00261	glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]	gdhA
+D197_2_contig74_2	56.7	K00260	glutamate dehydrogenase [EC:1.4.1.2]	glutamate dehydrogenase (EC:1.4.1.2 1.4.1.3)
+D197_2_contig74_2	57.3	K00261	glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]	gdhA
+D197_2_contig74_2	56.1	K00261	glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]	glutamate dehydrogenase
+D197_2_contig74_3	51.7	K00015	glyoxylate reductase [EC:1.1.1.26]	gyaR
+D197_2_contig74_3	51.4	K00015	glyoxylate reductase [EC:1.1.1.26]	glyoxylate reductase
+D197_2_contig75_1	60.2	K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	asd
+D197_2_contig75_1	59.1	K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	asd
+D197_2_contig75_1	60.2	K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	aspartate-semialdehyde dehydrogenase (EC:1.2.1.11)
+D197_2_contig75_2	46.8	K00928	aspartate kinase [EC:2.7.2.4]	thrA
+D197_2_contig75_2	47.4	K00928	aspartate kinase [EC:2.7.2.4]	thrA
+D197_2_contig75_2	46.9	K00928	aspartate kinase [EC:2.7.2.4]	aspartate kinase (EC:2.7.2.4)
+D197_2_contig75_3	56.9	K00003	homoserine dehydrogenase [EC:1.1.1.3]	hom
+D197_2_contig75_4	61.3	K01733	threonine synthase [EC:4.2.3.1]	threonine synthase
+D197_2_contig75_4	60.8	K01733	threonine synthase [EC:4.2.3.1]	threonine synthase
+D197_2_contig76_2	44.6	K11261	formylmethanofuran dehydrogenase subunit E [EC:1.2.99.5]	conserved hypothetical protein
+D197_2_contig76_2	44.6	K11261	formylmethanofuran dehydrogenase subunit E [EC:1.2.99.5]	putative methyltransferase, YaeB family (EC:1.2.99.5)
+D197_2_contig76_3	47.2	K12944	nucleoside triphosphatase [EC:3.6.1.-]	NUDIX hydrolase
+D197_2_contig76_4	48.3	K06885	uncharacterized protein	putative metal dependent phosphohydrolase
+D197_2_contig76_5	40.7	K00943	dTMP kinase [EC:2.7.4.9]	putative thymidylate kinase
+D197_2_contig76_6	50.3	K10896	fanconi anemia group M protein	DEAD/DEAH box helicase
+D197_2_contig77_4	32.2	K03551	holliday junction DNA helicase RuvB [EC:3.6.4.12]	ruvB
+D197_2_contig77_4	32.2	K03551	holliday junction DNA helicase RuvB [EC:3.6.4.12]	ruvB
+D197_2_contig77_4	32.2	K03551	holliday junction DNA helicase RuvB [EC:3.6.4.12]	ruvB
+D197_2_contig77_4	32.2	K03551	holliday junction DNA helicase RuvB [EC:3.6.4.12]	ruvB
+D197_2_contig77_4	32.2	K03551	holliday junction DNA helicase RuvB [EC:3.6.4.12]	ruvB
+D197_2_contig78_3	25.3	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	PQQ-dependent dehydrogenase
+D197_2_contig78_5	35.0	K02027	multiple sugar transport system substrate-binding protein	multiple sugar ABC transporter substrate-binding protein
+D197_2_contig79_1	43.9	K13789	geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29]	hypothetical protein
+D197_2_contig79_1	45.2	K13789	geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29]	hypothetical protein
+D197_2_contig79_2	48.8	K01885	glutamyl-tRNA synthetase [EC:6.1.1.17]	gltX
+D197_2_contig79_2	49.1	K01885	glutamyl-tRNA synthetase [EC:6.1.1.17]	glutamyl-tRNA synthetase
+D197_2_contig80_3	39.2	K01992	ABC-2 type transport system permease protein	putative ABC-type transport system, permease component
+D197_2_contig80_4	57.3	K01990	ABC-2 type transport system ATP-binding protein	phosphonate-transporting ATPase (EC:3.6.3.28)
+D197_2_contig80_5	24.5	K11261	formylmethanofuran dehydrogenase subunit E [EC:1.2.99.5]	formylmethanofuran dehydrogenase subunit E
+D197_2_contig80_7	35.8	K07090	uncharacterized protein	hypothetical protein
+D197_2_contig81_1	37.7	K03752	molybdopterin-guanine dinucleotide biosynthesis protein A [EC:2.7.7.77]	mobA
+D197_2_contig81_2	39.1	K03753	molybdopterin-guanine dinucleotide biosynthesis protein B	molybdopterin-guanine dinucleotide biosynthesis protein MobB
+D197_2_contig81_3	49.5	K03330	glutamyl-tRNA(Gln) amidotransferase subunit E [EC:6.3.5.7]	gatE
+D197_2_contig81_4	52.7	K09482	glutamyl-tRNA(Gln) amidotransferase subunit D [EC:6.3.5.7]	gatD
+D197_2_contig81_4	50.6	K09482	glutamyl-tRNA(Gln) amidotransferase subunit D [EC:6.3.5.7]	gatD
+D197_2_contig82_2	46.3	K01883	cysteinyl-tRNA synthetase [EC:6.1.1.16]	cysS
+D197_2_contig82_2	46.3	K01883	cysteinyl-tRNA synthetase [EC:6.1.1.16]	cysteinyl-tRNA synthetase
+D197_2_contig82_2	46.3	K01883	cysteinyl-tRNA synthetase [EC:6.1.1.16]	cysteinyl-tRNA synthetase
+D197_2_contig82_2	46.3	K01883	cysteinyl-tRNA synthetase [EC:6.1.1.16]	cysteinyl-tRNA synthetase
+D197_2_contig82_2	46.3	K01883	cysteinyl-tRNA synthetase [EC:6.1.1.16]	cysteinyl-tRNA synthetase
+D197_2_contig82_2	46.3	K01883	cysteinyl-tRNA synthetase [EC:6.1.1.16]	cysteinyl-tRNA synthetase
+D197_2_contig82_3	38.0	K00540		short chain dehydrogenase (EC:1.-.-.-)
+D197_2_contig82_3	38.0	K00540		short chain dehydrogenase (EC:1.-.-.-)
+D197_2_contig82_5	44.2	K00928	aspartate kinase [EC:2.7.2.4]	aspartate kinase (EC:2.7.2.4)
+D197_2_contig83_1	51.8	K01657	anthranilate synthase component I [EC:4.1.3.27]	trpE
+D197_2_contig83_4	24.8	K03734	thiamine biosynthesis lipoprotein	ApbE family lipoprotein
+D197_2_contig83_4	24.5	K03734	thiamine biosynthesis lipoprotein	ApbE family lipoprotein
+D197_2_contig84_1	48.9	K07483	transposase	transposase IS3/IS911 family protein
+D197_2_contig84_3	67.8	K04748	nitric oxide reductase NorQ protein	putative ATPase, AAA-5
+D197_2_contig85_2	51.8	K18779	7-cyano-7-deazaguanine tRNA-ribosyltransferase [EC:2.4.2.48]	tgtA
+D197_2_contig85_4	47.1	K07577	putative mRNA 3-end processing factor	putative beta-lactamase domain protein
+D197_2_contig86_2	44.4	K07732	riboflavin kinase, archaea type [EC:2.7.1.161]	ribK
+D197_2_contig86_2	43.5	K07732	riboflavin kinase, archaea type [EC:2.7.1.161]	CTP-dependent riboflavin kinase (EC:2.7.1.161)
+D197_2_contig86_3	46.8	K07477	translin	translin family protein
+D197_2_contig86_6	26.3	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	quinoprotein alcohol dehydrogenase (EC:1.1.99.8)
+D197_2_contig87_1	57.2	K00765	ATP phosphoribosyltransferase [EC:2.4.2.17]	hisG
+D197_2_contig87_3	61.2	K00027	malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]	NADP-dependent malic enzyme
+D197_2_contig87_4	38.5	K07463	archaea-specific RecJ-like exonuclease	putative phosphoesterase, DHHA1
+D197_2_contig87_4	36.1	K07463	archaea-specific RecJ-like exonuclease	putative phosphoesterase, DHHA1
+D197_2_contig87_4	37.3	K07463	archaea-specific RecJ-like exonuclease	putative DHD superfamily phosphohydrolase
+D197_2_contig88_1	33.3	K06994	putative drug exporter of the RND superfamily	hypothetical protein
+D197_2_contig89_1	26.2	K04034	anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase [EC:4.-.-.-]	Mg-protoporphyrin IX monomethyl ester oxidative cyclase-related protein
+D197_2_contig89_3	37.3	K07027	uncharacterized protein	family 2 glycosyl transferase
+D197_2_contig90_1	42.0	K07151	dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.99.18]	dolichyl-diphosphooligosaccharide--protein glycotransferase (EC:2.4.99.18)
+D197_2_contig90_2	36.3	K12234	coenzyme F420-0:L-glutamate ligase / coenzyme F420-1:gamma-L-glutamate ligase [EC:6.3.2.31 6.3.2.34]	hypothetical protein
+D197_2_contig90_4	48.3	K03168	DNA topoisomerase I [EC:5.99.1.2]	topA
+D197_2_contig91_1	33.0	K01814	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]	hisA_2
+D197_2_contig91_2	45.9	K15740	tetrahydromethanopterin:alpha-L-glutamate ligase [EC:6.3.2.33]	mptN
+D197_2_contig91_3	52.7	K01499	methenyltetrahydromethanopterin cyclohydrolase [EC:3.5.4.27]	N(5),N(10)-methenyltetrahydromethanopterin cyclohydrolase
+D197_2_contig91_3	51.1	K01499	methenyltetrahydromethanopterin cyclohydrolase [EC:3.5.4.27]	methenyltetrahydromethanopterin cyclohydrolase
+D197_2_contig91_5	44.8	K00200	formylmethanofuran dehydrogenase subunit A [EC:1.2.99.5]	amidohydrolase 3
+D197_2_contig92_1	37.6	K03660	N-glycosylase/DNA lyase [EC:3.2.2.- 4.2.99.18]	HhH-GPD family protein
+D197_2_contig95_1	49.1	K03462	nicotinamide phosphoribosyltransferase [EC:2.4.2.12]	putative nicotinate phosphoribosyltransferase
+D197_2_contig95_7	37.8	K04483	DNA repair protein RadA	RecA/RadA recombinase
+D197_2_contig96_1	59.5	K03696	ATP-dependent Clp protease ATP-binding subunit ClpC	ATPases with chaperone activity, ATP-binding subunit
+D197_2_contig96_3	38.6	K05595	multiple antibiotic resistance protein	multiple antibiotic resistance protein marC
+D197_2_contig96_3	38.4	K05595	multiple antibiotic resistance protein	transporter protein
+D197_2_contig96_4	60.0	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	DNA methylase N-4/N-6 domain-containing protein
+D197_2_contig97_2	45.0	K02987	small subunit ribosomal protein S4e	rps4e
+D197_2_contig97_2	42.5	K02987	small subunit ribosomal protein S4e	ribosomal protein S4E
+D197_2_contig97_3	47.0	K02895	large subunit ribosomal protein L24	KOW domain-containing protein
+D197_2_contig97_4	72.3	K02874	large subunit ribosomal protein L14	rpl14p
+D197_2_contig97_4	72.3	K02874	large subunit ribosomal protein L14	rpl14p
+D197_2_contig97_4	72.3	K02874	large subunit ribosomal protein L14	LSU ribosomal protein L14P
+D197_2_contig97_5	52.3	K02961	small subunit ribosomal protein S17	rps17p
+D197_2_contig97_5	52.3	K02961	small subunit ribosomal protein S17	SSU ribosomal protein S17P
+D197_2_contig97_6	40.7	K03538	ribonuclease P protein subunit POP4 [EC:3.1.26.5]	ribonuclease P protein component 1
+D197_2_contig97_9	52.3	K02890	large subunit ribosomal protein L22	rpl22p
+D197_2_contig100_3	58.9	K00610	aspartate carbamoyltransferase regulatory subunit	pyrI
+D197_2_contig100_3	57.5	K00610	aspartate carbamoyltransferase regulatory subunit	pyrI
+D197_2_contig100_3	57.5	K00610	aspartate carbamoyltransferase regulatory subunit	aspartate carbamoyltransferase, regulatory subunit
+D197_2_contig100_4	58.2	K00609	aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	pyrB
+D197_2_contig100_5	55.9	K00525	ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent (EC:1.17.4.1)
+D197_2_contig100_5	57.6	K00525	ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent (EC:1.17.4.1)
+D197_2_contig101_5	54.5	K00525	ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	ribonucleoside-diphosphate reductase (EC:1.17.4.1)
+D197_2_contig102_6	55.0	K02319	DNA polymerase I [EC:2.7.7.7]	DNA polymerase (EC:2.7.7.7)
+D197_2_contig102_6	55.2	K02319	DNA polymerase I [EC:2.7.7.7]	DNA polymerase I (EC:2.7.7.7)
+D197_2_contig102_6	55.0	K02319	DNA polymerase I [EC:2.7.7.7]	DNA polymerase I (EC:2.7.7.7)
+D197_2_contig102_6	55.2	K02319	DNA polymerase I [EC:2.7.7.7]	DNA polymerase I
+D197_2_contig102_6	55.0	K02319	DNA polymerase I [EC:2.7.7.7]	DNA polymerase (EC:2.7.7.7)
+D197_2_contig103_1	28.8	K04035	magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase [EC:1.14.13.81]	magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase (EC:1.14.13.81)
+D197_2_contig103_3	39.4	K10716	voltage-gated potassium channel	voltage-gated potassium channel
+D197_2_contig103_4	33.1	K12264	anaerobic nitric oxide reductase flavorubredoxin	anaerobic nitric oxide reductase flavorubredoxin
+D197_2_contig103_4	32.0	K12264	anaerobic nitric oxide reductase flavorubredoxin	nitric oxide reductase
+D197_2_contig103_4	32.0	K12264	anaerobic nitric oxide reductase flavorubredoxin	nitric oxide reductase
+D197_2_contig103_4	33.0	K12264	anaerobic nitric oxide reductase flavorubredoxin	Anaerobic nitric oxide reductase flavorubredoxin
+D197_2_contig103_4	32.0	K12264	anaerobic nitric oxide reductase flavorubredoxin	putative anaerobic nitric oxide reductase flavorubredoxin
+D197_2_contig103_4	32.5	K12264	anaerobic nitric oxide reductase flavorubredoxin	norV
+D197_2_contig103_4	32.2	K12264	anaerobic nitric oxide reductase flavorubredoxin	nitric oxide reductase
+D197_2_contig103_4	33.2	K12264	anaerobic nitric oxide reductase flavorubredoxin	norV
+D197_2_contig103_4	32.6	K12264	anaerobic nitric oxide reductase flavorubredoxin	anaerobic nitric oxide reductase flavorubredoxin
+D197_2_contig103_4	32.6	K12264	anaerobic nitric oxide reductase flavorubredoxin	norV
+D197_2_contig103_4	32.6	K12264	anaerobic nitric oxide reductase flavorubredoxin	norV
+D197_2_contig103_4	32.6	K12264	anaerobic nitric oxide reductase flavorubredoxin	norV
+D197_2_contig103_4	32.6	K12264	anaerobic nitric oxide reductase flavorubredoxin	norV
+D197_2_contig103_4	32.6	K12264	anaerobic nitric oxide reductase flavorubredoxin	anaerobic nitric oxide reductase flavorubredoxin
+D197_2_contig103_4	32.6	K12264	anaerobic nitric oxide reductase flavorubredoxin	norV
+D197_2_contig103_4	32.0	K12264	anaerobic nitric oxide reductase flavorubredoxin	nitric oxide reductase
+D197_2_contig103_4	31.9	K12264	anaerobic nitric oxide reductase flavorubredoxin	nitric oxide reductase
+D197_2_contig103_4	31.9	K12264	anaerobic nitric oxide reductase flavorubredoxin	nitric oxide reductase
+D197_2_contig104_1	71.4	K03231	elongation factor 1-alpha	translation elongation factor EF-1 alpha
+D197_2_contig104_1	70.2	K03231	elongation factor 1-alpha	ef1a
+D197_2_contig104_2	71.1	K02992	small subunit ribosomal protein S7	ribosomal protein S7/S5
+D197_2_contig104_2	71.1	K02992	small subunit ribosomal protein S7	30S ribosomal protein S7p (modular protein)
+D197_2_contig104_3	75.5	K02950	small subunit ribosomal protein S12	rps12p
+D197_2_contig104_3	75.5	K02950	small subunit ribosomal protein S12	SSU ribosomal protein S12P
+D197_2_contig104_4	63.2	K02600	N utilization substance protein A	archaeal NusA family KH domain containing protein
+D197_2_contig104_4	63.9	K02600	N utilization substance protein A	archaeal NusA family KH domain containing protein
+D197_2_contig104_4	63.9	K02600	N utilization substance protein A	NusA family KH domain protein
+D197_2_contig104_5	40.2	K02908	large subunit ribosomal protein L30e	ribosomal protein L30E
+D197_2_contig104_6	56.9	K03041	DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]	DNA-directed RNA polymerase, subunit A''/DNA-directed RNA polymerase subunit A' (EC:2.7.7.6)
+D197_2_contig104_6	57.6	K03041	DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]	rpoA
+D197_2_contig104_6	56.9	K03041	DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]	rpoA
+D197_2_contig105_1	61.7	K05827	[lysine-biosynthesis-protein LysW]---L-2-aminoadipate ligase [EC:6.3.2.43]	lysX1
+D197_2_contig105_2	48.8	K05831	LysW-gamma-L-lysine/LysW-L-ornithine carboxypeptidase	acetylornithine deacetylase (EC:3.5.1.16)
+D197_2_contig105_2	49.6	K05831	LysW-gamma-L-lysine/LysW-L-ornithine carboxypeptidase	lysK
+D197_2_contig105_2	48.8	K05831	LysW-gamma-L-lysine/LysW-L-ornithine carboxypeptidase	lysK
+D197_2_contig105_3	43.2	K03182	4-hydroxy-3-polyprenylbenzoate decarboxylase [EC:4.1.1.98]	3-octaprenyl-4-hydroxybenzoate carboxy-lyase (EC:4.1.1.-)
+D197_2_contig105_4	68.2	K09123	uncharacterized protein	aconitase subunit 1
+D197_2_contig105_4	66.1	K09123	uncharacterized protein	hypothetical protein
+D197_2_contig106_2	57.7	K13812	bifunctional enzyme Fae/Hps [EC:4.2.1.147 4.1.2.43]	fae
+D197_2_contig106_2	57.1	K13812	bifunctional enzyme Fae/Hps [EC:4.2.1.147 4.1.2.43]	fae_hps
+D197_2_contig106_3	46.0	K02010	iron(III) transport system ATP-binding protein [EC:3.6.3.30]	Putrescine transport ATP-binding protein
+D197_2_contig106_3	45.7	K02010	iron(III) transport system ATP-binding protein [EC:3.6.3.30]	fbpC
+D197_2_contig107_3	62.6	K06001	tryptophan synthase beta chain [EC:4.2.1.20]	tryptophan synthase subunit beta (EC:4.2.1.20)
+D197_2_contig107_3	62.8	K06001	tryptophan synthase beta chain [EC:4.2.1.20]	trpB
+D197_2_contig107_3	62.0	K06001	tryptophan synthase beta chain [EC:4.2.1.20]	tryptophan synthase subunit beta (EC:4.2.1.20)
+D197_2_contig107_3	62.0	K06001	tryptophan synthase beta chain [EC:4.2.1.20]	tryptophan synthase subunit beta (EC:4.2.1.20)
+D197_2_contig107_3	61.0	K06001	tryptophan synthase beta chain [EC:4.2.1.20]	tryptophan synthase beta subunit (EC:4.2.1.20)
+D197_2_contig107_3	62.9	K06001	tryptophan synthase beta chain [EC:4.2.1.20]	tryptophan synthase like subunit beta
+D197_2_contig107_3	61.4	K06001	tryptophan synthase beta chain [EC:4.2.1.20]	PH1583
+D197_2_contig107_3	62.6	K06001	tryptophan synthase beta chain [EC:4.2.1.20]	tryptophan synthase like subunit beta
+D197_2_contig108_1	33.7	K07144	uncharacterized protein	aspartate/glutamate/uridylate kinase
+D197_2_contig108_3	54.0	K00672	formylmethanofuran--tetrahydromethanopterin N-formyltransferase [EC:2.3.1.101]	formylmethanofuran/tetrahydromethanopterin N-formyltransferase (EC:2.3.1.101)
+D197_2_contig108_4	59.4	K03325	arsenite transporter, ACR3 family	acr3
+D197_2_contig109_4	49.5	K04487	cysteine desulfurase [EC:2.8.1.7]	cysteine desulfurase (EC:2.8.1.7)
+D197_2_contig112_2	44.7	K00218	protochlorophyllide reductase [EC:1.3.1.33]	short chain dehydrogenase/reductase family oxidoreductase
+D197_2_contig112_2	48.5	K00540		short chain dehydrogenase (EC:1.-.-.-)
+D197_2_contig112_2	48.5	K00540		short chain dehydrogenase (EC:1.-.-.-)
+D197_2_contig112_2	45.1	K00218	protochlorophyllide reductase [EC:1.3.1.33]	oxidoreductase, short-chain dehydrogenase/reductase family
+D197_2_contig112_2	44.4	K00100		dehydrogenase (EC:1.1.1.-)
+D197_2_contig112_2	44.4	K00100		dehydrogenase (EC:1.1.1.-)
+D197_2_contig112_3	42.1	K02238	competence protein ComEC	beta-lactamase domain-containing protein
+D197_2_contig113_5	59.1	K04751	nitrogen regulatory protein P-II 1	glnK2
+D197_2_contig114_3	30.3	K14475	inhibitor of cysteine peptidase	hypothetical protein
+D197_2_contig116_1	47.1	K09726	uncharacterized protein	protein of unknown function DUF354
+D197_2_contig116_3	52.4	K18855	UDP-N-acetylglucosamine 3-dehydrogenase [EC:1.1.1.374]	putative oxidoreductase domain protein
+D197_2_contig117_3	37.1	K02564	glucosamine-6-phosphate deaminase [EC:3.5.99.6]	glucosamine-6-phosphate deaminase (EC:3.5.99.6)
+D197_2_contig117_4	40.7	K01599	uroporphyrinogen decarboxylase [EC:4.1.1.37]	uroporphyrinogen-III decarboxylase
+D197_2_contig117_5	32.7	K12960	5-methylthioadenosine/S-adenosylhomocysteine deaminase [EC:3.5.4.31 3.5.4.28]	amidohydrolase (EC:3.5.-.-)
+D197_2_contig117_5	32.7	K12960	5-methylthioadenosine/S-adenosylhomocysteine deaminase [EC:3.5.4.31 3.5.4.28]	amidohydrolase
+D197_2_contig117_5	32.7	K12960	5-methylthioadenosine/S-adenosylhomocysteine deaminase [EC:3.5.4.31 3.5.4.28]	putative amidohydrolase (EC:3.5.-.-)
+D197_2_contig117_5	32.7	K12960	5-methylthioadenosine/S-adenosylhomocysteine deaminase [EC:3.5.4.31 3.5.4.28]	amidohydrolase
+D197_2_contig117_5	32.7	K12960	5-methylthioadenosine/S-adenosylhomocysteine deaminase [EC:3.5.4.31 3.5.4.28]	amidohydrolase
+D197_2_contig117_5	32.7	K12960	5-methylthioadenosine/S-adenosylhomocysteine deaminase [EC:3.5.4.31 3.5.4.28]	amidohydrolase
+D197_2_contig117_5	35.6	K12960	5-methylthioadenosine/S-adenosylhomocysteine deaminase [EC:3.5.4.31 3.5.4.28]	mtaD
+D197_2_contig117_5	36.6	K12960	5-methylthioadenosine/S-adenosylhomocysteine deaminase [EC:3.5.4.31 3.5.4.28]	N-ethylammeline chlorohydrolase
+D197_2_contig118_2	53.4	K00966	mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	nucleotidyl-transferasse
+D197_2_contig118_3	54.1	K02301	protoheme IX farnesyltransferase [EC:2.5.1.-]	protoheme IX farnesyltransferase (EC:2.5.1.-)
+D197_2_contig118_4	46.8	K03116	sec-independent protein translocase protein TatA	Twin-arginine translocation protein TatA
+D197_2_contig118_6	55.3	K03118	sec-independent protein translocase protein TatC	Sec-independent protein translocase subunit TatC
+D197_2_contig118_6	57.6	K03118	sec-independent protein translocase protein TatC	tatC
+D197_2_contig118_6	56.5	K03118	sec-independent protein translocase protein TatC	Sec-independent protein translocase subunit TatC
+D197_2_contig119_1	44.9	K00175	2-oxoglutarate ferredoxin oxidoreductase subunit beta [EC:1.2.7.3]	2-oxoglutarate ferredoxin oxidoreductase subunit beta
+D197_2_contig119_3	48.0	K03709	DtxR family transcriptional regulator, Mn-dependent transcriptional regulator	transcriptional regulator
+D197_2_contig119_4	44.4	K07243	high-affinity iron transporter	Iron permease FTR1 family
+D197_2_contig119_5	37.0	K01869	leucyl-tRNA synthetase [EC:6.1.1.4]	leuS
+D197_2_contig120_1	54.3	K06001	tryptophan synthase beta chain [EC:4.2.1.20]	tryptophan synthase subunit beta (EC:4.2.1.20)
+D197_2_contig120_1	53.9	K06001	tryptophan synthase beta chain [EC:4.2.1.20]	tryptophan synthase subunit beta
+D197_2_contig120_1	54.9	K06001	tryptophan synthase beta chain [EC:4.2.1.20]	tryptophan synthase subunit beta
+D197_2_contig121_1	62.2	K10956	protein transport protein SEC61 subunit alpha	secY
+D197_2_contig121_2	46.3	K00939	adenylate kinase [EC:2.7.4.3]	adkA
+D197_2_contig121_4	50.3	K00945	cytidylate kinase [EC:2.7.4.14]	putative cytidylate kinase
+D197_2_contig121_5	58.6	K11131	H/ACA ribonucleoprotein complex subunit 4 [EC:5.4.99.-]	truB
+D197_2_contig121_5	59.5	K11131	H/ACA ribonucleoprotein complex subunit 4 [EC:5.4.99.-]	pseudouridylate synthase subunit TruB
+D197_2_contig123_3	48.5	K07497	putative transposase	hypothetical protein
+D197_2_contig124_3	35.8	K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	GMP synthase subunit A
+D197_2_contig124_5	35.9	K01069	hydroxyacylglutathione hydrolase [EC:3.1.2.6]	Zn-dependent hydrolase
+D197_2_contig124_6	52.7	K17759	NAD(P)H-hydrate epimerase [EC:5.1.99.6]	carbohydrate kinase, YjeF-like protein
+D197_2_contig126_4	52.5	K00661	maltose O-acetyltransferase [EC:2.3.1.79]	acetyltransferase (isoleucine patch superfamily)-like protein
+D197_2_contig126_5	42.2	K00661	maltose O-acetyltransferase [EC:2.3.1.79]	maltose O-acetyltransferase (EC:2.3.1.79)
+D197_2_contig127_1	48.4	K09733	uncharacterized protein	conserved hypothetical protein
+D197_2_contig127_1	48.4	K09733	uncharacterized protein	hypothetical protein
+D197_2_contig127_2	40.5	K10714	methylene-tetrahydromethanopterin dehydrogenase [EC:1.5.1.-]	methylene tetrahydromethanopterin dehydrogenase (mtdB) (EC:1.5.1.-)
+D197_2_contig127_3	42.9	K09739	uncharacterized protein	hypothetical protein
+D197_2_contig127_4	41.8	K07142	uncharacterized protein	hypothetical protein
+D197_2_contig127_5	55.8	K00809	deoxyhypusine synthase [EC:2.5.1.46]	deoxyhypusine synthase
+D197_2_contig130_1	31.0	K12142	hydrogenase-4 component G [EC:1.-.-.-]	hyfG
+D197_2_contig130_1	31.0	K12142	hydrogenase-4 component G [EC:1.-.-.-]	hyfG
+D197_2_contig130_2	65.0	K12141	hydrogenase-4 component F [EC:1.-.-.-]	formate hydrogenlyase subunit 3/multisubunit Na+/H+ antiporter, MnhD subunit
+D197_2_contig130_3	67.1	K12140	hydrogenase-4 component E [EC:1.-.-.-]	hydrogenase 4 membrane component (E)
+D197_2_contig130_3	69.6	K12140	hydrogenase-4 component E [EC:1.-.-.-]	Hydrogenase, membrane subunit 2-like protein
+D197_2_contig131_2	64.0	K03242	translation initiation factor 2 subunit 3	eif2g
+D197_2_contig131_2	62.8	K03242	translation initiation factor 2 subunit 3	eif2g
+D197_2_contig131_2	62.8	K03242	translation initiation factor 2 subunit 3	translation initiation factor 2 subunit gamma (aeIF-2g)
+D197_2_contig131_3	25.6	K07158	uncharacterized protein	twitching motility protein PilT
+D197_2_contig131_4	65.5	K03049	DNA-directed RNA polymerase subunit E' [EC:2.7.7.6]	rpoE`
+D197_2_contig131_5	65.1	K03050	DNA-directed RNA polymerase subunit E" [EC:2.7.7.6]	rpoE''
+D197_2_contig132_2	37.7	K16710	colanic acid/amylovoran biosynthesis protein	hypothetical protein
+D197_2_contig133_6	40.1	K01448	N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]	N-acetylmuramoyl-L-alanine amidase
+D197_2_contig133_6	40.7	K01448	N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]	N-acetylmuramoyl-L-alanine amidase
+D197_2_contig134_5	44.6	K07176	putative serine/threonine protein kinase	serine/threonine protein kinase
+D197_2_contig135_2	31.1	K13993	HSP20 family protein	heat shock protein hsp20
+D197_2_contig135_5	28.0	K01992	ABC-2 type transport system permease protein	hypothetical protein
+D197_2_contig137_1	25.1	K03446	MFS transporter, DHA2 family, multidrug resistance protein	permease of the major facilitator superfamily
+D197_2_contig137_1	25.1	K03446	MFS transporter, DHA2 family, multidrug resistance protein	EmrB/QacA subfamily drug resistance transporter
+D197_2_contig137_2	50.9	K00573	protein-L-isoaspartate(D-aspartate) O-methyltransferase [EC:2.1.1.77]	protein-L-isoaspartate O-methyltransferase (EC:2.1.1.77)
+D197_2_contig138_1	48.6	K01807	ribose 5-phosphate isomerase A [EC:5.3.1.6]	rpiA2
+D197_2_contig138_1	48.2	K01807	ribose 5-phosphate isomerase A [EC:5.3.1.6]	rpiA
+D197_2_contig138_2	47.0	K16264	cobalt-zinc-cadmium efflux system protein	cation diffusion facilitator family transporter
+D197_2_contig138_3	46.3	K01480	agmatinase [EC:3.5.3.11]	putative agmatinase
+D197_2_contig138_3	45.6	K01480	agmatinase [EC:3.5.3.11]	agmatinase
+D197_2_contig138_4	56.1	K01868	threonyl-tRNA synthetase [EC:6.1.1.3]	threonyl-tRNA ligase (EC:6.1.1.3)
+D197_2_contig139_1	58.2	K01744	aspartate ammonia-lyase [EC:4.3.1.1]	aspartate ammonia-lyase (L-aspartase) (EC:4.3.1.1)
+D197_2_contig139_5	56.6	K01990	ABC-2 type transport system ATP-binding protein	ABC transporter, ATP-binding protein
+D197_2_contig139_5	57.1	K01990	ABC-2 type transport system ATP-binding protein	putative ABC transporter ATP-binding protein
+D197_2_contig139_5	54.3	K01990	ABC-2 type transport system ATP-binding protein	ABC transporter, ATPase subunit
+D197_2_contig140_1	64.3	K15862	cytochrome c oxidase cbb3-type subunit I/II [EC:1.9.3.1]	Cbb3-type cytochrome oxidase, subunit 1
+D197_2_contig140_2	53.3	K15862	cytochrome c oxidase cbb3-type subunit I/II [EC:1.9.3.1]	Cbb3-type cytochrome oxidase, subunit 1
+D197_2_contig140_3	61.0	K15862	cytochrome c oxidase cbb3-type subunit I/II [EC:1.9.3.1]	Cbb3-type cytochrome oxidase, subunit 1
+D197_2_contig140_6	37.5	K09155	uncharacterized protein	hypothetical protein
+D197_2_contig140_6	37.2	K09155	uncharacterized protein	hypothetical protein
+D197_2_contig141_2	43.5	K00602	phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]	phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+D197_2_contig141_2	42.9	K00602	phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]	purH
+D197_2_contig141_2	42.9	K00602	phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]	phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase (EC:2.1.2.3)
+D197_2_contig141_2	43.1	K00602	phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase [EC:2.1.2.3 3.5.4.10]	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase (EC:2.1.2.3)
+D197_2_contig142_3	61.9	K03702	excinuclease ABC subunit B	uvrB
+D197_2_contig142_3	61.9	K03702	excinuclease ABC subunit B	excinuclease subunit B
+D197_2_contig142_3	62.6	K03702	excinuclease ABC subunit B	uvrB
+D197_2_contig142_3	62.3	K03702	excinuclease ABC subunit B	excinuclease ABC subunit B
+D197_2_contig142_3	62.6	K03702	excinuclease ABC subunit B	excinuclease ABC subunit B
+D197_2_contig142_3	61.3	K03702	excinuclease ABC subunit B	excinuclease ABC subunit B
+D197_2_contig142_3	61.8	K03702	excinuclease ABC subunit B	excinuclease ABC subunit B
+D197_2_contig142_3	62.8	K03702	excinuclease ABC subunit B	Excinuclease ABC subunit B
+D197_2_contig144_4	59.7	K01596	phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]	phosphoenolpyruvate carboxykinase (GTP) (EC:4.1.1.32)
+D197_2_contig144_4	59.7	K01596	phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]	phosphoenolpyruvate carboxykinase (GTP) (EC:4.1.1.32)
+D197_2_contig144_4	59.7	K01596	phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]	phosphoenolpyruvate carboxykinase (EC:4.1.1.32)
+D197_2_contig144_4	60.0	K01596	phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]	phosphoenolpyruvate carboxykinase (GTP) (EC:4.1.1.32)
+D197_2_contig144_4	59.7	K01596	phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]	phosphoenolpyruvate carboxykinase (GTP) (EC:4.1.1.32)
+D197_2_contig145_1	67.5	K01866	tyrosyl-tRNA synthetase [EC:6.1.1.1]	tyrosyl-tRNA synthetase (EC:6.1.1.1)
+D197_2_contig147_1	56.4	K09384	uncharacterized protein	peptidase S24
+D197_2_contig147_3	49.4	K06984	beta-ribofuranosylaminobenzene 5'-phosphate synthase [EC:2.4.2.54]	hypothetical protein
+D197_2_contig147_4	77.4	K03594	bacterioferritin [EC:1.16.3.1]	ferritin Dps family protein
+D197_2_contig148_1	53.6	K02038	phosphate transport system permease protein	phosphate ABC transporter permease
+D197_2_contig148_2	54.5	K02037	phosphate transport system permease protein	phosphate ABC transporter permease
+D197_2_contig148_2	58.1	K02037	phosphate transport system permease protein	phosphate ABC transporter, permease protein PstC
+D197_2_contig148_3	56.1	K02040	phosphate transport system substrate-binding protein	ABC-type phosphate transport system, periplasmic component
+D197_2_contig149_2	54.3	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9]	glucose-inhibited division protein A
+D197_2_contig150_1	34.1	K16267	zinc and cadmium transporter	Zinc transporter, ZIP family
+D197_2_contig150_2	31.7	K03738	aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5]	aldehyde:ferredoxin oxidoreductase
+D197_2_contig151_1	32.2	K03738	aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5]	aldehyde:ferredoxin oxidoreductase
+D197_2_contig151_3	45.0	K01883	cysteinyl-tRNA synthetase [EC:6.1.1.16]	cysteinyl-tRNA synthetase
+D197_2_contig153_1	48.8	K00764	amidophosphoribosyltransferase [EC:2.4.2.14]	class II glutamine amidotransferase
+D197_2_contig153_2	60.3	K01588	5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]	phosphoribosylaminoimidazole carboxylase
+D197_2_contig153_2	59.6	K01588	5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]	N5-carboxyaminoimidazole ribonucleotide mutase
+D197_2_contig153_2	58.3	K01588	5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]	phosphoribosylaminoimidazole carboxylase catalytic subunit
+D197_2_contig153_3	52.4	K01923	phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]	phosphoribosylaminoimidazole-succinocarboxamide synthase (EC:6.3.2.6)
+D197_2_contig153_3	51.3	K01923	phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]	purC
+D197_2_contig153_4	55.6	K01933	phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	purM
+D197_2_contig154_2	35.6	K00549	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]	metE
+D197_2_contig154_3	43.3	K15449	tRNA wybutosine-synthesizing protein 1 [EC:4.1.3.44]	Wyosine base formation domain-containing protein
+D197_2_contig154_3	43.9	K15449	tRNA wybutosine-synthesizing protein 1 [EC:4.1.3.44]	tRNA-modifying protein
+D197_2_contig155_1	32.9	K08482	circadian clock protein KaiC	kaiC
+D197_2_contig155_1	32.9	K08482	circadian clock protein KaiC	circadian clock protein KaiC
+D197_2_contig155_1	32.9	K08482	circadian clock protein KaiC	circadian clock protein KaiC
+D197_2_contig155_4	35.7	K01975	2'-5' RNA ligase [EC:6.5.1.-]	LigT
+D197_2_contig158_1	27.0	K04034	anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase [EC:4.-.-.-]	Mg-protoporphyrin IX monomethyl ester oxidative cyclase-related protein
+D197_2_contig158_2	31.1	K01854	UDP-galactopyranose mutase [EC:5.4.99.9]	hypothetical protein
+D197_2_contig160_1	38.0	K11996	adenylyltransferase and sulfurtransferase	putative molybdopterin biosynthesis protein MoeB
+D197_2_contig160_2	62.2	K00052	3-isopropylmalate dehydrogenase [EC:1.1.1.85]	3-isopropylmalate dehydrogenase (EC:1.1.1.85)
+D197_2_contig160_2	62.0	K00052	3-isopropylmalate dehydrogenase [EC:1.1.1.85]	3-isopropylmalate dehydrogenase (EC:1.1.1.85)
+D197_2_contig160_2	62.0	K00052	3-isopropylmalate dehydrogenase [EC:1.1.1.85]	3-isopropylmalate dehydrogenase (EC:1.1.1.85)
+D197_2_contig160_4	57.9	K02626	arginine decarboxylase [EC:4.1.1.19]	pyruvoyl-dependent arginine decarboxylase
+D197_2_contig161_1	59.3	K03637	cyclic pyranopterin phosphate synthase [EC:4.1.99.18]	putative molybdenum cofactor biosynthesis protein MoaC
+D197_2_contig161_2	43.9	K03638	molybdenum cofactor biosynthesis protein B	molybdenum cofactor synthesis domain-containing protein
+D197_2_contig161_4	37.5	K04800	replication factor C large subunit	ATPase central domain-containing protein
+D197_2_contig162_3	55.3	K01711	GDPmannose 4,6-dehydratase [EC:4.2.1.47]	GDP-mannose 4,6-dehydratase (EC:4.2.1.47)
+D197_2_contig162_4	35.3	K00966	mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	nucleotidyl transferase
+D197_2_contig162_4	35.3	K00966	mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	nucleotidyltransferase
+D197_2_contig162_5	32.8	K13317	NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase	eryBIII
+D197_2_contig163_2	31.5	K09723	DNA replication factor GINS	hypothetical protein
+D197_2_contig163_3	52.6	K06966	uncharacterized protein	Rossmann fold nucleotide-binding protein
+D197_2_contig163_4	63.3	K02929	large subunit ribosomal protein L44e	rpl44e
+D197_2_contig163_6	62.0	K11130	H/ACA ribonucleoprotein complex subunit 3	putative Zn-ribbon RNA-binding protein
+D197_2_contig163_7	40.4	K07151	dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.99.18]	dolichyl-diphosphooligosaccharide--protein glycotransferase (EC:2.4.99.18)
+D197_2_contig164_1	34.4	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	asparagine synthetase
+D197_2_contig164_2	63.1	K14415	tRNA-splicing ligase RtcB [EC:6.5.1.3]	tRNA-splicing ligase
+D197_2_contig165_4	60.6	K01596	phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]	pckA1
+D197_2_contig165_4	61.0	K01596	phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]	phosphoenolpyruvate carboxykinase (EC:4.1.1.32)
+D197_2_contig165_4	60.6	K01596	phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]	pckG
+D197_2_contig166_1	39.2	K02025	multiple sugar transport system permease protein	multiple sugar ABC transporter permease
+D197_2_contig166_2	39.3	K02026	multiple sugar transport system permease protein	multiple sugar ABC transporter permease
+D197_2_contig166_3	47.5	K10112	multiple sugar transport system ATP-binding protein	sugar ABC transporter ATP-binding protein
+D197_2_contig168_2	27.6	K00943	dTMP kinase [EC:2.7.4.9]	hypothetical protein
+D197_2_contig168_3	42.3	K00613	glycine amidinotransferase [EC:2.1.4.1]	Scyllo-inosamine-4-phosphate amidinotransferase (EC:2.1.4.2)
+D197_2_contig169_1	67.0	K01595	phosphoenolpyruvate carboxylase [EC:4.1.1.31]	ppcA_2
+D197_2_contig170_3	52.0	K00012	UDPglucose 6-dehydrogenase [EC:1.1.1.22]	UDP-glucose dehydrogenase (EC:1.1.1.22)
+D197_2_contig170_3	50.8	K00012	UDPglucose 6-dehydrogenase [EC:1.1.1.22]	UDP-glucose dehydrogenase (EC:1.1.1.22)
+D197_2_contig170_3	50.8	K00012	UDPglucose 6-dehydrogenase [EC:1.1.1.22]	UDP-glucose dehydrogenase (EC:1.1.1.22)
+D197_2_contig170_3	51.7	K00012	UDPglucose 6-dehydrogenase [EC:1.1.1.22]	UDP-glucose dehydrogenase (EC:1.1.1.22)
+D197_2_contig170_3	51.7	K00012	UDPglucose 6-dehydrogenase [EC:1.1.1.22]	UDP-glucose dehydrogenase (EC:1.1.1.22)
+D197_2_contig170_4	53.9	K00963	UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]	UTP--glucose-1-phosphate uridylyltransferase (EC:2.7.7.9)
+D197_2_contig171_2	43.9	K01491	methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]	5,10-methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase (EC:1.5.1.5 3.5.4.9)
+D197_2_contig171_3	49.4	K03243	translation initiation factor 5B	aIF-2
+D197_2_contig171_3	50.1	K03243	translation initiation factor 5B	translation initiation factor eaIF-5B
+D197_2_contig172_1	50.8	K00014	shikimate dehydrogenase [EC:1.1.1.25]	shikimate dehydrogenase
+D197_2_contig172_2	40.1	K03785	3-dehydroquinate dehydratase I [EC:4.2.1.10]	aroD
+D197_2_contig172_2	39.6	K03785	3-dehydroquinate dehydratase I [EC:4.2.1.10]	aroD
+D197_2_contig172_3	45.0	K11646	3-dehydroquinate synthase II [EC:1.4.1.24]	3-dehydroquinate synthase
+D197_2_contig172_3	44.3	K11646	3-dehydroquinate synthase II [EC:1.4.1.24]	aroB
+D197_2_contig172_3	43.6	K11646	3-dehydroquinate synthase II [EC:1.4.1.24]	3-dehydroquinate synthase
+D197_2_contig172_4	59.5	K16306	fructose-bisphosphate aldolase / 2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase [EC:4.1.2.13 2.2.1.10]	aroGFH
+D197_2_contig173_4	44.4	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	cell wall biogenesis glycosyltransferase
+D197_2_contig173_4	42.6	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	polyprenol phosphate mannosyl transferase
+D197_2_contig173_5	47.5	K13010	perosamine synthetase [EC:2.6.1.102]	Pleiotropic regulatory protein degT
+D197_2_contig174_2	73.0	K07729	putative transcriptional regulator	putative transcription regulator
+D197_2_contig176_1	58.9	K06915	uncharacterized protein	ATPase
+D197_2_contig176_2	44.4	K06915	uncharacterized protein	Rad32-like protein
+D197_2_contig177_2	49.3	K16786	energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]	cobalt ABC transporter ATPase
+D197_2_contig177_2	42.6	K16786	energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]	ABC transporter ATP-binding protein
+D197_2_contig178_3	33.0	K15053	charged multivesicular body protein 7	hypothetical protein
+D197_2_contig179_3	34.4	K18532	adenylate kinase [EC:2.7.4.3]	hypothetical protein
+D197_2_contig180_7	55.3	K00821	acetylornithine/N-succinyldiaminopimelate aminotransferase [EC:2.6.1.11 2.6.1.17]	acetylornithine and succinylornithine aminotransferase
+D197_2_contig181_2	47.3	K05772	tungstate transport system substrate-binding protein	ABC transporter tungsten-binding protein
+D197_2_contig182_2	37.3	K03264	translation initiation factor 6	translation initiation factor 6 (aeIF-6)
+D197_2_contig182_2	36.4	K03264	translation initiation factor 6	eIF-6
+D197_2_contig182_3	34.8	K04797	prefoldin alpha subunit	putative prefoldin subunit alpha
+D197_2_contig182_4	52.6	K03110	fused signal recognition particle receptor	signal recognition particle
+D197_2_contig182_5	56.2	K00611	ornithine carbamoyltransferase [EC:2.1.3.3]	ornithine carbamoyltransferase (EC:2.1.3.3)
+D197_2_contig183_1	46.4	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	PH1742
+D197_2_contig183_1	40.5	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	hypothetical protein
+D197_2_contig183_1	40.5	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	UDP-glucose 4-epimerase (EC:5.1.3.2)
+D197_2_contig184_2	57.1	K02869	large subunit ribosomal protein L12	LSU ribosomal protein L12AE
+D197_2_contig184_3	53.2	K01872	alanyl-tRNA synthetase [EC:6.1.1.7]	alanyl-tRNA synthetase
+D197_2_contig186_1	54.3	K00605	aminomethyltransferase [EC:2.1.2.10]	gcvT
+D197_2_contig186_2	43.6	K03366	meso-butanediol dehydrogenase / (S,S)-butanediol dehydrogenase / diacetyl reductase [EC:1.1.1.- 1.1.1.76 1.1.1.304]	short-chain dehydrogenase/reductase SDR
+D197_2_contig186_3	39.9	K14083	trimethylamine---corrinoid protein Co-methyltransferase [EC:2.1.1.250]	trimethylamine:corrinoid methyltransferase
+D197_2_contig186_3	39.1	K14083	trimethylamine---corrinoid protein Co-methyltransferase [EC:2.1.1.250]	trimethylamine:corrinoid methyltransferase
+D197_2_contig187_2	38.1	K01990	ABC-2 type transport system ATP-binding protein	ABC transporter ATP-binding protein
+D197_2_contig187_2	38.1	K01990	ABC-2 type transport system ATP-binding protein	ABC transporter ATP-binding protein
+D197_2_contig187_3	46.1	K07321	CO dehydrogenase maturation factor	bchL
+D197_2_contig187_3	44.9	K07321	CO dehydrogenase maturation factor	minD_2
+D197_2_contig187_4	48.3	K07321	CO dehydrogenase maturation factor	cobyrinic acid ac-diamide synthase
+D197_2_contig189_1	32.7	K00527	ribonucleoside-triphosphate reductase [EC:1.17.4.2]	ArsR family transcriptional regulator
+D197_2_contig189_2	55.6	K00525	ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent (EC:1.17.4.1)
+D197_2_contig189_2	56.7	K00525	ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent (EC:1.17.4.1)
+D197_2_contig190_1	61.5	K01915	glutamine synthetase [EC:6.3.1.2]	glutamine synthetase (EC:6.3.1.2)
+D197_2_contig191_1	61.8	K03320	ammonium transporter, Amt family	ammonium transporter
+D197_2_contig191_1	62.0	K03320	ammonium transporter, Amt family	ammonium transporter
+D197_2_contig192_2	31.5	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	hypothetical protein
+D197_2_contig192_3	31.8	K02197	cytochrome c-type biogenesis protein CcmE	ccmE
+D197_2_contig195_2	51.3	K06915	uncharacterized protein	DUF87 domain-containing protein
+D197_2_contig195_4	54.4	K01880	glycyl-tRNA synthetase [EC:6.1.1.14]	glycyl-tRNA synthetase (EC:6.1.1.14)
+D197_2_contig196_2	52.6	K08678	UDP-glucuronate decarboxylase [EC:4.1.1.35]	epimerase
+D197_2_contig196_2	52.9	K08678	UDP-glucuronate decarboxylase [EC:4.1.1.35]	UDP-or dTTP-glucose 4-epimerase or 4-6-dehydratase
+D197_2_contig196_2	52.9	K08678	UDP-glucuronate decarboxylase [EC:4.1.1.35]	UDP-or dTTP-glucose 4-epimerase or 4-6-dehydratase
+D197_2_contig198_2	59.4	K02996	small subunit ribosomal protein S9	30S ribosomal protein S9
+D197_2_contig198_2	59.4	K02996	small subunit ribosomal protein S9	30S ribosomal protein S9
+D197_2_contig198_2	58.7	K02996	small subunit ribosomal protein S9	30S ribosomal protein S9
+D197_2_contig198_2	59.4	K02996	small subunit ribosomal protein S9	rpsI
+D197_2_contig198_2	59.4	K02996	small subunit ribosomal protein S9	30S ribosomal protein S9
+D197_2_contig198_3	41.6	K02871	large subunit ribosomal protein L13	ribosomal protein L13
+D197_2_contig198_4	37.5	K02883	large subunit ribosomal protein L18e	50S ribosomal protein L18
+D197_2_contig198_5	52.4	K03047	DNA-directed RNA polymerase subunit D [EC:2.7.7.6]	DNA-directed RNA polymerase, alpha subunit/40 kD subunit (EC:2.7.7.6)
+D197_2_contig200_1	49.9	K15635	2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	phosphoglycerate mutase
+D197_2_contig200_1	50.2	K15635	2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	apgM
+D197_2_contig200_1	49.6	K15635	2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	phosphoglycerate mutase
+D197_2_contig202_1	41.9	K07220	uncharacterized protein	hypothetical protein
+D197_2_contig202_1	41.4	K07220	uncharacterized protein	hypothetical protein
+D197_2_contig202_1	41.4	K07220	uncharacterized protein	hypothetical protein
+D197_2_contig202_3	55.7	K10747	DNA ligase 1 [EC:6.5.1.1 6.5.1.6 6.5.1.7]	lig
+D197_2_contig203_2	55.5	K03568	TldD protein	putative protease TldD
+D197_2_contig203_2	57.5	K03568	TldD protein	putative Zn-dependent protease-like protein
+D197_2_contig206_1	44.1	K00266	glutamate synthase (NADPH/NADH) small chain [EC:1.4.1.13 1.4.1.14]	NADPH-dependent glutamate synthase beta chain-like oxidoreductase (EC:1.8.1.-)
+D197_2_contig206_2	43.5	K14647	minor extracellular serine protease Vpr [EC:3.4.21.-]	peptidase S8
+D197_2_contig208_1	33.6	K07182	CBS domain-containing protein	signal transduction protein
+D197_2_contig209_1	48.6	K02319	DNA polymerase I [EC:2.7.7.7]	DNA polymerase (EC:2.7.7.7)
+D197_2_contig210_1	68.0	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	DNA methylase N-4/N-6 domain-containing protein
+D197_2_contig210_1	72.1	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	DNA methylase N-4/N-6 domain-containing protein
+D197_2_contig210_2	53.5	K01945	phosphoribosylamine--glycine ligase [EC:6.3.4.13]	phosphoribosylamine--glycine ligase (EC:6.3.4.13)
+D197_2_contig210_3	38.9	K11175	phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]	phosphoribosylglycinamide formyltransferase (EC:2.1.2.2)
+D197_2_contig211_2	44.6	K03704	cold shock protein (beta-ribbon, CspA family)	cold-shock protein
+D197_2_contig211_7	34.8	K03465	thymidylate synthase (FAD) [EC:2.1.1.148]	thyX
+D197_2_contig211_7	35.5	K03465	thymidylate synthase (FAD) [EC:2.1.1.148]	thymidylate synthase
+D197_2_contig211_7	34.8	K03465	thymidylate synthase (FAD) [EC:2.1.1.148]	thyX
+D197_2_contig212_1	54.5	K01649	2-isopropylmalate synthase [EC:2.3.3.13]	putative alpha-isopropylmalate/homocitrate synthase family transferase (EC:2.3.3.13)
+D197_2_contig212_1	54.5	K01649	2-isopropylmalate synthase [EC:2.3.3.13]	2-isopropylmalate synthase (EC:2.3.1.182)
+D197_2_contig212_1	57.0	K01649	2-isopropylmalate synthase [EC:2.3.3.13]	alpha-isopropylmalate/homocitrate synthase family transferase (EC:2.3.3.13)
+D197_2_contig212_1	55.9	K01649	2-isopropylmalate synthase [EC:2.3.3.13]	alpha-isopropylmalate/homocitrate synthase family transferase
+D197_2_contig212_1	55.2	K01649	2-isopropylmalate synthase [EC:2.3.3.13]	2-isopropylmalate synthase (EC:2.3.3.13)
+D197_2_contig212_2	35.9	K00344	NADPH2:quinone reductase [EC:1.6.5.5]	qor1
+D197_2_contig213_3	48.5	K07332	archaeal flagellar protein FlaI	type II secretion system-like protein E
+D197_2_contig214_1	34.7	K01992	ABC-2 type transport system permease protein	ABC-2 type transporter
+D197_2_contig214_2	48.5	K01990	ABC-2 type transport system ATP-binding protein	ABC transporter-like protein
+D197_2_contig216_1	43.8	K00046	gluconate 5-dehydrogenase [EC:1.1.1.69]	short-chain dehydrogenase/reductase SDR
+D197_2_contig216_2	50.2	K00615	transketolase [EC:2.2.1.1]	transketolase
+D197_2_contig217_1	54.3	K15449	tRNA wybutosine-synthesizing protein 1 [EC:4.1.3.44]	Wyosine base formation domain-containing protein
+D197_2_contig217_2	59.0	K03433	proteasome beta subunit [EC:3.4.25.1]	psmB2
+D197_2_contig217_3	47.1	K01974	RNA 3'-terminal phosphate cyclase (ATP) [EC:6.5.1.4]	rtcA
+D197_2_contig219_2	51.1	K01001	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [EC:2.7.8.15]	putative glycosyl transferase, family 4
+D197_2_contig219_2	51.1	K01001	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [EC:2.7.8.15]	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase (EC:2.7.8.15)
+D197_2_contig219_3	51.1	K07466	replication factor A1	OB-fold nucleic acid binding protein
+D197_2_contig219_3	53.3	K07466	replication factor A1	putative nucleic acid binding OB-fold tRNA/helicase-type
+D197_2_contig219_3	51.1	K07466	replication factor A1	putative nucleic acid binding OB-fold tRNA/helicase-type
+D197_2_contig219_4	69.9	K01496	phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19]	phosphoribosyl-AMP cyclohydrolase (EC:3.5.4.19)
+D197_2_contig219_5	68.0	K02500	cyclase [EC:4.1.3.-]	imidazole glycerol phosphate synthase
+D197_2_contig222_1	63.9	K02877	large subunit ribosomal protein L15e	rpl15e
+D197_2_contig222_1	62.3	K02877	large subunit ribosomal protein L15e	LSU ribosomal protein L15E
+D197_2_contig222_2	50.3	K00058	D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	D-3-phosphoglycerate dehydrogenase (EC:1.1.1.95)
+D197_2_contig222_3	52.4	K06942	uncharacterized protein	GTP binding protein
+D197_2_contig222_3	50.9	K06942	uncharacterized protein	GTP binding protein
+D197_2_contig222_3	51.2	K06942	uncharacterized protein	GTP-binding conserved hypothetical protein TIGR00650
+D197_2_contig223_2	41.7	K13010	perosamine synthetase [EC:2.6.1.102]	putative PLP-dependent enzyme possibly involved in cell wall biogenesis
+D197_2_contig224_2	54.6	K06863	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.23]	purP
+D197_2_contig224_3	59.4	K06863	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.23]	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+D197_2_contig227_1	61.3	K04483	DNA repair protein RadA	radA1
+D197_2_contig228_1	57.2	K01666	4-hydroxy 2-oxovalerate aldolase [EC:4.1.3.39]	4-hydroxy-2-oxopentanoic acid aldolase
+D197_2_contig228_2	44.3	K01652	acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	Acetolactate synthase large subunit (EC:2.2.1.6)
+D197_2_contig228_2	44.3	K01652	acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	Acetolactate synthase large subunit (EC:2.2.1.6)
+D197_2_contig229_2	33.8	K04483	DNA repair protein RadA	RecA/RadA recombinase
+D197_2_contig230_1	31.1	K10726	replicative DNA helicase Mcm [EC:3.6.4.-]	replicative DNA helicase Mcm
+D197_2_contig231_1	46.1	K02823	dihydroorotate dehydrogenase electron transfer subunit	pyrK
+D197_2_contig231_2	51.8	K17828	dihydroorotate dehydrogenase (NAD+) catalytic subunit [EC:1.3.1.14]	dihydroorotate dehydrogenase
+D197_2_contig231_2	52.8	K17828	dihydroorotate dehydrogenase (NAD+) catalytic subunit [EC:1.3.1.14]	pyrD
+D197_2_contig231_2	53.5	K17828	dihydroorotate dehydrogenase (NAD+) catalytic subunit [EC:1.3.1.14]	dihydroorotate dehydrogenase family protein
+D197_2_contig233_1	42.4	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	ATP binding protein
+D197_2_contig233_1	42.4	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	metal-binding-domain/4Fe-4S-binding-domain containing ABC transporter, ATP-binding protein
+D197_2_contig233_1	44.3	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	ATP-binding protein (EC:6.3.5.4)
+D197_2_contig233_2	26.5	K00185	prokaryotic molybdopterin-containing oxidoreductase family, membrane subunit	polysulfide reductase NrfD
+D197_2_contig233_3	51.6	K08358	tetrathionate reductase subunit B	Fe-S-cluster-containing hydrogenase subunit (EC:1.8.-.-)
+D197_2_contig233_3	51.6	K08358	tetrathionate reductase subunit B	Fe-S-cluster-containing hydrogenase subunit (EC:1.8.-.-)
+D197_2_contig233_3	53.8	K08358	tetrathionate reductase subunit B	hydrogenase 2 protein HybA
+D197_2_contig233_3	49.6	K08358	tetrathionate reductase subunit B	tetrathionate reductase subunit B
+D197_2_contig233_3	50.4	K08358	tetrathionate reductase subunit B	ttrB
+D197_2_contig233_3	50.4	K08358	tetrathionate reductase subunit B	subunit B of a molybdenum enzyme, that of tetrathionate reductase (TTRB)
+D197_2_contig235_2	37.1	K00195	acetyl-CoA decarbonylase/synthase complex subunit epsilon	cdhB
+D197_2_contig235_3	51.8	K00193	acetyl-CoA decarbonylase/synthase complex subunit beta [EC:2.3.1.-]	acetyl-CoA decarbonylase/synthase complex subunit beta (EC:2.3.1.169)
+D197_2_contig235_3	50.4	K00193	acetyl-CoA decarbonylase/synthase complex subunit beta [EC:2.3.1.-]	CO dehydrogenase/CO-methylating acetyl-CoA synthase complex, beta subunit
+D197_2_contig237_1	45.9	K07503	endonuclease [EC:3.1.-.-]	putative nuclease of the RecB family
+D197_2_contig240_2	49.1	K09140	pre-rRNA-processing protein TSR3	hypothetical protein
+D197_2_contig241_1	51.2	K03799	heat shock protein HtpX [EC:3.4.24.-]	Heat shock protein HtpX (EC:3.4.24.-)
+D197_2_contig241_1	51.2	K03799	heat shock protein HtpX [EC:3.4.24.-]	Heat shock protein HtpX (EC:3.4.24.-)
+D197_2_contig241_2	60.3	K03744	LemA protein	LemA protein
+D197_2_contig241_2	60.3	K03744	LemA protein	LemA protein
+D197_2_contig242_2	39.5	K02195	heme exporter protein C	cytochrome c assembly protein
+D197_2_contig242_4	57.4	K02056	simple sugar transport system ATP-binding protein [EC:3.6.3.17]	ABC-type sugar transport system, ATPase component
+D197_2_contig243_1	29.2	K10726	replicative DNA helicase Mcm [EC:3.6.4.-]	DNA replication helicase protein MCM
+D197_2_contig244_2	35.8	K06869	uncharacterized protein	hypothetical protein
+D197_2_contig244_2	32.5	K06869	uncharacterized protein	hypothetical protein
+D197_2_contig244_2	37.4	K06869	uncharacterized protein	hypothetical protein
+D197_2_contig246_4	60.5	K01493	dCMP deaminase [EC:3.5.4.12]	CMP/dCMP deaminase zinc-binding protein
+D197_2_contig247_1	73.0	K04749	anti-sigma B factor antagonist	rsbV
+D197_2_contig248_1	38.5	K04655	hydrogenase expression/formation protein HypE	AIR synthase-like protein
+D197_2_contig249_3	39.4	K07722	CopG family transcriptional regulator, nickel-responsive regulator	transcriptional regulator NikR, CopG family
+D197_2_contig249_4	53.5	K00820	glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	glucosamine 6-phosphate synthetase
+D197_2_contig249_4	53.8	K00820	glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	glutamine--fructose-6-phosphate transaminase (EC:2.6.1.16)
+D197_2_contig249_4	55.2	K00820	glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	glutamine--fructose-6-phosphate transaminase (EC:2.6.1.16)
+D197_2_contig251_1	44.9	K00008	L-iditol 2-dehydrogenase [EC:1.1.1.14]	putative sorbitol dehydrogenase (EC:1.1.1.14)
+D197_2_contig251_2	66.3	K08321	putative autoinducer-2 (AI-2) aldolase [EC:4.1.2.-]	lsrF
+D197_2_contig251_2	65.9	K08321	putative autoinducer-2 (AI-2) aldolase [EC:4.1.2.-]	DhnA-type fructose-1,6-bisphosphate aldolase-like enzyme (EC:4.1.2.-)
+D197_2_contig251_2	64.0	K08321	putative autoinducer-2 (AI-2) aldolase [EC:4.1.2.-]	Fructose-bisphosphate aldolase (EC:4.1.2.13)
+D197_2_contig251_2	62.3	K08321	putative autoinducer-2 (AI-2) aldolase [EC:4.1.2.-]	fructose-bisphosphate aldolase (EC:4.1.2.13)
+D197_2_contig251_3	36.1	K09780	uncharacterized protein	hypothetical protein
+D197_2_contig252_1	27.4	K02335	DNA polymerase I [EC:2.7.7.7]	DNA polymerase
+D197_2_contig254_1	57.5	K08963	methylthioribose-1-phosphate isomerase [EC:5.3.1.23]	mtnA
+D197_2_contig254_1	57.5	K08963	methylthioribose-1-phosphate isomerase [EC:5.3.1.23]	S-methyl-5-thioribose-1-phosphate isomerase (EC:5.3.1.23)
+D197_2_contig256_1	44.3	K09118	uncharacterized protein	conserved membrane protein of unknown function
+D197_2_contig256_1	44.8	K09118	uncharacterized protein	hypothetical protein
+D197_2_contig258_4	33.3	K07016	CRISPR-associated protein Csm1	HD superfamily hydrolase
+D197_2_contig259_2	35.0	K06981	isopentenyl phosphate kinase [EC:2.7.4.26]	aspartate/glutamate/uridylate kinase
+D197_2_contig259_3	55.8	K01823	isopentenyl-diphosphate delta-isomerase [EC:5.3.3.2]	fni
+D197_2_contig261_2	60.3	K00927	phosphoglycerate kinase [EC:2.7.2.3]	phosphoglycerate kinase (EC:2.7.2.3)
+D197_2_contig263_1	54.5	K00013	histidinol dehydrogenase [EC:1.1.1.23]	hisD
+D197_2_contig263_3	59.6	K01693	imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]	hisB
+D197_2_contig263_3	61.5	K01693	imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]	imidazoleglycerol-phosphate dehydratase (EC:4.2.1.19)
+D197_2_contig265_1	49.0	K00586	diphthine synthase [EC:2.1.1.98]	dph5
+D197_2_contig266_1	37.7	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	NAD-dependent epimerase/dehydratase
+D197_2_contig266_2	52.6	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	wecB
+D197_2_contig266_3	56.4	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	dolichol-phosphate mannosyltransferase
+D197_2_contig268_1	50.7	K03163	DNA topoisomerase I [EC:5.99.1.2]	DNA topoisomerase I (EC:5.99.1.2)
+D197_2_contig268_2	48.3	K01858	myo-inositol-1-phosphate synthase [EC:5.5.1.4]	myo-inositol-1-phosphate synthase
+D197_2_contig270_1	35.1	K02012	iron(III) transport system substrate-binding protein	iron complex ABC transporter substrate-binding protein
+D197_2_contig271_1	42.6	K00869	mevalonate kinase [EC:2.7.1.36]	hypothetical protein
+D197_2_contig271_2	55.9	K06990	uncharacterized protein	uncharacterized protein family UPF0103
+D197_2_contig271_3	53.1	K02967	small subunit ribosomal protein S2	rps2p
+D197_2_contig272_1	52.9	K09120	uncharacterized protein	hypothetical protein
+D197_2_contig273_1	46.4	K12574	ribonuclease J [EC:3.1.-.-]	hydrolase of the metallo-beta-lactamase superfamily

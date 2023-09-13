@@ -1,0 +1,731 @@
+IQ-TREE multicore version 2.2.2.7 COVID-edition for Linux 64-bit built Jun  7 2023
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    ylifc (AVX2, FMA3, 1007 GB RAM)
+Command: iqtree2 --seqtype AA -T AUTO --threads-max 200 -B 1000 -s CAT_all_PQQ_deduplicate_trimal.faa -m TEST
+Seed:    513180 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Aug 30 17:50:05 2023
+Kernel:  AVX+FMA - auto-detect threads (256 CPU cores detected)
+
+Reading alignment file CAT_all_PQQ_deduplicate_trimal.faa ... Fasta format detected
+Reading fasta file: done in 0.00332623 secs
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.00416767 secs using 339.9% CPU
+Alignment has 206 sequences with 554 columns, 554 distinct patterns
+530 parsimony-informative, 17 singleton sites, 6 constant sites
+                                                         Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.0920363 secs using 3815% CPU
+   1  Deep-sea_sediment_DRR121219_Rubisco                       60.47%    failed      0.01%
+   2  D197_116_contig10_52                                      11.19%    passed     12.72%
+   3  D197_116_contig1_292                                      12.64%    passed     51.45%
+   4  D197_116_contig1_315                                      17.87%    passed     73.37%
+   5  D197_116_contig16_24                                      10.47%    failed      1.04%
+   6  D197_116_contig17_26                                      12.64%    failed      1.93%
+   7  D197_116_contig18_20                                      23.65%    failed      0.08%
+   8  D197_116_contig19_21                                      10.83%    failed      0.00%
+   9  D197_116_contig2_35                                       11.19%    failed      3.66%
+  10  D197_116_contig24_16                                      18.23%    passed     39.93%
+  11  D197_116_contig27_1                                       11.19%    failed      3.58%
+  12  D197_116_contig31_4                                       13.90%    passed     29.03%
+  13  D197_116_contig4_2                                        12.27%    passed     42.87%
+  14  D197_116_contig4_85                                       12.64%    failed      1.72%
+  15  D197_116_contig5_43                                       10.65%    failed      0.74%
+  16  D197_116_contig7_18                                       11.01%    passed     12.86%
+  17  D197_116_contig8_68                                       10.83%    passed     38.74%
+  18  D197_116_contig8_75                                       10.47%    passed      6.69%
+  19  D197_2_contig63_1                                         74.37%    passed     93.54%
+  20  D197_2_contig78_3                                         24.19%    failed      0.06%
+  21  D197_2_contig86_6                                         26.71%    passed     43.02%
+  22  Deep-sea_sediment_DRR121209_Bin1_contig156_1              33.94%    passed     27.33%
+  23  Deep-sea_sediment_DRR121209_Bin1_contig176_1              52.71%    passed     59.84%
+  24  Deep-sea_sediment_DRR121209_Bin1_contig301_1              63.90%    passed     83.68%
+  25  Deep-sea_sediment_DRR121209_Bin1_contig308_1              65.34%    passed     66.41%
+  26  Deep-sea_sediment_DRR121209_Bin1_contig357_1              72.20%    passed     89.76%
+  27  Deep-sea_sediment_DRR121209_Bin1_contig393_1              70.22%    passed     36.32%
+  28  Deep-sea_sediment_DRR121209_Bin1_contig527_1              85.92%    passed      9.42%
+  29  Deep-sea_sediment_DRR121219_Bin1_contig192_1              33.94%    passed     27.33%
+  30  Deep-sea_sediment_DRR121219_Bin1_contig212_1              52.71%    passed     59.84%
+  31  Deep-sea_sediment_DRR121219_Bin1_contig3_1                80.87%    passed     56.23%
+  32  Deep-sea_sediment_DRR121219_Bin1_contig353_1              63.90%    passed     83.68%
+  33  Deep-sea_sediment_DRR121219_Bin1_contig361_1              65.34%    passed     66.41%
+  34  Deep-sea_sediment_DRR121219_Bin1_contig407_1              72.20%    passed     89.76%
+  35  Deep-sea_sediment_DRR121219_Bin1_contig427_1              70.22%    passed     36.32%
+  36  Deep-sea_sediment_ERR1730303_Bin1_contig3_1               80.87%    passed     56.23%
+  37  HMT_AABW_contig10_6                                       19.13%    passed     97.44%
+  38  HMT_AABW_contig12_4                                       46.93%    failed      0.00%
+  39  HMT_AABW_contig20_3                                       20.22%    passed     13.24%
+  40  HMT_AABW_contig2_1                                        68.77%    passed     17.78%
+  41  HMT_AABW_contig7_13                                       18.59%    passed     98.27%
+  42  HMT_AABW_contig7_2                                        14.26%    passed      5.06%
+  43  HMT_AABW_contig7_4                                        13.54%    passed     65.74%
+  44  HMT_AABW_S15_53_contig10_24                               19.13%    passed     97.64%
+  45  HMT_AABW_S15_53_contig15_1                                82.31%    passed     10.79%
+  46  HMT_AABW_S15_53_contig28_4                                18.59%    passed     98.27%
+  47  HMT_AABW_S15_53_contig29_9                                75.45%    passed     89.50%
+  48  HMT_AABW_S15_53_contig31_3                                46.93%    failed      0.00%
+  49  HMT_AABW_S15_53_contig44_7                                29.78%    passed     71.58%
+  50  HMT_AABW_S15_53_contig5_3                                 20.22%    passed     11.23%
+  51  HMT_AAIW_contig11_20                                      12.82%    passed     18.04%
+  52  HMT_AAIW_contig1_26                                       68.77%    passed     23.00%
+  53  HMT_AAIW_contig2_22                                       20.22%    passed     26.59%
+  54  HMT_ATL_contig11_13                                       10.83%    passed     67.84%
+  55  HMT_ATL_contig14_4                                        18.59%    passed     98.27%
+  56  HMT_ATL_contig15_9                                        75.45%    passed     89.50%
+  57  HMT_ATL_contig17_72                                       31.23%    passed     70.63%
+  58  HMT_ATL_contig18_4                                        46.93%    failed      0.00%
+  59  HMT_ATL_contig5_3                                         20.76%    passed     12.44%
+  60  HMT_ATL_contig9_31                                        19.86%    passed     96.27%
+  61  HMT_NADW_contig16_19                                      18.59%    passed     98.05%
+  62  HMT_NADW_contig25_10                                      20.22%    passed     14.03%
+  63  HMT_NADW_contig26_2                                       10.47%    passed     69.64%
+  64  HMT_NADW_contig29_1                                       61.19%    passed     14.39%
+  65  HMT_NADW_contig5_1                                        72.74%    passed     66.78%
+  66  HMT_NADW_S23_34_contig10_17                               10.47%    passed     71.17%
+  67  HMT_NADW_S23_34_contig17_4                                19.13%    passed     95.13%
+  68  HMT_NADW_S23_34_contig28_3                                20.22%    passed     14.03%
+  69  HMT_NADW_S23_34_contig4_38                                30.32%    passed     61.72%
+  70  HMT_NADW_S23_34_contig6_4                                 46.93%    failed      0.00%
+  71  HMT_PAC_contig12_5                                        18.59%    passed     98.27%
+  72  HMT_PAC_contig17_13                                       10.47%    passed     64.61%
+  73  HMT_PAC_contig24_1                                        24.55%    passed     29.52%
+  74  HMT_PAC_contig47_2                                        19.13%    passed     98.54%
+  75  HMT_PAC_contig53_6                                        22.74%    passed     11.64%
+  76  HMT_PAC_contig59_1                                        22.74%    passed     68.97%
+  77  HMT_PAC_contig72_3                                        64.80%    failed      0.27%
+  78  Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig192_1      33.94%    passed     27.33%
+  79  Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig212_1      52.71%    passed     59.84%
+  80  Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig3_1        80.87%    passed     56.23%
+  81  Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig353_1      63.90%    passed     83.68%
+  82  Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig361_1      65.34%    passed     66.41%
+  83  Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig407_1      72.20%    passed     89.76%
+  84  Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig427_1      70.22%    passed     36.32%
+  85  Thaumarchaeota_archaeon_EAC691_contig30_20                22.38%    passed     92.96%
+  86  Thaumarchaeota_archaeon_EAC691_contig30_22                18.77%    passed     93.70%
+  87  Thaumarchaeota_archaeon_EAC691_contig32_10                12.64%    passed     36.39%
+  88  Thaumarchaeota_archaeon_EAC691_contig32_8                 20.76%    passed     60.57%
+  89  Thaumarchaeota_archaeon_EAC691_contig34_12                40.61%    passed     84.56%
+  90  Thaumarchaeota_archaeon_EAC691_contig34_3                 16.25%    passed     21.47%
+  91  Thaumarchaeota_archaeon_EAC691_contig34_4                 18.41%    passed     46.10%
+  92  Thaumarchaeota_archaeon_EAC691_contig41_3                 13.72%    passed     24.72%
+  93  Thaumarchaeota_archaeon_EAC691_contig41_5                 15.16%    passed     94.84%
+  94  Thaumarchaeota_archaeon_EAC691_contig44_2                 51.81%    failed      0.00%
+  95  Thaumarchaeota_archaeon_EAC691_contig5_3                  20.76%    passed     77.80%
+  96  Thaumarchaeota_archaeon_RBG_16_49_8-contig104_4           10.47%    failed      0.11%
+  97  Thaumarchaeota_archaeon_RBG_16_49_8-contig106_6           20.22%    passed     32.86%
+  98  Thaumarchaeota_archaeon_RBG_16_49_8-contig112_4           49.10%    failed      0.23%
+  99  Thaumarchaeota_archaeon_RBG_16_49_8-contig115_8           10.83%    failed      0.09%
+ 100  Thaumarchaeota_archaeon_RBG_16_49_8-contig12_3            12.64%    failed      0.59%
+ 101  Thaumarchaeota_archaeon_RBG_16_49_8-contig15_3            19.49%    failed      1.88%
+ 102  Thaumarchaeota_archaeon_RBG_16_49_8-contig41_15           43.86%    passed     37.58%
+ 103  Thaumarchaeota_archaeon_RBG_16_49_8-contig68_9            56.50%    passed     28.80%
+ 104  Thaumarchaeota_archaeon_RBG_16_49_8-contig77_10           14.62%    passed     16.89%
+ 105  Thaumarchaeota_archaeon_RBG_16_49_8-contig78_11           33.57%    passed     10.33%
+ 106  Thaumarchaeota_archaeon_RBG_16_49_8-contig82_2            11.37%    passed      8.48%
+ 107  Thaumarchaeota_archaeon_SAT139_contig14_1                 19.31%    passed     86.82%
+ 108  Thaumarchaeota_archaeon_SAT139_contig16_8                 18.59%    passed     97.54%
+ 109  Thaumarchaeota_archaeon_SAT139_contig18_1                 11.73%    passed     33.70%
+ 110  Thaumarchaeota_archaeon_SAT139_contig20_1                 14.98%    passed     57.78%
+ 111  Thaumarchaeota_archaeon_SAT139_contig20_3                 13.00%    passed     92.63%
+ 112  Thaumarchaeota_archaeon_SAT139_contig20_5                 14.08%    passed     14.91%
+ 113  Thaumarchaeota_archaeon_SAT139_contig20_7                 11.37%    passed     41.50%
+ 114  Thaumarchaeota_archaeon_SAT139_contig21_27                49.64%    passed     15.33%
+ 115  Thaumarchaeota_archaeon_SAT139_contig4_2                  14.26%    passed     82.78%
+ 116  Thaumarchaeota_archaeon_SAT139_contig4_26                 19.13%    passed      6.49%
+ 117  Thaumarchaeota_archaeon_SAT139_contig4_3                  14.08%    passed     45.04%
+ 118  Thaumarchaeota_archaeon_SP3992_contig17_12                18.59%    passed     97.26%
+ 119  Thaumarchaeota_archaeon_SP3992_contig20_18                47.11%    failed      0.00%
+ 120  Thaumarchaeota_archaeon_SP3992_contig24_1                 82.67%    passed     80.85%
+ 121  Thaumarchaeota_archaeon_SP3992_contig26_1                 25.81%    passed     30.97%
+ 122  Thaumarchaeota_archaeon_SP3992_contig3_8                  18.59%    passed     97.50%
+ 123  Thaumarchaeota_archaeon_SP3992_contig5_23                 13.00%    passed     28.32%
+ 124  Thaumarchaeota_archaeon_UBA57-contig14_34                 86.46%    failed      1.16%
+ 125  Thaumarchaeota_archaeon_UBA57-contig14_42                 14.80%    failed      0.58%
+ 126  Thaumarchaeota_archaeon_UBA57-contig14_43                 14.26%    failed      4.30%
+ 127  Thaumarchaeota_archaeon_UBA57-contig14_45                 13.54%    passed     48.17%
+ 128  Thaumarchaeota_archaeon_UBA57-contig14_54                 18.59%    passed     98.27%
+ 129  Thaumarchaeota_archaeon_UBA57-contig6_11                  18.41%    passed     87.05%
+ 130  Thaumarchaeota_archaeon_UBA57-contig6_12                  19.68%    passed     79.12%
+ 131  Thaumarchaeota_archaeon_UBA57-contig8_33                  12.82%    passed     14.73%
+ 132  Thaumarchaeota_ASW2_bin45_contig12_2                      13.90%    passed     95.04%
+ 133  Thaumarchaeota_ASW2_bin45_contig12_4                      13.36%    passed     29.44%
+ 134  Thaumarchaeota_ASW2_bin45_contig12_6                      14.26%    passed     88.72%
+ 135  Thaumarchaeota_ASW2_bin45_contig12_9                      12.64%    passed     75.47%
+ 136  Thaumarchaeota_ASW2_bin45_contig18_12                     46.93%    failed      0.00%
+ 137  Thaumarchaeota_ASW2_bin45_contig5_19                      19.13%    passed     88.09%
+ 138  Thaumarchaeota_ASW2_bin45_contig8_21                      20.04%    passed     46.06%
+ 139  Thaumarchaeota_ASW2_bin45_contig8_23                      12.64%    passed     33.20%
+ 140  Thaumarchaeota_ASW2_bin45_contig9_15                      12.09%    passed     12.45%
+ 141  Thaumarchaeota_ASW2_bin45_contig9_4                       19.86%    passed     97.41%
+ 142  Thaumarchaeota_ASW8_contig10_18                           47.47%    passed     53.66%
+ 143  Thaumarchaeota_ASW8_contig14_1                            71.66%    passed     88.06%
+ 144  Thaumarchaeota_ASW8_contig14_10                           13.54%    passed     63.07%
+ 145  Thaumarchaeota_ASW8_contig14_12                           14.62%    failed      3.71%
+ 146  Thaumarchaeota_ASW8_contig14_8                            13.18%    passed     22.26%
+ 147  Thaumarchaeota_ASW8_contig28_10                           19.68%    passed     84.28%
+ 148  Thaumarchaeota_ASW8_contig28_9                            17.87%    passed     97.29%
+ 149  Thaumarchaeota_ASW8_contig30_13                           86.10%    passed      7.04%
+ 150  Thaumarchaeota_ASW8_contig32_7                            11.37%    passed     45.42%
+ 151  Thaumarchaeota_ASW8_contig60_1                            19.13%    passed     98.49%
+ 152  Thaumarchaeota_ASW8_contig64_1                            53.97%    passed     31.66%
+ 153  Thaumarchaeota_ASW8_contig67_1                            46.57%    passed     84.19%
+ 154  Thaumarchaeota_ASW8_contig8_14                            20.22%    passed     32.10%
+ 155  Thaumarchaeota_ASW8_contig84_3                            82.49%    passed     90.65%
+ 156  Unclassified_Thaumarchaeota_DRTY_7_bin_36-contig120_2     40.25%    failed      0.01%
+ 157  XS84_Bin1_contig122_4                                     17.51%    passed     43.78%
+ 158  XS84_Bin1_contig177_1                                     65.70%    passed     75.37%
+ 159  XS84_Bin1_contig189_4                                     52.35%    passed     52.93%
+ 160  XS84_Bin1_contig197_3                                     17.51%    passed     44.19%
+ 161  XS84_Bin1_contig2_1                                       40.07%    passed     50.32%
+ 162  XS84_Bin2_contig104_4                                     17.51%    passed     43.78%
+ 163  XS84_Bin2_contig155_1                                     65.70%    passed     75.37%
+ 164  XS84_Bin2_contig167_4                                     52.35%    passed     52.93%
+ 165  XS84_Bin2_contig175_3                                     17.51%    passed     44.19%
+ 166  XS84_Bin2_contig2_1                                       40.07%    passed     50.32%
+ 167  XS84_Bin3_contig106_5                                     85.02%    passed     37.20%
+ 168  XS84_Bin3_contig128_4                                     17.69%    passed     91.51%
+ 169  XS84_Bin3_contig150_2                                     21.84%    failed      1.03%
+ 170  XS84_Bin3_contig22_1                                      18.95%    passed     47.57%
+ 171  Candidatus_Caldiarchaeum_subterraneum_contig1_1137        52.17%    failed      0.02%
+ 172  Candidatus_Caldiarchaeum_subterraneum_contig1_216         21.12%    passed     81.04%
+ 173  Candidatus_Caldiarchaeum_subterraneum_contig1_235         11.55%    failed      0.20%
+ 174  Candidatus_Caldiarchaeum_subterraneum_contig1_243         18.41%    failed      0.55%
+ 175  Candidatus_Caldiarchaeum_subterraneum_contig1_246         17.87%    failed      0.22%
+ 176  Chloroflexi_bacterium_RS510_contig17_9                    19.68%    passed     86.07%
+ 177  Planctomycetes_bacterium_NORP165_contig158_8              60.47%    failed      1.71%
+ 178  Planctomycetes_bacterium_NORP165_contig161_9              79.60%    passed      5.47%
+ 179  Planctomycetes_bacterium_NORP165_contig220_2              19.68%    passed     79.12%
+ 180  Thaumarchaeota_archaeon_Cayman_118_shallow_contig47_2     19.68%    passed     79.12%
+ 181  Thaumarchaeota_archaeon_Cayman_118_shallow_contig6_1      26.90%    passed     64.57%
+ 182  Thaumarchaeota_archaeon_EAC691_contig1_3                  20.76%    passed     77.80%
+ 183  Thaumarchaeota_archaeon_EAC691_contig26_20                22.38%    passed     92.96%
+ 184  Thaumarchaeota_archaeon_EAC691_contig26_22                18.77%    passed     93.70%
+ 185  Thaumarchaeota_archaeon_EAC691_contig28_10                12.64%    passed     36.39%
+ 186  Thaumarchaeota_archaeon_EAC691_contig28_8                 20.76%    passed     60.57%
+ 187  Thaumarchaeota_archaeon_EAC691_contig30_12                40.61%    passed     84.56%
+ 188  Thaumarchaeota_archaeon_EAC691_contig30_3                 16.25%    passed     21.47%
+ 189  Thaumarchaeota_archaeon_EAC691_contig30_4                 18.41%    passed     46.10%
+ 190  Thaumarchaeota_archaeon_EAC691_contig37_3                 13.72%    passed     24.72%
+ 191  Thaumarchaeota_archaeon_EAC691_contig37_5                 15.16%    passed     94.84%
+ 192  Thaumarchaeota_archaeon_EAC691_contig40_2                 51.81%    failed      0.00%
+ 193  Thaumarchaeota_archaeon_TA_4_contig199_6                  14.44%    passed     13.53%
+ 194  Thaumarchaeota_archaeon_TA_4_contig287_8                  11.91%    failed      0.03%
+ 195  Thaumarchaeota_archaeon_TA_4_contig301_2                  15.88%    passed     12.10%
+ 196  Thaumarchaeota_archaeon_TA_4_contig301_4                  19.86%    failed      0.49%
+ 197  Thaumarchaeota_archaeon_TA_4_contig301_6                  19.86%    failed      0.43%
+ 198  Uncultured_marine_thaumarchaeote_KM3_90_H07_contig1_10    14.26%    passed     16.71%
+ 199  Uncultured_marine_thaumarchaeote_KM3_90_H07_contig1_12    13.36%    passed     69.05%
+ 200  Uncultured_marine_thaumarchaeote_KM3_90_H07_contig1_22    18.59%    passed     96.60%
+ 201  Uncultured_marine_thaumarchaeote_KM3_90_H07_contig1_4     12.82%    passed     44.57%
+ 202  Uncultured_marine_thaumarchaeote_KM3_90_H07_contig1_8     14.80%    passed     44.47%
+ 203  Uncultured_marine_thaumarchaeote_KM3_90_H07_contig1_9     15.52%    passed     12.56%
+ 204  uncultured_marine_crenarchaeote_KM3-153-F8_contig1_38     19.86%    passed     37.67%
+ 205  uncultured_marine_thaumarchaeote_AD100070G10_contig1_46   18.59%    passed     97.14%
+ 206  uncutured_archaeon_W5-61a_contig1_13                      35.02%    passed     86.49%
+WARNING: 46 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                                     30.96%  38 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: Deep-sea_sediment_DRR121219_Bin1_contig192_1 is identical to Deep-sea_sediment_DRR121209_Bin1_contig156_1 but kept for subsequent analysis
+NOTE: Deep-sea_sediment_DRR121219_Bin1_contig212_1 is identical to Deep-sea_sediment_DRR121209_Bin1_contig176_1 but kept for subsequent analysis
+NOTE: Deep-sea_sediment_DRR121219_Bin1_contig353_1 is identical to Deep-sea_sediment_DRR121209_Bin1_contig301_1 but kept for subsequent analysis
+NOTE: Deep-sea_sediment_DRR121219_Bin1_contig361_1 is identical to Deep-sea_sediment_DRR121209_Bin1_contig308_1 but kept for subsequent analysis
+NOTE: Deep-sea_sediment_DRR121219_Bin1_contig407_1 is identical to Deep-sea_sediment_DRR121209_Bin1_contig357_1 but kept for subsequent analysis
+NOTE: Deep-sea_sediment_DRR121219_Bin1_contig427_1 is identical to Deep-sea_sediment_DRR121209_Bin1_contig393_1 but kept for subsequent analysis
+NOTE: Deep-sea_sediment_ERR1730303_Bin1_contig3_1 is identical to Deep-sea_sediment_DRR121219_Bin1_contig3_1 but kept for subsequent analysis
+NOTE: HMT_AABW_S15_53_contig28_4 is identical to HMT_AABW_contig7_13 but kept for subsequent analysis
+NOTE: HMT_ATL_contig15_9 is identical to HMT_AABW_S15_53_contig29_9 but kept for subsequent analysis
+NOTE: HMT_ATL_contig18_4 is identical to HMT_AABW_S15_53_contig31_3 but kept for subsequent analysis
+NOTE: HMT_NADW_S23_34_contig28_3 is identical to HMT_NADW_contig25_10 but kept for subsequent analysis
+NOTE: Thaumarchaeota_archaeon_EAC691_contig26_20 is identical to Thaumarchaeota_archaeon_EAC691_contig30_20 but kept for subsequent analysis
+NOTE: Thaumarchaeota_archaeon_EAC691_contig26_22 is identical to Thaumarchaeota_archaeon_EAC691_contig30_22 but kept for subsequent analysis
+NOTE: Thaumarchaeota_archaeon_EAC691_contig28_10 is identical to Thaumarchaeota_archaeon_EAC691_contig32_10 but kept for subsequent analysis
+NOTE: Thaumarchaeota_archaeon_EAC691_contig28_8 is identical to Thaumarchaeota_archaeon_EAC691_contig32_8 but kept for subsequent analysis
+NOTE: Thaumarchaeota_archaeon_EAC691_contig30_12 is identical to Thaumarchaeota_archaeon_EAC691_contig34_12 but kept for subsequent analysis
+NOTE: Thaumarchaeota_archaeon_EAC691_contig30_3 is identical to Thaumarchaeota_archaeon_EAC691_contig34_3 but kept for subsequent analysis
+NOTE: Thaumarchaeota_archaeon_EAC691_contig30_4 is identical to Thaumarchaeota_archaeon_EAC691_contig34_4 but kept for subsequent analysis
+NOTE: Thaumarchaeota_archaeon_EAC691_contig37_3 is identical to Thaumarchaeota_archaeon_EAC691_contig41_3 but kept for subsequent analysis
+NOTE: Thaumarchaeota_archaeon_EAC691_contig37_5 is identical to Thaumarchaeota_archaeon_EAC691_contig41_5 but kept for subsequent analysis
+NOTE: Thaumarchaeota_archaeon_EAC691_contig40_2 is identical to Thaumarchaeota_archaeon_EAC691_contig44_2 but kept for subsequent analysis
+NOTE: Thaumarchaeota_archaeon_EAC691_contig1_3 is identical to Thaumarchaeota_archaeon_EAC691_contig5_3 but kept for subsequent analysis
+NOTE: Planctomycetes_bacterium_NORP165_contig220_2 is identical to Thaumarchaeota_archaeon_UBA57-contig6_12 but kept for subsequent analysis
+NOTE: XS84_Bin2_contig104_4 is identical to XS84_Bin1_contig122_4 but kept for subsequent analysis
+NOTE: XS84_Bin2_contig155_1 is identical to XS84_Bin1_contig177_1 but kept for subsequent analysis
+NOTE: XS84_Bin2_contig167_4 is identical to XS84_Bin1_contig189_4 but kept for subsequent analysis
+NOTE: XS84_Bin2_contig175_3 is identical to XS84_Bin1_contig197_3 but kept for subsequent analysis
+NOTE: XS84_Bin2_contig2_1 is identical to XS84_Bin1_contig2_1 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.0645154 secs using 3331% CPU
+Identifying sites to remove: done in 0.00154284 secs using 1294% CPU
+NOTE: 12 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig192_1 (identical to Deep-sea_sediment_DRR121209_Bin1_contig156_1) is ignored but added at the end
+NOTE: Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig212_1 (identical to Deep-sea_sediment_DRR121209_Bin1_contig176_1) is ignored but added at the end
+NOTE: Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig353_1 (identical to Deep-sea_sediment_DRR121209_Bin1_contig301_1) is ignored but added at the end
+NOTE: Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig361_1 (identical to Deep-sea_sediment_DRR121209_Bin1_contig308_1) is ignored but added at the end
+NOTE: Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig407_1 (identical to Deep-sea_sediment_DRR121209_Bin1_contig357_1) is ignored but added at the end
+NOTE: Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig427_1 (identical to Deep-sea_sediment_DRR121209_Bin1_contig393_1) is ignored but added at the end
+NOTE: Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig3_1 (identical to Deep-sea_sediment_DRR121219_Bin1_contig3_1) is ignored but added at the end
+NOTE: HMT_ATL_contig14_4 (identical to HMT_AABW_contig7_13) is ignored but added at the end
+NOTE: HMT_PAC_contig12_5 (identical to HMT_AABW_contig7_13) is ignored but added at the end
+NOTE: Thaumarchaeota_archaeon_UBA57-contig14_54 (identical to HMT_AABW_contig7_13) is ignored but added at the end
+NOTE: HMT_NADW_S23_34_contig6_4 (identical to HMT_AABW_S15_53_contig31_3) is ignored but added at the end
+NOTE: Thaumarchaeota_archaeon_Cayman_118_shallow_contig47_2 (identical to Thaumarchaeota_archaeon_UBA57-contig6_12) is ignored but added at the end
+Alignment was printed to CAT_all_PQQ_deduplicate_trimal.faa.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to CAT_all_PQQ_deduplicate_trimal.faa.uniqueseq.phy
+
+NOTE: Restoring information from model checkpoint file CAT_all_PQQ_deduplicate_trimal.faa.model.gz
+
+CHECKPOINT: Initial tree restored
+Measuring multi-threading efficiency up to 200 CPU cores
+Increase to 10 rounds for branch lengths
+42 trees examined
+Threads: 1 / Time: 201.897 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -142054
+Threads: 2 / Time: 96.624 sec / Speedup: 2.090 / Efficiency: 104% / LogL: -142054
+Threads: 3 / Time: 68.224 sec / Speedup: 2.959 / Efficiency: 99% / LogL: -142054
+Threads: 4 / Time: 64.746 sec / Speedup: 3.118 / Efficiency: 78% / LogL: -142054
+Threads: 5 / Time: 58.344 sec / Speedup: 3.460 / Efficiency: 69% / LogL: -142054
+Threads: 6 / Time: 56.777 sec / Speedup: 3.556 / Efficiency: 59% / LogL: -142054
+Threads: 7 / Time: 48.924 sec / Speedup: 4.127 / Efficiency: 59% / LogL: -142054
+Threads: 8 / Time: 46.193 sec / Speedup: 4.371 / Efficiency: 55% / LogL: -142054
+Threads: 9 / Time: 43.600 sec / Speedup: 4.631 / Efficiency: 51% / LogL: -142054
+Threads: 10 / Time: 45.458 sec / Speedup: 4.441 / Efficiency: 44% / LogL: -142054
+Determining AUTO threadcount: done in 730.866 secs using 415% CPU
+BEST NUMBER OF THREADS: 9
+
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Optimizing NNI: done in 3.07539 secs using 898% CPU
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -60830.480
+Optimal log-likelihood: -60830.464
+Proportion of invariable sites: 0.002
+Gamma shape alpha: 2.391
+Parameters optimization took 1 rounds (0.325 sec)
+Time for fast ML tree search: 4.957 seconds
+
+NOTE: ModelFinder requires 71 MB RAM!
+ModelFinder will test up to 224 protein models (sample size: 554) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            61926.850    385 124623.700   126392.867   126285.808
+  2  LG+I          61914.529    386 124601.059   126390.065   126267.484
+  3  LG+G4         60831.971    386 122435.942   124224.948   124102.367
+  4  LG+I+G4       60830.456    387 122434.913   124244.021   124105.656
+  7  LG+F+G4       60696.290    405 122202.579   124424.606   123951.031
+  8  LG+F+I+G4     60694.682    406 122201.363   124449.554   123954.132
+ 11  WAG+G4        61106.544    386 122985.088   124774.094   124651.513
+ 12  WAG+I+G4      61105.307    387 122984.613   124793.722   124655.356
+ 15  WAG+F+G4      60811.293    405 122432.586   124654.613   124181.038
+ 16  WAG+F+I+G4    60810.140    406 122432.281   124680.471   124185.049
+ 19  JTT+G4        61535.249    386 123842.498   125631.504   125508.923
+ 20  JTT+I+G4      61532.286    387 123838.573   125647.681   125509.315
+ 23  JTT+F+G4      61422.987    405 123655.975   125878.002   125404.427
+ 24  JTT+F+I+G4    61420.184    406 123652.368   125900.558   125405.137
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 27  Q.pfam+G4     60844.994    386 122461.988   124250.994   124128.413
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 28  Q.pfam+I+G4   60843.213    387 122460.427   124269.535   124131.170
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 31  Q.pfam+F+G4   60750.688    405 122311.375   124533.402   124059.827
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 32  Q.pfam+F+I+G4 60749.069    406 122310.138   124558.328   124062.907
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 35  Q.bird+G4     63092.323    386 126956.646   128745.652   128623.072
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 36  Q.bird+I+G4   63088.292    387 126950.583   128759.692   128621.326
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 39  Q.bird+F+G4   62981.001    405 126772.001   128994.028   128520.453
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 40  Q.bird+F+I+G4 62977.290    406 126766.581   129014.771   128519.349
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 43  Q.mammal+G4   62560.903    386 125893.805   127682.811   127560.231
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 44  Q.mammal+I+G4 62556.725    387 125887.451   127696.559   127558.194
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 47  Q.mammal+F+G4 62377.791    405 125565.583   127787.610   127314.035
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 48  Q.mammal+F+I+G4 62374.246    406 125560.491   127808.682   127313.260
+ 51  Q.insect+G4   61061.467    386 122894.934   124683.940   124561.360
+ 52  Q.insect+I+G4 61057.787    387 122889.573   124698.682   124560.316
+ 55  Q.insect+F+G4 61167.182    405 123144.364   125366.392   124892.816
+ 56  Q.insect+F+I+G4 61163.305    406 123138.611   125386.801   124891.380
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 59  Q.plant+G4    61618.730    386 124009.460   125798.466   125675.886
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 60  Q.plant+I+G4  61616.653    387 124007.307   125816.415   125678.050
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 63  Q.plant+F+G4  61564.798    405 123939.595   126161.622   125688.047
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 64  Q.plant+F+I+G4 61562.844    406 123937.689   126185.879   125690.458
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 67  Q.yeast+G4    60935.683    386 122643.365   124432.371   124309.791
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 68  Q.yeast+I+G4  60932.851    387 122639.702   124448.810   124310.444
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 71  Q.yeast+F+G4  60999.034    405 122808.069   125030.096   124556.520
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 72  Q.yeast+F+I+G4 60995.995    406 122803.991   125052.181   124556.760
+ 75  JTTDCMut+G4   61528.387    386 123828.775   125617.781   125495.200
+ 76  JTTDCMut+I+G4 61525.659    387 123825.319   125634.427   125496.062
+ 79  JTTDCMut+F+G4 61407.067    405 123624.134   125846.161   125372.586
+ 80  JTTDCMut+F+I+G4 61404.558    406 123621.117   125869.307   125373.886
+ 83  DCMut+G4      61945.197    386 124662.394   126451.400   126328.820
+ 84  DCMut+I+G4    61942.252    387 124658.504   126467.613   126329.247
+ 87  DCMut+F+G4    61522.139    405 123854.278   126076.305   125602.730
+ 88  DCMut+F+I+G4  61519.262    406 123850.524   126098.714   125603.293
+ 91  VT+G4         61146.868    386 123065.735   124854.741   124732.161
+ 92  VT+I+G4       61144.556    387 123063.113   124872.221   124733.855
+ 95  VT+F+G4       61019.941    405 122849.882   125071.910   124598.334
+ 96  VT+F+I+G4     61017.674    406 122847.348   125095.538   124600.117
+ 99  PMB+G4        61445.794    386 123663.589   125452.595   125330.014
+100  PMB+I+G4      61444.183    387 123662.365   125471.474   125333.108
+103  PMB+F+G4      61229.487    405 123268.973   125491.000   125017.425
+104  PMB+F+I+G4    61227.790    406 123267.580   125515.770   125020.349
+107  Blosum62+G4   61382.462    386 123536.924   125325.930   125203.349
+108  Blosum62+I+G4 61380.551    387 123535.101   125344.209   125205.844
+111  Blosum62+F+G4 61175.513    405 123161.025   125383.052   124909.477
+112  Blosum62+F+I+G4 61173.459    406 123158.917   125407.108   124911.686
+115  Dayhoff+G4    61945.901    386 124663.802   126452.808   126330.228
+116  Dayhoff+I+G4  61942.932    387 124659.863   126468.972   126330.606
+119  Dayhoff+F+G4  61523.543    405 123857.085   126079.112   125605.537
+120  Dayhoff+F+I+G4 61520.676    406 123853.351   126101.542   125606.120
+123  mtREV+G4      63624.528    386 128021.055   129810.061   129687.481
+124  mtREV+I+G4    63624.534    387 128023.067   129832.175   129693.810
+127  mtREV+F+G4    62052.756    405 124915.511   127137.538   126663.963
+128  mtREV+F+I+G4  62052.798    406 124917.596   127165.786   126670.365
+131  mtART+G4      64068.842    386 128909.684   130698.690   130576.109
+132  mtART+I+G4    64068.526    387 128911.051   130720.160   130581.794
+135  mtART+F+G4    62728.581    405 126267.162   128489.189   128015.613
+136  mtART+F+I+G4  62727.707    406 126267.415   128515.605   128020.183
+139  mtZOA+G4      62876.228    386 126524.457   128313.463   128190.882
+140  mtZOA+I+G4    62874.847    387 126523.695   128332.803   128194.438
+143  mtZOA+F+G4    62007.453    405 124824.906   127046.933   126573.357
+144  mtZOA+F+I+G4  62005.581    406 124823.162   127071.353   126575.931
+147  mtMet+G4      63511.553    386 127795.106   129584.112   129461.531
+148  mtMet+I+G4    63510.229    387 127794.458   129603.566   129465.200
+151  mtMet+F+G4    62348.809    405 125507.617   127729.644   127256.069
+152  mtMet+F+I+G4  62346.590    406 125505.180   127753.371   127257.949
+155  mtVer+G4      64427.515    386 129627.031   131416.037   131293.456
+156  mtVer+I+G4    64427.364    387 129628.729   131437.837   131299.471
+159  mtVer+F+G4    63240.150    405 127290.299   129512.326   129038.751
+160  mtVer+F+I+G4  63238.201    406 127288.402   129536.593   129041.171
+163  mtInv+G4      63488.228    386 127748.457   129537.463   129414.882
+164  mtInv+I+G4    63485.928    387 127745.856   129554.964   129416.599
+167  mtInv+F+G4    61758.608    405 124327.217   126549.244   126075.668
+168  mtInv+F+I+G4  61755.418    406 124322.837   126571.027   126075.606
+171  mtMAM+G4      65334.398    386 131440.797   133229.803   133107.222
+172  mtMAM+I+G4    65334.399    387 131442.797   133251.905   133113.540
+175  mtMAM+F+G4    63739.383    405 128288.765   130510.792   130037.217
+176  mtMAM+F+I+G4  63739.392    406 128290.783   130538.974   130043.552
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+179  FLAVI+G4      64344.665    386 129461.329   131250.335   131127.755
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+180  FLAVI+I+G4    64343.967    387 129461.934   131271.043   131132.677
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+183  FLAVI+F+G4    64144.272    405 129098.545   131320.572   130846.996
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+184  FLAVI+F+I+G4  64143.363    406 129098.725   131346.916   130851.494
+187  HIVb+G4       63043.722    386 126859.443   128648.449   128525.869
+188  HIVb+I+G4     63040.709    387 126855.417   128664.526   128526.160
+191  HIVb+F+G4     62786.102    405 126382.204   128604.231   128130.656
+192  HIVb+F+I+G4   62783.855    406 126379.709   128627.900   128132.478
+195  HIVw+G4       65247.798    386 131267.597   133056.603   132934.022
+196  HIVw+I+G4     65243.251    387 131260.502   133069.611   132931.245
+199  HIVw+F+G4     64595.775    405 130001.550   132223.577   131750.002
+200  HIVw+F+I+G4   64592.159    406 129996.319   132244.509   131749.087
+203  FLU+G4        61997.204    386 124766.408   126555.414   126432.833
+204  FLU+I+G4      61995.563    387 124765.125   126574.234   126435.868
+207  FLU+F+G4      61814.031    405 124438.062   126660.089   126186.514
+208  FLU+F+I+G4    61812.219    406 124436.438   126684.629   126189.207
+211  rtREV+G4      61449.781    386 123671.562   125460.568   125337.987
+212  rtREV+I+G4    61449.244    387 123672.487   125481.596   125343.230
+215  rtREV+F+G4    60961.129    405 122732.258   124954.285   124480.710
+216  rtREV+F+I+G4  60960.361    406 122732.721   124980.912   124485.490
+219  cpREV+G4      61213.007    386 123198.014   124987.020   124864.440
+220  cpREV+I+G4    61212.362    387 123198.724   125007.833   124869.467
+223  cpREV+F+G4    61152.577    405 123115.153   125337.180   124863.605
+224  cpREV+F+I+G4  61151.621    406 123115.241   125363.432   124868.010
+Akaike Information Criterion:           LG+F+I+G4
+Corrected Akaike Information Criterion: LG+G4
+Bayesian Information Criterion:         LG+F+G4
+Best-fit model: LG+F+G4 chosen according to BIC
+
+All model information printed to CAT_all_PQQ_deduplicate_trimal.faa.model.gz
+CPU time for ModelFinder: 4529.536 seconds (1h:15m:29s)
+Wall-clock time for ModelFinder: 899.491 seconds (0h:14m:59s)
+Generating 1000 samples for ultrafast bootstrap (seed: 513180)...
+
+NOTE: 71 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -60696.290
+Optimal log-likelihood: -60696.284
+Gamma shape alpha: 2.324
+Parameters optimization took 1 rounds (0.282 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 1.07871 secs using 901% CPU
+Computing ML distances took 1.079102 sec (of wall-clock time) 9.719330 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.00286334 secs using 329.6% CPU
+Constructing RapidNJ tree: done in 2.80464 secs using 342.7% CPU
+Computing RapidNJ tree took 2.807783 sec (of wall-clock time) 9.622139 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -61684.722
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 17.921 second
+Computing log-likelihood of 98 initial trees ... 12.283 seconds
+Current best score: -60696.284
+
+Do NNI search on 20 best initial trees
+Optimizing NNI: done in 0.819437 secs using 897.8% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -60694.075
+Optimizing NNI: done in 3.71508 secs using 899.3% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -60680.929
+Optimizing NNI: done in 3.19658 secs using 898.3% CPU
+Optimizing NNI: done in 3.39704 secs using 896.9% CPU
+Optimizing NNI: done in 3.1928 secs using 898.4% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 5: -60677.823
+Optimizing NNI: done in 3.28709 secs using 898.6% CPU
+Optimizing NNI: done in 4.07907 secs using 899.3% CPU
+Optimizing NNI: done in 3.76685 secs using 898.4% CPU
+Optimizing NNI: done in 3.62021 secs using 897.2% CPU
+Optimizing NNI: done in 3.01955 secs using 898.3% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 10: -60673.079
+Iteration 10 / LogL: -60673.079 / Time: 0h:1m:9s
+Optimizing NNI: done in 5.29571 secs using 898.3% CPU
+Optimizing NNI: done in 2.50124 secs using 898.5% CPU
+Optimizing NNI: done in 4.29543 secs using 899.2% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 13: -60668.288
+Optimizing NNI: done in 3.48543 secs using 898.7% CPU
+Optimizing NNI: done in 5.41306 secs using 899.1% CPU
+Optimizing NNI: done in 4.08983 secs using 899.6% CPU
+Optimizing NNI: done in 3.29127 secs using 899.1% CPU
+Optimizing NNI: done in 6.349 secs using 899.1% CPU
+Optimizing NNI: done in 3.46519 secs using 899.1% CPU
+Optimizing NNI: done in 3.41225 secs using 898.9% CPU
+Iteration 20 / LogL: -60694.532 / Time: 0h:1m:51s
+Finish initializing candidate tree set (20)
+Current best tree score: -60668.288 / CPU time: 105.757
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Optimizing NNI: done in 6.18525 secs using 898% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 21: -60662.337
+Optimizing NNI: done in 2.785 secs using 898% CPU
+Optimizing NNI: done in 3.8135 secs using 898.7% CPU
+Optimizing NNI: done in 2.68747 secs using 899.2% CPU
+Optimizing NNI: done in 3.15323 secs using 898.8% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 25: -60657.621
+Optimizing NNI: done in 3.58505 secs using 898.9% CPU
+Optimizing NNI: done in 3.15009 secs using 899% CPU
+Optimizing NNI: done in 2.98336 secs using 896.5% CPU
+Optimizing NNI: done in 3.93641 secs using 896.9% CPU
+Optimizing NNI: done in 5.87196 secs using 898.9% CPU
+Iteration 30 / LogL: -60691.233 / Time: 0h:2m:30s (0h:8m:13s left)
+Optimizing NNI: done in 3.30665 secs using 898.2% CPU
+Optimizing NNI: done in 3.783 secs using 898.6% CPU
+Optimizing NNI: done in 3.19976 secs using 899% CPU
+Optimizing NNI: done in 2.86759 secs using 897.7% CPU
+Optimizing NNI: done in 3.10112 secs using 898.8% CPU
+Optimizing NNI: done in 3.24495 secs using 898.4% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 36: -60655.717
+Optimizing NNI: done in 3.56407 secs using 899.1% CPU
+Optimizing NNI: done in 3.56135 secs using 898.8% CPU
+Optimizing NNI: done in 3.9023 secs using 898.8% CPU
+Optimizing NNI: done in 3.04958 secs using 897.5% CPU
+Iteration 40 / LogL: -60668.190 / Time: 0h:3m:4s (0h:7m:34s left)
+Optimizing NNI: done in 2.95179 secs using 898.5% CPU
+Optimizing NNI: done in 3.23957 secs using 897.5% CPU
+Optimizing NNI: done in 2.89347 secs using 898% CPU
+Optimizing NNI: done in 2.66352 secs using 899.4% CPU
+Optimizing NNI: done in 3.17188 secs using 899.1% CPU
+Optimizing NNI: done in 4.25378 secs using 898.7% CPU
+Optimizing NNI: done in 3.25861 secs using 898.9% CPU
+Optimizing NNI: done in 3.67338 secs using 898.2% CPU
+Optimizing NNI: done in 4.1261 secs using 898.4% CPU
+Optimizing NNI: done in 3.70234 secs using 898% CPU
+Iteration 50 / LogL: -60661.407 / Time: 0h:3m:39s (0h:6m:24s left)
+Log-likelihood cutoff on original alignment: -60728.500
+Optimizing NNI: done in 3.1608 secs using 898.1% CPU
+Optimizing NNI: done in 3.61368 secs using 898.1% CPU
+Optimizing NNI: done in 3.03005 secs using 896.9% CPU
+Optimizing NNI: done in 3.11669 secs using 898% CPU
+Optimizing NNI: done in 2.98678 secs using 897.6% CPU
+Optimizing NNI: done in 3.18492 secs using 897.6% CPU
+Optimizing NNI: done in 2.98487 secs using 898.7% CPU
+Optimizing NNI: done in 3.70176 secs using 897.7% CPU
+Optimizing NNI: done in 3.29653 secs using 898.4% CPU
+Optimizing NNI: done in 3.67041 secs using 899.3% CPU
+Iteration 60 / LogL: -60669.450 / Time: 0h:4m:12s (0h:5m:25s left)
+Optimizing NNI: done in 4.43771 secs using 899.3% CPU
+Optimizing NNI: done in 3.39766 secs using 898.4% CPU
+Optimizing NNI: done in 3.72509 secs using 898.6% CPU
+Optimizing NNI: done in 4.55961 secs using 898.7% CPU
+Optimizing NNI: done in 3.44381 secs using 898.3% CPU
+Optimizing NNI: done in 3.68472 secs using 899.7% CPU
+Optimizing NNI: done in 3.54096 secs using 898.3% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 67: -60655.067
+Optimizing NNI: done in 3.38324 secs using 899.1% CPU
+Optimizing NNI: done in 3.29813 secs using 899% CPU
+Optimizing NNI: done in 3.25034 secs using 899.4% CPU
+Iteration 70 / LogL: -60658.676 / Time: 0h:4m:50s (0h:6m:47s left)
+Optimizing NNI: done in 3.1449 secs using 897.3% CPU
+Optimizing NNI: done in 3.88525 secs using 898.3% CPU
+Optimizing NNI: done in 3.6783 secs using 898.7% CPU
+Optimizing NNI: done in 3.55861 secs using 898% CPU
+Optimizing NNI: done in 3.13081 secs using 899.3% CPU
+Optimizing NNI: done in 3.81323 secs using 899.1% CPU
+Optimizing NNI: done in 5.58087 secs using 898.4% CPU
+Optimizing NNI: done in 3.39063 secs using 896.4% CPU
+Optimizing NNI: done in 3.11308 secs using 894.4% CPU
+Optimizing NNI: done in 2.74127 secs using 890.3% CPU
+Iteration 80 / LogL: -60664.018 / Time: 0h:5m:26s (0h:5m:59s left)
+Optimizing NNI: done in 3.78989 secs using 897.3% CPU
+Optimizing NNI: done in 3.13129 secs using 898.6% CPU
+Optimizing NNI: done in 3.41792 secs using 898.2% CPU
+Optimizing NNI: done in 3.33915 secs using 896.8% CPU
+Optimizing NNI: done in 3.23532 secs using 897.3% CPU
+Optimizing NNI: done in 3.22 secs using 898.1% CPU
+Optimizing NNI: done in 3.68883 secs using 898.4% CPU
+Optimizing NNI: done in 3.1393 secs using 897.1% CPU
+Optimizing NNI: done in 4.03755 secs using 898% CPU
+Optimizing NNI: done in 5.7777 secs using 898.9% CPU
+Iteration 90 / LogL: -60751.177 / Time: 0h:6m:3s (0h:5m:14s left)
+Optimizing NNI: done in 3.53315 secs using 898.1% CPU
+Optimizing NNI: done in 3.37354 secs using 898% CPU
+Optimizing NNI: done in 3.95193 secs using 899.4% CPU
+Optimizing NNI: done in 4.17786 secs using 898% CPU
+Optimizing NNI: done in 4.06424 secs using 898.3% CPU
+Optimizing NNI: done in 3.90255 secs using 898.2% CPU
+Optimizing NNI: done in 2.98587 secs using 897.7% CPU
+Optimizing NNI: done in 3.20658 secs using 898.6% CPU
+Optimizing NNI: done in 3.52179 secs using 897.6% CPU
+Optimizing NNI: done in 2.20704 secs using 898.7% CPU
+Iteration 100 / LogL: -60658.985 / Time: 0h:6m:38s (0h:4m:29s left)
+Log-likelihood cutoff on original alignment: -60725.978
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.997
+Optimizing NNI: done in 3.21157 secs using 898.6% CPU
+Optimizing NNI: done in 3.48141 secs using 895.2% CPU
+Optimizing NNI: done in 3.23425 secs using 894.4% CPU
+Optimizing NNI: done in 3.36333 secs using 898.9% CPU
+Optimizing NNI: done in 2.9454 secs using 898.5% CPU
+Optimizing NNI: done in 2.96164 secs using 897.8% CPU
+Optimizing NNI: done in 3.06785 secs using 898.7% CPU
+Optimizing NNI: done in 3.30256 secs using 897.2% CPU
+Optimizing NNI: done in 3.92982 secs using 899% CPU
+Optimizing NNI: done in 3.79165 secs using 892.4% CPU
+Iteration 110 / LogL: -60667.587 / Time: 0h:7m:12s (0h:5m:57s left)
+Optimizing NNI: done in 2.97646 secs using 898.6% CPU
+Optimizing NNI: done in 3.76107 secs using 898.8% CPU
+Optimizing NNI: done in 3.53193 secs using 897.6% CPU
+Optimizing NNI: done in 3.01501 secs using 897.7% CPU
+Optimizing NNI: done in 3.44155 secs using 896.8% CPU
+Optimizing NNI: done in 3.56245 secs using 899.6% CPU
+Optimizing NNI: done in 3.88047 secs using 898.4% CPU
+Optimizing NNI: done in 6.38091 secs using 897.5% CPU
+Optimizing NNI: done in 3.20443 secs using 897.3% CPU
+Optimizing NNI: done in 6.18293 secs using 898.4% CPU
+Iteration 120 / LogL: -60695.335 / Time: 0h:7m:53s (0h:5m:18s left)
+Optimizing NNI: done in 3.05094 secs using 895.7% CPU
+Optimizing NNI: done in 3.66379 secs using 898.8% CPU
+Optimizing NNI: done in 3.24409 secs using 899.2% CPU
+Optimizing NNI: done in 2.87413 secs using 898.3% CPU
+Optimizing NNI: done in 3.70048 secs using 898.3% CPU
+Optimizing NNI: done in 4.28943 secs using 898.6% CPU
+Optimizing NNI: done in 7.26799 secs using 895.5% CPU
+Optimizing NNI: done in 4.37603 secs using 897.1% CPU
+Optimizing NNI: done in 4.46019 secs using 894.8% CPU
+Optimizing NNI: done in 4.38943 secs using 888.2% CPU
+Iteration 130 / LogL: -60659.439 / Time: 0h:8m:34s (0h:4m:39s left)
+Optimizing NNI: done in 4.50144 secs using 898.5% CPU
+Optimizing NNI: done in 4.62997 secs using 898.2% CPU
+Optimizing NNI: done in 4.16642 secs using 897.9% CPU
+Optimizing NNI: done in 4.84081 secs using 899% CPU
+Optimizing NNI: done in 4.18447 secs using 898.1% CPU
+UPDATE BEST LOG-LIKELIHOOD: -60655.066
+Optimizing NNI: done in 5.03846 secs using 898.9% CPU
+Optimizing NNI: done in 3.80455 secs using 897.9% CPU
+Optimizing NNI: done in 2.97825 secs using 897% CPU
+Optimizing NNI: done in 3.37829 secs using 897.6% CPU
+Optimizing NNI: done in 2.97745 secs using 898.5% CPU
+Iteration 140 / LogL: -60669.452 / Time: 0h:9m:15s (0h:3m:59s left)
+Optimizing NNI: done in 3.36811 secs using 897.6% CPU
+Optimizing NNI: done in 3.56552 secs using 897.1% CPU
+Optimizing NNI: done in 3.07068 secs using 897.8% CPU
+Optimizing NNI: done in 4.56895 secs using 898.5% CPU
+Optimizing NNI: done in 2.82186 secs using 898.9% CPU
+Optimizing NNI: done in 3.29075 secs using 892.4% CPU
+Optimizing NNI: done in 2.94368 secs using 897.7% CPU
+Optimizing NNI: done in 4.18827 secs using 879.2% CPU
+Optimizing NNI: done in 3.90301 secs using 897.9% CPU
+Optimizing NNI: done in 3.38963 secs using 898% CPU
+Iteration 150 / LogL: -60675.939 / Time: 0h:9m:51s (0h:3m:18s left)
+Log-likelihood cutoff on original alignment: -60723.991
+Optimizing NNI: done in 3.57765 secs using 891.6% CPU
+Optimizing NNI: done in 3.84264 secs using 898.2% CPU
+Optimizing NNI: done in 3.68993 secs using 896.4% CPU
+Optimizing NNI: done in 4.09901 secs using 898% CPU
+Optimizing NNI: done in 3.25342 secs using 898.3% CPU
+Optimizing NNI: done in 3.45968 secs using 899.1% CPU
+Optimizing NNI: done in 3.78179 secs using 898.5% CPU
+Optimizing NNI: done in 3.49186 secs using 898.5% CPU
+Optimizing NNI: done in 3.63407 secs using 898.3% CPU
+Optimizing NNI: done in 3.69732 secs using 898.3% CPU
+Iteration 160 / LogL: -60680.046 / Time: 0h:10m:29s (0h:2m:38s left)
+Optimizing NNI: done in 3.30708 secs using 898.5% CPU
+Optimizing NNI: done in 3.41933 secs using 898.2% CPU
+Optimizing NNI: done in 3.86342 secs using 897.8% CPU
+Optimizing NNI: done in 3.51295 secs using 897.5% CPU
+Optimizing NNI: done in 3.93835 secs using 896.8% CPU
+Optimizing NNI: done in 3.42968 secs using 898% CPU
+Optimizing NNI: done in 4.1573 secs using 895% CPU
+Optimizing NNI: done in 3.33568 secs using 898.7% CPU
+TREE SEARCH COMPLETED AFTER 168 ITERATIONS / Time: 0h:10m:58s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -60655.066
+Optimal log-likelihood: -60655.065
+Gamma shape alpha: 2.273
+Parameters optimization took 1 rounds (0.253 sec)
+BEST SCORE FOUND : -60655.065
+Creating bootstrap support values...
+Split supports printed to NEXUS file CAT_all_PQQ_deduplicate_trimal.faa.splits.nex
+Total tree length: 58.059
+
+Total number of iterations: 168
+CPU time used for tree search: 5684.271 sec (1h:34m:44s)
+Wall-clock time used for tree search: 652.315 sec (0h:10m:52s)
+Total CPU time used: 5724.845 sec (1h:35m:24s)
+Total wall-clock time used: 659.143 sec (0h:10m:59s)
+
+Computing bootstrap consensus tree...
+Reading input file CAT_all_PQQ_deduplicate_trimal.faa.splits.nex...
+194 taxa and 998 splits.
+Consensus tree written to CAT_all_PQQ_deduplicate_trimal.faa.contree
+Reading input trees file CAT_all_PQQ_deduplicate_trimal.faa.contree
+Log-likelihood of consensus tree: -60655.475
+
+Analysis results written to: 
+  IQ-TREE report:                CAT_all_PQQ_deduplicate_trimal.faa.iqtree
+  Maximum-likelihood tree:       CAT_all_PQQ_deduplicate_trimal.faa.treefile
+  Likelihood distances:          CAT_all_PQQ_deduplicate_trimal.faa.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          CAT_all_PQQ_deduplicate_trimal.faa.splits.nex
+  Consensus tree:                CAT_all_PQQ_deduplicate_trimal.faa.contree
+  Screen log file:               CAT_all_PQQ_deduplicate_trimal.faa.log
+
+Date and Time: Wed Aug 30 18:16:07 2023

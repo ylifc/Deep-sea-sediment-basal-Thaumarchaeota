@@ -1,0 +1,7 @@
+Thaumarchaeota_YP1_bin3_contig1_228	2.87e-22	HGY54793.1	tungsten formylmethanofuran dehydrogenase [Caldithrix abyssi]
+Thaumarchaeota_YP1_bin3_contig1_228	3.96e-22	MBI1804075.1	tungsten formylmethanofuran dehydrogenase [Ignavibacteria bacterium]
+Thaumarchaeota_YP1_bin3_contig1_329	7.41e-41	WP_039812681.1	SDR family oxidoreductase [Jeotgalibacillus malaysiensis]
+Thaumarchaeota_YP1_bin3_contig1_516	6.61e-180	GIU91197.1	MAG: tungsten formylmethanofuran dehydrogenase subunit E [Acidimicrobiia bacterium]
+Thaumarchaeota_YP1_bin3_contig2_189	9.73e-104	MBF6613166.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Thaumarchaeota_YP1_bin3_contig2_189	3.90e-103	MBF6614822.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Thaumarchaeota_YP1_bin3_contig2_327	1.13e-73	MBX6342053.1	tungsten formylmethanofuran dehydrogenase [Thermomicrobiaceae bacterium]

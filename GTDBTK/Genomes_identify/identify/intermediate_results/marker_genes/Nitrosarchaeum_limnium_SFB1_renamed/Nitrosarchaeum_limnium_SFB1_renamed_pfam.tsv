@@ -1,0 +1,46 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:51.959872
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Nitrosarchaeum_limnium_SFB1_renamed/Nitrosarchaeum_limnium_SFB1_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Nitrosarchaeum_limnium_SFB1-contig25_10       6    130      5    130 PF00410.20  Ribosomal_S8      Domain     2   126   126     73.6   1.6e-21   1 No_clan  
+Nitrosarchaeum_limnium_SFB1-contig25_13      98    169     96    169 PF00900.21  Ribosomal_S4e     Family     3    75    75     64.4   8.1e-19   1 CL0021   
+Nitrosarchaeum_limnium_SFB1-contig36_10      20    143      7    147 PF00827.18  Ribosomal_L15e    Family    22   145   189    154.1   4.1e-46   1 CL0652   
+Nitrosarchaeum_limnium_SFB1-contig44_6        7     69      6     69 PF01200.19  Ribosomal_S28e    Family     2    64    64     97.3   4.3e-29   1 CL0021   
+Nitrosarchaeum_limnium_SFB1-contig48_29       3    137      3    138 PF01090.20  Ribosomal_S19e    Family     1   136   137    163.0   3.7e-49   1 CL0123   
+Nitrosarchaeum_limnium_SFB1-contig62_28      45    157     45    157 PF01000.27  RNA_pol_A_bac     Domain     1   112   112     86.6   1.8e-25   1 No_clan  
+Nitrosarchaeum_limnium_SFB1-contig62_31      12    149     11    149 PF00380.20  Ribosomal_S9      Family     2   121   121    119.7   1.2e-35   1 CL0329   
+Nitrosarchaeum_limnium_SFB1-contig63_22       4    144      4    146 PF01280.21  Ribosomal_L19e    Family     1   142   144    134.3   3.7e-40   1 No_clan  
+Nitrosarchaeum_limnium_SFB1-contig63_29      19    206     10    207 PF00687.22  Ribosomal_L1      Domain     5   203   204    131.0   5.6e-39   1 No_clan  
+Nitrosarchaeum_limnium_SFB1-contig63_30       9    105      7    107 PF00466.21  Ribosomal_L10     Family     3    98   100     67.7   9.2e-20   1 No_clan  
+Nitrosarchaeum_limnium_SFB1-contig63_59      12    187     11    187 PF04919.13  DUF655            Family     2   181   181    167.3     4e-50   1 CL0198   
+Nitrosarchaeum_limnium_SFB1-contig66_221     38    195     22    195 PF01025.20  GrpE              Family     6   166   166    127.6   4.5e-38   1 No_clan  
+Nitrosarchaeum_limnium_SFB1-contig66_241    122    226    121    227 PF07541.13  EIF_2_alpha       Family     3   113   114     69.7   2.7e-20   1 No_clan  
+Nitrosarchaeum_limnium_SFB1-contig66_45       4    193      3    194 PF01015.19  Ribosomal_S3Ae    Family     2   194   195    214.7     1e-64   1 No_clan  

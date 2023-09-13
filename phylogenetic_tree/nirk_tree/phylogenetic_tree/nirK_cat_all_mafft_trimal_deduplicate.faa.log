@@ -1,0 +1,1067 @@
+IQ-TREE multicore version 2.2.2.7 COVID-edition for Linux 64-bit built Jun  7 2023
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    ylifc (AVX2, FMA3, 1007 GB RAM)
+Command: iqtree2 --seqtype AA -s nirK_cat_all_mafft_trimal_deduplicate.faa --threads-max 250 -T AUTO -m TEST -B 1000
+Seed:    463639 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Aug 29 15:04:15 2023
+Kernel:  AVX+FMA - auto-detect threads (256 CPU cores detected)
+
+Reading alignment file nirK_cat_all_mafft_trimal_deduplicate.faa ... Fasta format detected
+Reading fasta file: done in 0.00689941 secs using 99.97% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.0100034 secs using 3807% CPU
+Alignment has 400 sequences with 564 columns, 564 distinct patterns
+532 parsimony-informative, 21 singleton sites, 11 constant sites
+                                                                            Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.412058 secs using 646.1% CPU
+   1  2507511405_Bra1417DRAFT_7094_Bradyrhizobium_sp_WSM1417                       50.18%    passed     96.20%
+   2  2508545206_Bra471DRAFT_06287_Bradyrhizobium_sp_WSM471                        50.18%    passed     99.44%
+   3  2508665394_AmiJ41DRAFT_00033730_Aminobacter_sp_J41                           53.19%    passed     10.03%
+   4  2508694042_Bra1253DRAFT_03574_Bradyrhizobium_sp_WSM1253                      50.18%    passed     98.43%
+   5  2509147905_BraARR65DRAFT_00016080_Bradyrhizobium_sp_ARR65                    50.18%    passed     98.83%
+   6  2513648490_YUEDRAFT_03335_Bradyrhizobium_japonicum_USDA_122                  50.18%    passed     92.16%
+   7  2513671643_YY7DRAFT_00942_Bradyrhizobium_elkanii_WSM2783                     50.35%    passed     75.80%
+   8  2513701823_YUQDRAFT_02730_Bradyrhizobium_japonicum_USDA_135                  50.18%    passed     94.42%
+   9  2513718569_YUUDRAFT_04089_Bradyrhizobium_sp_EC33                             53.19%    passed     89.90%
+  10  2513875000_A3AQDRAFT_02753_Bradyrhizobium_japonicum_USDA_4                   50.18%    passed     92.36%
+  11  2513938056_A3AODRAFT_00485_Bradyrhizobium_japonicum_USDA_38                  50.18%    passed     92.14%
+  12  2514013933_A3ASDRAFT_04615_Bradyrhizobium_japonicum_WSM2793                  50.18%    passed     94.25%
+  13  2516023336_A3CWDRAFT_06691_Burkholderia_nodosa_DSM_21604                     53.37%    passed     99.62%
+  14  2516912162_BrageDRAFT_6418_Bradyrhizobium_genosp_SA_4_CB756                  50.18%    passed     97.16%
+  15  2517101156_B370DRAFT_00752_Bradyrhizobium_japonicum_USDA_124                 50.18%    passed     88.48%
+  16  2524471456_K288DRAFT_07932_Bradyrhizobium_sp_Ai1a_2                          53.19%    passed     85.88%
+  17  2526008642_G482DRAFT_1278_Chitinibacter_tainanensis_DSM_15459                53.37%    passed     99.14%
+  18  2540901119_L879DRAFT_03456_Balneimonas_flocculans_ATCC_BAA                   53.55%    passed     94.98%
+  19  2546926820_N537DRAFT_03043_Alcanivorax_sp_43B_GOM_46m                        53.37%    passed     90.59%
+  20  2547980185_BP22DRAFT_05225_Burkholderia_pseudomallei_Bp22                    53.37%    passed     79.37%
+  21  2553281353_F505DRAFT_05267_Azospirillum_brasilense_FP2                       53.37%    passed     96.11%
+  22  2553479426_I71DRAFT_04672_Azospirillum_sp_B506                               53.37%    passed     97.27%
+  23  2557001756_N547DRAFT_05329_Acidobacteriaceae_bacterium_URHE0068              53.01%    passed     53.66%
+  24  2557464545_Q335DRAFT_1209_Brackiella_oedipodis_DSM_13743                     53.37%    passed     97.70%
+  25  2563039969_BS2DRAFT_02828_Brucella_suis_bv_1_S2                              50.35%    passed     71.33%
+  26  2571091744_Q338DRAFT_00687_Alysiella_crassa_DSM_2578                         53.37%    passed     76.43%
+  27  2581470421_BDOA9DRAFT_02419_Bradyrhizobium_sp_DOA9                           50.18%    passed     86.42%
+  28  2584083005_X02736DRAFT_01612_Achromobacter_xylosoxidans_X02736               50.35%    passed     89.54%
+  29  2586768141_Z054DRAFT_04432_Aquimarina_macrocephali_JAMB_N27                  53.37%    passed     91.13%
+  30  2586917275_AT45DRAFT_00183_Chryseobacterium_hispalense_DSM_25574             53.37%    passed     12.35%
+  31  2588208667_EW78DRAFT_0948_Chryseobacterium_sp_YR477                          53.37%    passed      5.21%
+  32  2588212807_EW77DRAFT_0494_Chryseobacterium_sp_YR485                          53.37%    passed      8.43%
+  33  ACKQ020000071_HMPREF0204_13219_Chryseobacterium_gleum_F93_ATCC_35910         53.37%    passed     30.16%
+  34  ACOJ010000011_GBP346_B1432_Burkholderia_pseudomallei_MSHR346                 53.37%    passed     79.37%
+  35  ACWS010000711_HMPREF1028_01611_Neisseria_sp_GT4A_CT1                         53.37%    passed     95.25%
+  36  ADVZ010000011_AfiDRAFT_0031_Afipia_sp_1NLS2                                  54.08%    passed     54.96%
+  37  ADVZ010000011_AfiDRAFT_0466_Afipia_sp_1NLS2                                  50.18%    passed     99.67%
+  38  ADVZ010000031_AfiDRAFT_2539_Afipia_sp_1NLS2                                  53.19%    passed     98.14%
+  39  AE0064691_SMa1250_Sinorhizobium_meliloti_1021                                50.35%    passed     99.69%
+  40  AFRQ010000821_AXXA_20893_Achromobacter_xylosoxidans_AXX_A                    50.35%    passed     85.97%
+  41  AGSM010000041_ATCR1_08969_Agrobacterium_tumefaciens_CCNWGS0286               50.35%    passed     99.24%
+  42  AGWZ010000011_HMPREF9697_00167_Afipia_felis_felis_ATCC_53690                 54.08%    passed     29.99%
+  43  AJLR010000381_BAZO_03565_Bacillus_azotoformans_LMG_9581                      54.96%    passed     12.91%
+  44  AKIY010002241_PMI42_05183_Bradyrhizobium_sp_YR681                            50.18%    passed     93.89%
+  45  AL1579591_NMA1887_Neisseria_meningitidis_Z2491                               53.37%    passed     90.56%
+  46  AMXV000000001_C660_11361_Alcaligenes_sp_HPC1271                              50.35%    passed     91.53%
+  47  AP0091531_GAU_2766_Gemmatimonas_aurantiaca_T_27                              56.03%    passed      5.79%
+  48  AP0122061_BJ6T_23260_Bradyrhizobium_japonicum_USDA6                          50.18%    passed     94.59%
+  49  APVL010000111_PBF_16054_Bacillus_firmus_DS1                                  54.96%    passed     20.68%
+  50  ASPU010000271_C170_19720_Paenibacillus_sp_FSL_H7_689                         55.14%    passed     90.93%
+  51  BA0000431_GK0767_Geobacillus_kaustophilus_HTA426                             54.96%    passed     25.45%
+  52  BAFH010000041_KSU1_D0929_Planctomycete_KSU_1                                 52.48%    passed     68.67%
+  53  BAWO010000611_GCA01S_061_00280_Geobacillus_caldoxylosilyticus_NBRC_107762    54.96%    passed     53.87%
+  54  CAFJ010002651_BRAS3809_3370055_Bradyrhizobium_sp_STM_3809                    50.18%    passed     99.69%
+  55  CCAZ0200000011_BN961_00405_Afipia_felis_genospecies_A_76713                  50.18%    passed     99.76%
+  56  CP0000761_PFL_5501_Pseudomonas_protegens_Pf5                                 50.35%    passed     82.91%
+  57  CP0001031_Nmul_A1998_Nitrosospira_multiformis_ATCC25196                      53.19%    passed     77.23%
+  58  CP0001271_Noc_0089_Nitrosococcus_ocean_ATCC19707                             50.18%    passed     70.68%
+  59  CP0001381_RHE_PF00525_Rhizobium_etli_CFN_42                                  50.35%    passed     80.22%
+  60  CP0004941_BBta_6826_Bradyrhizobium_spBTAi1                                   50.18%    passed     98.75%
+  61  CP0005571_GTNG_0650_Geobacillus_thermodenitrificans_NG80_2                   54.96%    passed     25.45%
+  62  CP0005711_BURPS668_A2107_Burkholderia_pseudomallei_668                       53.37%    passed     79.37%
+  63  CP0006851_Fjoh_2418_Flavobacterium_johnsoniae_UW101                          53.37%    passed     78.66%
+  64  CP0006871_APJL_2086_Actinobacillus_pleuropneumoniae_serovar_3_JL03           53.72%    failed      4.56%
+  65  CP0007091_BOV_A0236_Brucella_ovis_ATCC_25840                                 50.35%    passed     74.26%
+  66  CP0007401_Smed_6278_Sinorhizobium_medicae_WSM419                             50.35%    passed     90.04%
+  67  CP0007581_Oant_1108_Ochrobactrum_anthropi_ATCC49188                          53.19%    passed     49.66%
+  68  CP0007591_Oant_4379_Ochrobactrum_anthropi_ATCC49188                          50.35%    passed     64.02%
+  69  CP0007771_LBF_1028_Leptospira_biflexa_Patoc_1                                53.19%    passed     97.20%
+  70  CP0008751_Haur_1295_Herpetosiphon_aurantiacus_DSM785                         53.37%    passed     92.64%
+  71  CP0010321_Oter_1019_Opitutus_terrae_PB90_1                                   53.90%    passed     28.58%
+  72  CP0010691_Rpic_4015_Ralstonia_pickettii_12J                                  53.37%    passed     98.66%
+  73  CP0010961_Rpal_3727_Rhodopseudomonas_palustris_TIE_1                         50.18%    passed     94.36%
+  74  CP0010961_Rpal_4623_Rhodopseudomonas_palustris_TIE_1                         50.18%    passed     99.60%
+  75  CP0011501_RSKD131_0657_Rhodobacter_sphaeroides_KD131                         50.18%    passed     82.59%
+  76  CP0011961_OCA5_c25200_Oligotropha_carboxidovorans_OM5                        54.26%    passed     29.20%
+  77  CP0012801_Msil_1519_Methylocella_silvestris_BL2                              53.19%    passed     99.39%
+  78  CP0013371_Cagg_1796_Chloroflexus_aggregans_DSM9485                           53.37%    passed     85.33%
+  79  CP0013891_NGR_c09950_Sinorhizobium_fredii_NGR_234                            50.35%    passed     99.76%
+  80  CP0016431_Bfae_09060_Brachybacterium_faecium_DSM4810                         52.13%    failed      0.03%
+  81  CP0017061_Jden_0150_Jonesia_denitrificans_DSM20603                           54.08%    passed     38.01%
+  82  CP0017071_Kkor_2024_Kangiella_koreensis_DSM16069                             53.37%    passed     88.46%
+  83  CP0017981_Nhal_1082_Nitrosococcus_halophilus_Nc4                             53.19%    passed     82.19%
+  84  CP0018231_Sthe_0153_Sphaerobacter_thermophilus_DSM20745                      53.55%    passed     97.59%
+  85  CP0018261_Tter_2149_Thermobaculum_terrenum_ATCCBAA_798                       54.79%    passed     89.91%
+  86  CP0019771_HMPREF0675_3095_Propionibacterium_acnes_SK137                      54.08%    passed      7.64%
+  87  CP0020261_Snov_1147_Starkeya_novella_DSM506                                  50.53%    passed     96.40%
+  88  CP0020831_Hden_0591_Hyphomicrobium_denitrificans_ATCC51888                   53.19%    passed     80.96%
+  89  CP0021621_Micau_3956_Micromonospora_aurantiaca_ATCC27029                     54.43%    failed      0.00%
+  90  CP0021901_BDW_09585_Bdellovibrio_bacteriovorus_W                             53.19%    passed     84.91%
+  91  CP0022801_HMPREF0733_11085_Rothia_dentocariosa_ATCC17931                     52.48%    passed     87.54%
+  92  CP0022871_AXYL_02390_Achromobacter_xylosoxidans_A8                           50.35%    passed     76.38%
+  93  CP0022931_GY4MC1_3069_Geobacillus_sp_Y41MC1                                  54.96%    passed     41.58%
+  94  CP0023431_Intca_3403_Intrasporangium_calvum_DSM43043                         54.08%    passed     24.43%
+  95  CP0023441_Tmar_1506_Thermaerobacter_marianensis_DSM12885                     53.37%    passed     97.78%
+  96  CP0023491_Ftrac_2700_Marivirga_tractuosa_DSM4126                             53.37%    passed     97.11%
+  97  CP0023851_Mspyr1_28260_Mycobacterium_gilvum_Spyr1                            55.14%    failed      2.11%
+  98  CP0024461_Psesu_0353_Pseudoxanthomonas_suwonensis_11_1                       53.37%    passed     90.12%
+  99  CP0024481_Mesci_6041_Mesorhizobium_ciceri_WSM1271                            50.18%    passed     98.72%
+ 100  CP0024561_TEQUI_0546_Taylorella_equigenitalis_MCE9                           50.35%    passed     49.87%
+ 101  CP0025521_NAL212_2392_Nitrosomonas_sp_AL212                                  50.35%    passed     41.36%
+ 102  CP0026201_MDS_0146_Pseudomonas_mendocina_NK_01                               50.35%    passed     93.38%
+ 103  CP0026631_PT7_1499_Pusillimonas_sp_T7_7                                      53.19%    passed     94.36%
+ 104  CP0026631_PT7_3282_Pusillimonas_sp_T7_7                                      50.35%    passed     97.52%
+ 105  CP0026651_Celgi_2248_Cellvibrio_gilvus_ATCC13127                             54.61%    failed      0.02%
+ 106  CP0026661_Celf_1338_Cellulomonas_fimi_ATCC484                                54.43%    failed      0.70%
+ 107  CP0027341_HMPREF9154_0825_Propionibacterium_propionicum_F0230a               52.84%    passed     29.78%
+ 108  CP0028261_OCA5_c08660_Oligotropha_carboxidovorans_OM5                        53.19%    passed     70.64%
+ 109  CP0028761_Nit79A3_2335_Nitrosomonas_sp_Is79A3                                50.35%    passed     51.53%
+ 110  CP0029011_TPY_3652_Sulfobacillus_acidophilus_TPY                             56.74%    passed     26.30%
+ 111  CP0029211_HAH_0129_Haloarcula_hispanica_ATCC_33960                           52.66%    passed     74.10%
+ 112  CP0029591_Turpa_2099_Turneriella_parva_DSM21527                              53.19%    passed     93.96%
+ 113  CP0029731_PGA2_239p1440_Phaeobacter_gallaeciensis_210                        50.18%    passed     50.40%
+ 114  CP0029771_PGA1_262p01260_Phaeobacter_inhibens_DSM_17395                      50.18%    passed     47.89%
+ 115  CP0029991_Murru_2669_Muricauda_ruestringensis_DSM13258                       53.37%    passed     84.55%
+ 116  CP0030591_TASI_1505_Taylorella_asinigenitalis_MCE3                           50.35%    passed     51.89%
+ 117  CP0031711_GU3_12660_Oceanimonas_sp_GK1                                       53.37%    passed     94.55%
+ 118  CP0032222_FCOL_01550_Flavobacterium_columnare_ATCC49512                      53.37%    passed     70.22%
+ 119  CP0032801_Aeqsu_0109_Aequorivita_sublithincola_DSM14238                      53.37%    passed     70.98%
+ 120  CP0032811_Belba_2007_Belliella_baltica_DSM15883                              53.37%    passed     89.30%
+ 121  CP0034121_NJ7G_2432_Natrinema_sp_J7_2                                        52.30%    passed     22.48%
+ 122  CP0034121_NJ7G_3094_Natrinema_sp_J7_2                                        52.30%    passed     21.70%
+ 123  CP0034661_B5T_01320_Alcanivorax_dieselolei_B5                                53.37%    passed     93.19%
+ 124  CP0035631_USDA257_c38590_Sinorhizobium_fredii_USDA_257                       50.35%    passed     99.82%
+ 125  CP0037401_OAN307_c07250_Octadecabacter_antarcticus_307                       50.35%    passed     42.82%
+ 126  CP0038751_ASU2_07220_Actinobacillus_suis_H91_0380                            53.72%    failed      3.74%
+ 127  CP0039771_BBK_4100_Burkholderia_pseudomallei_NCTC_13179                      53.37%    passed     79.37%
+ 128  CP0040431_BBN_4934_Burkholderia_pseudomallei_MSHR146                         53.37%    passed     79.37%
+ 129  CP0040901_BTL_3671_Burkholderia_thailandensis_H0587                          53.37%    passed     84.64%
+ 130  CP0041181_BTJ_5201_Burkholderia_thailandensis_E444                           53.37%    passed     92.08%
+ 131  CP0043691_BBX_3959_Burkholderia_pseudomallei_MSHR520                         53.37%    passed     67.10%
+ 132  CP0059621_L593_03900_Salinarchaeum_sp_Harcht_Bsk1                            52.66%    failed      4.61%
+ 133  CP0062542_M493_03950_Geobacillus_sp_JF8                                      54.96%    passed     42.91%
+ 134  CP0069121_W911_13050_Hyphomicrobium_nitrativorans_NL23                       50.35%    passed     99.60%
+ 135  CP0075691_BJS_01598_Bradyrhizobium_japonicum_SEMIA_5079                      50.18%    passed     89.11%
+ 136  CP0076961_BSSP1_II0222_Brucella_suis_ATCC_23445                              50.35%    passed     66.21%
+ 137  CP0077161_DM38_2171_Brucella_suis_513UK                                      50.35%    passed     64.49%
+ 138  CP0088551_HW35_08070_Bacillus_sp_X1                                          54.96%    passed     15.75%
+ 139  CP0092901_JM49_03825_Pseudomonas_chlororaphis_subsp_aurantiaca_strain_JD37   50.35%    passed     73.42%
+ 140  CR9362571_NP_1598A_Natronomonas_pharaonis_DSM_2160                           52.66%    passed     11.15%
+ 141  CR9542461_PSHAa1477_Pseudoalteromonas_haloplanktis_TAC125                    53.37%    passed     86.89%
+ 142  CT5733261_PSEEN5226_Pseudomonas_entomophila_L48                              50.18%    passed     76.45%
+ 143  CU2341181_BRADO1227_Bradyrhizobium_sp_ORS278                                 50.18%    passed     98.73%
+ 144  EQ9996191_IL61_0202870_Brucella_ceti_B194                                    50.35%    passed     61.71%
+ 145  FN8067731_PFREUD_03790_Propionibacterium_freudenreichii_CIRM_BIA1            54.08%    passed     75.72%
+ 146  FP9290031_NIDE2534_Candidatus_Nitrospira_defluvii                            54.08%    passed     91.65%
+ 147  FP9290031_NIDE4252_Candidatus_Nitrospira_defluvii                            53.90%    passed     74.24%
+ 148  GL5428751_HMPREF0305_11384_Corynebacterium_pseudogenitalium_ATCC_33035       54.61%    passed     92.71%
+ 149  HE6168901_SFHH103_00930_Sinorhizobium_fredii_HH103                           50.35%    passed     97.79%
+ 150  HG8031761_BCOUA_II0260_Brucella_canis_Oliveri                                50.35%    passed     62.65%
+ 151  HG9167651_BN940_02156_Castellaniella_defragrans_65Phen                       50.35%    passed     86.91%
+ 152  HG9167651_BN940_07386_Castellaniella_defragrans_65Phen                       53.19%    passed     79.01%
+ 153  JFZJ010000051_T281_01885_Rhodomicrobium_udaipurense_JA643                    50.35%    passed     99.39%
+ 154  JJRY010000051_M670_01705_Bacillus_azotoformans_MEV2011_M670                  54.96%    passed     17.48%
+ 155  JNFH010002451_FK85_07060_Halorubrum_saccharovorum_strain_H3                  52.66%    passed     33.70%
+ 156  KB2908301_HMPREF9997_00886_Corynebacterium_durum_F0235                       54.26%    passed     83.85%
+ 157  KB2913981_HMPREF9073_01774_Capnocytophaga_sp_F0382                           53.37%    passed     69.02%
+ 158  KK0885611_Rumeso_01185_Rubellimicrobium_mesophilum_DSM_19309                 50.18%    passed     97.84%
+ 159  NC_0030632_Atu4382_Agrobacterium_tumefaciens_C58                             50.35%    passed     99.13%
+ 160  NC_0052961_RPA3306_Rhodopseudomonas_palustris_CGA009                         50.18%    passed     97.48%
+ 161  NC_0052961_RPA4145_Rhodopseudomonas_palustris_CGA009                         50.18%    passed     99.60%
+ 162  NC_0053631_Bd2608_Bdellovibrio_bacteriovorus_HD100                           53.37%    passed     53.37%
+ 163  NC_0082421_Meso_4273_Mesorhizobium_sp_BNC1                                   50.35%    passed     99.98%
+ 164  NC_0082541_Meso_2243_Chelativorans_sp_BNC1                                   50.18%    passed     72.74%
+ 165  NC_0084351_RPE_4071_Rhodopseudomonas_palustris_BisA53                        50.18%    passed     92.56%
+ 166  NC_0090531_APL_2035_Actinobacillus_pleuropneumoniae_serovar_5b_L20           53.72%    passed      6.04%
+ 167  NC_0096551_Asuc_0978_Actinobacillus_succinogenes_130Z                        53.37%    passed     90.00%
+ 168  NC_0101751_Caur_1570_Chloroflexus_aurantiacus_J_10_fl                        53.37%    passed     90.51%
+ 169  NC_0129681_Mmol_1061_Methylotenera_mobilis_JLW8                              53.19%    passed     82.37%
+ 170  NC_0130161_NMO_1452_Neisseria_meningitidis_alpha14                           53.37%    passed     91.91%
+ 171  NC_0138571_AZL_c02030_Azospirillum_sp_B510                                   53.37%    passed     86.00%
+ 172  NC_0141001_Cseg_3038_Caulobacter_segnis_ATCC_21756                           53.19%    passed     94.05%
+ 173  NC_0143111_RPSI07_3198_Ralstonia_solanacearum_PSI07                          53.37%    passed     96.00%
+ 174  NC_0159661_Rhom172_1606_Rhodothermus_marinus_SG05JP17_172                    52.66%    passed     42.82%
+ 175  NC_0165111_TIA2EST36_00465_Propionibacterium_acnes_TypeIA2_Pacn31            54.08%    passed     25.66%
+ 176  NC_0165121_TIA2EST22_00450_Propionibacterium_acnes_TypeIA2_Pacn17            54.08%    passed     25.66%
+ 177  NC_0165951_AZOBR_p310167_Azospirillum_brasilense_Sp245                       53.37%    passed     99.31%
+ 178  NC_0167811_Cp3995_0569_Corynebacterium_pseudotuberculosis_399_5              53.01%    passed     33.12%
+ 179  NC_0169321_Cp316_0577_Corynebacterium_pseudotuberculosis_316                 53.01%    passed     24.48%
+ 180  NC_0170821_S23_12320_Bradyrhizobium_sp_S23321                                50.18%    passed     97.08%
+ 181  NC_0173001_Cp1002_0560_Corynebacterium_pseudotuberculosis_1002               53.01%    passed     31.38%
+ 182  NC_0173071_CpCIP5297_0569_Corynebacterium_pseudotuberculosis_CIP_5297        53.01%    passed     26.69%
+ 183  NC_0178561_Q7C_88_Methylophaga_sp_JAM7                                       53.19%    passed     96.25%
+ 184  NC_0180191_Cp162_0556_Corynebacterium_pseudotuberculosis_Cp162               53.01%    passed     23.69%
+ 185  NC_0186831_BN406_04400_Sinorhizobium_meliloti_Rm41                           50.35%    passed     99.39%
+ 186  NC_0187071_PAC1_00475_Propionibacterium_acnes_C1                             54.08%    passed      8.46%
+ 187  NC_0187201_AST_1175_Bifidobacterium_asteroides_PRL2011                       54.61%    passed     16.91%
+ 188  NC_0205481_AZKH_p0630_Azoarcus_sp_KH32C                                      53.19%    passed     91.01%
+ 189  NC_0211741_BTI_3972_Burkholderia_thailandensis_MSMB121                       53.37%    passed     91.83%
+ 190  NC_0212851_NH44784_040031_Achromobacter_xylosoxidans_NH44784_1996            50.35%    passed     87.84%
+ 191  NZ_AAHN020000021_Bmal10_03000591_Burkholderia_mallei_ATCC_10399              53.37%    passed     79.37%
+ 192  NZ_ABBI010019031_BpseD_010100034315_Burkholderia_pseudomallei_DM98           53.37%    passed     79.37%
+ 193  NZ_ABBK010013721_Bpse9_010100034237_Burkholderia_pseudomallei_91             53.55%    passed      5.94%
+ 194  NZ_ABBK010013871_Bpse9_010100034512_Burkholderia_pseudomallei_91             53.37%    passed     79.37%
+ 195  NZ_ABVL010000091_CfE428DRAFT_3240_Chthoniobacter_flavus_Ellin428             53.19%    passed     99.01%
+ 196  NZ_ABZV010000031_CAPSP0001_1483_Capnocytophaga_sputigena_ATCC_33612          53.37%    passed     70.62%
+ 197  NZ_ACCE010000131_BUC_6267_Burkholderia_pseudomallei_576                      53.37%    passed     79.37%
+ 198  NZ_ACLQ010000191_CAPGI0001_2154_Capnocytophaga_gingivalis_ATCC_33624         53.37%    passed     91.41%
+ 199  NZ_ACQL010001091_AM305_00399_Actinobacillus_minor_NM305                      53.72%    passed     81.17%
+ 200  NZ_ADEZ010000331_BIBO1_2258_Brucella_inopinata_BO1                           50.35%    passed     70.61%
+ 201  NZ_ADFA010000331_BIBO2_0690_Brucella_sp_BO2                                  50.71%    passed     76.35%
+ 202  NZ_AFUR010000061_HMPREF9058_0926_Actinomyces_sp_F0384                        54.08%    passed     34.14%
+ 203  NZ_AFXZ01000009_BZARG_690_Bizionia_argentinensis_JUB59_DSM_19628             53.37%    passed     97.22%
+ 204  NZ_AGUF010000401_KYC_10256_Achromobacter_arsenitoxydans_SY8                  50.35%    passed     88.34%
+ 205  NZ_AJLS010000421_BABA_p06582_Bacillus_bataviensis_LMG_21833                  55.14%    passed     13.41%
+ 206  NZ_AJXZ010000491_A33O_18739_Nitratireductor_aquibiodomus_RA22                50.18%    passed    100.00%
+ 207  NZ_AKMR010000061_QWA_07574_Alcaligenes_faecalis_faecalis_NCIB_8687           50.35%    passed     83.26%
+ 208  NZ_AKZI010000481_A33M_2761_Rhodovulum_sp_PH10                                50.35%    passed     93.47%
+ 209  NZ_ALCB010000111_HMPREF1137_1384_Actinomyces_sp_ICM39                        54.26%    passed     89.10%
+ 210  NZ_ALEG010000061_A361_RS0103010_Bacillus_oceanisediminis_2691                54.96%    passed     28.58%
+ 211  NZ_ALNN010000311_HMPREF1154_0440_Capnocytophaga_sp_CM59                      53.37%    passed     95.46%
+ 212  NZ_AMGM010000151_B879_01386_Cecembia_lonarensis_LW9                          53.37%    passed     91.91%
+ 213  NZ_AMRO010000501_C747_RS0112520_Geobacillus_caldoxylosilyticus_CIC9          54.96%    passed     41.38%
+ 214  NZ_AOHT010000201_C499_06800_Halogeometricum_borinquense_DSM_11551            52.66%    passed     93.57%
+ 215  NZ_AOIU010000081_C475_03734_Halosimplex_carlsbadense_2_9_1                   52.66%    failed      4.59%
+ 216  NZ_AOIV010000111_C474_06702_Halosarcina_pallida_JCM_14848                    52.66%    passed      9.28%
+ 217  NZ_AOLP010000011_C438_00115_Haloferax_denitrificans_ATCC_35960               52.48%    passed     22.91%
+ 218  NZ_AOLX010000221_C443_12186_Haloarcula_argentinensis_DSM_12282               52.66%    passed     67.36%
+ 219  NZ_AOLZ010000481_C445_14744_Halobiforma_lacisalsi_AJ5                        52.30%    passed     17.55%
+ 220  NZ_AOLZ010000481_C445_14769_Halobiforma_lacisalsi_AJ5                        52.30%    passed     14.95%
+ 221  NZ_AOMD010000151_C449_05222_Halococcus_saccharolyticus_DSM_5350              52.66%    passed     48.38%
+ 222  NZ_AOME010000871_C450_18934_Halococcus_salifodinae_DSM_8989                  52.66%    passed     75.60%
+ 223  NZ_AQCH010001251_K529_10522_Ruegeria_mobilis_F1926                           50.35%    passed     97.36%
+ 224  NZ_ASXY010000351_L902_06810_Agrobacterium_radiobacter_DSM_30147              50.35%    passed     99.63%
+ 225  NZ_ASXY010002161_L902_02780_Agrobacterium_radiobacter_DSM_30147              50.35%    passed     99.70%
+ 226  NZ_ATWE010000151_K291_RS0124730_Ensifer_sp_USDA_6670                         50.35%    passed     98.58%
+ 227  NZ_AUCG010000231_G473_RS0112690_Niveispirillum_irakense_DSM_11586            50.35%    passed     90.52%
+ 228  NZ_AUHV010000051_G549_RS0116210_Maritalea_myrionectae_DSM_19524              50.18%    passed     82.89%
+ 229  NZ_AXVK010000011_K332_RS0101220_Paucisalibacillus_globulus_DSM_18846         55.50%    passed     44.59%
+ 230  NZ_AXVK010000011_K332_RS0107160_Paucisalibacillus_globulus_DSM_18846         54.96%    passed     50.41%
+ 231  NZ_AYLZ020001941_SHLA_5c000410_Shinella_sp_DD12                              50.35%    passed     99.60%
+ 232  NZ_AYSF010000391_T260_07205_Geobacillus_sp_MAS1                              54.96%    passed     19.81%
+ 233  NZ_BADD010004791_I5M_RS16930_Rhodopseudomonas_sp_B29                         50.18%    passed     99.90%
+ 234  NZ_BASG010000621_GBL_3472_Geobacillus_kaustophilus_GBlys                     54.96%    passed     29.11%
+ 235  NZ_CAFH010002441_BRAO285_470012_Bradyrhizobium_sp_ORS285                     50.18%    passed     99.28%
+ 236  NZ_DS9898981_BBAL3_2071_Brevundimonas_sp_BAL3                                53.55%    failed      0.02%
+ 237  NZ_GL6357541_HMPREF1013_03650_Bacillus_sp_2_A_57_CT2                         54.96%    passed     28.58%
+ 238  NZ_GL8310801_HMPREF0027_0689_Actinobacillus_ureae_ATCC_25976                 53.72%    passed      7.25%
+ 239  NZ_GL8724131_HMPREF9071_1620_Capnocytophaga_338_F0234                        53.37%    passed     98.54%
+ 240  NZ_GL8825301_HMPREF9056_01004_Actinomyces_sp_F0386                           54.08%    passed     35.02%
+ 241  NZ_HE6109881_BTHG_RS19795_Bacillus_timonensis_strain_MM10403188              54.96%    passed     43.53%
+ 242  NZ_JADQ010000251_M891_RS0111560_Paenibacillus_sp_J14                         55.14%    passed     84.65%
+ 243  NZ_JAEL010000441_L634_RS0113915_Bacillus_sp_J33                              54.96%    passed     60.23%
+ 244  NZ_JALS010000251_Z980_RS0106075_Geobacillus_stearothermophilus_ATCC_7953     54.96%    passed     44.30%
+ 245  NZ_JFHZ010000691_AA70_RS0110735_Geobacillus_thermocatenulatus_GS_1           54.96%    passed     20.36%
+ 246  NZ_JH4179441_HMPREF9080_02130_Cardiobacterium_valvarum_F0432                 50.35%    passed     73.69%
+ 247  NZ_JHZF010000151_Q344_RS0119160_Oceanicola_nanhaiensis_DSM_18065             50.35%    passed     93.62%
+ 248  NZ_JHZK010000261_Q331_RS0115415_Afifella_pfennigii_DSM_17143                 50.35%    passed     97.76%
+ 249  NZ_JIAX010000101_N530_RS0107760_Ahrensia_sp_13_GOM_1096m                     50.18%    passed     97.28%
+ 250  NZ_JPYA010001741_EP10_RS02445_Geobacillus_sp_G1w1                            54.96%    passed     47.16%
+ 251  NZ_KB2913311_HMPREF9075_01488_Capnocytophaga_sp_F0381                        53.37%    passed     68.44%
+ 252  NZ_KB2915401_HMPREF9061_00047_Actinomyces_sp_F0379                           54.43%    passed     85.20%
+ 253  NZ_KB8953831_C557_RS0113845_Paenibacillus_sanguinis_2301083__DSM_16941       55.14%    passed     90.73%
+ 254  NZ_KB9082291_H163_RS0117570_Pannonibacter_phragmitetus_DSM_14782             50.35%    passed     99.16%
+ 255  NZ_KE1502421_HMPREF9331_00671_Capnocytophaga_granulosa_ATCC_51502            53.37%    passed     93.83%
+ 256  NZ_KE3869781_G489_RS0114995_Cucumibacter_marinus_DSM_18995                   50.18%    passed     93.57%
+ 257  NZ_KE9514501_HMPREF0043_00668_Actinobaculum_P1_F0552                         53.72%    failed      0.11%
+ 258  NZ_KE9514901_HMPREF1978_01695_Actinomyces_graevenitzii_F0530                 53.55%    failed      2.50%
+ 259  NZ_KE9520071_HMPREF1979_03000_Actinomyces_johnsonii_F0542                    54.08%    passed     33.50%
+ 260  NZ_KE9522731_HMPREF1980_02189_Actinomyces_sp_F0311                           54.26%    passed     71.26%
+ 261  NZ_KE9525191_HMPREF1550_01234_Actinomyces_sp_F0543                           54.26%    passed     61.55%
+ 262  NZ_KI5352961_M028_RS0122605_Bacillus_sp_UNC438CL73TsuS30                     55.50%    failed      0.35%
+ 263  pdb_1HAU_AAC058311_Achromobacter_xylosoxidans                                50.35%    passed     86.77%
+ 264  pdb_1SNR_BAA024401_Alcaligenes_faecalis                                      50.35%    passed     64.38%
+ 265  pdb_1ZV2_CP0006611_Rhodobacter_sphaeroides_ATCC_17025                        50.18%    passed     87.82%
+ 266  NC_009092.1_SHEW_RS17255_Shewanella_loihica_PV-4                             49.11%    passed     18.67%
+ 267  NC_007954.1_Sden_3482_Shewanella_denitrificans_OS217                         49.11%    passed     77.28%
+ 268  AAA007-N19-contig1_74                                                        18.79%    failed      2.26%
+ 269  AAA007-N19-contig2_54                                                        68.62%    passed     45.68%
+ 270  AAA288-D22-contig9_10                                                        68.62%    passed     38.84%
+ 271  AAA799-O18-contig5_21                                                        68.62%    passed     57.91%
+ 272  AAA799-O18-contig13_30                                                       19.86%    passed     11.86%
+ 273  Candidatus_Nitrosocaldus_islandicus_isolate_3F-contig1_352                   45.74%    passed      5.93%
+ 274  Candidatus_Nitrosocosmicus_franklandus_C13-contig1_1314                      31.03%    passed      7.44%
+ 275  Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig146_1                       39.54%    failed      3.66%
+ 276  Candidatus_Nitrosopumilus_sp_MTA1-contig1_424                                45.57%    failed      3.79%
+ 277  Candidatus_Nitrosopumilus_sp_MTA1-contig2_95                                 18.09%    failed      1.95%
+ 278  D197_116_contig8_59                                                          75.53%    passed     80.25%
+ 279  Deep-sea_sediment_DRR121209_Bin1_contig222_4                                 80.32%    passed     48.89%
+ 280  Marine_Group_1_crenarchaeote_sp_SCGC-contig9_8                               68.62%    passed     58.25%
+ 281  Marine_Group_1_crenarchaeote_sp_SCGC-contig48_3                              18.79%    failed      3.66%
+ 282  Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig1_64                  34.75%    passed      7.21%
+ 283  Nitrosarchaeum_koreense_MY1-contig1_127                                      45.74%    passed     34.98%
+ 284  Nitrosarchaeum_koreense_MY1-contig1_271                                      41.84%    failed      1.12%
+ 285  Nitrosarchaeum_koreense_MY1-contig1_1373                                     18.09%    passed     25.57%
+ 286  Nitrosarchaeum_limnium_BG20-contig67_4                                       18.09%    passed      5.18%
+ 287  Nitrosarchaeum_limnium_BG20-contig122_23                                     44.68%    failed      0.13%
+ 288  Nitrosarchaeum_limnium_BG20-contig174_17                                     43.09%    failed      0.56%
+ 289  Nitrosarchaeum_limnium_BG20-contig180_43                                     45.92%    failed      1.67%
+ 290  Nitrosarchaeum_limnium_SFB1-contig34_3                                       35.46%    passed     13.57%
+ 291  Nitrosarchaeum_limnium_SFB1-contig37_3                                       18.09%    failed      4.74%
+ 292  Nitrosarchaeum_limnium_SFB1-contig43_7                                       43.09%    failed      0.20%
+ 293  Nitrosarchaeum_limnium_SFB1-contig47_12                                      45.92%    failed      1.67%
+ 294  Nitrosoarchaeum-Baikal-G1-C1-contig2_407                                     45.92%    failed      0.95%
+ 295  Nitrosoarchaeum-Baikal-G1-C1-contig6_27                                      18.09%    passed     34.35%
+ 296  Nitrosoarchaeum_sp_BD3-contig1_26                                            18.09%    passed     44.17%
+ 297  Nitrosoarchaeum_sp_BD3-contig2_61                                            45.92%    failed      1.89%
+ 298  Nitrosoarchaeum_sp_BD3-contig2_216                                           42.38%    failed      1.24%
+ 299  Nitrosoarchaeum_sp_BD3-contig9_46                                            45.39%    failed      1.54%
+ 300  Nitrosocosmicus_hydrocola_strain_G61-contig1_500                             31.03%    passed      7.02%
+ 301  Nitrosocosmicus_oleophilus_strain_MY3-contig1_438                            30.32%    failed      2.17%
+ 302  Nitrosomarinus_catalina_strain_SPOT01-contig1_408                            18.79%    passed     15.11%
+ 303  Nitrosomarinus_catalina_strain_SPOT01-contig1_1355                           41.84%    failed      0.85%
+ 304  Nitrosomarinus_catalina_strain_SPOT01-contig1_1489                           45.92%    failed      2.99%
+ 305  Nitrosopelagicus_brevis_strain_CN25-contig1_212                              44.15%    passed     13.55%
+ 306  Nitrosopelagicus_brevis_strain_CN25-contig1_1016                             17.73%    passed      9.66%
+ 307  Nitrosopelagicus_brevis_U25-contig16_24                                      67.20%    passed     48.04%
+ 308  Nitrosopelagicus_brevis_U25-contig38_1                                       28.19%    passed      8.85%
+ 309  Nitrosopelagicus_sp_REDSEA-S31_B2-contig6_1                                  87.77%    passed     13.03%
+ 310  Nitrosopelagicus_sp_REDSEA-S31_B2-contig32_1                                 40.43%    failed      4.44%
+ 311  Nitrosopelagicus_sp_REDSEA-S31_B2-contig74_9                                 44.15%    passed     14.21%
+ 312  Nitrosopumilales_archaeon_isolate_NPMR_NP_iota_1-contig4_8                   45.92%    passed     19.04%
+ 313  Nitrosopumilales_archaeon_isolate_NPMR_NP_iota_1-contig13_1                  47.70%    passed     12.98%
+ 314  Nitrosopumilales_archaeon_isolate_NPMR_NP_iota_1-contig14_32                 75.00%    passed     28.52%
+ 315  Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1-contig14_1                  61.88%    passed     11.78%
+ 316  Nitrosopumilales_archaeon_strain_NPMR_NP_delta_2-contig18_1                  93.79%    passed     19.21%
+ 317  Nitrosopumilales_archaeon_strain_NPMR_NP_delta_3-contig7_1                   34.57%    failed      0.19%
+ 318  Nitrosopumilales_archaeon_strain_NPMR_NP_theta_1-contig9_4                   18.62%    passed      9.40%
+ 319  Nitrosopumilales_archaeon_strain_NPMR_NP_theta_1-contig140_1                 70.57%    failed      0.04%
+ 320  Nitrosopumilales_archaeon_strain_NPMR_NP_theta_2-contig22_3                  56.21%    passed      5.31%
+ 321  Nitrosopumilales_archaeon_strain_NPMR_NP_theta_2-contig176_6                 45.39%    failed      0.63%
+ 322  Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3-contig19_8                  77.48%    passed      6.29%
+ 323  Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3-contig132_1                 72.52%    failed      0.24%
+ 324  Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3-contig204_2                 52.48%    passed     51.26%
+ 325  Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3-contig548_1                 72.34%    passed     85.41%
+ 326  Nitrosopumilales_archaeon_strain_NPMR_NP_theta_4-contig43_4                  45.74%    failed      1.89%
+ 327  Nitrosopumilales_archaeon_strain_NPMR_NP_theta_4-contig208_4                 18.79%    passed     61.14%
+ 328  Nitrosopumilus_adriaticus_strain_NF5-contig1_208                             17.91%    passed     30.86%
+ 329  Nitrosopumilus_adriaticus_strain_NF5-contig1_677                             18.62%    passed     43.17%
+ 330  Nitrosopumilus_adriaticus_strain_NF5-contig1_2084                            45.74%    passed     41.23%
+ 331  Nitrosopumilus_koreensis_AR1-contig1_146                                     45.92%    passed      7.58%
+ 332  Nitrosopumilus_koreensis_AR1-contig1_300                                     41.84%    failed      3.34%
+ 333  Nitrosopumilus_koreensis_AR1-contig1_1306                                    35.46%    failed      1.78%
+ 334  Nitrosopumilus_koreensis_AR1-contig1_1494                                    18.62%    passed     23.38%
+ 335  Nitrosopumilus_maritimus_SCM1-contig1_191                                    49.29%    failed      0.06%
+ 336  Nitrosopumilus_maritimus_SCM1-contig1_1372                                   18.62%    passed     11.72%
+ 337  Nitrosopumilus_maritimus_SCM1-contig1_1803                                   18.62%    failed      2.19%
+ 338  Nitrosopumilus_salaria_BD31-contig51_18                                      44.50%    failed      0.32%
+ 339  Nitrosopumilus_salaria_BD31-contig55_6                                       75.00%    passed     31.62%
+ 340  Nitrosopumilus_salaria_BD31-contig161_14                                     18.09%    passed     29.26%
+ 341  Nitrosopumilus_sp_D3C-contig1_272                                            45.92%    failed      4.99%
+ 342  Nitrosopumilus_sp_D3C-contig1_592                                            18.62%    passed     48.00%
+ 343  Nitrosopumilus_sp_DDS1-contig135_1                                           92.38%    passed     48.33%
+ 344  Nitrosopumilus_sp_DDS1-contig136_1                                           66.31%    passed      5.57%
+ 345  Nitrosopumilus_sp_DDS1-contig137_1                                           89.36%    passed     47.38%
+ 346  Nitrosopumilus_sp_DDS1-contig138_1                                           92.20%    passed     26.77%
+ 347  Nitrosopumilus_sp_DDS1-contig369_2                                           45.74%    passed     30.91%
+ 348  Nitrosopumilus_sp_DDS1-contig925_2                                           47.70%    passed      5.47%
+ 349  Nitrosopumilus_sp_DDS1-contig930_1                                           92.38%    passed     56.65%
+ 350  Nitrosopumilus_sp_DDS1-contig931_1                                           65.60%    passed      5.27%
+ 351  Nitrosopumilus_sp_DDS1-contig932_1                                           69.68%    passed     10.29%
+ 352  Nitrosopumilus_sp_Nsub-contig17_98                                           18.79%    passed     10.72%
+ 353  Nitrosopumilus_sp_Nsub-contig24_37                                           45.92%    failed      1.03%
+ 354  Nitrososphaera_evergladensis_SR1-contig1_1383                                40.96%    passed     55.76%
+ 355  Nitrososphaera_evergladensis_SR1-contig1_1391                                38.48%    passed     27.13%
+ 356  Nitrososphaera_gargensis_Ga9-contig1_435                                     34.22%    passed     29.92%
+ 357  Nitrososphaera_gargensis_Ga9-contig1_2420                                    41.84%    failed      2.06%
+ 358  Nitrososphaera_gargensis_Ga9-contig1_2426                                    41.13%    passed     93.76%
+ 359  Nitrososphaera_gargensis_Ga9-contig1_2490                                    41.49%    passed      5.25%
+ 360  Nitrososphaera_viennensis_EN76-contig1_52                                    40.25%    passed     20.67%
+ 361  Nitrososphaera_viennensis_EN76-contig1_59                                    41.13%    passed     65.73%
+ 362  Nitrososphaera_viennensis_EN76-contig1_2686                                  42.38%    passed     56.70%
+ 363  Nitrosotalea_bavarica_SbT1-contig1_22                                        23.23%    failed      0.02%
+ 364  Nitrosotalea_bavarica_SbT1-contig10_91                                       45.39%    passed     12.30%
+ 365  Nitrosotalea_devanaterra_Nd1-contig1_162                                     45.74%    passed     37.74%
+ 366  Nitrosotalea_devanaterra_Nd1-contig1_1584                                    23.23%    failed      0.03%
+ 367  Nitrosotalea_koreensis_CS-contig1_1248                                       23.23%    failed      0.11%
+ 368  Nitrosotalea_koreensis_CS-contig1_1894                                       45.39%    failed      1.00%
+ 369  Nitrosotalea_sinensis_Nd2-contig1_169                                        45.04%    passed     15.72%
+ 370  Nitrosotalea_sinensis_Nd2-contig3_630                                        23.23%    failed      0.05%
+ 371  Nitrosotenuis_aquarius_strain_AQ6F-contig1_135                               21.63%    passed     59.97%
+ 372  Nitrosotenuis_aquarius_strain_AQ6F-contig1_1261                              46.63%    failed      0.61%
+ 373  Nitrosotenuis_chungbukensis_MY2-contig3_13                                   45.92%    passed      6.04%
+ 374  Nitrosotenuis_chungbukensis_MY2-contig13_36                                  42.91%    passed     32.88%
+ 375  Nitrosotenuis_chungbukensis_MY2-contig20_208                                 21.81%    passed     17.47%
+ 376  Nitrosotenuis_cloacae_strain_SAT1-contig1_192                                46.63%    failed      0.07%
+ 377  Nitrosotenuis_cloacae_strain_SAT1-contig1_585                                21.81%    passed     43.21%
+ 378  Thaumarchaeota_archaeon_isolate_MTA5-contig137_1                             33.69%    failed      0.32%
+ 379  Thaumarchaeota_archaeon_N4-contig6_257                                       42.91%    failed      2.90%
+ 380  Thaumarchaeota_archaeon_N4-contig9_154                                       21.81%    passed     28.68%
+ 381  Thaumarchaeota_archaeon_N4-contig9_589                                       46.99%    failed      1.08%
+ 382  Thaumarchaeota_archaeon_RBG_16_49_8-contig26_11                              75.53%    passed     24.72%
+ 383  Thaumarchaeota_archaeon_RBG_16_49_8-contig39_12                              73.58%    passed     62.73%
+ 384  Thaumarchaeota_archaeon_SAT139_contig3_17                                    43.97%    passed     23.88%
+ 385  Thaumarchaeota_archaeon_SCGC_AAA007-O23-contig10_3                           17.55%    failed      2.29%
+ 386  Thaumarchaeota_archaeon_SCGC_AAA007-O23-contig12_37                          68.62%    passed     41.48%
+ 387  Thaumarchaeota_archaeon_strain_BS3-contig18_1                                76.06%    failed      0.00%
+ 388  Thaumarchaeota_archaeon_strain_BS4_contig11_1                                76.06%    failed      0.00%
+ 389  Thaumarchaeota_archaeon_UBA141-contig36_15                                   74.47%    failed      1.64%
+ 390  Thaumarchaeota_ASW2_bin45_contig5_27                                         81.56%    failed      0.00%
+ 391  Thaumarchaeota_ASW8_contig26_22                                              71.81%    failed      0.00%
+ 392  Thaumarchaeota_bin_Fn1-contig11_3                                            76.06%    failed      0.11%
+ 393  Thaumarchaeota_archaeon_CSP1-1_contig1_193                                   41.49%    failed      2.16%
+ 394  Thaumarchaeota_archaeon_CSP1-1_contig6_201                                   18.79%    passed     44.06%
+ 395  Thaumarchaeota_YK1309_1N_NP_iota-contig43_1                                  57.09%    passed     13.45%
+ 396  Thaumarchaeota_YK1309_1N_NP_iota-contig123_2                                 18.62%    passed     26.96%
+ 397  XS84_Bin1_contig71_6                                                         80.32%    passed     37.54%
+ 398  XS84_Bin2_contig59_7                                                         80.32%    passed     37.54%
+ 399  YK1312_12N_NP_theta-contig58_1                                               85.64%    passed     16.68%
+ 400  YK1312_12N_NP_theta-contig207_1                                              69.33%    passed     17.91%
+WARNING: 304 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                                                        50.41%  64 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: ACOJ010000011_GBP346_B1432_Burkholderia_pseudomallei_MSHR346 is identical to 2547980185_BP22DRAFT_05225_Burkholderia_pseudomallei_Bp22 but kept for subsequent analysis
+NOTE: CP0005571_GTNG_0650_Geobacillus_thermodenitrificans_NG80_2 is identical to BA0000431_GK0767_Geobacillus_kaustophilus_HTA426 but kept for subsequent analysis
+NOTE: NC_0052961_RPA4145_Rhodopseudomonas_palustris_CGA009 is identical to CP0010961_Rpal_4623_Rhodopseudomonas_palustris_TIE_1 but kept for subsequent analysis
+NOTE: NC_0165121_TIA2EST22_00450_Propionibacterium_acnes_TypeIA2_Pacn17 is identical to NC_0165111_TIA2EST36_00465_Propionibacterium_acnes_TypeIA2_Pacn31 but kept for subsequent analysis
+NOTE: NZ_GL6357541_HMPREF1013_03650_Bacillus_sp_2_A_57_CT2 is identical to NZ_ALEG010000061_A361_RS0103010_Bacillus_oceanisediminis_2691 but kept for subsequent analysis
+NOTE: Nitrosarchaeum_limnium_SFB1-contig47_12 is identical to Nitrosarchaeum_limnium_BG20-contig180_43 but kept for subsequent analysis
+NOTE: Thaumarchaeota_archaeon_strain_BS4_contig11_1 is identical to Thaumarchaeota_archaeon_strain_BS3-contig18_1 but kept for subsequent analysis
+NOTE: XS84_Bin2_contig59_7 is identical to XS84_Bin1_contig71_6 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.174863 secs using 1333% CPU
+Identifying sites to remove: done in 0.00360271 secs using 4814% CPU
+NOTE: 7 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: CP0005711_BURPS668_A2107_Burkholderia_pseudomallei_668 (identical to 2547980185_BP22DRAFT_05225_Burkholderia_pseudomallei_Bp22) is ignored but added at the end
+NOTE: CP0039771_BBK_4100_Burkholderia_pseudomallei_NCTC_13179 (identical to 2547980185_BP22DRAFT_05225_Burkholderia_pseudomallei_Bp22) is ignored but added at the end
+NOTE: CP0040431_BBN_4934_Burkholderia_pseudomallei_MSHR146 (identical to 2547980185_BP22DRAFT_05225_Burkholderia_pseudomallei_Bp22) is ignored but added at the end
+NOTE: NZ_AAHN020000021_Bmal10_03000591_Burkholderia_mallei_ATCC_10399 (identical to 2547980185_BP22DRAFT_05225_Burkholderia_pseudomallei_Bp22) is ignored but added at the end
+NOTE: NZ_ABBI010019031_BpseD_010100034315_Burkholderia_pseudomallei_DM98 (identical to 2547980185_BP22DRAFT_05225_Burkholderia_pseudomallei_Bp22) is ignored but added at the end
+NOTE: NZ_ABBK010013871_Bpse9_010100034512_Burkholderia_pseudomallei_91 (identical to 2547980185_BP22DRAFT_05225_Burkholderia_pseudomallei_Bp22) is ignored but added at the end
+NOTE: NZ_ACCE010000131_BUC_6267_Burkholderia_pseudomallei_576 (identical to 2547980185_BP22DRAFT_05225_Burkholderia_pseudomallei_Bp22) is ignored but added at the end
+Alignment was printed to nirK_cat_all_mafft_trimal_deduplicate.faa.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to nirK_cat_all_mafft_trimal_deduplicate.faa.uniqueseq.phy
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.577 seconds
+Measuring multi-threading efficiency up to 250 CPU cores
+Increase to 10 rounds for branch lengths
+25 trees examined
+Threads: 1 / Time: 256.179 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -196854
+Threads: 2 / Time: 178.138 sec / Speedup: 1.438 / Efficiency: 72% / LogL: -196854
+Threads: 3 / Time: 113.382 sec / Speedup: 2.259 / Efficiency: 75% / LogL: -196854
+Threads: 4 / Time: 74.808 sec / Speedup: 3.424 / Efficiency: 86% / LogL: -196854
+Threads: 5 / Time: 70.180 sec / Speedup: 3.650 / Efficiency: 73% / LogL: -196854
+Threads: 6 / Time: 66.141 sec / Speedup: 3.873 / Efficiency: 65% / LogL: -196854
+Threads: 7 / Time: 60.938 sec / Speedup: 4.204 / Efficiency: 60% / LogL: -196854
+Threads: 8 / Time: 58.431 sec / Speedup: 4.384 / Efficiency: 55% / LogL: -196854
+Threads: 9 / Time: 63.809 sec / Speedup: 4.015 / Efficiency: 45% / LogL: -196854
+Determining AUTO threadcount: done in 942.29 secs using 359.5% CPU
+BEST NUMBER OF THREADS: 7
+
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Optimizing NNI: done in 6.5761 secs using 667.5% CPU
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -78842.268
+Optimal log-likelihood: -78842.187
+Proportion of invariable sites: 0.004
+Gamma shape alpha: 1.548
+Parameters optimization took 1 rounds (0.695 sec)
+Time for fast ML tree search: 13.874 seconds
+
+NOTE: ModelFinder requires 144 MB RAM!
+ModelFinder will test up to 224 protein models (sample size: 564) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            81417.502    783 164401.005   1392145.005  167795.352
+  2  LG+I          81315.307    784 164198.614   1395078.614  167597.296
+  3  LG+G4         78866.942    784 159301.884   1390181.884  162700.567
+  4  LG+I+G4       78842.197    785 159254.394   1393274.394  162657.411
+  8  LG+F+I+G4     78841.425    804 159290.849   1453730.849  162776.233
+ 12  WAG+I+G4      78861.543    785 159293.087   1393313.087  162696.104
+ 16  WAG+F+I+G4    78835.741    804 159279.482   1453719.482  162764.866
+ 20  JTT+I+G4      79825.906    785 161221.811   1395241.811  164624.829
+ 24  JTT+F+I+G4    79991.711    804 161591.422   1456031.422  165076.806
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 28  Q.pfam+I+G4   78790.638    785 159151.276   1393171.276  162554.294
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 32  Q.pfam+F+I+G4 78914.799    804 159437.598   1453877.598  162922.982
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 36  Q.bird+I+G4   82423.765    785 166417.531   1400437.531  169820.548
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 40  Q.bird+F+I+G4 82806.925    804 167221.851   1461661.851  170707.235
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 44  Q.mammal+I+G4 81515.863    785 164601.726   1398621.726  168004.744
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 48  Q.mammal+F+I+G4 81846.433    804 165300.866   1459740.866  168786.250
+ 52  Q.insect+I+G4 79502.230    785 160574.459   1394594.459  163977.477
+ 56  Q.insect+F+I+G4 79714.372    804 161036.744   1455476.744  164522.127
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 60  Q.plant+I+G4  80554.581    785 162679.163   1396699.163  166082.180
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 64  Q.plant+F+I+G4 80663.973    804 162935.946   1457375.946  166421.329
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 68  Q.yeast+I+G4  79285.469    785 160140.938   1394160.938  163543.956
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 72  Q.yeast+F+I+G4 79287.775    804 160183.549   1454623.549  163668.933
+ 76  JTTDCMut+I+G4 79789.683    785 161149.365   1395169.365  164552.383
+ 80  JTTDCMut+F+I+G4 79944.722    804 161497.445   1455937.445  164982.828
+ 84  DCMut+I+G4    79810.233    785 161190.466   1395210.466  164593.483
+ 88  DCMut+F+I+G4  79775.890    804 161159.781   1455599.781  164645.165
+ 92  VT+I+G4       79144.692    785 159859.384   1393879.384  163262.401
+ 96  VT+F+I+G4     79203.167    804 160014.334   1454454.334  163499.718
+100  PMB+I+G4      79635.972    785 160841.944   1394861.944  164244.961
+104  PMB+F+I+G4    79444.050    804 160496.099   1454936.099  163981.483
+108  Blosum62+I+G4 79556.644    785 160683.287   1394703.287  164086.305
+112  Blosum62+F+I+G4 79414.431    804 160436.863   1454876.863  163922.246
+116  Dayhoff+I+G4  79813.787    785 161197.574   1395217.574  164600.592
+120  Dayhoff+F+I+G4 79778.941    804 161165.882   1455605.882  164651.266
+124  mtREV+I+G4    83940.994    785 169451.988   1403471.988  172855.006
+128  mtREV+F+I+G4  81572.546    804 164753.093   1459193.093  168238.476
+132  mtART+I+G4    85556.794    785 172683.588   1406703.588  176086.606
+136  mtART+F+I+G4  82753.728    804 167115.456   1461555.456  170600.839
+140  mtZOA+I+G4    83197.690    785 167965.381   1401985.381  171368.398
+144  mtZOA+F+I+G4  81337.537    804 164283.074   1458723.074  167768.457
+148  mtMet+I+G4    84388.958    785 170347.916   1404367.916  173750.934
+152  mtMet+F+I+G4  82040.946    804 165689.892   1460129.892  169175.276
+156  mtVer+I+G4    85361.546    785 172293.093   1406313.093  175696.110
+160  mtVer+F+I+G4  83673.121    804 168954.243   1463394.243  172439.626
+164  mtInv+I+G4    84308.664    785 170187.328   1404207.328  173590.345
+168  mtInv+F+I+G4  80873.702    804 163355.404   1457795.404  166840.787
+172  mtMAM+I+G4    87542.369    785 176654.738   1410674.738  180057.756
+176  mtMAM+F+I+G4  85103.803    804 171815.606   1466255.606  175300.990
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+180  FLAVI+I+G4    84659.096    785 170888.192   1404908.192  174291.210
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+184  FLAVI+F+I+G4  84835.633    804 171279.266   1465719.266  174764.650
+188  HIVb+I+G4     82829.890    785 167229.781   1401249.781  170632.798
+192  HIVb+F+I+G4   82677.750    804 166963.500   1461403.500  170448.884
+196  HIVw+I+G4     86136.609    785 173843.218   1407863.218  177246.236
+200  HIVw+F+I+G4   85462.660    804 172533.320   1466973.320  176018.704
+204  FLU+I+G4      81420.468    785 164410.937   1398430.937  167813.954
+208  FLU+F+I+G4    81058.077    804 163724.154   1458164.154  167209.538
+212  rtREV+I+G4    79576.301    785 160722.603   1394742.603  164125.620
+216  rtREV+F+I+G4  79276.992    804 160161.983   1454601.983  163647.367
+220  cpREV+I+G4    79977.110    785 161524.219   1395544.219  164927.237
+224  cpREV+F+I+G4  79491.186    804 160590.372   1455030.372  164075.755
+Akaike Information Criterion:           Q.pfam+I+G4
+Corrected Akaike Information Criterion: LG+G4
+Bayesian Information Criterion:         Q.pfam+I+G4
+Best-fit model: Q.pfam+I+G4 chosen according to BIC
+
+All model information printed to nirK_cat_all_mafft_trimal_deduplicate.faa.model.gz
+CPU time for ModelFinder: 5049.544 seconds (1h:24m:9s)
+Wall-clock time for ModelFinder: 1191.759 seconds (0h:19m:51s)
+Generating 1000 samples for ultrafast bootstrap (seed: 463639)...
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+
+NOTE: 144 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.522 / Estimate: 0.004, 1.524 / LogL: -78790.629
+Init pinv, alpha: 0.002, 1.522 / Estimate: 0.004, 1.524 / LogL: -78790.628
+Init pinv, alpha: 0.004, 1.522 / Estimate: 0.004, 1.522 / LogL: -78790.630
+Init pinv, alpha: 0.007, 1.522 / Estimate: 0.004, 1.522 / LogL: -78790.630
+Init pinv, alpha: 0.009, 1.522 / Estimate: 0.004, 1.522 / LogL: -78790.633
+Init pinv, alpha: 0.011, 1.522 / Estimate: 0.004, 1.522 / LogL: -78790.636
+Init pinv, alpha: 0.013, 1.522 / Estimate: 0.004, 1.522 / LogL: -78790.640
+Init pinv, alpha: 0.015, 1.522 / Estimate: 0.004, 1.522 / LogL: -78790.635
+Init pinv, alpha: 0.017, 1.522 / Estimate: 0.004, 1.522 / LogL: -78790.637
+Init pinv, alpha: 0.020, 1.522 / Estimate: 0.004, 1.522 / LogL: -78790.632
+Optimal pinv,alpha: 0.004, 1.524 / LogL: -78790.628
+
+Parameters optimization took 13.464 sec
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 6.40561 secs using 696.3% CPU
+Computing ML distances took 6.453367 sec (of wall-clock time) 44.783400 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.00844407 secs using 372.5% CPU
+Constructing RapidNJ tree: done in 10.8223 secs using 251.7% CPU
+Computing RapidNJ tree took 10.835202 sec (of wall-clock time) 27.281185 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -81389.461
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 63.063 second
+Computing log-likelihood of 98 initial trees ... 34.063 seconds
+Current best score: -78790.628
+
+Do NNI search on 20 best initial trees
+Optimizing NNI: done in 2.38955 secs using 682.8% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -78787.963
+Optimizing NNI: done in 9.18188 secs using 693.9% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -78755.075
+Optimizing NNI: done in 12.0086 secs using 646.9% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 3: -78735.643
+Optimizing NNI: done in 10.3451 secs using 689.9% CPU
+Optimizing NNI: done in 12.7268 secs using 671.4% CPU
+Optimizing NNI: done in 6.86406 secs using 686.9% CPU
+Optimizing NNI: done in 13.8407 secs using 668.4% CPU
+Optimizing NNI: done in 9.45573 secs using 655.4% CPU
+Optimizing NNI: done in 11.0771 secs using 679.5% CPU
+Optimizing NNI: done in 8.9434 secs using 694.5% CPU
+Iteration 10 / LogL: -78746.773 / Time: 0h:3m:56s
+Optimizing NNI: done in 11.0863 secs using 691.5% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 11: -78704.363
+Optimizing NNI: done in 10.416 secs using 688.4% CPU
+Optimizing NNI: done in 12.4355 secs using 675.8% CPU
+Optimizing NNI: done in 7.28985 secs using 680% CPU
+Optimizing NNI: done in 11.0775 secs using 681.1% CPU
+Optimizing NNI: done in 10.4986 secs using 647.4% CPU
+Optimizing NNI: done in 8.3579 secs using 673% CPU
+Optimizing NNI: done in 10.108 secs using 694.6% CPU
+Optimizing NNI: done in 11.6024 secs using 683.4% CPU
+Optimizing NNI: done in 9.26644 secs using 675.8% CPU
+Iteration 20 / LogL: -78796.705 / Time: 0h:5m:39s
+Finish initializing candidate tree set (20)
+Current best tree score: -78704.363 / CPU time: 300.148
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Optimizing NNI: done in 6.77379 secs using 690.7% CPU
+Optimizing NNI: done in 5.68861 secs using 694.1% CPU
+Optimizing NNI: done in 7.56068 secs using 687.5% CPU
+Optimizing NNI: done in 6.9027 secs using 695.3% CPU
+Optimizing NNI: done in 6.00189 secs using 697.5% CPU
+Optimizing NNI: done in 7.25615 secs using 696% CPU
+Optimizing NNI: done in 8.68335 secs using 673.5% CPU
+Optimizing NNI: done in 8.27797 secs using 696.7% CPU
+Optimizing NNI: done in 7.79493 secs using 697.4% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 29: -78698.013
+Optimizing NNI: done in 10.4268 secs using 653.8% CPU
+Iteration 30 / LogL: -78712.858 / Time: 0h:6m:58s (0h:23m:47s left)
+Optimizing NNI: done in 8.4456 secs using 697.7% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 31: -78696.114
+Optimizing NNI: done in 9.20626 secs using 689.9% CPU
+Optimizing NNI: done in 7.67081 secs using 694.9% CPU
+Optimizing NNI: done in 7.76955 secs using 689.2% CPU
+Optimizing NNI: done in 8.27037 secs using 689.1% CPU
+Optimizing NNI: done in 7.05033 secs using 698.4% CPU
+Optimizing NNI: done in 7.57952 secs using 688.1% CPU
+Optimizing NNI: done in 8.19722 secs using 692.7% CPU
+Optimizing NNI: done in 8.50924 secs using 698% CPU
+Optimizing NNI: done in 9.68486 secs using 699% CPU
+Iteration 40 / LogL: -78718.471 / Time: 0h:8m:22s (0h:19m:32s left)
+Optimizing NNI: done in 8.17518 secs using 698.6% CPU
+Optimizing NNI: done in 10.0813 secs using 684.2% CPU
+Optimizing NNI: done in 7.71282 secs using 695.9% CPU
+Optimizing NNI: done in 7.94684 secs using 696% CPU
+Optimizing NNI: done in 9.06108 secs using 691.4% CPU
+Optimizing NNI: done in 11.1954 secs using 654.2% CPU
+Optimizing NNI: done in 8.9641 secs using 665.5% CPU
+Optimizing NNI: done in 11.9814 secs using 655.6% CPU
+Optimizing NNI: done in 14.532 secs using 688.5% CPU
+Optimizing NNI: done in 12.6894 secs using 684.6% CPU
+Iteration 50 / LogL: -78699.837 / Time: 0h:10m:5s (0h:16m:41s left)
+Log-likelihood cutoff on original alignment: -78816.211
+Optimizing NNI: done in 10.4123 secs using 694.5% CPU
+Optimizing NNI: done in 10.2281 secs using 679.5% CPU
+Optimizing NNI: done in 10.0433 secs using 652.9% CPU
+Optimizing NNI: done in 9.56381 secs using 697.2% CPU
+Optimizing NNI: done in 7.77972 secs using 696.9% CPU
+Optimizing NNI: done in 8.59652 secs using 645.7% CPU
+Optimizing NNI: done in 10.513 secs using 659.6% CPU
+Optimizing NNI: done in 8.88996 secs using 681% CPU
+Optimizing NNI: done in 10.0996 secs using 695.4% CPU
+Optimizing NNI: done in 8.64553 secs using 693.8% CPU
+Iteration 60 / LogL: -78751.823 / Time: 0h:11m:43s (0h:14m:6s left)
+Optimizing NNI: done in 9.18653 secs using 695.3% CPU
+Optimizing NNI: done in 13.0923 secs using 681.8% CPU
+Optimizing NNI: done in 12.5214 secs using 693.1% CPU
+Optimizing NNI: done in 10.5732 secs using 686.8% CPU
+Optimizing NNI: done in 10.8954 secs using 694.8% CPU
+Optimizing NNI: done in 11.4079 secs using 685.3% CPU
+Optimizing NNI: done in 12.4034 secs using 696.2% CPU
+Optimizing NNI: done in 10.1132 secs using 697.2% CPU
+Optimizing NNI: done in 10.4358 secs using 696.6% CPU
+Optimizing NNI: done in 12.7932 secs using 695.6% CPU
+Iteration 70 / LogL: -78719.928 / Time: 0h:13m:38s (0h:12m:3s left)
+Optimizing NNI: done in 9.90122 secs using 698% CPU
+Optimizing NNI: done in 10.8947 secs using 676.2% CPU
+Optimizing NNI: done in 9.07832 secs using 669.7% CPU
+Optimizing NNI: done in 6.67652 secs using 697.8% CPU
+Optimizing NNI: done in 7.23758 secs using 697.1% CPU
+Optimizing NNI: done in 7.60033 secs using 693.9% CPU
+Optimizing NNI: done in 7.48837 secs using 696.9% CPU
+Optimizing NNI: done in 6.22763 secs using 694.5% CPU
+Optimizing NNI: done in 7.65446 secs using 697.1% CPU
+Optimizing NNI: done in 7.1278 secs using 698.4% CPU
+Iteration 80 / LogL: -78726.907 / Time: 0h:14m:59s (0h:9m:40s left)
+Optimizing NNI: done in 9.08521 secs using 698.3% CPU
+Optimizing NNI: done in 9.10907 secs using 696.2% CPU
+Optimizing NNI: done in 9.67013 secs using 696.2% CPU
+Optimizing NNI: done in 9.40678 secs using 697.3% CPU
+Optimizing NNI: done in 8.38756 secs using 688.2% CPU
+Optimizing NNI: done in 7.0821 secs using 696.9% CPU
+Optimizing NNI: done in 9.10009 secs using 691.7% CPU
+Optimizing NNI: done in 7.08665 secs using 695.4% CPU
+Optimizing NNI: done in 8.78141 secs using 698.4% CPU
+Optimizing NNI: done in 8.98583 secs using 690.7% CPU
+Iteration 90 / LogL: -78699.210 / Time: 0h:16m:26s (0h:7m:34s left)
+Optimizing NNI: done in 10.261 secs using 691.7% CPU
+Optimizing NNI: done in 11.5621 secs using 693.8% CPU
+Optimizing NNI: done in 6.7618 secs using 695.4% CPU
+Optimizing NNI: done in 7.79608 secs using 696.4% CPU
+Optimizing NNI: done in 10.0894 secs using 693.3% CPU
+Optimizing NNI: done in 9.92759 secs using 697.8% CPU
+Optimizing NNI: done in 10.3566 secs using 688.9% CPU
+Optimizing NNI: done in 9.93271 secs using 697.3% CPU
+Optimizing NNI: done in 10.9668 secs using 654% CPU
+Optimizing NNI: done in 7.31743 secs using 696.6% CPU
+Iteration 100 / LogL: -78751.704 / Time: 0h:18m:2s (0h:5m:39s left)
+Log-likelihood cutoff on original alignment: -78816.211
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.998
+Optimizing NNI: done in 9.5783 secs using 690.6% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 101: -78694.222
+Optimizing NNI: done in 11.0789 secs using 693.9% CPU
+Optimizing NNI: done in 7.28069 secs using 695.6% CPU
+Optimizing NNI: done in 8.625 secs using 695.4% CPU
+Optimizing NNI: done in 8.37212 secs using 693.3% CPU
+Optimizing NNI: done in 9.66918 secs using 696.3% CPU
+Optimizing NNI: done in 11.2858 secs using 693.1% CPU
+Optimizing NNI: done in 8.15265 secs using 691.9% CPU
+Optimizing NNI: done in 10.1875 secs using 696% CPU
+Optimizing NNI: done in 8.92994 secs using 671.9% CPU
+Iteration 110 / LogL: -78715.703 / Time: 0h:19m:40s (0h:16m:25s left)
+Optimizing NNI: done in 8.75687 secs using 684.9% CPU
+Optimizing NNI: done in 9.49212 secs using 672.6% CPU
+Optimizing NNI: done in 9.55502 secs using 696.2% CPU
+Optimizing NNI: done in 10.9674 secs using 696.5% CPU
+Optimizing NNI: done in 8.48465 secs using 697.4% CPU
+Optimizing NNI: done in 7.97205 secs using 696.2% CPU
+Optimizing NNI: done in 8.94396 secs using 695.8% CPU
+Optimizing NNI: done in 10.9497 secs using 654.8% CPU
+Optimizing NNI: done in 10.0439 secs using 687% CPU
+Optimizing NNI: done in 8.2625 secs using 685.1% CPU
+Iteration 120 / LogL: -78703.974 / Time: 0h:21m:14s (0h:14m:27s left)
+Optimizing NNI: done in 9.03529 secs using 696.7% CPU
+Optimizing NNI: done in 8.74556 secs using 694.7% CPU
+Optimizing NNI: done in 10.1254 secs using 669.7% CPU
+Optimizing NNI: done in 11.2947 secs using 649.8% CPU
+Optimizing NNI: done in 11.3942 secs using 669.4% CPU
+Optimizing NNI: done in 10.3102 secs using 682.7% CPU
+Optimizing NNI: done in 12.8797 secs using 676.7% CPU
+Optimizing NNI: done in 9.90379 secs using 673.8% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 128: -78691.233
+Optimizing NNI: done in 9.52026 secs using 697.3% CPU
+Optimizing NNI: done in 8.23421 secs using 680.9% CPU
+Iteration 130 / LogL: -78694.000 / Time: 0h:22m:58s (0h:17m:27s left)
+Optimizing NNI: done in 9.80623 secs using 668.5% CPU
+Optimizing NNI: done in 11.2755 secs using 674.3% CPU
+Optimizing NNI: done in 9.23152 secs using 680.1% CPU
+Optimizing NNI: done in 10.4703 secs using 677.9% CPU
+Optimizing NNI: done in 9.46459 secs using 682% CPU
+Optimizing NNI: done in 9.43602 secs using 661.4% CPU
+Optimizing NNI: done in 7.29598 secs using 698.2% CPU
+Optimizing NNI: done in 9.40157 secs using 690.9% CPU
+Optimizing NNI: done in 8.47836 secs using 692.2% CPU
+Optimizing NNI: done in 8.71824 secs using 696.3% CPU
+Iteration 140 / LogL: -78750.528 / Time: 0h:24m:33s (0h:15m:32s left)
+Optimizing NNI: done in 8.25796 secs using 685.3% CPU
+Optimizing NNI: done in 8.77495 secs using 697.6% CPU
+Optimizing NNI: done in 9.33538 secs using 688% CPU
+Optimizing NNI: done in 9.85118 secs using 696.6% CPU
+Optimizing NNI: done in 9.79247 secs using 694.4% CPU
+Optimizing NNI: done in 7.17866 secs using 692.4% CPU
+Optimizing NNI: done in 8.85983 secs using 690% CPU
+Optimizing NNI: done in 11.5167 secs using 691.2% CPU
+Optimizing NNI: done in 8.82385 secs using 696.8% CPU
+Optimizing NNI: done in 9.22301 secs using 684.3% CPU
+Iteration 150 / LogL: -78692.231 / Time: 0h:26m:6s (0h:13m:39s left)
+Log-likelihood cutoff on original alignment: -78816.211
+Optimizing NNI: done in 9.01916 secs using 697% CPU
+Optimizing NNI: done in 7.21938 secs using 694.6% CPU
+Optimizing NNI: done in 8.04052 secs using 694.6% CPU
+Optimizing NNI: done in 11.7909 secs using 677.1% CPU
+Optimizing NNI: done in 9.75554 secs using 681.2% CPU
+Optimizing NNI: done in 9.52386 secs using 696.6% CPU
+Optimizing NNI: done in 11.8869 secs using 695.6% CPU
+Optimizing NNI: done in 9.22019 secs using 695.5% CPU
+Optimizing NNI: done in 10.7537 secs using 695.2% CPU
+Optimizing NNI: done in 14.2663 secs using 655.3% CPU
+Iteration 160 / LogL: -78715.583 / Time: 0h:27m:51s (0h:11m:54s left)
+Optimizing NNI: done in 9.0558 secs using 671.6% CPU
+Optimizing NNI: done in 9.09424 secs using 697.8% CPU
+Optimizing NNI: done in 8.12608 secs using 697.1% CPU
+Optimizing NNI: done in 8.45449 secs using 684.5% CPU
+Optimizing NNI: done in 9.59354 secs using 674.9% CPU
+Optimizing NNI: done in 10.2531 secs using 693% CPU
+Optimizing NNI: done in 10.8459 secs using 692.4% CPU
+Optimizing NNI: done in 10.5825 secs using 687.5% CPU
+Optimizing NNI: done in 8.71966 secs using 695.9% CPU
+Optimizing NNI: done in 11.9823 secs using 665.9% CPU
+Iteration 170 / LogL: -78761.682 / Time: 0h:29m:29s (0h:10m:7s left)
+Optimizing NNI: done in 8.72488 secs using 655% CPU
+Optimizing NNI: done in 7.75246 secs using 683.8% CPU
+Optimizing NNI: done in 7.64262 secs using 688.3% CPU
+Optimizing NNI: done in 9.45728 secs using 649.9% CPU
+Optimizing NNI: done in 9.17256 secs using 697.6% CPU
+Optimizing NNI: done in 16.2463 secs using 696.5% CPU
+Optimizing NNI: done in 12.3753 secs using 690.5% CPU
+Optimizing NNI: done in 9.70099 secs using 689.9% CPU
+Optimizing NNI: done in 7.6238 secs using 688% CPU
+Optimizing NNI: done in 8.50765 secs using 694% CPU
+Iteration 180 / LogL: -78701.107 / Time: 0h:31m:7s (0h:8m:20s left)
+Optimizing NNI: done in 10.3683 secs using 688.2% CPU
+Optimizing NNI: done in 10.5017 secs using 697.6% CPU
+Optimizing NNI: done in 10.6347 secs using 689.8% CPU
+Optimizing NNI: done in 15.1346 secs using 689.6% CPU
+Optimizing NNI: done in 12.1173 secs using 688.1% CPU
+Optimizing NNI: done in 8.71509 secs using 695.9% CPU
+Optimizing NNI: done in 10.2939 secs using 690.4% CPU
+Optimizing NNI: done in 10.7974 secs using 697.2% CPU
+Optimizing NNI: done in 9.11613 secs using 697.4% CPU
+Optimizing NNI: done in 8.59061 secs using 695.7% CPU
+Iteration 190 / LogL: -78746.505 / Time: 0h:32m:55s (0h:6m:37s left)
+Optimizing NNI: done in 7.63457 secs using 695.3% CPU
+Optimizing NNI: done in 8.09591 secs using 692.1% CPU
+Optimizing NNI: done in 9.02034 secs using 697% CPU
+Optimizing NNI: done in 9.59347 secs using 694.7% CPU
+Optimizing NNI: done in 9.50214 secs using 687.8% CPU
+Optimizing NNI: done in 6.52501 secs using 697.9% CPU
+Optimizing NNI: done in 8.78932 secs using 679.8% CPU
+Optimizing NNI: done in 7.23148 secs using 692.6% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 198: -78688.804
+Optimizing NNI: done in 8.28052 secs using 692.6% CPU
+Optimizing NNI: done in 10.8607 secs using 694.6% CPU
+Iteration 200 / LogL: -78708.117 / Time: 0h:34m:22s (0h:16m:55s left)
+Log-likelihood cutoff on original alignment: -78810.327
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.991
+Optimizing NNI: done in 7.54532 secs using 673.5% CPU
+Optimizing NNI: done in 8.30668 secs using 680.1% CPU
+Optimizing NNI: done in 8.93999 secs using 697.3% CPU
+Optimizing NNI: done in 10.4949 secs using 651.3% CPU
+Optimizing NNI: done in 7.32466 secs using 697.2% CPU
+Optimizing NNI: done in 7.09697 secs using 696.9% CPU
+Optimizing NNI: done in 9.38517 secs using 696.5% CPU
+Optimizing NNI: done in 6.38695 secs using 697.5% CPU
+Optimizing NNI: done in 8.91158 secs using 691% CPU
+Optimizing NNI: done in 13.9334 secs using 690.7% CPU
+Iteration 210 / LogL: -78707.852 / Time: 0h:35m:53s (0h:15m:27s left)
+Optimizing NNI: done in 7.9533 secs using 697.4% CPU
+Optimizing NNI: done in 6.69831 secs using 684.9% CPU
+Optimizing NNI: done in 7.9888 secs using 698.5% CPU
+Optimizing NNI: done in 7.86071 secs using 696.8% CPU
+Optimizing NNI: done in 8.42911 secs using 694% CPU
+Optimizing NNI: done in 7.50569 secs using 696.5% CPU
+Optimizing NNI: done in 6.5978 secs using 697.3% CPU
+Optimizing NNI: done in 8.03492 secs using 681.2% CPU
+Optimizing NNI: done in 10.25 secs using 674.4% CPU
+Optimizing NNI: done in 8.68918 secs using 696.6% CPU
+Iteration 220 / LogL: -78705.030 / Time: 0h:37m:15s (0h:13m:36s left)
+Optimizing NNI: done in 8.05063 secs using 683.7% CPU
+Optimizing NNI: done in 7.43972 secs using 691.7% CPU
+Optimizing NNI: done in 7.64408 secs using 694.2% CPU
+Optimizing NNI: done in 8.67402 secs using 696.3% CPU
+Optimizing NNI: done in 9.65133 secs using 669.9% CPU
+Optimizing NNI: done in 8.0691 secs using 694.5% CPU
+Optimizing NNI: done in 7.58312 secs using 697.4% CPU
+Optimizing NNI: done in 8.61418 secs using 688.3% CPU
+Optimizing NNI: done in 7.47803 secs using 697.4% CPU
+Optimizing NNI: done in 7.15368 secs using 697.9% CPU
+Iteration 230 / LogL: -78778.533 / Time: 0h:38m:36s (0h:11m:48s left)
+Optimizing NNI: done in 9.20466 secs using 692.5% CPU
+Optimizing NNI: done in 7.32689 secs using 696.4% CPU
+Optimizing NNI: done in 6.96639 secs using 695.2% CPU
+Optimizing NNI: done in 13.9513 secs using 680.3% CPU
+Optimizing NNI: done in 13.0177 secs using 641.1% CPU
+Optimizing NNI: done in 9.32738 secs using 679.8% CPU
+Optimizing NNI: done in 7.7813 secs using 676.8% CPU
+Optimizing NNI: done in 10.8254 secs using 654.6% CPU
+Optimizing NNI: done in 9.93345 secs using 690.1% CPU
+Optimizing NNI: done in 11.0131 secs using 696.5% CPU
+Iteration 240 / LogL: -78708.630 / Time: 0h:40m:17s (0h:10m:6s left)
+Optimizing NNI: done in 9.26678 secs using 690.6% CPU
+Optimizing NNI: done in 12.966 secs using 644.3% CPU
+Optimizing NNI: done in 11.4147 secs using 632.2% CPU
+Optimizing NNI: done in 10.2769 secs using 664.4% CPU
+Optimizing NNI: done in 8.42298 secs using 666.4% CPU
+Optimizing NNI: done in 8.53042 secs using 698% CPU
+Optimizing NNI: done in 7.32783 secs using 695.1% CPU
+Optimizing NNI: done in 8.75768 secs using 684.4% CPU
+Optimizing NNI: done in 8.6308 secs using 682.6% CPU
+Optimizing NNI: done in 10.3725 secs using 674.6% CPU
+Iteration 250 / LogL: -78693.727 / Time: 0h:41m:54s (0h:8m:24s left)
+Log-likelihood cutoff on original alignment: -78810.327
+Optimizing NNI: done in 8.76461 secs using 667.7% CPU
+Optimizing NNI: done in 8.89859 secs using 660.6% CPU
+Optimizing NNI: done in 11.1426 secs using 675.9% CPU
+Optimizing NNI: done in 9.07194 secs using 687.2% CPU
+Optimizing NNI: done in 8.9196 secs using 652.4% CPU
+Optimizing NNI: done in 8.99195 secs using 674% CPU
+Optimizing NNI: done in 10.3835 secs using 657.2% CPU
+Optimizing NNI: done in 9.32058 secs using 668.3% CPU
+Optimizing NNI: done in 8.41167 secs using 696.8% CPU
+Optimizing NNI: done in 8.96904 secs using 671.7% CPU
+Iteration 260 / LogL: -78715.690 / Time: 0h:43m:30s (0h:6m:43s left)
+Optimizing NNI: done in 8.91744 secs using 693.9% CPU
+Optimizing NNI: done in 8.02009 secs using 695.3% CPU
+Optimizing NNI: done in 12.2456 secs using 686.6% CPU
+Optimizing NNI: done in 9.30235 secs using 692.5% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 264: -78688.108
+Optimizing NNI: done in 9.76011 secs using 686% CPU
+Optimizing NNI: done in 9.43141 secs using 686.8% CPU
+Optimizing NNI: done in 8.21525 secs using 671.5% CPU
+Optimizing NNI: done in 9.62145 secs using 688.8% CPU
+Optimizing NNI: done in 8.13909 secs using 698.6% CPU
+Optimizing NNI: done in 9.08806 secs using 698% CPU
+Iteration 270 / LogL: -78778.798 / Time: 0h:45m:6s (0h:15m:45s left)
+Optimizing NNI: done in 9.90248 secs using 689.4% CPU
+Optimizing NNI: done in 7.71896 secs using 697.4% CPU
+Optimizing NNI: done in 7.69331 secs using 697.5% CPU
+Optimizing NNI: done in 7.86987 secs using 695.6% CPU
+Optimizing NNI: done in 9.56996 secs using 682.4% CPU
+Optimizing NNI: done in 8.65997 secs using 688.3% CPU
+Optimizing NNI: done in 8.94368 secs using 681.5% CPU
+Optimizing NNI: done in 8.51292 secs using 689.5% CPU
+Optimizing NNI: done in 7.83547 secs using 695.5% CPU
+Optimizing NNI: done in 9.70994 secs using 691.3% CPU
+Iteration 280 / LogL: -78814.698 / Time: 0h:46m:33s (0h:14m:1s left)
+Optimizing NNI: done in 7.37711 secs using 666.6% CPU
+Optimizing NNI: done in 5.29499 secs using 691.3% CPU
+Optimizing NNI: done in 7.5255 secs using 691.7% CPU
+Optimizing NNI: done in 8.0305 secs using 693.6% CPU
+Optimizing NNI: done in 8.69131 secs using 679.9% CPU
+Optimizing NNI: done in 8.52733 secs using 693.9% CPU
+Optimizing NNI: done in 10.8917 secs using 693.2% CPU
+Optimizing NNI: done in 7.29254 secs using 693.1% CPU
+Optimizing NNI: done in 7.8633 secs using 696.7% CPU
+Optimizing NNI: done in 6.55746 secs using 686.8% CPU
+Iteration 290 / LogL: -78722.623 / Time: 0h:47m:52s (0h:12m:15s left)
+Optimizing NNI: done in 8.10373 secs using 696.2% CPU
+Optimizing NNI: done in 9.63574 secs using 695.6% CPU
+Optimizing NNI: done in 10.6247 secs using 650.8% CPU
+Optimizing NNI: done in 8.76459 secs using 697% CPU
+Optimizing NNI: done in 9.81932 secs using 695.5% CPU
+Optimizing NNI: done in 10.3947 secs using 691.8% CPU
+Optimizing NNI: done in 6.87954 secs using 697.9% CPU
+Optimizing NNI: done in 7.57331 secs using 698% CPU
+Optimizing NNI: done in 7.76966 secs using 693.6% CPU
+Optimizing NNI: done in 7.42503 secs using 686.9% CPU
+Iteration 300 / LogL: -78714.421 / Time: 0h:49m:21s (0h:10m:33s left)
+Log-likelihood cutoff on original alignment: -78810.327
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.997
+Optimizing NNI: done in 8.56744 secs using 690% CPU
+Optimizing NNI: done in 8.92825 secs using 695.7% CPU
+Optimizing NNI: done in 6.88835 secs using 677.7% CPU
+Optimizing NNI: done in 7.43233 secs using 697.4% CPU
+Optimizing NNI: done in 7.95273 secs using 696.5% CPU
+Optimizing NNI: done in 9.97509 secs using 690.8% CPU
+Optimizing NNI: done in 12.287 secs using 690.7% CPU
+Optimizing NNI: done in 10.5119 secs using 692.2% CPU
+Optimizing NNI: done in 8.1434 secs using 695.1% CPU
+Optimizing NNI: done in 9.86988 secs using 686.8% CPU
+Iteration 310 / LogL: -78697.604 / Time: 0h:50m:54s (0h:14m:49s left)
+Optimizing NNI: done in 9.34324 secs using 697.3% CPU
+Optimizing NNI: done in 11.6925 secs using 656.3% CPU
+Optimizing NNI: done in 12.1434 secs using 649.4% CPU
+Optimizing NNI: done in 8.15955 secs using 684.4% CPU
+Optimizing NNI: done in 8.89528 secs using 694.7% CPU
+Optimizing NNI: done in 8.74234 secs using 653.5% CPU
+Optimizing NNI: done in 7.1684 secs using 681.6% CPU
+Optimizing NNI: done in 6.52582 secs using 697.4% CPU
+Optimizing NNI: done in 8.46654 secs using 660% CPU
+Optimizing NNI: done in 6.71336 secs using 696.5% CPU
+Iteration 320 / LogL: -78753.630 / Time: 0h:52m:24s (0h:13m:8s left)
+Optimizing NNI: done in 8.69624 secs using 694.5% CPU
+Optimizing NNI: done in 6.83989 secs using 696.3% CPU
+Optimizing NNI: done in 7.38663 secs using 693.5% CPU
+Optimizing NNI: done in 6.95451 secs using 694% CPU
+Optimizing NNI: done in 7.24877 secs using 697.8% CPU
+Optimizing NNI: done in 7.33985 secs using 696.4% CPU
+Optimizing NNI: done in 5.94045 secs using 695.6% CPU
+Optimizing NNI: done in 9.97661 secs using 684.1% CPU
+Optimizing NNI: done in 7.7802 secs using 697.5% CPU
+Optimizing NNI: done in 9.23133 secs using 696.6% CPU
+Iteration 330 / LogL: -78755.981 / Time: 0h:53m:42s (0h:11m:25s left)
+Optimizing NNI: done in 7.64947 secs using 692.9% CPU
+Optimizing NNI: done in 7.96 secs using 688.3% CPU
+Optimizing NNI: done in 6.30125 secs using 697.8% CPU
+Optimizing NNI: done in 8.03435 secs using 691.5% CPU
+Optimizing NNI: done in 5.95941 secs using 695.8% CPU
+Optimizing NNI: done in 7.14209 secs using 697.2% CPU
+Optimizing NNI: done in 11.1487 secs using 679.1% CPU
+Optimizing NNI: done in 9.60592 secs using 693.9% CPU
+Optimizing NNI: done in 8.96062 secs using 683.6% CPU
+Optimizing NNI: done in 12.5011 secs using 683.3% CPU
+Iteration 340 / LogL: -78695.526 / Time: 0h:55m:9s (0h:9m:45s left)
+Optimizing NNI: done in 8.53185 secs using 667.3% CPU
+Optimizing NNI: done in 8.2604 secs using 674.3% CPU
+Optimizing NNI: done in 7.6718 secs using 681.6% CPU
+Optimizing NNI: done in 8.45608 secs using 657.2% CPU
+Optimizing NNI: done in 6.26233 secs using 695.9% CPU
+Optimizing NNI: done in 8.50315 secs using 667.1% CPU
+Optimizing NNI: done in 7.80457 secs using 671.3% CPU
+Optimizing NNI: done in 10.8771 secs using 582.5% CPU
+Optimizing NNI: done in 9.46546 secs using 678.8% CPU
+Optimizing NNI: done in 6.42724 secs using 695.4% CPU
+Iteration 350 / LogL: -78705.575 / Time: 0h:56m:33s (0h:8m:6s left)
+Log-likelihood cutoff on original alignment: -78810.327
+Optimizing NNI: done in 9.88428 secs using 691.6% CPU
+Optimizing NNI: done in 5.92052 secs using 694.3% CPU
+Optimizing NNI: done in 9.92599 secs using 647.8% CPU
+Optimizing NNI: done in 8.15716 secs using 690% CPU
+Optimizing NNI: done in 6.56357 secs using 697% CPU
+Optimizing NNI: done in 7.24758 secs using 683% CPU
+Optimizing NNI: done in 7.59654 secs using 690.8% CPU
+Optimizing NNI: done in 12.3464 secs using 680.1% CPU
+Optimizing NNI: done in 11.0901 secs using 691.2% CPU
+Optimizing NNI: done in 10.7459 secs using 691.4% CPU
+Iteration 360 / LogL: -78704.139 / Time: 0h:58m:6s (0h:6m:28s left)
+Optimizing NNI: done in 5.91042 secs using 697.2% CPU
+Optimizing NNI: done in 7.50069 secs using 697.7% CPU
+Optimizing NNI: done in 7.3673 secs using 694.2% CPU
+Optimizing NNI: done in 8.20981 secs using 693% CPU
+Optimizing NNI: done in 8.91761 secs using 652.2% CPU
+TREE SEARCH COMPLETED AFTER 365 ITERATIONS / Time: 0h:58m:44s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -78688.108
+Optimal log-likelihood: -78688.104
+Proportion of invariable sites: 0.004
+Gamma shape alpha: 1.492
+Parameters optimization took 1 rounds (1.038 sec)
+BEST SCORE FOUND : -78688.104
+Creating bootstrap support values...
+Split supports printed to NEXUS file nirK_cat_all_mafft_trimal_deduplicate.faa.splits.nex
+Total tree length: 96.314
+
+Total number of iterations: 365
+CPU time used for tree search: 23313.584 sec (6h:28m:33s)
+Wall-clock time used for tree search: 3485.144 sec (0h:58m:5s)
+Total CPU time used: 23548.430 sec (6h:32m:28s)
+Total wall-clock time used: 3527.487 sec (0h:58m:47s)
+
+Computing bootstrap consensus tree...
+Reading input file nirK_cat_all_mafft_trimal_deduplicate.faa.splits.nex...
+393 taxa and 1895 splits.
+Consensus tree written to nirK_cat_all_mafft_trimal_deduplicate.faa.contree
+Reading input trees file nirK_cat_all_mafft_trimal_deduplicate.faa.contree
+Log-likelihood of consensus tree: -78688.513
+
+Analysis results written to: 
+  IQ-TREE report:                nirK_cat_all_mafft_trimal_deduplicate.faa.iqtree
+  Maximum-likelihood tree:       nirK_cat_all_mafft_trimal_deduplicate.faa.treefile
+  Likelihood distances:          nirK_cat_all_mafft_trimal_deduplicate.faa.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          nirK_cat_all_mafft_trimal_deduplicate.faa.splits.nex
+  Consensus tree:                nirK_cat_all_mafft_trimal_deduplicate.faa.contree
+  Screen log file:               nirK_cat_all_mafft_trimal_deduplicate.faa.log
+
+Date and Time: Tue Aug 29 16:23:06 2023

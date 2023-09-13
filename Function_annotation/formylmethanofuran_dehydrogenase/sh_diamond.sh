@@ -1,0 +1,6 @@
+diamond blastx --db /Research_disk/other_database/nr/formylmethanofuran_dehydrogenase --query XS84_Bin3_renamed_cds.fa -p 250 --top 1 --query-cover 50 --evalue 0.0000001 -o XS84_Bin3_renamed_cds.fa.m8
+diamond blastx --db /Research_disk/other_database/nr/formylmethanofuran_dehydrogenase --query XS84_Bin1_renamed_cds.fa -p 250 --top 1 --query-cover 50 --evalue 0.0000001 -o XS84_Bin1_renamed_cds.fa.m8
+diamond blastx --db /Research_disk/other_database/nr/formylmethanofuran_dehydrogenase --query Mariana_Trench_sediment_5533m_4-6cm_Bin1_renamed_cds.fa -p 250 --top 1 --query-cover 50 --evalue 0.0000001 -o Mariana_Trench_sediment_5533m_4-6cm_Bin1_renamed_cds.fa.m8
+diamond blastx --db /Research_disk/other_database/nr/formylmethanofuran_dehydrogenase --query Deep-sea_sediment_DRR121209_Bin1_renamed_cds.fa -p 250 --top 1 --query-cover 50 --evalue 0.0000001 -o Deep-sea_sediment_DRR121209_Bin1_renamed_cds.fa.m8
+diamond blastx --db /Research_disk/other_database/nr/formylmethanofuran_dehydrogenase --query Deep-sea_sediment_ERR1730303_Bin1_renamed_cds.fa -p 250 --top 1 --query-cover 50 --evalue 0.0000001 -o Deep-sea_sediment_ERR1730303_Bin1_renamed_cds.fa.m8
+diamond blastx --db /Research_disk/other_database/nr/formylmethanofuran_dehydrogenase --query XS84_Bin2_renamed_cds.fa -p 250 --top 1 --query-cover 50 --evalue 0.0000001 -o XS84_Bin2_renamed_cds.fa.m8

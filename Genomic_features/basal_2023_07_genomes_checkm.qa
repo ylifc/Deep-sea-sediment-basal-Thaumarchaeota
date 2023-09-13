@@ -1,0 +1,38 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Bin Id                                                Marker lineage    # genomes   # markers   # marker sets   0     1    2   3   4   5+   Completeness   Contamination   Strain heterogeneity  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  D197_116_renamed                                    k__Archaea (UID2)      207         145           103        2    142   1   0   0   0       98.54            0.97               0.00          
+  HMT_ATL_renamed                                     k__Archaea (UID2)      207         145           103        3    139   3   0   0   0       98.06            1.46              66.67          
+  Thaumarchaeota_bin_Fn1_renamed                      k__Archaea (UID2)      207         145           103        4    138   3   0   0   0       97.25            2.91               0.00          
+  Thaumarchaeota_ASW8_renamed                         k__Archaea (UID2)      207         145           103        3    138   4   0   0   0       97.09            2.91               0.00          
+  HMT_PAC_renamed                                     k__Archaea (UID2)      207         145           103        5    139   1   0   0   0       96.12            0.97               0.00          
+  Unclassified_Thaumarchaeota_DRTY_7_bin_36_renamed   k__Archaea (UID2)      207         145           103        7    137   1   0   0   0       93.69            0.97               0.00          
+  HMT_AABW_S15_53_renamed                             k__Archaea (UID2)      207         145           103        13   126   6   0   0   0       92.91            2.91              83.33          
+  Thaumarchaeota_YP1_bin3_renamed                     k__Archaea (UID2)      207         145           103        9    135   1   0   0   0       92.23            0.97               0.00          
+  Thaumarchaeota_archaeon_UBA141_renamed              k__Archaea (UID2)      207         145           103        10   135   0   0   0   0       91.91            0.00               0.00          
+  HMT_NADW_S23_34_renamed                             k__Archaea (UID2)      207         145           103        15   130   0   0   0   0       90.78            0.00               0.00          
+  XS84_Bin1_renamed                                   k__Archaea (UID2)      207         145           103        14   130   1   0   0   0       90.22            0.97               0.00          
+  XS84_Bin2_renamed                                   k__Archaea (UID2)      207         145           103        15   129   1   0   0   0       89.25            0.97               0.00          
+  Thaumarchaeota_archaeon_strain_DS1_renamed          k__Archaea (UID2)      207         145           103        13   130   2   0   0   0       89.16            0.97              100.00         
+  Thaumarchaeota_ASW2_bin45_renamed                   k__Archaea (UID2)      207         145           103        17   127   1   0   0   0       88.83            0.97               0.00          
+  HMT_AABW_renamed                                    k__Archaea (UID2)      207         145           103        21   123   1   0   0   0       88.83            0.97               0.00          
+  Thaumarchaeota_archaeon_UBA164_renamed              k__Archaea (UID2)      207         145           103        20   124   1   0   0   0       84.14            0.97               0.00          
+  Thaumarchaeota_archaeon_strain_BS3_renamed          k__Archaea (UID2)      207         145           103        25   112   6   1   1   0       84.02           10.19              26.67          
+  XS84_Bin3_renamed                                   k__Archaea (UID2)      207         145           103        18   127   0   0   0   0       83.98            0.00               0.00          
+  Thaumarchaeota_archaeon_strain_BS4_renamed          k__Archaea (UID2)      207         145           103        31   112   2   0   0   0       83.98            1.94               0.00          
+  Mariana_Trench_sediment_5533m_4-6cm_Bin1_renamed    k__Archaea (UID2)      207         145           103        27   113   5   0   0   0       83.61            4.85              20.00          
+  Deep-sea_sediment_DRR121219_Bin1_renamed            k__Archaea (UID2)      207         145           103        27   113   5   0   0   0       83.61            4.85              20.00          
+  Thaumarchaeota_archaeon_SP3992_renamed              k__Archaea (UID2)      207         145           103        26   113   6   0   0   0       81.07            4.37              66.67          
+  Thaumarchaeota_archaeon_SAT139_renamed              k__Archaea (UID2)      207         145           103        24   119   2   0   0   0       81.07            1.94               0.00          
+  Deep-sea_sediment_DRR121209_Bin1_renamed            k__Archaea (UID2)      207         145           103        29   111   5   0   0   0       79.62            4.85              20.00          
+  HMT_AAIW_renamed                                    k__Archaea (UID2)      207         145           103        30   114   1   0   0   0       78.16            0.97               0.00          
+  HMT_NADW_renamed                                    k__Archaea (UID2)      207         145           103        32   113   0   0   0   0       76.62            0.00               0.00          
+  Thaumarchaeota_archaeon_EAC691_renamed              k__Archaea (UID2)      207         145           103        40    99   6   0   0   0       73.30            4.37               0.00          
+  Thaumarchaeota_archaeon_RBG_16_49_8_renamed         k__Archaea (UID2)      207         145           103        44   101   0   0   0   0       71.25            0.00               0.00          
+  Thaumarchaeota_archaeon_UBA160_renamed              k__Archaea (UID2)      207         145           103        48    96   1   0   0   0       69.74            0.97               0.00          
+  Deep-sea_sediment_ERR1730303_Bin1_renamed           k__Archaea (UID2)      207         145           103        48    95   2   0   0   0       68.83            1.94               0.00          
+  D197_2_renamed                                      k__Archaea (UID2)      207         145           103        55    89   1   0   0   0       68.12            0.97               0.00          
+  Thaumarchaeota_archaeon_UBA183_renamed              k__Archaea (UID2)      207         145           103        46    96   3   0   0   0       66.23            2.91               0.00          
+  Thaumarchaeota_archaeon_UBA57_renamed               k__Archaea (UID2)      207         145           103        55    90   0   0   0   0       62.86            0.00               0.00          
+  Thaumarchaeota_archaeon_strain_BS1_renamed          k__Archaea (UID2)      207         145           103        88    57   0   0   0   0       38.31            0.00               0.00          
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

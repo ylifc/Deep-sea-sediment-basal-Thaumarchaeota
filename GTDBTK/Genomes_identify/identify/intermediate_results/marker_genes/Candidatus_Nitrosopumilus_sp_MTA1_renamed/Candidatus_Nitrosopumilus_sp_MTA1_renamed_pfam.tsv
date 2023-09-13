@@ -1,0 +1,46 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:51.886893
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Candidatus_Nitrosopumilus_sp_MTA1_renamed/Candidatus_Nitrosopumilus_sp_MTA1_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Candidatus_Nitrosopumilus_sp_MTA1-contig1_221     40    152     40    152 PF01000.27  RNA_pol_A_bac     Domain     1   112   112     86.9   9.9e-26   1 No_clan  
+Candidatus_Nitrosopumilus_sp_MTA1-contig1_224     12    149     11    149 PF00380.20  Ribosomal_S9      Family     2   121   121    117.8   3.4e-35   1 CL0329   
+Candidatus_Nitrosopumilus_sp_MTA1-contig1_382      7     69      6     69 PF01200.19  Ribosomal_S28e    Family     2    64    64     95.7     1e-28   1 CL0021   
+Candidatus_Nitrosopumilus_sp_MTA1-contig2_149      4    144      4    146 PF01280.21  Ribosomal_L19e    Family     1   142   144    133.6   4.5e-40   1 No_clan  
+Candidatus_Nitrosopumilus_sp_MTA1-contig2_156     21    209     13    210 PF00687.22  Ribosomal_L1      Domain     4   203   204    141.0   3.7e-42   1 No_clan  
+Candidatus_Nitrosopumilus_sp_MTA1-contig2_157      2     91      1    104 PF00466.21  Ribosomal_L10     Family    10    98   100     57.0   1.5e-16   1 No_clan  
+Candidatus_Nitrosopumilus_sp_MTA1-contig2_203     12    187     11    187 PF04919.13  DUF655            Family     2   181   181    170.9   2.3e-51   1 CL0198   
+Candidatus_Nitrosopumilus_sp_MTA1-contig2_309      4    193      3    194 PF01015.19  Ribosomal_S3Ae    Family     2   194   195    215.9   3.2e-65   1 No_clan  
+Candidatus_Nitrosopumilus_sp_MTA1-contig2_92      23    147     10    151 PF00827.18  Ribosomal_L15e    Family    22   146   189    158.7   1.2e-47   1 CL0652   
+Candidatus_Nitrosopumilus_sp_MTA1-contig3_189    122    225    120    227 PF07541.13  EIF_2_alpha       Family     3   112   114     59.9   2.2e-17   1 No_clan  
+Candidatus_Nitrosopumilus_sp_MTA1-contig3_208     54    211     41    211 PF01025.20  GrpE              Family     6   166   166    115.7   1.5e-34   1 No_clan  
+Candidatus_Nitrosopumilus_sp_MTA1-contig5_87       6    130      5    130 PF00410.20  Ribosomal_S8      Domain     2   126   126     72.8   2.1e-21   1 No_clan  
+Candidatus_Nitrosopumilus_sp_MTA1-contig5_90     100    169     97    169 PF00900.21  Ribosomal_S4e     Family     5    75    75     63.9   8.4e-19   1 CL0021   
+Candidatus_Nitrosopumilus_sp_MTA1-contig6_76       4    137      3    138 PF01090.20  Ribosomal_S19e    Family     2   136   137    162.2   4.6e-49   1 CL0123   

@@ -1,0 +1,43 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:51.843989
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Thaumarchaeota_archaeon_UBA160_renamed/Thaumarchaeota_archaeon_UBA160_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Thaumarchaeota_archaeon_UBA160-contig11_12      2    130      2    133 PF01280.21  Ribosomal_L19e    Family     1   140   144    102.0   1.5e-30   1 No_clan  
+Thaumarchaeota_archaeon_UBA160-contig11_15      8    133      8    133 PF00410.20  Ribosomal_S8      Domain     1   126   126     82.0   1.7e-24   1 No_clan  
+Thaumarchaeota_archaeon_UBA160-contig11_18     93    167     93    167 PF00900.21  Ribosomal_S4e     Family     1    75    75     58.8   1.9e-17   1 CL0021   
+Thaumarchaeota_archaeon_UBA160-contig14_2     124    225    116    226 PF07541.13  EIF_2_alpha       Family     9   113   114     69.6   1.2e-20   1 No_clan  
+Thaumarchaeota_archaeon_UBA160-contig31_13      3    137      3    138 PF01090.20  Ribosomal_S19e    Family     1   136   137    145.5   3.9e-44   1 CL0123   
+Thaumarchaeota_archaeon_UBA160-contig45_1      13    137     13    137 PF00380.20  Ribosomal_S9      Family     1   121   121     86.7   8.2e-26   1 CL0329   
+Thaumarchaeota_archaeon_UBA160-contig45_17      9    183      8    184 PF04919.13  DUF655            Family     2   180   181    172.5   4.1e-52   1 CL0198   
+Thaumarchaeota_archaeon_UBA160-contig45_4      46    145     44    145 PF01000.27  RNA_pol_A_bac     Domain     3   112   112     67.4   6.7e-20   1 No_clan  
+Thaumarchaeota_archaeon_UBA160-contig4_4        3    137      3    139 PF00827.18  Ribosomal_L15e    Family     1   136   189    138.5   1.1e-41   1 CL0652   
+Thaumarchaeota_archaeon_UBA160-contig51_7       5    192      3    193 PF01015.19  Ribosomal_S3Ae    Family     4   193   195    148.0   1.2e-44   1 No_clan  
+Thaumarchaeota_archaeon_UBA160-contig53_8       7    165      2    166 PF01025.20  GrpE              Family     9   165   166    102.8   7.9e-31   1 No_clan  

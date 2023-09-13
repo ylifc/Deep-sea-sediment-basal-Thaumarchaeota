@@ -1,0 +1,49 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:51.823801
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Thaumarchaeota_archaeon_isolate_MTA5_renamed/Thaumarchaeota_archaeon_isolate_MTA5_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Thaumarchaeota_archaeon_isolate_MTA5-contig142_2     238    315    238    315 PF03726.15  PNPase            Domain     1    83    83     25.2     2e-06   1 No_clan  
+Thaumarchaeota_archaeon_isolate_MTA5-contig154_3       8    143      3    149 PF00827.18  Ribosomal_L15e    Family     9   145   189    147.6     4e-44   1 CL0652   
+Thaumarchaeota_archaeon_isolate_MTA5-contig17_10     131    227    120    229 PF07541.13  EIF_2_alpha       Family    12   112   114     73.6   1.5e-21   1 No_clan  
+Thaumarchaeota_archaeon_isolate_MTA5-contig182_2       1     51      1     67 PF00827.18  Ribosomal_L15e    Family    95   145   189     56.0   4.9e-16   1 CL0652   
+Thaumarchaeota_archaeon_isolate_MTA5-contig182_3       3    145      2    151 PF00827.18  Ribosomal_L15e    Family     2   145   189    159.8   7.1e-48   1 CL0652   
+Thaumarchaeota_archaeon_isolate_MTA5-contig18_8       11    185     10    186 PF04919.13  DUF655            Family     2   180   181    175.8   9.5e-53   1 CL0198   
+Thaumarchaeota_archaeon_isolate_MTA5-contig22_11       2    132      1    135 PF01280.21  Ribosomal_L19e    Family    10   141   144    126.7   8.1e-38   1 No_clan  
+Thaumarchaeota_archaeon_isolate_MTA5-contig24_8        8    166      4    166 PF01025.20  GrpE              Family     7   166   166    137.4   4.1e-41   1 No_clan  
+Thaumarchaeota_archaeon_isolate_MTA5-contig33_5        6     69      6     69 PF01200.19  Ribosomal_S28e    Family     1    64    64    108.1   1.9e-32   1 CL0021   
+Thaumarchaeota_archaeon_isolate_MTA5-contig45_5        3    138      3    139 PF01090.20  Ribosomal_S19e    Family     1   136   137    172.9   3.2e-52   1 CL0123   
+Thaumarchaeota_archaeon_isolate_MTA5-contig46_6       10    147      9    147 PF00380.20  Ribosomal_S9      Family     2   121   121     88.9     4e-26   1 CL0329   
+Thaumarchaeota_archaeon_isolate_MTA5-contig46_9       11     86      2     86 PF01000.27  RNA_pol_A_bac     Domain    38   112   112     56.7   3.3e-16   1 No_clan  
+Thaumarchaeota_archaeon_isolate_MTA5-contig62_4        8     97      6    104 PF00466.21  Ribosomal_L10     Family     3    91   100     69.0   3.5e-20   1 No_clan  
+Thaumarchaeota_archaeon_isolate_MTA5-contig62_5       19    207     12    208 PF00687.22  Ribosomal_L1      Domain     5   203   204    131.2   4.6e-39   1 No_clan  
+Thaumarchaeota_archaeon_isolate_MTA5-contig64_10      24    148     23    148 PF00410.20  Ribosomal_S8      Domain     2   126   126     87.4   8.2e-26   1 No_clan  
+Thaumarchaeota_archaeon_isolate_MTA5-contig64_7       97    169     96    169 PF00900.21  Ribosomal_S4e     Family     2    75    75     65.8   2.7e-19   1 CL0021   
+Thaumarchaeota_archaeon_isolate_MTA5-contig85_4        5    195      4    195 PF01015.19  Ribosomal_S3Ae    Family     2   195   195    192.3   7.4e-58   1 No_clan  

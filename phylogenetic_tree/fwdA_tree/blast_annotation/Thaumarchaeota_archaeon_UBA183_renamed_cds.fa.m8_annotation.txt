@@ -1,0 +1,8 @@
+Thaumarchaeota_archaeon_UBA183-contig7_37	2.54e-123	GIU91197.1	MAG: tungsten formylmethanofuran dehydrogenase subunit E [Acidimicrobiia bacterium]
+Thaumarchaeota_archaeon_UBA183-contig7_38	6.34e-46	GIU91197.1	MAG: tungsten formylmethanofuran dehydrogenase subunit E [Acidimicrobiia bacterium]
+Thaumarchaeota_archaeon_UBA183-contig9_19	5.06e-14	KYC50731.1	formylmethanofuran dehydrogenase FwdF [Candidatus Methanofastidiosum methylthiophilus]
+Thaumarchaeota_archaeon_UBA183-contig9_21	6.74e-13	OYT60015.1	tungsten formylmethanofuran dehydrogenase [Euryarchaeota archaeon ex4484_178]
+Thaumarchaeota_archaeon_UBA183-contig21_6	3.10e-83	MBF6614822.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Thaumarchaeota_archaeon_UBA183-contig33_3	5.59e-39	WP_022627702.1	SDR family oxidoreductase [Alkalihalophilus marmarensis]
+Thaumarchaeota_archaeon_UBA183-contig47_4	1.56e-102	MBF6614822.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Thaumarchaeota_archaeon_UBA183-contig47_4	2.21e-102	MBF6613166.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]

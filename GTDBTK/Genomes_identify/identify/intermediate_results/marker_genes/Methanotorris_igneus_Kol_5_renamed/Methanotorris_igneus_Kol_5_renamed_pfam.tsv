@@ -1,0 +1,45 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.138872
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Methanotorris_igneus_Kol_5_renamed/Methanotorris_igneus_Kol_5_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Methanotorris_igneus_Kol_5-contig1_1001    133    244    132    244 PF07541.13  EIF_2_alpha       Family     2   114   114    100.3   6.6e-30   1 No_clan  
+Methanotorris_igneus_Kol_5-contig1_1681      9     71      8     71 PF01200.19  Ribosomal_S28e    Family     2    64    64    107.4   2.6e-32   1 CL0021   
+Methanotorris_igneus_Kol_5-contig1_598       3    135      3    137 PF01090.20  Ribosomal_S19e    Family     1   135   137    198.6   3.2e-60   1 CL0123   
+Methanotorris_igneus_Kol_5-contig1_657      15    191     14    191 PF04919.13  DUF655            Family     2   181   181    233.4   1.7e-70   1 CL0198   
+Methanotorris_igneus_Kol_5-contig1_676       2    188      2    189 PF00827.18  Ribosomal_L15e    Family     1   188   189    307.4   3.3e-93   1 CL0652   
+Methanotorris_igneus_Kol_5-contig1_679      11    197      9    199 PF01015.19  Ribosomal_S3Ae    Family     3   193   195    228.3   5.6e-69   1 No_clan  
+Methanotorris_igneus_Kol_5-contig1_872      46    138     46    138 PF01000.27  RNA_pol_A_bac     Domain     1   112   112     80.4   1.2e-23   1 No_clan  
+Methanotorris_igneus_Kol_5-contig1_875       8    135      8    135 PF00380.20  Ribosomal_S9      Family     1   121   121     97.0   1.1e-28   1 CL0329   
+Methanotorris_igneus_Kol_5-contig1_911       3    143      2    145 PF01280.21  Ribosomal_L19e    Family     2   142   144    194.6   8.2e-59   1 No_clan  
+Methanotorris_igneus_Kol_5-contig1_914       5    130      5    130 PF00410.20  Ribosomal_S8      Domain     1   126   126     95.7   1.9e-28   1 No_clan  
+Methanotorris_igneus_Kol_5-contig1_917      96    176     96    176 PF00900.21  Ribosomal_S4e     Family     1    75    75     78.4   2.8e-23   1 CL0021   
+Methanotorris_igneus_Kol_5-contig1_954      20    207      9    207 PF00687.22  Ribosomal_L1      Domain     7   204   204    163.7   4.4e-49   1 No_clan  
+Methanotorris_igneus_Kol_5-contig1_955      12    111     10    113 PF00466.21  Ribosomal_L10     Family     3    97   100     71.5   5.1e-21   1 No_clan  

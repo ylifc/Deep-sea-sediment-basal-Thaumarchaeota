@@ -1,0 +1,7 @@
+Thaumarchaeota_archaeon_UBA160-contig14_7	2.95e-68	MBX6342053.1	tungsten formylmethanofuran dehydrogenase [Thermomicrobiaceae bacterium]
+Thaumarchaeota_archaeon_UBA160-contig14_7	3.09e-68	MBF6614822.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]
+Thaumarchaeota_archaeon_UBA160-contig14_7	5.96e-68	MBA2453472.1	tungsten formylmethanofuran dehydrogenase [Chloroflexia bacterium]
+Thaumarchaeota_archaeon_UBA160-contig19_3	1.09e-29	WP_053593692.1	MULTISPECIES: SDR family oxidoreductase [Lysinibacillus]
+Thaumarchaeota_archaeon_UBA160-contig52_8	2.39e-24	WP_092932176.1	tRNA (N6-threonylcarbamoyladenosine(37)-N6)-methyltransferase TrmO [Natrinema hispanicum]
+Thaumarchaeota_archaeon_UBA160-contig66_26	3.31e-29	KYC50731.1	formylmethanofuran dehydrogenase FwdF [Candidatus Methanofastidiosum methylthiophilus]
+Thaumarchaeota_archaeon_UBA160-contig66_27	1.86e-20	OYT60015.1	tungsten formylmethanofuran dehydrogenase [Euryarchaeota archaeon ex4484_178]

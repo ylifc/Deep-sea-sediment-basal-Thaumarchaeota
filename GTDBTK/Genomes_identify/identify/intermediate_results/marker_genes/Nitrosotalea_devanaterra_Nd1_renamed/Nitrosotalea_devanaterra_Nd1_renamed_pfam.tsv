@@ -1,0 +1,46 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.030681
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Nitrosotalea_devanaterra_Nd1_renamed/Nitrosotalea_devanaterra_Nd1_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Nitrosotalea_devanaterra_Nd1-contig1_105     124    225    120    227 PF07541.13  EIF_2_alpha       Family     5   112   114     80.2   1.4e-23   1 No_clan  
+Nitrosotalea_devanaterra_Nd1-contig1_1580     20    143      5    147 PF00827.18  Ribosomal_L15e    Family    22   145   189    162.6   9.5e-49   1 CL0652   
+Nitrosotalea_devanaterra_Nd1-contig1_1636     10    184      9    185 PF04919.13  DUF655            Family     2   180   181    176.8   4.5e-53   1 CL0198   
+Nitrosotalea_devanaterra_Nd1-contig1_1770      5    194      4    195 PF01015.19  Ribosomal_S3Ae    Family     2   194   195    208.9   5.8e-63   1 No_clan  
+Nitrosotalea_devanaterra_Nd1-contig1_1843      7     67      4     67 PF01200.19  Ribosomal_S28e    Family     4    64    64    103.3   5.8e-31   1 CL0021   
+Nitrosotalea_devanaterra_Nd1-contig1_1878     19    179     10    179 PF01025.20  GrpE              Family     3   166   166    122.6   1.4e-36   1 No_clan  
+Nitrosotalea_devanaterra_Nd1-contig1_1945      4    137      3    138 PF01090.20  Ribosomal_S19e    Family     2   136   137    156.4   3.7e-47   1 CL0123   
+Nitrosotalea_devanaterra_Nd1-contig1_323       8    105      7    106 PF00466.21  Ribosomal_L10     Family     2    98   100     63.0   2.6e-18   1 No_clan  
+Nitrosotalea_devanaterra_Nd1-contig1_324      17    207     14    208 PF00687.22  Ribosomal_L1      Domain     3   203   204    138.1   3.6e-41   1 No_clan  
+Nitrosotalea_devanaterra_Nd1-contig1_334       4    144      4    146 PF01280.21  Ribosomal_L19e    Family     1   142   144    135.2   1.8e-40   1 No_clan  
+Nitrosotalea_devanaterra_Nd1-contig1_376      10    147      9    147 PF00380.20  Ribosomal_S9      Family     2   121   121    101.3   5.9e-30   1 CL0329   
+Nitrosotalea_devanaterra_Nd1-contig1_379      45    157     45    157 PF01000.27  RNA_pol_A_bac     Domain     1   112   112     77.7   9.8e-23   1 No_clan  
+Nitrosotalea_devanaterra_Nd1-contig1_929     100    169     97    169 PF00900.21  Ribosomal_S4e     Family     5    75    75     61.9   4.6e-18   1 CL0021   
+Nitrosotalea_devanaterra_Nd1-contig1_932       6    130      5    130 PF00410.20  Ribosomal_S8      Domain     2   126   126     79.9   1.7e-23   1 No_clan  

@@ -1,0 +1,1337 @@
+Thaumarchaeota_ASW8_contig1_1	45.7	K00411	ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:1.10.2.2]	petC
+Thaumarchaeota_ASW8_contig1_2	53.6	K00412	ubiquinol-cytochrome c reductase cytochrome b subunit	cytochrome B
+Thaumarchaeota_ASW8_contig1_2	51.7	K00412	ubiquinol-cytochrome c reductase cytochrome b subunit	petB
+Thaumarchaeota_ASW8_contig1_2	51.7	K00412	ubiquinol-cytochrome c reductase cytochrome b subunit	cytochrome b subunit of the bc complex
+Thaumarchaeota_ASW8_contig1_2	52.1	K00412	ubiquinol-cytochrome c reductase cytochrome b subunit	cytochrome b/b6 domain-containing protein
+Thaumarchaeota_ASW8_contig1_2	52.4	K00412	ubiquinol-cytochrome c reductase cytochrome b subunit	Cytochrome b/b6 domain-containing protein
+Thaumarchaeota_ASW8_contig1_2	52.5	K00412	ubiquinol-cytochrome c reductase cytochrome b subunit	cytochrome b/b6 domain-containing protein
+Thaumarchaeota_ASW8_contig1_2	54.3	K00412	ubiquinol-cytochrome c reductase cytochrome b subunit	cytochrome B(C-terminal)/b6/PetD
+Thaumarchaeota_ASW8_contig1_2	51.3	K00412	ubiquinol-cytochrome c reductase cytochrome b subunit	Cytochrome b/b6 family protein
+Thaumarchaeota_ASW8_contig1_3	42.0	K00549	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]	methionine synthase (B12-independent) (EC:2.1.1.14)
+Thaumarchaeota_ASW8_contig1_4	28.1	K00549	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]	methylcobalamin:homocysteine methyltransferase (EC:2.1.1.-)
+Thaumarchaeota_ASW8_contig1_6	46.5	K00973	glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]	sugar-phosphate nucleotidyl transferase
+Thaumarchaeota_ASW8_contig1_7	43.9	K00100		UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase
+Thaumarchaeota_ASW8_contig1_9	38.4	K00012	UDPglucose 6-dehydrogenase [EC:1.1.1.22]	UDP-glucose 6-dehydrogenase (EC:1.1.1.22)
+Thaumarchaeota_ASW8_contig1_11	30.8	K18430	N,N'-diacetyllegionaminate synthase [EC:2.5.1.101]	N-acetylneuraminate synthase
+Thaumarchaeota_ASW8_contig1_13	28.8	K03843	alpha-1,3/alpha-1,6-mannosyltransferase [EC:2.4.1.132 2.4.1.257]	alpha-1,3-mannosyltransferase ALG2
+Thaumarchaeota_ASW8_contig1_15	53.6	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	NAD-dependent epimerase/dehydratase
+Thaumarchaeota_ASW8_contig1_18	56.6	K04566	lysyl-tRNA synthetase, class I [EC:6.1.1.6]	lysyl-tRNA synthetase
+Thaumarchaeota_ASW8_contig1_20	56.0	K02983	small subunit ribosomal protein S30e	ribosomal protein S30E
+Thaumarchaeota_ASW8_contig1_21	42.2	K14564	nucleolar protein 56	putative pre-mRNA processing ribonucleoprotein, snoRNA-binding domain protein
+Thaumarchaeota_ASW8_contig1_22	54.8	K04795	fibrillarin-like pre-rRNA processing protein	flpA
+Thaumarchaeota_ASW8_contig1_22	53.9	K04795	fibrillarin-like pre-rRNA processing protein	flpA
+Thaumarchaeota_ASW8_contig1_23	46.2	K03470	ribonuclease HII [EC:3.1.26.4]	ribonuclease HII (EC:3.1.26.4)
+Thaumarchaeota_ASW8_contig1_23	44.9	K03470	ribonuclease HII [EC:3.1.26.4]	rnhB
+Thaumarchaeota_ASW8_contig1_26	41.9	K08975	putative membrane protein	protein of unknown function DUF373
+Thaumarchaeota_ASW8_contig1_27	53.0	K15888	tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific] [EC:2.5.1.89]	uppS
+Thaumarchaeota_ASW8_contig1_27	52.0	K15888	tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific] [EC:2.5.1.89]	undecaprenyl diphosphate synthase (EC:2.5.1.31)
+Thaumarchaeota_ASW8_contig1_27	52.6	K15888	tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific] [EC:2.5.1.89]	uppS
+Thaumarchaeota_ASW8_contig1_28	60.2	K01939	adenylosuccinate synthase [EC:6.3.4.4]	adenylosuccinate synthetase (EC:6.3.4.4)
+Thaumarchaeota_ASW8_contig1_28	60.5	K01939	adenylosuccinate synthase [EC:6.3.4.4]	adenylosuccinate synthetase (EC:6.3.4.4)
+Thaumarchaeota_ASW8_contig1_28	59.9	K01939	adenylosuccinate synthase [EC:6.3.4.4]	purA
+Thaumarchaeota_ASW8_contig1_28	59.9	K01939	adenylosuccinate synthase [EC:6.3.4.4]	adenylosuccinate synthetase (EC:6.3.4.4)
+Thaumarchaeota_ASW8_contig1_29	42.8	K01591	orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]	pyrF
+Thaumarchaeota_ASW8_contig1_30	38.3	K03574	8-oxo-dGTP diphosphatase [EC:3.6.1.55]	apfA
+Thaumarchaeota_ASW8_contig1_31	28.5	K01092	myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	suhB_2
+Thaumarchaeota_ASW8_contig1_32	64.1	K01858	myo-inositol-1-phosphate synthase [EC:5.5.1.4]	ino1
+Thaumarchaeota_ASW8_contig1_32	63.5	K01858	myo-inositol-1-phosphate synthase [EC:5.5.1.4]	myo-inositol-1-phosphate synthase (EC:5.5.1.4)
+Thaumarchaeota_ASW8_contig1_34	55.8	K01940	argininosuccinate synthase [EC:6.3.4.5]	argininosuccinate synthase (EC:6.3.4.5)
+Thaumarchaeota_ASW8_contig1_34	55.7	K01940	argininosuccinate synthase [EC:6.3.4.5]	argG
+Thaumarchaeota_ASW8_contig1_35	40.0	K01755	argininosuccinate lyase [EC:4.3.2.1]	argininosuccinate lyase (EC:4.3.2.1)
+Thaumarchaeota_ASW8_contig1_36	62.3	K05826	alpha-aminoadipate/glutamate carrier protein LysW	hypothetical protein
+Thaumarchaeota_ASW8_contig1_36	62.3	K05826	alpha-aminoadipate/glutamate carrier protein LysW	lysW
+Thaumarchaeota_ASW8_contig1_36	62.3	K05826	alpha-aminoadipate/glutamate carrier protein LysW	hypothetical protein
+Thaumarchaeota_ASW8_contig1_37	44.3	K05827	[lysine-biosynthesis-protein LysW]---L-2-aminoadipate ligase [EC:6.3.2.43]	lysX2
+Thaumarchaeota_ASW8_contig1_38	58.5	K05829	LysW-gamma-L-alpha-aminoadipyl-6-phosphate/LysW-L-glutamyl-5-phosphate reductase [EC:1.2.1.-]	N-acetyl-gamma-glutamyl-phosphate reductase
+Thaumarchaeota_ASW8_contig1_38	58.9	K05829	LysW-gamma-L-alpha-aminoadipyl-6-phosphate/LysW-L-glutamyl-5-phosphate reductase [EC:1.2.1.-]	argC
+Thaumarchaeota_ASW8_contig1_38	59.0	K05829	LysW-gamma-L-alpha-aminoadipyl-6-phosphate/LysW-L-glutamyl-5-phosphate reductase [EC:1.2.1.-]	argC
+Thaumarchaeota_ASW8_contig1_39	57.4	K05828	LysW-gamma-L-alpha-aminoadipate/LysW-L-glutamate kinase [EC:2.7.2.-]	N-acetylglutamate kinase (EC:2.7.2.8)
+Thaumarchaeota_ASW8_contig1_39	57.0	K05828	LysW-gamma-L-alpha-aminoadipate/LysW-L-glutamate kinase [EC:2.7.2.-]	argB
+Thaumarchaeota_ASW8_contig1_40	49.1	K05830	LysW-gamma-L-lysine/LysW-L-ornithine aminotransferase [EC:2.6.1.-]	argD
+Thaumarchaeota_ASW8_contig1_41	42.5	K05831	LysW-gamma-L-lysine/LysW-L-ornithine carboxypeptidase	lysK
+Thaumarchaeota_ASW8_contig1_42	66.8	K03234	elongation factor 2	fusA
+Thaumarchaeota_ASW8_contig1_43	34.8	K02348	ElaA protein	putative acyltransferase
+Thaumarchaeota_ASW8_contig1_43	34.8	K02348	ElaA protein	ElaA protein
+Thaumarchaeota_ASW8_contig1_43	33.1	K02348	ElaA protein	GNAT family acetyltransferase
+Thaumarchaeota_ASW8_contig1_44	46.8	K11996	adenylyltransferase and sulfurtransferase	putative molybdopterin biosynthesis protein MoeB
+Thaumarchaeota_ASW8_contig2_2	44.2	K02503	histidine triad (HIT) family protein	putative histidine triad protein
+Thaumarchaeota_ASW8_contig2_2	43.5	K02503	histidine triad (HIT) family protein	HIT family hydrolase, diadenosine tetraphosphate hydrolase
+Thaumarchaeota_ASW8_contig2_3	64.6	K01652	acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	acetolactate synthase, large subunit (EC:2.2.1.6)
+Thaumarchaeota_ASW8_contig2_3	64.3	K01652	acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	ilvB
+Thaumarchaeota_ASW8_contig2_4	55.2	K03644	lipoic acid synthetase [EC:2.8.1.8]	Lipoate synthase
+Thaumarchaeota_ASW8_contig2_4	55.9	K03644	lipoic acid synthetase [EC:2.8.1.8]	lipoic acid synthetase (EC:2.8.1.8)
+Thaumarchaeota_ASW8_contig2_4	55.9	K03644	lipoic acid synthetase [EC:2.8.1.8]	hypothetical protein
+Thaumarchaeota_ASW8_contig2_5	61.7	K00167	2-oxoisovalerate dehydrogenase E1 component beta subunit [EC:1.2.4.4]	transketolase central region
+Thaumarchaeota_ASW8_contig2_5	62.0	K00167	2-oxoisovalerate dehydrogenase E1 component beta subunit [EC:1.2.4.4]	transketolase
+Thaumarchaeota_ASW8_contig2_5	62.0	K00167	2-oxoisovalerate dehydrogenase E1 component beta subunit [EC:1.2.4.4]	transketolase
+Thaumarchaeota_ASW8_contig2_5	62.0	K00167	2-oxoisovalerate dehydrogenase E1 component beta subunit [EC:1.2.4.4]	branched-chain alpha-keto acid dehydrogenase E1 component (EC:1.2.4.4)
+Thaumarchaeota_ASW8_contig2_6	43.0	K00627	pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]	catalytic domain of components of various dehydrogenase complexes
+Thaumarchaeota_ASW8_contig2_7	45.5	K03801	lipoyl(octanoyl) transferase [EC:2.3.1.181]	lipoyl(octanoyl) transferase (EC:2.3.1.181)
+Thaumarchaeota_ASW8_contig2_8	57.5	K00175	2-oxoglutarate ferredoxin oxidoreductase subunit beta [EC:1.2.7.3]	2-oxoacid:acceptor oxidoreductase subunit beta, pyruvate/2-ketoisovalerate family (EC:1.2.7.3)
+Thaumarchaeota_ASW8_contig2_8	56.7	K00175	2-oxoglutarate ferredoxin oxidoreductase subunit beta [EC:1.2.7.3]	2-oxoacid:ferredoxin oxidoreductase subunit beta
+Thaumarchaeota_ASW8_contig2_9	44.8	K00174	2-oxoglutarate ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3]	2-oxoacid--ferredoxin oxidoreductase, alpha subunit
+Thaumarchaeota_ASW8_contig2_10	41.6	K04085	tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]	sulfur transfer protein SirA
+Thaumarchaeota_ASW8_contig2_10	39.7	K04085	tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]	tusA
+Thaumarchaeota_ASW8_contig2_10	40.3	K04085	tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]	sirA
+Thaumarchaeota_ASW8_contig2_11	39.5	K01892	histidyl-tRNA synthetase [EC:6.1.1.21]	histidyl-tRNA synthetase
+Thaumarchaeota_ASW8_contig3_2	58.6	K03113	translation initiation factor 1	putative protein translation factor SUI1
+Thaumarchaeota_ASW8_contig3_3	67.9	K01493	dCMP deaminase [EC:3.5.4.12]	dCMP deaminase
+Thaumarchaeota_ASW8_contig3_4	78.6	K03124	transcription initiation factor TFIIB	tfb1
+Thaumarchaeota_ASW8_contig3_4	78.6	K03124	transcription initiation factor TFIIB	Transcription initiation factor IIB (TFIIB)
+Thaumarchaeota_ASW8_contig3_5	58.7	K01881	prolyl-tRNA synthetase [EC:6.1.1.15]	proS
+Thaumarchaeota_ASW8_contig3_6	40.8	K06153	undecaprenyl-diphosphatase [EC:3.6.1.27]	bacitracin resistance protein BacA
+Thaumarchaeota_ASW8_contig3_8	69.1	K03166	DNA topoisomerase VI subunit A [EC:5.99.1.3]	DNA topoisomerase
+Thaumarchaeota_ASW8_contig3_9	49.4	K03167	DNA topoisomerase VI subunit B [EC:5.99.1.3]	DNA topoisomerase VI subunit B (EC:5.99.1.3)
+Thaumarchaeota_ASW8_contig3_9	41.3	K03167	DNA topoisomerase VI subunit B [EC:5.99.1.3]	DNA topoisomerase VI subunit B
+Thaumarchaeota_ASW8_contig3_10	45.5	K06961	ribosomal RNA assembly protein	RNA-binding protein
+Thaumarchaeota_ASW8_contig3_11	48.6	K07178	RIO kinase 1 [EC:2.7.11.1]	putative serine/threonine protein kinase
+Thaumarchaeota_ASW8_contig3_12	71.8	K03236	translation initiation factor 1A	translation initiation factor 1A
+Thaumarchaeota_ASW8_contig3_13	41.0	K09148	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig3_14	46.7	K03238	translation initiation factor 2 subunit 2	translation initiation factor 2 subunit beta (aeIF-2b)
+Thaumarchaeota_ASW8_contig3_14	47.4	K03238	translation initiation factor 2 subunit 2	eIF-2B
+Thaumarchaeota_ASW8_contig3_15	47.1	K00759	adenine phosphoribosyltransferase [EC:2.4.2.7]	apt
+Thaumarchaeota_ASW8_contig3_15	47.1	K00759	adenine phosphoribosyltransferase [EC:2.4.2.7]	apt
+Thaumarchaeota_ASW8_contig3_15	47.1	K00759	adenine phosphoribosyltransferase [EC:2.4.2.7]	adenine phosphoribosyltransferase
+Thaumarchaeota_ASW8_contig3_15	47.1	K00759	adenine phosphoribosyltransferase [EC:2.4.2.7]	apt
+Thaumarchaeota_ASW8_contig3_15	47.1	K00759	adenine phosphoribosyltransferase [EC:2.4.2.7]	apt
+Thaumarchaeota_ASW8_contig3_15	47.6	K00759	adenine phosphoribosyltransferase [EC:2.4.2.7]	adenine phosphoribosyltransferase
+Thaumarchaeota_ASW8_contig3_15	47.9	K00759	adenine phosphoribosyltransferase [EC:2.4.2.7]	adenine phosphoribosyltransferase (EC:2.4.2.7)
+Thaumarchaeota_ASW8_contig3_16	60.1	K00772	5'-methylthioadenosine phosphorylase [EC:2.4.2.28]	methylthioadenosine phosphorylase
+Thaumarchaeota_ASW8_contig3_16	60.1	K00772	5'-methylthioadenosine phosphorylase [EC:2.4.2.28]	mtnP
+Thaumarchaeota_ASW8_contig3_16	59.7	K00772	5'-methylthioadenosine phosphorylase [EC:2.4.2.28]	mtnP
+Thaumarchaeota_ASW8_contig3_16	60.1	K00772	5'-methylthioadenosine phosphorylase [EC:2.4.2.28]	methylthioadenosine phosphorylase (EC:2.4.2.28)
+Thaumarchaeota_ASW8_contig3_17	53.9	K01251	adenosylhomocysteinase [EC:3.3.1.1]	ahcY
+Thaumarchaeota_ASW8_contig3_22	48.1	K10206	LL-diaminopimelate aminotransferase [EC:2.6.1.83]	LL-diaminopimelate aminotransferase (EC:2.6.1.83)
+Thaumarchaeota_ASW8_contig3_23	47.5	K01586	diaminopimelate decarboxylase [EC:4.1.1.20]	diaminopimelate decarboxylase (EC:4.1.1.20)
+Thaumarchaeota_ASW8_contig3_24	34.5	K00215	4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]	dihydrodipicolinate reductase (EC:1.3.1.26)
+Thaumarchaeota_ASW8_contig3_25	49.9	K01714	4-hydroxy-tetrahydrodipicolinate synthase [EC:4.3.3.7]	dihydrodipicolinate synthase
+Thaumarchaeota_ASW8_contig3_26	42.6	K01858	myo-inositol-1-phosphate synthase [EC:5.5.1.4]	myo-inositol-1-phosphate synthase
+Thaumarchaeota_ASW8_contig3_26	41.1	K01858	myo-inositol-1-phosphate synthase [EC:5.5.1.4]	putative myo-inositol-1-phosphate synthase
+Thaumarchaeota_ASW8_contig3_28	26.2	K18235	virginiamycin B lyase [EC:4.2.99.-]	hypothetical protein
+Thaumarchaeota_ASW8_contig3_29	67.9	K00527	ribonucleoside-triphosphate reductase [EC:1.17.4.2]	regulatory protein ArsR
+Thaumarchaeota_ASW8_contig3_29	67.9	K00527	ribonucleoside-triphosphate reductase [EC:1.17.4.2]	Regulatory protein ArsR
+Thaumarchaeota_ASW8_contig3_29	67.9	K00527	ribonucleoside-triphosphate reductase [EC:1.17.4.2]	regulatory protein ArsR
+Thaumarchaeota_ASW8_contig3_29	67.3	K00527	ribonucleoside-triphosphate reductase [EC:1.17.4.2]	hypothetical protein
+Thaumarchaeota_ASW8_contig3_29	67.9	K00527	ribonucleoside-triphosphate reductase [EC:1.17.4.2]	regulatory protein ArsR
+Thaumarchaeota_ASW8_contig3_29	67.3	K00527	ribonucleoside-triphosphate reductase [EC:1.17.4.2]	ArsR family transcriptional regulator
+Thaumarchaeota_ASW8_contig4_4	42.4	K07112	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig4_8	47.1	K04085	tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]	SirA family protein
+Thaumarchaeota_ASW8_contig4_9	50.7	K04085	tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]	SirA-like protein
+Thaumarchaeota_ASW8_contig4_10	34.3	K01011	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	thiosulfate sulfurtransferase (EC:2.8.1.1)
+Thaumarchaeota_ASW8_contig4_12	37.8	K02548	1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.74 2.5.1.-]	menA
+Thaumarchaeota_ASW8_contig4_12	37.1	K02548	1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.74 2.5.1.-]	1,4-dihydroxy-2-naphthoate octaprenyltransferase (EC:2.5.1.- 2.5.1.74)
+Thaumarchaeota_ASW8_contig4_15	46.1	K07059	uncharacterized protein	rhomboid family protein
+Thaumarchaeota_ASW8_contig4_16	46.3	K03417	methylisocitrate lyase [EC:4.1.3.30]	2,3-dimethylmalate lyase (EC:4.1.3.32)
+Thaumarchaeota_ASW8_contig4_16	46.0	K03417	methylisocitrate lyase [EC:4.1.3.30]	carboxyphosphonoenolpyruvate phosphonomutase
+Thaumarchaeota_ASW8_contig4_18	35.6	K01465	dihydroorotase [EC:3.5.2.3]	pyrC
+Thaumarchaeota_ASW8_contig4_23	58.2	K04796	small nuclear ribonucleoprotein	ribonucleoprotein
+Thaumarchaeota_ASW8_contig4_24	51.6	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	S-adenosylmethionine synthase
+Thaumarchaeota_ASW8_contig4_24	51.6	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	S-adenosylmethionine synthase
+Thaumarchaeota_ASW8_contig4_24	50.6	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	metK
+Thaumarchaeota_ASW8_contig4_24	50.8	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	S-adenosylmethionine synthetase (EC:2.5.1.6)
+Thaumarchaeota_ASW8_contig4_25	64.7	K06215	pyridoxal 5'-phosphate synthase pdxS subunit [EC:4.3.3.6]	pyridoxal biosynthesis protein
+Thaumarchaeota_ASW8_contig4_26	49.3	K08681	5'-phosphate synthase pdxT subunit [EC:4.3.3.6]	SNO glutamine amidotransferase
+Thaumarchaeota_ASW8_contig4_26	51.8	K08681	5'-phosphate synthase pdxT subunit [EC:4.3.3.6]	SNO glutamine amidotransferase
+Thaumarchaeota_ASW8_contig4_26	49.7	K08681	5'-phosphate synthase pdxT subunit [EC:4.3.3.6]	pdxT
+Thaumarchaeota_ASW8_contig4_26	52.3	K08681	5'-phosphate synthase pdxT subunit [EC:4.3.3.6]	pdxT
+Thaumarchaeota_ASW8_contig4_26	50.8	K08681	5'-phosphate synthase pdxT subunit [EC:4.3.3.6]	SNO glutamine amidotransferase
+Thaumarchaeota_ASW8_contig4_28	59.7	K01937	CTP synthase [EC:6.3.4.2]	pyrG
+Thaumarchaeota_ASW8_contig5_1	41.9	K00764	amidophosphoribosyltransferase [EC:2.4.2.14]	amidophosphoribosyltransferase (EC:2.4.2.14)
+Thaumarchaeota_ASW8_contig5_1	41.9	K00764	amidophosphoribosyltransferase [EC:2.4.2.14]	purF
+Thaumarchaeota_ASW8_contig5_2	46.8	K01945	phosphoribosylamine--glycine ligase [EC:6.3.4.13]	phosphoribosylamine--glycine ligase
+Thaumarchaeota_ASW8_contig5_2	47.1	K01945	phosphoribosylamine--glycine ligase [EC:6.3.4.13]	phosphoribosylamine--glycine ligase (EC:6.3.4.13)
+Thaumarchaeota_ASW8_contig5_3	65.7	K01588	5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]	N5-carboxyaminoimidazole ribonucleotide mutase
+Thaumarchaeota_ASW8_contig5_3	65.5	K01588	5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]	N5-carboxyaminoimidazole ribonucleotide mutase
+Thaumarchaeota_ASW8_contig5_4	52.2	K01923	phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]	purC
+Thaumarchaeota_ASW8_contig5_5	53.8	K01933	phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	purM
+Thaumarchaeota_ASW8_contig5_5	54.4	K01933	phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	phosphoribosylformylglycinamidine cyclo-ligase
+Thaumarchaeota_ASW8_contig5_6	55.6	K12339	cysteine synthase B [EC:2.5.1.47]	cysM2
+Thaumarchaeota_ASW8_contig5_6	53.0	K12339	cysteine synthase B [EC:2.5.1.47]	cysM
+Thaumarchaeota_ASW8_contig5_6	54.6	K12339	cysteine synthase B [EC:2.5.1.47]	cysteine synthase (EC:2.5.1.47)
+Thaumarchaeota_ASW8_contig5_7	62.4	K09013	Fe-S cluster assembly ATP-binding protein	Iron-regulated ABC transporter ATPase SufC
+Thaumarchaeota_ASW8_contig5_7	59.9	K09013	Fe-S cluster assembly ATP-binding protein	sufC
+Thaumarchaeota_ASW8_contig5_7	59.9	K09013	Fe-S cluster assembly ATP-binding protein	FeS assembly ATPase SufC
+Thaumarchaeota_ASW8_contig5_7	61.5	K09013	Fe-S cluster assembly ATP-binding protein	FeS assembly ATPase SufC
+Thaumarchaeota_ASW8_contig5_8	56.4	K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	SufS subfamily cysteine desulfurase
+Thaumarchaeota_ASW8_contig5_8	55.6	K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	csd
+Thaumarchaeota_ASW8_contig5_8	55.6	K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	sufS
+Thaumarchaeota_ASW8_contig5_8	54.8	K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	sufS
+Thaumarchaeota_ASW8_contig5_8	53.8	K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	csd
+Thaumarchaeota_ASW8_contig5_8	53.8	K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	cysteine desulfurase
+Thaumarchaeota_ASW8_contig5_8	53.8	K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	cysteine desulfurase
+Thaumarchaeota_ASW8_contig5_9	57.6	K04488	nitrogen fixation protein NifU and related proteins	nifU
+Thaumarchaeota_ASW8_contig5_9	57.6	K04488	nitrogen fixation protein NifU and related proteins	SUF system FeS assembly protein, NifU family
+Thaumarchaeota_ASW8_contig5_10	43.8	K07577	putative mRNA 3-end processing factor	putative beta-lactamase domain protein
+Thaumarchaeota_ASW8_contig5_11	36.8	K06869	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig5_11	36.8	K06869	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig5_12	46.4	K18779	7-cyano-7-deazaguanine tRNA-ribosyltransferase [EC:2.4.2.48]	tRNA-guanine transglycosylase
+Thaumarchaeota_ASW8_contig5_12	46.1	K18779	7-cyano-7-deazaguanine tRNA-ribosyltransferase [EC:2.4.2.48]	tgtA
+Thaumarchaeota_ASW8_contig5_14	46.8	K01883	cysteinyl-tRNA synthetase [EC:6.1.1.16]	cysS
+Thaumarchaeota_ASW8_contig5_14	46.6	K01883	cysteinyl-tRNA synthetase [EC:6.1.1.16]	cysS
+Thaumarchaeota_ASW8_contig5_15	54.5	K16306	fructose-bisphosphate aldolase / 2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase [EC:4.1.2.13 2.2.1.10]	putative phospho-2-dehydro-3-deoxyheptonate aldolase (EC:4.1.2.13)
+Thaumarchaeota_ASW8_contig5_15	55.1	K16306	fructose-bisphosphate aldolase / 2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase [EC:4.1.2.13 2.2.1.10]	fructose-bisphosphate aldolase
+Thaumarchaeota_ASW8_contig5_15	51.6	K16306	fructose-bisphosphate aldolase / 2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase [EC:4.1.2.13 2.2.1.10]	aroGFH
+Thaumarchaeota_ASW8_contig5_15	56.3	K16306	fructose-bisphosphate aldolase / 2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase [EC:4.1.2.13 2.2.1.10]	phospho-2-dehydro-3-deoxyheptonate aldolase
+Thaumarchaeota_ASW8_contig5_16	48.3	K11646	3-dehydroquinate synthase II [EC:1.4.1.24]	3-dehydroquinate synthase (EC:4.2.3.4)
+Thaumarchaeota_ASW8_contig5_16	47.8	K11646	3-dehydroquinate synthase II [EC:1.4.1.24]	3-dehydroquinate synthase
+Thaumarchaeota_ASW8_contig5_16	51.9	K11646	3-dehydroquinate synthase II [EC:1.4.1.24]	aroB
+Thaumarchaeota_ASW8_contig5_16	47.2	K11646	3-dehydroquinate synthase II [EC:1.4.1.24]	aroB
+Thaumarchaeota_ASW8_contig5_16	47.2	K11646	3-dehydroquinate synthase II [EC:1.4.1.24]	3-dehydroquinate synthase
+Thaumarchaeota_ASW8_contig5_17	33.3	K03785	3-dehydroquinate dehydratase I [EC:4.2.1.10]	3-dehydroquinate dehydratase I (EC:4.2.1.10)
+Thaumarchaeota_ASW8_contig5_17	36.3	K03785	3-dehydroquinate dehydratase I [EC:4.2.1.10]	aroD
+Thaumarchaeota_ASW8_contig5_18	37.6	K00014	shikimate dehydrogenase [EC:1.1.1.25]	shikimate dehydrogenase
+Thaumarchaeota_ASW8_contig5_19	38.8	K00891	shikimate kinase [EC:2.7.1.71]	shikimate kinase (EC:2.7.1.71)
+Thaumarchaeota_ASW8_contig5_20	42.1	K00800	3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]	aroA
+Thaumarchaeota_ASW8_contig5_20	42.5	K00800	3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]	3-phosphoshikimate 1-carboxyvinyltransferase (EC:2.5.1.19)
+Thaumarchaeota_ASW8_contig5_21	59.3	K01736	chorismate synthase [EC:4.2.3.5]	aroC
+Thaumarchaeota_ASW8_contig5_21	58.2	K01736	chorismate synthase [EC:4.2.3.5]	chorismate synthase (EC:4.2.3.5)
+Thaumarchaeota_ASW8_contig5_21	59.3	K01736	chorismate synthase [EC:4.2.3.5]	chorismate synthase (EC:4.2.3.5)
+Thaumarchaeota_ASW8_contig5_22	23.7	K14187	chorismate mutase / prephenate dehydrogenase [EC:5.4.99.5 1.3.1.12]	tyrA
+Thaumarchaeota_ASW8_contig5_22	23.7	K14187	chorismate mutase / prephenate dehydrogenase [EC:5.4.99.5 1.3.1.12]	chorismate mutase
+Thaumarchaeota_ASW8_contig6_2	41.9	K03273	D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase [EC:3.1.3.82 3.1.3.83]	D-alpha,beta-D-heptose 1,7-bisphosphate phosphatase
+Thaumarchaeota_ASW8_contig6_3	49.7	K03271	D-sedoheptulose 7-phosphate isomerase [EC:5.3.1.28]	phosphoheptose isomerase
+Thaumarchaeota_ASW8_contig6_4	35.4	K07031	D-glycero-alpha-D-manno-heptose-7-phosphate kinase [EC:2.7.1.168]	D-glycero-D-manno-heptose 7-phosphate kinase
+Thaumarchaeota_ASW8_contig6_9	34.5	K16437	methylation protein EvaC	methyltransferase family protein
+Thaumarchaeota_ASW8_contig6_10	37.7	K00540		short-chain dehydrogenase/reductase (EC:1.-.-.-)
+Thaumarchaeota_ASW8_contig6_12	34.8	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	UDP-glucose 4-epimerase (EC:5.1.3.2)
+Thaumarchaeota_ASW8_contig6_15	56.9	K09457	7-cyano-7-deazaguanine reductase [EC:1.7.1.13]	7-cyano-7-deazaguanine reductase
+Thaumarchaeota_ASW8_contig6_16	45.2	K00012	UDPglucose 6-dehydrogenase [EC:1.1.1.22]	UDP-glucose 6-dehydrogenase (EC:1.1.1.22)
+Thaumarchaeota_ASW8_contig6_17	45.2	K00963	UTP--glucose-1-phosphate uridylyltransferase [EC:2.7.7.9]	UTP--glucose-1-phosphate uridylyltransferase (EC:2.7.7.9)
+Thaumarchaeota_ASW8_contig6_18	53.2	K08678	UDP-glucuronate decarboxylase [EC:4.1.1.35]	epimerase
+Thaumarchaeota_ASW8_contig6_20	35.1	K01955	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	hypothetical protein
+Thaumarchaeota_ASW8_contig7_2	43.2	K00382	dihydrolipoamide dehydrogenase [EC:1.8.1.4]	lpd
+Thaumarchaeota_ASW8_contig7_2	43.2	K00382	dihydrolipoamide dehydrogenase [EC:1.8.1.4]	dihydrolipoamide dehydrogenase (EC:1.8.1.4)
+Thaumarchaeota_ASW8_contig7_2	44.9	K00382	dihydrolipoamide dehydrogenase [EC:1.8.1.4]	Dihydrolipoamide dehydrogenase of pyruvate dehydrogenase complex
+Thaumarchaeota_ASW8_contig7_5	27.8	K14728	phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase [EC:1.2.-.-]	luciferase family protein
+Thaumarchaeota_ASW8_contig7_5	27.8	K14728	phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase [EC:1.2.-.-]	luciferase family protein
+Thaumarchaeota_ASW8_contig7_6	59.0	K07304	peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	Peptide methionine sulfoxide reductase MsrA (EC:1.8.4.11)
+Thaumarchaeota_ASW8_contig7_6	59.0	K07304	peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	Peptide methionine sulfoxide reductase MsrA (EC:1.8.4.11)
+Thaumarchaeota_ASW8_contig7_6	59.0	K07304	peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	Peptide methionine sulfoxide reductase MsrA (EC:1.8.4.11)
+Thaumarchaeota_ASW8_contig7_6	59.6	K07304	peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	Peptide methionine sulfoxide reductase MsrA (EC:1.8.4.11)
+Thaumarchaeota_ASW8_contig7_6	59.6	K07304	peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	Peptide methionine sulfoxide reductase MsrA (EC:1.8.4.11)
+Thaumarchaeota_ASW8_contig7_6	57.7	K07304	peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	Peptide methionine sulfoxide reductase MsrA (EC:1.8.4.11)
+Thaumarchaeota_ASW8_contig7_6	58.3	K07304	peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	methionine sulfoxide reductase A (EC:1.8.4.11)
+Thaumarchaeota_ASW8_contig7_6	58.3	K07304	peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	Peptide methionine sulfoxide reductase MsrA (EC:1.8.4.11)
+Thaumarchaeota_ASW8_contig7_9	48.0	K00965	UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]	galactose-1-phosphate uridylyltransferase
+Thaumarchaeota_ASW8_contig7_10	60.9	K03517	quinolinate synthase [EC:2.5.1.72]	nadA
+Thaumarchaeota_ASW8_contig7_10	60.5	K03517	quinolinate synthase [EC:2.5.1.72]	quinolinate synthetase (EC:2.5.1.72)
+Thaumarchaeota_ASW8_contig7_11	45.1	K00767	nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	Quinolinate phosphoribosyltransferase (decarboxylating) (EC:2.4.2.19)
+Thaumarchaeota_ASW8_contig7_11	45.1	K00767	nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	Quinolinate phosphoribosyltransferase (decarboxylating) (EC:2.4.2.19)
+Thaumarchaeota_ASW8_contig7_13	51.4	K04802	proliferating cell nuclear antigen	pcn
+Thaumarchaeota_ASW8_contig7_14	41.4	K03057	DNA-directed RNA polymerase subunit M	DNA-directed RNA polymerase subunit m (EC:2.7.7.6)
+Thaumarchaeota_ASW8_contig7_14	40.0	K03057	DNA-directed RNA polymerase subunit M	transcription factor
+Thaumarchaeota_ASW8_contig7_14	41.7	K03057	DNA-directed RNA polymerase subunit M	DNA-directed RNA polymerase subunit M (EC:2.7.7.6)
+Thaumarchaeota_ASW8_contig7_14	40.4	K03057	DNA-directed RNA polymerase subunit M	DNA-directed RNA polymerase subunit M
+Thaumarchaeota_ASW8_contig7_16	50.4	K14170	chorismate mutase / prephenate dehydratase [EC:5.4.99.5 4.2.1.51]	chorismate mutase I/prephenate dehydratase (EC:4.2.1.51)
+Thaumarchaeota_ASW8_contig7_17	54.2	K00826	branched-chain amino acid aminotransferase [EC:2.6.1.42]	ilvE1
+Thaumarchaeota_ASW8_contig7_18	31.4	K07573	exosome complex component CSL4	putative RNA-binding protein
+Thaumarchaeota_ASW8_contig7_19	51.1	K07561	2-(3-amino-3-carboxypropyl)histidine synthase [EC:2.5.1.108]	diphthamide biosynthesis protein
+Thaumarchaeota_ASW8_contig7_20	42.9	K15736	L-2-hydroxyglutarate oxidase [EC:1.1.3.-]	FAD dependent oxidoreductase (EC:1.1.3.15)
+Thaumarchaeota_ASW8_contig7_21	55.6	K03652	DNA-3-methyladenine glycosylase [EC:3.2.2.21]	putative 3-methyladenine DNA glycosylase (EC:3.2.2.-)
+Thaumarchaeota_ASW8_contig7_25	47.4	K00249	acyl-CoA dehydrogenase [EC:1.3.8.7]	acyl-CoA dehydrogenase
+Thaumarchaeota_ASW8_contig8_1	60.6	K10773	endonuclease III [EC:4.2.99.18]	endonuclease III (EC:4.2.99.18)
+Thaumarchaeota_ASW8_contig8_3	44.9	K01653	acetolactate synthase I/III small subunit [EC:2.2.1.6]	ilvH
+Thaumarchaeota_ASW8_contig8_3	44.9	K01653	acetolactate synthase I/III small subunit [EC:2.2.1.6]	acetolactate synthase, small subunit (EC:2.2.1.6)
+Thaumarchaeota_ASW8_contig8_4	58.2	K01649	2-isopropylmalate synthase [EC:2.3.3.13]	isopropylmalate/citramalate/homocitrate synthase (EC:2.3.3.13)
+Thaumarchaeota_ASW8_contig8_4	57.6	K01649	2-isopropylmalate synthase [EC:2.3.3.13]	leuA
+Thaumarchaeota_ASW8_contig8_5	93.2	K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	leuC
+Thaumarchaeota_ASW8_contig8_6	83.0	K01704	3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	leuD
+Thaumarchaeota_ASW8_contig8_7	44.6	K01711	GDPmannose 4,6-dehydratase [EC:4.2.1.47]	GDP-mannose 4,6-dehydratase (EC:4.2.1.47)
+Thaumarchaeota_ASW8_contig8_7	43.1	K01711	GDPmannose 4,6-dehydratase [EC:4.2.1.47]	GDP-D-mannose dehydratase (EC:4.2.1.47)
+Thaumarchaeota_ASW8_contig8_8	38.3	K02012	iron(III) transport system substrate-binding protein	iron complex ABC transporter substrate-binding protein
+Thaumarchaeota_ASW8_contig8_10	41.7	K06137	pyrroloquinoline-quinone synthase [EC:1.3.3.11]	coenzyme PQQ biosynthesis protein C (EC:1.3.3.11)
+Thaumarchaeota_ASW8_contig8_13	29.7	K02012	iron(III) transport system substrate-binding protein	iron complex ABC transporter substrate-binding protein
+Thaumarchaeota_ASW8_contig8_14	25.2	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	quinoprotein alcohol dehydrogenase (EC:1.1.99.8)
+Thaumarchaeota_ASW8_contig8_14	26.1	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	putative quinoprotein ethanol dehydrogenase
+Thaumarchaeota_ASW8_contig8_15	41.7	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	m4C-methyltransferase
+Thaumarchaeota_ASW8_contig8_15	42.0	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	DNA modification methylase
+Thaumarchaeota_ASW8_contig8_15	40.6	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	DNA methylase N-4/N-6 domain-containing protein
+Thaumarchaeota_ASW8_contig8_15	43.2	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	putative DNA methylase
+Thaumarchaeota_ASW8_contig8_15	41.1	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	DNA modification methylase (EC:2.1.1.72)
+Thaumarchaeota_ASW8_contig8_16	41.6	K00540		oxidoreductase (EC:1.-.-.-)
+Thaumarchaeota_ASW8_contig8_16	41.6	K00540		oxidoreductase (EC:1.-.-.-)
+Thaumarchaeota_ASW8_contig9_1	70.1	K03231	elongation factor 1-alpha	elongation factor 1-alpha (EC:2.7.7.4)
+Thaumarchaeota_ASW8_contig9_1	70.4	K03231	elongation factor 1-alpha	tuf
+Thaumarchaeota_ASW8_contig9_1	70.4	K03231	elongation factor 1-alpha	tuf
+Thaumarchaeota_ASW8_contig9_1	69.9	K03231	elongation factor 1-alpha	elongation factor 1-alpha (EC:3.6.5.3)
+Thaumarchaeota_ASW8_contig9_2	54.2	K01724	4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]	putative pterin-4-alpha-carbinolamine dehydratase
+Thaumarchaeota_ASW8_contig9_5	45.9	K02301	protoheme IX farnesyltransferase [EC:2.5.1.-]	cyoE
+Thaumarchaeota_ASW8_contig9_8	29.9	K02259	cytochrome c oxidase assembly protein subunit 15	cytochrome oxidase assembly
+Thaumarchaeota_ASW8_contig9_8	39.8	K02259	cytochrome c oxidase assembly protein subunit 15	hypothetical protein
+Thaumarchaeota_ASW8_contig9_9	52.1	K02274	cytochrome c oxidase subunit I [EC:1.9.3.1]	cytochrome c oxidase subunit I
+Thaumarchaeota_ASW8_contig9_10	46.4	K02826	cytochrome aa3-600 menaquinol oxidase subunit II [EC:1.10.3.12]	cytochrome c oxidase subunit II
+Thaumarchaeota_ASW8_contig9_13	29.4	K02276	cytochrome c oxidase subunit III [EC:1.9.3.1]	cytochrome c oxidase subunit III
+Thaumarchaeota_ASW8_contig9_13	31.6	K02276	cytochrome c oxidase subunit III [EC:1.9.3.1]	cytochrome c oxidase subunit III
+Thaumarchaeota_ASW8_contig9_13	30.5	K02276	cytochrome c oxidase subunit III [EC:1.9.3.1]	cytochrome C oxidase subunit III
+Thaumarchaeota_ASW8_contig9_13	30.5	K02276	cytochrome c oxidase subunit III [EC:1.9.3.1]	coxC
+Thaumarchaeota_ASW8_contig9_13	31.1	K02276	cytochrome c oxidase subunit III [EC:1.9.3.1]	cytochrome-c oxidase (EC:1.9.3.1)
+Thaumarchaeota_ASW8_contig9_20	38.2	K03431	phosphoglucosamine mutase [EC:5.4.2.10]	phosphomannomutase
+Thaumarchaeota_ASW8_contig9_21	45.6	K15778	phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2]	Phosphoglucosamine mutase
+Thaumarchaeota_ASW8_contig9_21	45.8	K15778	phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2]	glmM
+Thaumarchaeota_ASW8_contig9_21	45.0	K15778	phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2]	phosphomannomutase
+Thaumarchaeota_ASW8_contig9_22	47.8	K03521	electron transfer flavoprotein beta subunit	electron transfer flavoprotein subunit beta
+Thaumarchaeota_ASW8_contig9_22	45.9	K03521	electron transfer flavoprotein beta subunit	electron transfer flavoprotein subunit beta
+Thaumarchaeota_ASW8_contig9_23	49.2	K03522	electron transfer flavoprotein alpha subunit	electron transfer flavoprotein subunit alpha
+Thaumarchaeota_ASW8_contig9_24	43.9	K00313	electron transfer flavoprotein-quinone oxidoreductase [EC:1.5.5.-]	FixC
+Thaumarchaeota_ASW8_contig9_25	44.0	K05592	ATP-dependent RNA helicase DeaD [EC:3.6.4.13]	deaD
+Thaumarchaeota_ASW8_contig9_25	45.0	K05592	ATP-dependent RNA helicase DeaD [EC:3.6.4.13]	DEAD/DEAH box helicase
+Thaumarchaeota_ASW8_contig10_1	44.7	K00525	ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	ribonucleoside-diphosphate reductase (EC:1.17.4.1)
+Thaumarchaeota_ASW8_contig10_2	53.9	K00609	aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	pyrB
+Thaumarchaeota_ASW8_contig10_2	53.3	K00609	aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	aspartate carbamoyltransferase (EC:2.1.3.2)
+Thaumarchaeota_ASW8_contig10_2	52.9	K00609	aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	pyrB
+Thaumarchaeota_ASW8_contig10_3	50.7	K00610	aspartate carbamoyltransferase regulatory subunit	pyrI
+Thaumarchaeota_ASW8_contig10_3	50.7	K00610	aspartate carbamoyltransferase regulatory subunit	aspartate carbamoyltransferase, regulatory subunit
+Thaumarchaeota_ASW8_contig10_3	50.7	K00610	aspartate carbamoyltransferase regulatory subunit	pyrI
+Thaumarchaeota_ASW8_contig10_5	40.7	K02124	V/A-type H+-transporting ATPase subunit K	V-type sodium ATP synthase subunit K
+Thaumarchaeota_ASW8_contig10_7	50.5	K02120	V/A-type H+-transporting ATPase subunit D	atpD
+Thaumarchaeota_ASW8_contig10_7	50.2	K02120	V/A-type H+-transporting ATPase subunit D	V-type H+-transporting ATPase subunit D (EC:3.6.3.14)
+Thaumarchaeota_ASW8_contig10_8	73.5	K02118	V/A-type H+-transporting ATPase subunit B	atpB
+Thaumarchaeota_ASW8_contig10_8	73.4	K02118	V/A-type H+-transporting ATPase subunit B	atpB
+Thaumarchaeota_ASW8_contig10_9	72.0	K02117	V/A-type H+-transporting ATPase subunit A [EC:3.6.3.14]	atpA
+Thaumarchaeota_ASW8_contig10_9	71.2	K02117	V/A-type H+-transporting ATPase subunit A [EC:3.6.3.14]	atpA
+Thaumarchaeota_ASW8_contig10_9	71.5	K02117	V/A-type H+-transporting ATPase subunit A [EC:3.6.3.14]	archaeal/vacuolar-type H+-ATPase subunit A (EC:3.6.3.14)
+Thaumarchaeota_ASW8_contig10_12	33.2	K02121	V/A-type H+-transporting ATPase subunit E	ATP synthase subunit E
+Thaumarchaeota_ASW8_contig10_13	36.5	K03593	ATP-binding protein involved in chromosome partitioning	Mrp family signature-containing protein and domain of unknown function DUF59
+Thaumarchaeota_ASW8_contig10_13	35.5	K03593	ATP-binding protein involved in chromosome partitioning	ATPase involved in chromosome partitioning
+Thaumarchaeota_ASW8_contig10_13	35.5	K03593	ATP-binding protein involved in chromosome partitioning	Mrp family signature-containing protein and domain of unknown function DUF59
+Thaumarchaeota_ASW8_contig10_14	46.9	K02122	V/A-type H+-transporting ATPase subunit F	atpF
+Thaumarchaeota_ASW8_contig10_14	46.9	K02122	V/A-type H+-transporting ATPase subunit F	archaeal/vacuolar-type H+-ATPase subunit F (EC:4.2.1.20)
+Thaumarchaeota_ASW8_contig10_17	50.7	K07739	elongator complex protein 3 [EC:2.3.1.48]	hypothetical protein
+Thaumarchaeota_ASW8_contig10_18	29.7	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	quinoprotein alcohol dehydrogenase (EC:1.1.99.8)
+Thaumarchaeota_ASW8_contig11_1	42.7	K10726	replicative DNA helicase Mcm [EC:3.6.4.-]	MCM family protein
+Thaumarchaeota_ASW8_contig11_1	42.1	K10726	replicative DNA helicase Mcm [EC:3.6.4.-]	MCM family protein
+Thaumarchaeota_ASW8_contig11_3	53.2	K04801	replication factor C small subunit	replication factor C C-terminal domain protein
+Thaumarchaeota_ASW8_contig11_3	53.7	K04801	replication factor C small subunit	rfc
+Thaumarchaeota_ASW8_contig11_5	42.8	K00586	diphthine synthase [EC:2.1.1.98]	dph5
+Thaumarchaeota_ASW8_contig11_6	40.3	K00980	glycerol-3-phosphate cytidylyltransferase [EC:2.7.7.39]	cytidyltransferase-like protein
+Thaumarchaeota_ASW8_contig11_7	45.9	K07732	riboflavin kinase, archaea type [EC:2.7.1.161]	hypothetical protein
+Thaumarchaeota_ASW8_contig11_9	30.5	K12251	N-carbamoylputrescine amidase [EC:3.5.1.53]	nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase
+Thaumarchaeota_ASW8_contig11_9	30.5	K12251	N-carbamoylputrescine amidase [EC:3.5.1.53]	hydrolase
+Thaumarchaeota_ASW8_contig11_9	29.1	K12251	N-carbamoylputrescine amidase [EC:3.5.1.53]	nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase
+Thaumarchaeota_ASW8_contig11_10	50.4	K14574	ribosome maturation protein SDO1	RNA-associated protein
+Thaumarchaeota_ASW8_contig11_11	48.9	K03679	exosome complex component RRP4	exosome complex RNA-binding protein Rrp4
+Thaumarchaeota_ASW8_contig11_11	49.1	K03679	exosome complex component RRP4	rrp
+Thaumarchaeota_ASW8_contig11_12	64.0	K11600	exosome complex component RRP41	ribosomal RNA-processing protein RRP41/SKI6
+Thaumarchaeota_ASW8_contig11_13	45.7	K12589	exosome complex component RRP42	ecx1
+Thaumarchaeota_ASW8_contig11_14	59.1	K02921	large subunit ribosomal protein L37Ae	ribosomal protein L37AE/L43A
+Thaumarchaeota_ASW8_contig11_16	56.1	K04798	prefoldin beta subunit	pfdB
+Thaumarchaeota_ASW8_contig11_17	41.3	K16786	energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]	cobalt/nickel ABC transporter ATP-binding protein
+Thaumarchaeota_ASW8_contig11_18	46.7	K16787	energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]	ABC transporter-like protein
+Thaumarchaeota_ASW8_contig11_19	35.9	K16785	energy-coupling factor transport system permease protein	cobalt/nickel ABC transporter permease
+Thaumarchaeota_ASW8_contig11_20	43.1	K01247	DNA-3-methyladenine glycosylase II [EC:3.2.2.21]	base excision DNA repair protein, HhH-GPD family
+Thaumarchaeota_ASW8_contig11_21	37.4	K07558	tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72]	cca
+Thaumarchaeota_ASW8_contig11_24	50.2	K00784	ribonuclease Z [EC:3.1.26.11]	rnz
+Thaumarchaeota_ASW8_contig11_24	49.7	K00784	ribonuclease Z [EC:3.1.26.11]	RNAse Z (EC:3.1.26.11)
+Thaumarchaeota_ASW8_contig12_3	41.5	K09120	uncharacterized protein	conserved hypothetical protein
+Thaumarchaeota_ASW8_contig12_3	40.3	K09120	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig12_3	40.7	K09120	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig12_4	48.1	K01756	adenylosuccinate lyase [EC:4.3.2.2]	adenylosuccinate lyase
+Thaumarchaeota_ASW8_contig12_5	53.0	K01744	aspartate ammonia-lyase [EC:4.3.1.1]	aspartate ammonia-lyase (L-aspartase) (EC:4.3.1.1)
+Thaumarchaeota_ASW8_contig12_5	52.2	K01744	aspartate ammonia-lyase [EC:4.3.1.1]	aspA
+Thaumarchaeota_ASW8_contig12_8	34.7	K00852	ribokinase [EC:2.7.1.15]	sugar kinase, ribokinase
+Thaumarchaeota_ASW8_contig12_9	45.2	K07566	L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]	Sua5/YciO/YrdC/YwlC family protein
+Thaumarchaeota_ASW8_contig12_13	48.7	K01869	leucyl-tRNA synthetase [EC:6.1.1.4]	leucyl-tRNA synthetase
+Thaumarchaeota_ASW8_contig12_13	47.6	K01869	leucyl-tRNA synthetase [EC:6.1.1.4]	leuS
+Thaumarchaeota_ASW8_contig12_13	48.1	K01869	leucyl-tRNA synthetase [EC:6.1.1.4]	leucyl-tRNA synthetase
+Thaumarchaeota_ASW8_contig12_13	47.2	K01869	leucyl-tRNA synthetase [EC:6.1.1.4]	leucyl-tRNA synthetase (EC:6.1.1.4)
+Thaumarchaeota_ASW8_contig12_13	47.1	K01869	leucyl-tRNA synthetase [EC:6.1.1.4]	leuS
+Thaumarchaeota_ASW8_contig12_14	48.3	K01872	alanyl-tRNA synthetase [EC:6.1.1.7]	alanyl-tRNA synthetase
+Thaumarchaeota_ASW8_contig12_15	68.9	K02869	large subunit ribosomal protein L12	LSU ribosomal protein L12AE
+Thaumarchaeota_ASW8_contig12_16	48.3	K02864	large subunit ribosomal protein L10	rpl10p
+Thaumarchaeota_ASW8_contig12_16	48.7	K02864	large subunit ribosomal protein L10	rpl10p
+Thaumarchaeota_ASW8_contig12_16	47.9	K02864	large subunit ribosomal protein L10	LSU ribosomal protein L10P
+Thaumarchaeota_ASW8_contig12_17	46.0	K02863	large subunit ribosomal protein L1	rpl1p
+Thaumarchaeota_ASW8_contig12_18	51.6	K02867	large subunit ribosomal protein L11	50S ribosomal protein L11
+Thaumarchaeota_ASW8_contig12_18	56.0	K02867	large subunit ribosomal protein L11	50S ribosomal protein L11
+Thaumarchaeota_ASW8_contig12_18	52.8	K02867	large subunit ribosomal protein L11	rpl
+Thaumarchaeota_ASW8_contig12_18	52.8	K02867	large subunit ribosomal protein L11	50S ribosomal protein L11
+Thaumarchaeota_ASW8_contig12_19	48.0	K02601	transcriptional antiterminator NusG	nusG
+Thaumarchaeota_ASW8_contig12_19	49.3	K02601	transcriptional antiterminator NusG	ribosomal protein L24p/L26e, archaeal
+Thaumarchaeota_ASW8_contig12_21	36.2	K09716	D-aminoacyl-tRNA deacylase [EC:3.1.1.96]	putative D-tyrosyl-tRNA(Tyr) deacylase (EC:3.1.-.-)
+Thaumarchaeota_ASW8_contig12_23	62.3	K00053	ketol-acid reductoisomerase [EC:1.1.1.86]	ketol-acid reductoisomerase
+Thaumarchaeota_ASW8_contig12_24	43.8	K03118	sec-independent protein translocase protein TatC	tatC
+Thaumarchaeota_ASW8_contig12_25	36.1	K03116	sec-independent protein translocase protein TatA	sec-independent translocation protein mttA/Hcf106
+Thaumarchaeota_ASW8_contig12_27	47.0	K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	dehydrogenase of unknown specificity, short-chain alcohol dehydrogenase like (EC:1.1.1.100)
+Thaumarchaeota_ASW8_contig12_28	46.8	K12944	nucleoside triphosphatase [EC:3.6.1.-]	NUDIX hydrolase
+Thaumarchaeota_ASW8_contig12_29	36.1	K19244	alanine dehydrogenase [EC:1.4.1.1]	Ornithine cyclodeaminase
+Thaumarchaeota_ASW8_contig12_30	35.9	K00817	histidinol-phosphate aminotransferase [EC:2.6.1.9]	histidinol-phosphate aminotransferase (EC:2.6.1.9)
+Thaumarchaeota_ASW8_contig12_34	28.3	K11105	cell volume regulation protein A	sodium/hydrogen exchanger
+Thaumarchaeota_ASW8_contig12_34	28.7	K11105	cell volume regulation protein A	Transporter, CPA2 family
+Thaumarchaeota_ASW8_contig12_36	45.5	K00166	2-oxoisovalerate dehydrogenase E1 component alpha subunit [EC:1.2.4.4]	bkdA
+Thaumarchaeota_ASW8_contig12_38	55.2	K11131	H/ACA ribonucleoprotein complex subunit 4 [EC:5.4.99.-]	truB
+Thaumarchaeota_ASW8_contig12_39	54.7	K00945	cytidylate kinase [EC:2.7.4.14]	cmk
+Thaumarchaeota_ASW8_contig12_40	48.4	K00939	adenylate kinase [EC:2.7.4.3]	adkA
+Thaumarchaeota_ASW8_contig12_41	50.6	K03076	preprotein translocase subunit SecY	secY
+Thaumarchaeota_ASW8_contig12_41	51.3	K10956	protein transport protein SEC61 subunit alpha	secY
+Thaumarchaeota_ASW8_contig12_42	46.4	K02876	large subunit ribosomal protein L15	ribosomal protein L15
+Thaumarchaeota_ASW8_contig12_43	41.7	K02907	large subunit ribosomal protein L30	rpl30p
+Thaumarchaeota_ASW8_contig12_43	43.1	K02907	large subunit ribosomal protein L30	LSU ribosomal protein L30P
+Thaumarchaeota_ASW8_contig12_44	59.4	K02988	small subunit ribosomal protein S5	rps5p
+Thaumarchaeota_ASW8_contig12_44	61.5	K02988	small subunit ribosomal protein S5	rps5p
+Thaumarchaeota_ASW8_contig12_44	61.5	K02988	small subunit ribosomal protein S5	SSU ribosomal protein S5P
+Thaumarchaeota_ASW8_contig12_45	41.9	K02881	large subunit ribosomal protein L18	rpl18p
+Thaumarchaeota_ASW8_contig12_45	41.2	K02881	large subunit ribosomal protein L18	ribosomal L18p/L5e family protein
+Thaumarchaeota_ASW8_contig12_45	44.5	K02881	large subunit ribosomal protein L18	50S ribosomal protein L18
+Thaumarchaeota_ASW8_contig12_46	46.2	K02885	large subunit ribosomal protein L19e	50S ribosomal protein L19
+Thaumarchaeota_ASW8_contig14_1	24.0	K17760	quinohemoprotein ethanol dehydrogenase [EC:1.1.9.1]	pyrrolo-quinoline quinone
+Thaumarchaeota_ASW8_contig14_3	40.9	K02010	iron(III) transport system ATP-binding protein [EC:3.6.3.30]	Putrescine transport ATP-binding protein
+Thaumarchaeota_ASW8_contig14_4	25.8	K02027	multiple sugar transport system substrate-binding protein	extracellular solute-binding protein
+Thaumarchaeota_ASW8_contig14_5	36.2	K01990	ABC-2 type transport system ATP-binding protein	putative ABC transporter ATP-binding protein
+Thaumarchaeota_ASW8_contig14_6	34.3	K19341	Cu-processing system permease protein	membrane protein NosY
+Thaumarchaeota_ASW8_contig14_8	28.1	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	quinoprotein alcohol dehydrogenase (EC:1.1.99.8)
+Thaumarchaeota_ASW8_contig14_10	25.3	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	conserved hypothetical protein
+Thaumarchaeota_ASW8_contig14_12	31.0	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	quinoprotein alcohol dehydrogenase (EC:1.1.99.8)
+Thaumarchaeota_ASW8_contig15_1	40.1	K00946	thiamine-monophosphate kinase [EC:2.7.4.16]	thiamine-monophosphate kinase
+Thaumarchaeota_ASW8_contig15_3	26.4	K03932	polyhydroxybutyrate depolymerase	hydrolase (EC:3.1.-.-)
+Thaumarchaeota_ASW8_contig15_4	59.1	K06995	uncharacterized protein	putative enzyme of the cupin superfamily
+Thaumarchaeota_ASW8_contig15_6	51.7	K09482	glutamyl-tRNA(Gln) amidotransferase subunit D [EC:6.3.5.7]	gatD
+Thaumarchaeota_ASW8_contig15_6	51.0	K09482	glutamyl-tRNA(Gln) amidotransferase subunit D [EC:6.3.5.7]	glutamyl-tRNA(Gln) amidotransferase subunit D
+Thaumarchaeota_ASW8_contig15_7	45.7	K03330	glutamyl-tRNA(Gln) amidotransferase subunit E [EC:6.3.5.7]	gatE
+Thaumarchaeota_ASW8_contig15_8	58.8	K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	guaA
+Thaumarchaeota_ASW8_contig15_10	58.6	K00031	isocitrate dehydrogenase [EC:1.1.1.42]	isocitrate dehydrogenase (EC:1.1.1.41)
+Thaumarchaeota_ASW8_contig15_10	57.3	K00031	isocitrate dehydrogenase [EC:1.1.1.42]	3-isopropylmalate dehydrogenase (EC:1.1.1.85)
+Thaumarchaeota_ASW8_contig15_10	58.8	K00031	isocitrate dehydrogenase [EC:1.1.1.42]	isocitrate/isopropylmalate dehydrogenase
+Thaumarchaeota_ASW8_contig15_10	59.3	K00031	isocitrate dehydrogenase [EC:1.1.1.42]	3-isopropylmalate dehydrogenase (EC:1.1.1.85)
+Thaumarchaeota_ASW8_contig15_10	59.3	K00031	isocitrate dehydrogenase [EC:1.1.1.42]	3-isopropylmalate dehydrogenase (EC:1.1.1.85)
+Thaumarchaeota_ASW8_contig15_10	59.5	K00031	isocitrate dehydrogenase [EC:1.1.1.42]	icd
+Thaumarchaeota_ASW8_contig15_11	41.2	K00239	succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]	succinate dehydrogenase or fumarate reductase, flavoprotein subunit (EC:1.3.99.1)
+Thaumarchaeota_ASW8_contig15_13	54.6	K00052	3-isopropylmalate dehydrogenase [EC:1.1.1.85]	leuB
+Thaumarchaeota_ASW8_contig15_14	46.9	K07254	tRNA (cytidine56-2'-O)-methyltransferase [EC:2.1.1.206]	tRNA ribose 2'-O-methyltransferase aTrm56
+Thaumarchaeota_ASW8_contig15_15	37.3	K07398	conserved protein with predicted RNA binding PUA domain	queuine tRNA-ribosyltransferase
+Thaumarchaeota_ASW8_contig15_16	49.1	K03626	nascent polypeptide-associated complex subunit alpha	putative nascent polypeptide-associated complex protein
+Thaumarchaeota_ASW8_contig15_16	49.1	K03626	nascent polypeptide-associated complex subunit alpha	Nascent polypeptide associated complex NAC
+Thaumarchaeota_ASW8_contig15_17	35.3	K02119	V/A-type H+-transporting ATPase subunit C	ATPase
+Thaumarchaeota_ASW8_contig16_1	61.9	K04483	DNA repair protein RadA	radA
+Thaumarchaeota_ASW8_contig16_3	39.3	K17942	phosphomevalonate decarboxylase [EC:4.1.1.99]	mvaD
+Thaumarchaeota_ASW8_contig16_3	39.3	K17942	phosphomevalonate decarboxylase [EC:4.1.1.99]	mvaD
+Thaumarchaeota_ASW8_contig16_3	37.4	K17942	phosphomevalonate decarboxylase [EC:4.1.1.99]	mvaD
+Thaumarchaeota_ASW8_contig16_3	39.7	K17942	phosphomevalonate decarboxylase [EC:4.1.1.99]	GHMP kinase
+Thaumarchaeota_ASW8_contig16_4	42.2	K09738	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig16_4	45.1	K09738	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig16_4	46.2	K09738	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig16_5	62.9	K03432	proteasome alpha subunit [EC:3.4.25.1]	proteasome endopeptidase complex, archaeal, alpha subunit (EC:3.4.25.1)
+Thaumarchaeota_ASW8_contig16_5	62.5	K03432	proteasome alpha subunit [EC:3.4.25.1]	psmA1
+Thaumarchaeota_ASW8_contig16_6	39.7	K06929	uncharacterized protein	CoA-binding protein
+Thaumarchaeota_ASW8_contig16_8	61.5	K13798	DNA-directed RNA polymerase subunit B [EC:2.7.7.6]	rpoB
+Thaumarchaeota_ASW8_contig16_8	60.4	K13798	DNA-directed RNA polymerase subunit B [EC:2.7.7.6]	DNA-directed RNA polymerase, subunit B'/DNA-directed RNA polymerase, subunit B' (EC:2.7.7.6)
+Thaumarchaeota_ASW8_contig16_9	64.4	K03041	DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]	rpoA
+Thaumarchaeota_ASW8_contig16_9	63.8	K03041	DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]	rpoA
+Thaumarchaeota_ASW8_contig16_9	63.5	K03041	DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]	DNA-directed RNA polymerase, subunit A''/DNA-directed RNA polymerase subunit A' (EC:2.7.7.6)
+Thaumarchaeota_ASW8_contig16_11	57.0	K02600	N utilization substance protein A	archaeal NusA family KH domain containing protein
+Thaumarchaeota_ASW8_contig17_3	37.0	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	mreB
+Thaumarchaeota_ASW8_contig17_3	37.3	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.0	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capsular polysaccharide synthesis enzyme
+Thaumarchaeota_ASW8_contig17_3	36.7	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	UDP-N-acetylglucosamine 2-epimerase
+Thaumarchaeota_ASW8_contig17_3	36.7	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	cap5P
+Thaumarchaeota_ASW8_contig17_3	36.7	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.7	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capsular polysaccharide synthesis enzyme Cap8P
+Thaumarchaeota_ASW8_contig17_3	36.7	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	cap5P
+Thaumarchaeota_ASW8_contig17_3	36.7	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.5	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.7	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.7	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.7	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	UDP-N-acetylglucosamine 2-epimerase
+Thaumarchaeota_ASW8_contig17_3	36.7	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.7	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.7	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.7	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.7	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	Capsular polysaccharide synthesis enzyme Cap8P
+Thaumarchaeota_ASW8_contig17_3	36.7	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	mnaA
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	UDP-N-acetylglucosamine 2-epimerase (EC:5.1.3.14)
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	UDP-N-acetylglucosamine 2-epimerase (EC:5.1.3.14)
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	cap8P
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capsular polysaccharide synthesis enzyme
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	cap5P
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	UDP-N-acetylglucosamine 2-epimerase (EC:5.1.3.14)
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	UDP-N-acetylglucosamine 2-epimerase (EC:5.1.3.14)
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	UDP-N-acetylglucosamine 2-epimerase (EC:5.1.3.14)
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	UDP-N-acetylglucosamine 2-epimerase (EC:5.1.3.14)
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	Capsular polysaccharide synthesis enzyme Cap8P
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	UDP-N-acetylglucosamine 2-epimerase
+Thaumarchaeota_ASW8_contig17_3	35.8	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	cap5P
+Thaumarchaeota_ASW8_contig17_3	35.8	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	cap5P
+Thaumarchaeota_ASW8_contig17_3	35.8	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	cap5P
+Thaumarchaeota_ASW8_contig17_3	35.8	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	capP
+Thaumarchaeota_ASW8_contig17_3	35.8	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	Capsular polysaccharide synthesis enzyme Cap8P
+Thaumarchaeota_ASW8_contig17_3	36.1	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	UDP-N-acetylglucosamine 2-epimerase
+Thaumarchaeota_ASW8_contig17_3	35.8	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	UDP-N-acetylglucosamine 2-epimerase
+Thaumarchaeota_ASW8_contig17_3	35.8	K01791	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing) [EC:5.1.3.14]	UDP-N-acetylglucosamine 2-epimerase (EC:5.1.3.14)
+Thaumarchaeota_ASW8_contig17_10	49.2	K02377	GDP-L-fucose synthase [EC:1.1.1.271]	nucleoside-diphosphate-sugar epimerase
+Thaumarchaeota_ASW8_contig17_10	47.1	K02377	GDP-L-fucose synthase [EC:1.1.1.271]	NAD-dependent epimerase/dehydratase
+Thaumarchaeota_ASW8_contig17_12	32.1	K02377	GDP-L-fucose synthase [EC:1.1.1.271]	wcaG
+Thaumarchaeota_ASW8_contig17_13	32.4	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	UDP-glucose 4-epimerase (galE-2)
+Thaumarchaeota_ASW8_contig17_13	32.8	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	galE-2 UDP-glucose 4-epimerase
+Thaumarchaeota_ASW8_contig17_18	45.7	K03272	D-beta-D-heptose 7-phosphate kinase / D-beta-D-heptose 1-phosphate adenosyltransferase [EC:2.7.1.167 2.7.7.70]	waaE
+Thaumarchaeota_ASW8_contig17_19	39.2	K01710	dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]	dTDP-glucose 4,6-dehydratase
+Thaumarchaeota_ASW8_contig18_2	67.5	K04043	molecular chaperone DnaK	dnaK
+Thaumarchaeota_ASW8_contig18_3	48.2	K03686	molecular chaperone DnaJ	dnaJ
+Thaumarchaeota_ASW8_contig18_4	58.8	K03263	translation initiation factor 5A	eIF-5A
+Thaumarchaeota_ASW8_contig18_5	35.2	K00858	NAD+ kinase [EC:2.7.1.23]	ATP-NAD/AcoX kinase
+Thaumarchaeota_ASW8_contig18_6	41.1	K07060	endoribonuclease Nob1 [EC:3.1.-.-]	Nucleotide binding protein
+Thaumarchaeota_ASW8_contig18_11	35.7	K15865	threonylcarbamoyladenosine tRNA methylthiotransferase CDKAL1 [EC:2.8.4.5]	MiaB-like tRNA modifying enzyme, archaeal-type family protein
+Thaumarchaeota_ASW8_contig18_11	35.9	K15865	threonylcarbamoyladenosine tRNA methylthiotransferase CDKAL1 [EC:2.8.4.5]	RNA modification enzyme, MiaB family domain-containing protein (EC:1.3.1.74)
+Thaumarchaeota_ASW8_contig18_12	45.2	K09726	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig18_14	46.5	K18855	UDP-N-acetylglucosamine 3-dehydrogenase [EC:1.1.1.374]	putative oxidoreductase domain protein
+Thaumarchaeota_ASW8_contig18_17	48.1	K03564	peroxiredoxin Q/BCP [EC:1.11.1.15]	alkyl hydroperoxide reductase/Thiol specific antioxidant/Mal allergen
+Thaumarchaeota_ASW8_contig18_19	47.7	K01001	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [EC:2.7.8.15]	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase (EC:2.7.8.15)
+Thaumarchaeota_ASW8_contig18_19	47.7	K01001	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [EC:2.7.8.15]	putative glycosyl transferase, family 4
+Thaumarchaeota_ASW8_contig19_1	50.7	K15987	K(+)-stimulated pyrophosphate-energized sodium pump [EC:3.6.1.1]	hppA
+Thaumarchaeota_ASW8_contig19_1	49.2	K15987	K(+)-stimulated pyrophosphate-energized sodium pump [EC:3.6.1.1]	hppA
+Thaumarchaeota_ASW8_contig19_1	49.8	K15987	K(+)-stimulated pyrophosphate-energized sodium pump [EC:3.6.1.1]	hppA
+Thaumarchaeota_ASW8_contig19_1	49.5	K15987	K(+)-stimulated pyrophosphate-energized sodium pump [EC:3.6.1.1]	hppA
+Thaumarchaeota_ASW8_contig19_1	50.1	K15987	K(+)-stimulated pyrophosphate-energized sodium pump [EC:3.6.1.1]	pyrophosphate-energized proton pump
+Thaumarchaeota_ASW8_contig19_2	54.3	K00809	deoxyhypusine synthase [EC:2.5.1.46]	deoxyhypusine synthase (EC:2.5.1.46)
+Thaumarchaeota_ASW8_contig19_2	55.6	K00809	deoxyhypusine synthase [EC:2.5.1.46]	deoxyhypusine synthase
+Thaumarchaeota_ASW8_contig19_3	59.2	K00088	IMP dehydrogenase [EC:1.1.1.205]	Inosine-5'-monophosphate dehydrogenase
+Thaumarchaeota_ASW8_contig19_4	40.0	K17758	NAD(P)H-hydrate epimerase [EC:5.1.99.6]	YjeF family C-terminal domain protein
+Thaumarchaeota_ASW8_contig19_4	40.9	K17758	NAD(P)H-hydrate epimerase [EC:5.1.99.6]	nnrD
+Thaumarchaeota_ASW8_contig19_6	46.1	K01876	aspartyl-tRNA synthetase [EC:6.1.1.12]	aspS2
+Thaumarchaeota_ASW8_contig19_6	43.9	K01876	aspartyl-tRNA synthetase [EC:6.1.1.12]	aspartyl-tRNA synthetase
+Thaumarchaeota_ASW8_contig19_6	44.1	K01876	aspartyl-tRNA synthetase [EC:6.1.1.12]	aspS
+Thaumarchaeota_ASW8_contig19_7	35.2	K12196	vacuolar protein-sorting-associated protein 4	18.m05996
+Thaumarchaeota_ASW8_contig19_10	53.5	K01803	triosephosphate isomerase (TIM) [EC:5.3.1.1]	tpiA
+Thaumarchaeota_ASW8_contig19_14	41.5	K03424	TatD DNase family protein [EC:3.1.21.-]	hydrolase, TatD family
+Thaumarchaeota_ASW8_contig19_16	33.3	K18532	adenylate kinase [EC:2.7.4.3]	hypothetical protein
+Thaumarchaeota_ASW8_contig19_17	37.4	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	protein up-regulated by thyroid hormone-PQQ-dependent glucose dehydrogenase (EC:1.1.5.2)
+Thaumarchaeota_ASW8_contig20_5	27.6	K00754		glycosyl transferase family protein (EC:2.4.1.-)
+Thaumarchaeota_ASW8_contig20_6	33.7	K00615	transketolase [EC:2.2.1.1]	Transketolase, N-terminal subunit (EC:2.2.1.1)
+Thaumarchaeota_ASW8_contig20_7	34.6	K00615	transketolase [EC:2.2.1.1]	hypothetical protein
+Thaumarchaeota_ASW8_contig20_9	32.4	K02377	GDP-L-fucose synthase [EC:1.1.1.271]	NAD-dependent epimerase/dehydratase
+Thaumarchaeota_ASW8_contig20_10	44.7	K12452	CDP-6-deoxy-D-xylo-4-hexulose-3-dehydrase	lipopolysaccharide biosynthesis protein RfbH
+Thaumarchaeota_ASW8_contig20_10	43.7	K12452	CDP-6-deoxy-D-xylo-4-hexulose-3-dehydrase	DegT/DnrJ/EryC1/StrS aminotransferase
+Thaumarchaeota_ASW8_contig20_11	42.4	K01710	dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]	dTDP-glucose 4,6-dehydratase
+Thaumarchaeota_ASW8_contig20_11	39.6	K01710	dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]	dTDP-glucose 4,6-dehydratase (EC:4.2.1.46)
+Thaumarchaeota_ASW8_contig20_15	40.5	K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	hypothetical protein
+Thaumarchaeota_ASW8_contig20_16	44.1	K01735	3-dehydroquinate synthase [EC:4.2.3.4]	3-dehydroquinate synthase (EC:4.2.3.4)
+Thaumarchaeota_ASW8_contig20_17	34.4	K03918	L-lysine 6-transaminase [EC:2.6.1.36]	L-lysine 6-transaminase (EC:2.6.1.36)
+Thaumarchaeota_ASW8_contig21_1	39.0	K14165	atypical dual specificity phosphatase [EC:3.1.3.16 3.1.3.48]	protein tyrosine phosphatase
+Thaumarchaeota_ASW8_contig21_2	41.8	K07575	PUA domain protein	hypothetical protein
+Thaumarchaeota_ASW8_contig21_3	53.3	K09152	uncharacterized protein	putative protein of unknown function DUF552
+Thaumarchaeota_ASW8_contig21_3	53.3	K09152	uncharacterized protein	Protein of unknown function (DUF552)
+Thaumarchaeota_ASW8_contig21_3	61.5	K09152	uncharacterized protein	putative protein of unknown function DUF552
+Thaumarchaeota_ASW8_contig21_4	55.8	K07041	uncharacterized protein	beta-lactamase
+Thaumarchaeota_ASW8_contig21_5	53.8	K03433	proteasome beta subunit [EC:3.4.25.1]	psmB2
+Thaumarchaeota_ASW8_contig21_5	52.4	K03433	proteasome beta subunit [EC:3.4.25.1]	proteasome endopeptidase complex protein
+Thaumarchaeota_ASW8_contig21_5	52.4	K03433	proteasome beta subunit [EC:3.4.25.1]	psmB
+Thaumarchaeota_ASW8_contig21_5	52.3	K03433	proteasome beta subunit [EC:3.4.25.1]	proteasome endopeptidase complex, beta component (EC:3.4.25.1)
+Thaumarchaeota_ASW8_contig21_8	46.7	K03924	MoxR-like ATPase [EC:3.6.3.-]	ATPase family associated with various cellular activities (AAA)
+Thaumarchaeota_ASW8_contig21_8	46.6	K03924	MoxR-like ATPase [EC:3.6.3.-]	ATPase
+Thaumarchaeota_ASW8_contig21_8	51.0	K03924	MoxR-like ATPase [EC:3.6.3.-]	PH0776
+Thaumarchaeota_ASW8_contig21_8	52.3	K03924	MoxR-like ATPase [EC:3.6.3.-]	ATPase
+Thaumarchaeota_ASW8_contig21_9	46.2	K03924	MoxR-like ATPase [EC:3.6.3.-]	magnesium chelatase
+Thaumarchaeota_ASW8_contig21_9	48.5	K03924	MoxR-like ATPase [EC:3.6.3.-]	ATPase
+Thaumarchaeota_ASW8_contig21_10	51.2	K03924	MoxR-like ATPase [EC:3.6.3.-]	ATPase associated with various cellular activities AAA_3
+Thaumarchaeota_ASW8_contig21_10	51.9	K03924	MoxR-like ATPase [EC:3.6.3.-]	MoxR-like ATPase (EC:3.-.-.-)
+Thaumarchaeota_ASW8_contig21_14	54.7	K01874	methionyl-tRNA synthetase [EC:6.1.1.10]	methionyl-tRNA synthetase
+Thaumarchaeota_ASW8_contig21_14	55.7	K01874	methionyl-tRNA synthetase [EC:6.1.1.10]	metG
+Thaumarchaeota_ASW8_contig22_1	42.8	K11175	phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]	formyltetrahydrofolate-dependent phosphoribosylglycinamide formyltransferase (EC:2.1.2.2)
+Thaumarchaeota_ASW8_contig22_1	42.1	K11175	phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]	purN
+Thaumarchaeota_ASW8_contig22_2	55.8	K05520	protease I [EC:3.2.-.-]	Pfpi family intracellular protease
+Thaumarchaeota_ASW8_contig22_2	52.9	K05520	protease I [EC:3.2.-.-]	Pfpi family intracellular protease
+Thaumarchaeota_ASW8_contig22_4	39.0	K01491	methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]	folD
+Thaumarchaeota_ASW8_contig22_4	39.0	K01491	methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]	folD
+Thaumarchaeota_ASW8_contig22_5	46.3	K00319	methylenetetrahydromethanopterin dehydrogenase [EC:1.5.98.1]	methylenetetrahydromethanopterin dehydrogenase
+Thaumarchaeota_ASW8_contig22_8	42.3	K07722	CopG family transcriptional regulator, nickel-responsive regulator	putative nickel-responsive regulator 1
+Thaumarchaeota_ASW8_contig22_8	41.6	K07722	CopG family transcriptional regulator, nickel-responsive regulator	putative nickel-responsive regulator 1
+Thaumarchaeota_ASW8_contig22_8	43.2	K07722	CopG family transcriptional regulator, nickel-responsive regulator	transcriptional regulator, CopG family
+Thaumarchaeota_ASW8_contig22_8	43.2	K07722	CopG family transcriptional regulator, nickel-responsive regulator	NikR C-terminal nickel binding domain protein
+Thaumarchaeota_ASW8_contig22_8	43.2	K07722	CopG family transcriptional regulator, nickel-responsive regulator	CopG family transcriptional regulator
+Thaumarchaeota_ASW8_contig22_8	42.4	K07722	CopG family transcriptional regulator, nickel-responsive regulator	CopG family transcriptional regulator
+Thaumarchaeota_ASW8_contig22_8	43.3	K07722	CopG family transcriptional regulator, nickel-responsive regulator	putative nickel-responsive regulator 1
+Thaumarchaeota_ASW8_contig22_9	39.7	K09817	zinc transport system ATP-binding protein [EC:3.6.3.-]	zinc ABC transporter ATP-binding protein
+Thaumarchaeota_ASW8_contig22_9	39.7	K09817	zinc transport system ATP-binding protein [EC:3.6.3.-]	phosphonate-transporting ATPase (EC:3.6.3.28)
+Thaumarchaeota_ASW8_contig22_9	40.2	K09817	zinc transport system ATP-binding protein [EC:3.6.3.-]	hypothetical protein
+Thaumarchaeota_ASW8_contig22_10	37.2	K09816	zinc transport system permease protein	ABC transporter
+Thaumarchaeota_ASW8_contig22_10	37.5	K09816	zinc transport system permease protein	ABC transporter
+Thaumarchaeota_ASW8_contig22_10	37.0	K09816	zinc transport system permease protein	putative Zinc uptake transporter, permease protein
+Thaumarchaeota_ASW8_contig22_12	65.0	K00600	glycine hydroxymethyltransferase [EC:2.1.2.1]	glyA
+Thaumarchaeota_ASW8_contig22_12	64.6	K00600	glycine hydroxymethyltransferase [EC:2.1.2.1]	glyA
+Thaumarchaeota_ASW8_contig22_12	64.6	K00600	glycine hydroxymethyltransferase [EC:2.1.2.1]	glyA
+Thaumarchaeota_ASW8_contig22_12	64.8	K00600	glycine hydroxymethyltransferase [EC:2.1.2.1]	glyA
+Thaumarchaeota_ASW8_contig22_15	39.4	K13993	HSP20 family protein	heat shock protein HSP20
+Thaumarchaeota_ASW8_contig23_1	50.0	K04085	tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]	SirA-like domain-containing protein
+Thaumarchaeota_ASW8_contig23_1	54.8	K04085	tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]	hypothetical protein
+Thaumarchaeota_ASW8_contig23_1	54.8	K04085	tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]	Molybdopterin biosynthesis protein MoeB
+Thaumarchaeota_ASW8_contig23_4	42.9	K01934	5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]	5,10-methenyltetrahydrofolate synthetase
+Thaumarchaeota_ASW8_contig23_5	48.8	K06864	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig23_5	48.8	K06864	uncharacterized protein	Conserved hypothetical protein CHP00268
+Thaumarchaeota_ASW8_contig23_6	51.2	K06898	uncharacterized protein	1-(5-phosphoribosyl)-5-amino-4-imidazole-carboxylate (AIR) carboxylase
+Thaumarchaeota_ASW8_contig23_7	41.5	K09121	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig23_7	42.0	K09121	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig23_7	43.3	K09121	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig23_7	40.0	K09121	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig23_9	50.2	K00820	glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	glmS1
+Thaumarchaeota_ASW8_contig23_10	79.0	K02948	small subunit ribosomal protein S11	rps11p
+Thaumarchaeota_ASW8_contig23_10	78.2	K02948	small subunit ribosomal protein S11	rps11p
+Thaumarchaeota_ASW8_contig23_10	78.2	K02948	small subunit ribosomal protein S11	archaeal ribosomal protein S11P
+Thaumarchaeota_ASW8_contig23_12	47.9	K02952	small subunit ribosomal protein S13	rps13p
+Thaumarchaeota_ASW8_contig23_13	54.1	K03047	DNA-directed RNA polymerase subunit D [EC:2.7.7.6]	rpoD
+Thaumarchaeota_ASW8_contig23_13	53.7	K03047	DNA-directed RNA polymerase subunit D [EC:2.7.7.6]	DNA-directed RNA polymerase, alpha subunit/40 kD subunit (EC:2.7.7.6)
+Thaumarchaeota_ASW8_contig23_14	48.6	K02883	large subunit ribosomal protein L18e	50S ribosomal protein L18
+Thaumarchaeota_ASW8_contig23_15	49.6	K02871	large subunit ribosomal protein L13	ribosomal protein L13
+Thaumarchaeota_ASW8_contig23_16	54.1	K02996	small subunit ribosomal protein S9	rps9p
+Thaumarchaeota_ASW8_contig23_16	55.4	K02996	small subunit ribosomal protein S9	rps9p
+Thaumarchaeota_ASW8_contig23_16	54.1	K02996	small subunit ribosomal protein S9	ribosomal protein S9
+Thaumarchaeota_ASW8_contig23_17	56.5	K03058	DNA-directed RNA polymerase subunit N [EC:2.7.7.6]	rpoN
+Thaumarchaeota_ASW8_contig23_17	54.8	K03058	DNA-directed RNA polymerase subunit N [EC:2.7.7.6]	hypothetical protein
+Thaumarchaeota_ASW8_contig23_17	54.8	K03058	DNA-directed RNA polymerase subunit N [EC:2.7.7.6]	DNA-directed RNA polymerase subunit N (EC:2.7.7.6)
+Thaumarchaeota_ASW8_contig23_17	59.7	K03058	DNA-directed RNA polymerase subunit N [EC:2.7.7.6]	DNA-directed RNA polymerase subunit N (EC:2.7.7.6)
+Thaumarchaeota_ASW8_contig23_17	59.7	K03058	DNA-directed RNA polymerase subunit N [EC:2.7.7.6]	DNA-directed RNA polymerase subunit N (EC:2.7.7.6)
+Thaumarchaeota_ASW8_contig23_17	59.7	K03058	DNA-directed RNA polymerase subunit N [EC:2.7.7.6]	DNA-directed RNA polymerase subunit N (EC:2.7.7.6)
+Thaumarchaeota_ASW8_contig23_18	50.2	K01689	enolase [EC:4.2.1.11]	eno
+Thaumarchaeota_ASW8_contig23_18	50.0	K01689	enolase [EC:4.2.1.11]	phosphopyruvate hydratase (EC:4.2.1.11)
+Thaumarchaeota_ASW8_contig23_19	58.3	K02967	small subunit ribosomal protein S2	rps2p
+Thaumarchaeota_ASW8_contig23_20	30.9	K00869	mevalonate kinase [EC:2.7.1.36]	mevalonate kinase
+Thaumarchaeota_ASW8_contig23_20	34.1	K00869	mevalonate kinase [EC:2.7.1.36]	mevalonate kinase
+Thaumarchaeota_ASW8_contig23_20	33.9	K00869	mevalonate kinase [EC:2.7.1.36]	mvk
+Thaumarchaeota_ASW8_contig23_20	32.6	K00869	mevalonate kinase [EC:2.7.1.36]	mevalonate kinase
+Thaumarchaeota_ASW8_contig23_21	37.6	K06981	isopentenyl phosphate kinase [EC:2.7.4.26]	aspartate/glutamate/uridylate kinase
+Thaumarchaeota_ASW8_contig23_22	56.2	K01823	isopentenyl-diphosphate delta-isomerase [EC:5.3.3.2]	fni
+Thaumarchaeota_ASW8_contig23_22	54.9	K01823	isopentenyl-diphosphate delta-isomerase [EC:5.3.3.2]	fni
+Thaumarchaeota_ASW8_contig23_23	40.0	K13789	geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29]	polyprenyl synthetase
+Thaumarchaeota_ASW8_contig23_23	42.7	K13789	geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29]	hypothetical protein
+Thaumarchaeota_ASW8_contig23_24	39.9	K01885	glutamyl-tRNA synthetase [EC:6.1.1.17]	gltX
+Thaumarchaeota_ASW8_contig23_24	40.2	K01885	glutamyl-tRNA synthetase [EC:6.1.1.17]	glutamyl-tRNA synthetase (EC:6.1.1.17)
+Thaumarchaeota_ASW8_contig23_26	50.8	K01695	tryptophan synthase alpha chain [EC:4.2.1.20]	trpA
+Thaumarchaeota_ASW8_contig23_27	65.5	K01696	tryptophan synthase beta chain [EC:4.2.1.20]	tryptophan synthase subunit beta (EC:4.2.1.20)
+Thaumarchaeota_ASW8_contig23_27	67.1	K01696	tryptophan synthase beta chain [EC:4.2.1.20]	trpB
+Thaumarchaeota_ASW8_contig23_28	46.1	K01609	indole-3-glycerol phosphate synthase [EC:4.1.1.48]	indole-3-glycerol-phosphate synthase (EC:4.1.1.48)
+Thaumarchaeota_ASW8_contig23_29	49.1	K00766	anthranilate phosphoribosyltransferase [EC:2.4.2.18]	trpD
+Thaumarchaeota_ASW8_contig23_30	58.6	K01658	anthranilate synthase component II [EC:4.1.3.27]	trpG
+Thaumarchaeota_ASW8_contig23_30	57.8	K01658	anthranilate synthase component II [EC:4.1.3.27]	trpG
+Thaumarchaeota_ASW8_contig23_30	57.8	K01658	anthranilate synthase component II [EC:4.1.3.27]	trpG
+Thaumarchaeota_ASW8_contig23_30	57.3	K01658	anthranilate synthase component II [EC:4.1.3.27]	anthranilate synthase, component II (EC:4.1.3.27)
+Thaumarchaeota_ASW8_contig23_31	50.2	K01657	anthranilate synthase component I [EC:4.1.3.27]	trpE
+Thaumarchaeota_ASW8_contig23_31	51.9	K01657	anthranilate synthase component I [EC:4.1.3.27]	anthranilate synthase, component I (EC:4.1.3.27)
+Thaumarchaeota_ASW8_contig23_32	61.5	K02936	large subunit ribosomal protein L7Ae	rpl7ae
+Thaumarchaeota_ASW8_contig23_32	61.5	K02936	large subunit ribosomal protein L7Ae	LSU ribosomal protein L7AE
+Thaumarchaeota_ASW8_contig23_32	58.2	K02936	large subunit ribosomal protein L7Ae	rpl7ae
+Thaumarchaeota_ASW8_contig23_32	58.2	K02936	large subunit ribosomal protein L7Ae	50S ribosomal protein L7Ae/L30e/S12e/Gadd45
+Thaumarchaeota_ASW8_contig23_33	75.0	K02979	small subunit ribosomal protein S28e	rps28e
+Thaumarchaeota_ASW8_contig23_33	75.0	K02979	small subunit ribosomal protein S28e	ribosomal protein S28E/S33
+Thaumarchaeota_ASW8_contig23_34	58.2	K02896	large subunit ribosomal protein L24e	rpl24e
+Thaumarchaeota_ASW8_contig23_35	55.7	K00940	nucleoside-diphosphate kinase [EC:2.7.4.6]	ndk
+Thaumarchaeota_ASW8_contig23_36	52.4	K03243	translation initiation factor 5B	translation initiation factor eaIF-5B
+Thaumarchaeota_ASW8_contig23_36	51.9	K03243	translation initiation factor 5B	aIF-2
+Thaumarchaeota_ASW8_contig23_37	51.2	K02991	small subunit ribosomal protein S6e	30S ribosomal protein S6e
+Thaumarchaeota_ASW8_contig23_38	61.6	K03242	translation initiation factor 2 subunit 3	eif2g
+Thaumarchaeota_ASW8_contig23_38	59.8	K03242	translation initiation factor 2 subunit 3	translation initiation factor IF-2 subunit gamma
+Thaumarchaeota_ASW8_contig23_40	60.5	K03049	DNA-directed RNA polymerase subunit E' [EC:2.7.7.6]	rpoE'
+Thaumarchaeota_ASW8_contig23_40	61.9	K03049	DNA-directed RNA polymerase subunit E' [EC:2.7.7.6]	DNA-directed RNA polymerase subunit E' (EC:2.7.7.6)
+Thaumarchaeota_ASW8_contig23_41	60.9	K03050	DNA-directed RNA polymerase subunit E" [EC:2.7.7.6]	rpoE``
+Thaumarchaeota_ASW8_contig23_42	39.2	K09735	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig23_42	42.7	K09735	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig24_1	43.2	K01868	threonyl-tRNA synthetase [EC:6.1.1.3]	threonyl-tRNA synthetase
+Thaumarchaeota_ASW8_contig24_1	45.5	K01868	threonyl-tRNA synthetase [EC:6.1.1.3]	threonyl-tRNA synthetase
+Thaumarchaeota_ASW8_contig24_2	46.5	K01480	agmatinase [EC:3.5.3.11]	putative agmatinase
+Thaumarchaeota_ASW8_contig24_3	41.5	K00809	deoxyhypusine synthase [EC:2.5.1.46]	deoxyhypusine synthase
+Thaumarchaeota_ASW8_contig24_4	49.5	K02319	DNA polymerase I [EC:2.7.7.7]	DNA polymerase family B, exonuclease domain protein
+Thaumarchaeota_ASW8_contig24_6	56.1	K01866	tyrosyl-tRNA synthetase [EC:6.1.1.1]	tyrS
+Thaumarchaeota_ASW8_contig24_7	47.5	K16053	miniconductance mechanosensitive channel	MscS Mechanosensitive ion channel
+Thaumarchaeota_ASW8_contig24_8	40.3	K13010	perosamine synthetase [EC:2.6.1.102]	putative pyridoxal phosphate-dependent enzyme apparently involved in regulation of cell wall biogenesis
+Thaumarchaeota_ASW8_contig24_9	39.3	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	family 2 glycosyl transferase
+Thaumarchaeota_ASW8_contig24_10	63.5	K03059	DNA-directed RNA polymerase subunit P [EC:2.7.7.6]	DNA-directed RNA polymerase, subunit RPC10 (contains C4-type Zn-finger) (EC:2.7.7.6)
+Thaumarchaeota_ASW8_contig24_11	55.6	K01641	hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10]	hypothetical protein
+Thaumarchaeota_ASW8_contig24_11	55.3	K01641	hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10]	hypothetical protein
+Thaumarchaeota_ASW8_contig24_11	55.3	K01641	hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10]	hypothetical protein
+Thaumarchaeota_ASW8_contig24_11	55.1	K01641	hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10]	hypothetical protein
+Thaumarchaeota_ASW8_contig24_11	54.5	K01641	hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10]	hypothetical protein
+Thaumarchaeota_ASW8_contig24_12	35.3	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	acetyl-CoA acetyltransferase
+Thaumarchaeota_ASW8_contig24_13	49.2	K07068	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig25_2	44.9	K02427	23S rRNA (uridine2552-2'-O)-methyltransferase [EC:2.1.1.166]	rlmE
+Thaumarchaeota_ASW8_contig25_3	38.7	K00555	tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase [EC:2.1.1.215 2.1.1.216]	trm1
+Thaumarchaeota_ASW8_contig25_4	34.8	K03105	signal recognition particle subunit SRP19	ribonucleoprotein complex SRP, Srp19 component
+Thaumarchaeota_ASW8_contig25_6	45.2	K02995	small subunit ribosomal protein S8e	rps8e
+Thaumarchaeota_ASW8_contig25_7	42.5	K06024	segregation and condensation protein B	chromosome segregation and condensation protein ScpB
+Thaumarchaeota_ASW8_contig25_7	42.0	K06024	segregation and condensation protein B	chromosome segregation and condensation protein ScpB
+Thaumarchaeota_ASW8_contig25_8	35.3	K05896	segregation and condensation protein A	hypothetical protein
+Thaumarchaeota_ASW8_contig25_9	30.8	K03529	chromosome segregation protein	chromosome segregation protein SMC
+Thaumarchaeota_ASW8_contig25_9	27.5	K03529	chromosome segregation protein	RecF/RecN/SMC N-terminal domain protein
+Thaumarchaeota_ASW8_contig25_10	44.9	K18933	tyrosine decarboxylase / aspartate 1-decarboxylase [EC:4.1.1.25 4.1.1.11]	L-tyrosine decarboxylase (EC:4.1.1.25)
+Thaumarchaeota_ASW8_contig25_11	57.2	K00606	3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]	3-methyl-2-oxobutanoate hydroxymethyltransferase
+Thaumarchaeota_ASW8_contig25_11	54.3	K00606	3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC:2.1.2.11)
+Thaumarchaeota_ASW8_contig25_12	54.5	K09722	4-phosphopantoate---beta-alanine ligase [EC:6.3.2.36]	4-phosphopantoate--beta-alanine ligase (EC:6.3.2.36)
+Thaumarchaeota_ASW8_contig25_12	52.8	K09722	4-phosphopantoate---beta-alanine ligase [EC:6.3.2.36]	hypothetical protein
+Thaumarchaeota_ASW8_contig25_13	31.4	K06982	pantoate kinase [EC:2.7.1.169]	GHMP kinase
+Thaumarchaeota_ASW8_contig26_4	49.5	K01916	NAD+ synthase [EC:6.3.1.5]	nadE
+Thaumarchaeota_ASW8_contig26_4	47.3	K01916	NAD+ synthase [EC:6.3.1.5]	NH(3)-dependent NAD(+) synthetase (EC:6.3.1.5)
+Thaumarchaeota_ASW8_contig26_7	32.5	K11168	dehydrogenase/reductase SDR family member 12 [EC:1.1.-.-]	hypothetical protein
+Thaumarchaeota_ASW8_contig26_12	36.1	K07006	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig26_13	29.9	K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	glutamine amidotransferase (EC:6.3.5.2)
+Thaumarchaeota_ASW8_contig26_13	30.0	K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	glutamine amidotransferase (EC:6.3.5.2)
+Thaumarchaeota_ASW8_contig26_17	71.1	K00960	DNA-directed RNA polymerase [EC:2.7.7.6]	DNA-directed RNA polymerases I, II, and III, 7.3 kDa polypeptide
+Thaumarchaeota_ASW8_contig27_1	37.6	K00948	ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	prs
+Thaumarchaeota_ASW8_contig27_2	55.1	K03320	ammonium transporter, Amt family	ammonium transporter
+Thaumarchaeota_ASW8_contig27_4	35.3	K03742	nicotinamide-nucleotide amidase [EC:3.5.1.42]	cinA
+Thaumarchaeota_ASW8_contig27_5	48.2	K06883	uncharacterized protein	ATP-binding protein
+Thaumarchaeota_ASW8_contig27_6	45.8	K07588	LAO/AO transport system kinase [EC:2.7.-.-]	PH0274
+Thaumarchaeota_ASW8_contig27_6	44.7	K07588	LAO/AO transport system kinase [EC:2.7.-.-]	hypothetical protein
+Thaumarchaeota_ASW8_contig27_7	64.8	K01848	methylmalonyl-CoA mutase, N-terminal domain [EC:5.4.99.2]	methylmalonyl-CoA mutase subunit alpha
+Thaumarchaeota_ASW8_contig27_7	64.2	K01848	methylmalonyl-CoA mutase, N-terminal domain [EC:5.4.99.2]	methylmalonyl-CoA mutase subunit alpha
+Thaumarchaeota_ASW8_contig27_8	69.3	K01849	methylmalonyl-CoA mutase, C-terminal domain [EC:5.4.99.2]	methylmalonyl-CoA mutase family protein (EC:5.4.99.2)
+Thaumarchaeota_ASW8_contig27_8	69.3	K01849	methylmalonyl-CoA mutase, C-terminal domain [EC:5.4.99.2]	methylmalonyl-CoA mutase, small subunit, C-terminus (EC:5.4.99.2)
+Thaumarchaeota_ASW8_contig27_12	40.4	K02026	multiple sugar transport system permease protein	ugpE4
+Thaumarchaeota_ASW8_contig27_13	36.5	K02025	multiple sugar transport system permease protein	multiple sugar ABC transporter permease
+Thaumarchaeota_ASW8_contig27_14	44.3	K17240	inositol-phosphate transport system ATP-binding protein	maltose/maltodextrin transport ATP-binding protein
+Thaumarchaeota_ASW8_contig27_14	45.7	K17240	inositol-phosphate transport system ATP-binding protein	multiple sugar transport protein
+Thaumarchaeota_ASW8_contig27_14	45.7	K17240	inositol-phosphate transport system ATP-binding protein	multiple sugar transport protein
+Thaumarchaeota_ASW8_contig28_1	69.7	K03306	inorganic phosphate transporter, PiT family	hypothetical protein
+Thaumarchaeota_ASW8_contig28_2	36.3	K07220	uncharacterized protein	putative phosphate transport regulator
+Thaumarchaeota_ASW8_contig28_4	47.1	K03741	arsenate reductase [EC:1.20.4.1]	protein tyrosine phosphatase
+Thaumarchaeota_ASW8_contig28_6	36.9	K07243	high-affinity iron transporter	high-affinity iron transporter
+Thaumarchaeota_ASW8_contig28_7	28.6	K07108	uncharacterized protein	putative transcriptional regulator
+Thaumarchaeota_ASW8_contig28_9	23.5	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	quinoprotein alcohol dehydrogenase (EC:1.1.99.8)
+Thaumarchaeota_ASW8_contig28_10	28.4	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	quinoprotein alcohol dehydrogenase (EC:1.1.99.8)
+Thaumarchaeota_ASW8_contig29_2	37.4	K07071	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig29_3	25.2	K00548	5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	metH
+Thaumarchaeota_ASW8_contig29_4	42.8	K02201	pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]	putative pantetheine-phosphate adenylyltransferase
+Thaumarchaeota_ASW8_contig29_5	46.9	K01265	methionyl aminopeptidase [EC:3.4.11.18]	map
+Thaumarchaeota_ASW8_contig29_5	44.8	K01265	methionyl aminopeptidase [EC:3.4.11.18]	map
+Thaumarchaeota_ASW8_contig29_5	46.4	K01265	methionyl aminopeptidase [EC:3.4.11.18]	map
+Thaumarchaeota_ASW8_contig29_8	58.1	K01867	tryptophanyl-tRNA synthetase [EC:6.1.1.2]	trpS
+Thaumarchaeota_ASW8_contig29_9	50.4	K01889	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	phenylalanyl-tRNA synthetase, alpha subunit (EC:6.1.1.20)
+Thaumarchaeota_ASW8_contig29_9	48.1	K01889	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	pheS
+Thaumarchaeota_ASW8_contig29_9	49.7	K01889	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	pheS
+Thaumarchaeota_ASW8_contig29_10	40.6	K01890	phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	pheT
+Thaumarchaeota_ASW8_contig29_10	40.8	K01890	phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	phenylalanyl-tRNA synthetase beta subunit (EC:6.1.1.20)
+Thaumarchaeota_ASW8_contig29_11	68.0	K03768	peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]	ppiB
+Thaumarchaeota_ASW8_contig30_2	33.8	K18882	DNA primase large subunit [EC:2.7.7.-]	DNA primase
+Thaumarchaeota_ASW8_contig30_3	37.1	K02683	DNA primase small subunit [EC:2.7.7.-]	DNA primase small subunit
+Thaumarchaeota_ASW8_contig30_4	29.8	K09723	DNA replication factor GINS	hypothetical protein
+Thaumarchaeota_ASW8_contig30_5	64.4	K02929	large subunit ribosomal protein L44e	rpl44e
+Thaumarchaeota_ASW8_contig30_5	63.3	K02929	large subunit ribosomal protein L44e	LSU ribosomal protein L44E
+Thaumarchaeota_ASW8_contig30_6	46.2	K02978	small subunit ribosomal protein S27e	rps27e
+Thaumarchaeota_ASW8_contig30_7	39.3	K07151	dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.99.18]	dolichyl-diphosphooligosaccharide--protein glycotransferase (EC:2.4.99.18)
+Thaumarchaeota_ASW8_contig30_8	56.0	K11130	H/ACA ribonucleoprotein complex subunit 3	RNA-binding protein Nop10p
+Thaumarchaeota_ASW8_contig30_8	55.3	K11130	H/ACA ribonucleoprotein complex subunit 3	RNA-binding protein Nop10p
+Thaumarchaeota_ASW8_contig30_8	66.0	K11130	H/ACA ribonucleoprotein complex subunit 3	RNA-binding protein Nop10p
+Thaumarchaeota_ASW8_contig30_9	40.5	K03237	translation initiation factor 2 subunit 1	eif2a
+Thaumarchaeota_ASW8_contig31_2	48.5	K11956	neutral amino acid transport system permease protein	livH
+Thaumarchaeota_ASW8_contig31_3	48.8	K01998	branched-chain amino acid transport system permease protein	ABC transporter permease
+Thaumarchaeota_ASW8_contig31_4	49.0	K01995	branched-chain amino acid transport system ATP-binding protein	ABC-type branched-chain amino acid transport systems, ATPase component
+Thaumarchaeota_ASW8_contig31_4	49.0	K01995	branched-chain amino acid transport system ATP-binding protein	livG1
+Thaumarchaeota_ASW8_contig31_4	48.4	K01995	branched-chain amino acid transport system ATP-binding protein	Monosaccharide-transporting ATPase (EC:3.6.3.17)
+Thaumarchaeota_ASW8_contig31_4	48.0	K01995	branched-chain amino acid transport system ATP-binding protein	livG-8
+Thaumarchaeota_ASW8_contig31_4	48.4	K01995	branched-chain amino acid transport system ATP-binding protein	livG8
+Thaumarchaeota_ASW8_contig31_4	48.4	K01995	branched-chain amino acid transport system ATP-binding protein	branched-chain amino acid ABC transporter ATPase
+Thaumarchaeota_ASW8_contig31_4	48.4	K01995	branched-chain amino acid transport system ATP-binding protein	branched-chain amino acid ABC transporter ATPase
+Thaumarchaeota_ASW8_contig31_5	52.1	K01996	branched-chain amino acid transport system ATP-binding protein	Fe(3+)-transporting ATPase
+Thaumarchaeota_ASW8_contig31_6	36.5	K01999	branched-chain amino acid transport system substrate-binding protein	livK2
+Thaumarchaeota_ASW8_contig31_8	36.0	K03699	putative hemolysin	integral membrane protein
+Thaumarchaeota_ASW8_contig31_9	43.7	K03809	NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	repressor
+Thaumarchaeota_ASW8_contig31_10	41.3	K12234	coenzyme F420-0:L-glutamate ligase / coenzyme F420-1:gamma-L-glutamate ligase [EC:6.3.2.31 6.3.2.34]	F420-dependent oxidoreductase
+Thaumarchaeota_ASW8_contig31_12	31.6	K06019	pyrophosphatase PpaX [EC:3.6.1.1]	HAD-superfamily hydrolase
+Thaumarchaeota_ASW8_contig31_12	31.6	K06019	pyrophosphatase PpaX [EC:3.6.1.1]	ppaX
+Thaumarchaeota_ASW8_contig31_12	31.6	K06019	pyrophosphatase PpaX [EC:3.6.1.1]	ppaX
+Thaumarchaeota_ASW8_contig31_12	30.8	K06019	pyrophosphatase PpaX [EC:3.6.1.1]	ppaX
+Thaumarchaeota_ASW8_contig31_13	63.7	K02946	small subunit ribosomal protein S10	rps10p
+Thaumarchaeota_ASW8_contig32_1	74.5	K02433	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]	gatA
+Thaumarchaeota_ASW8_contig32_1	73.9	K02433	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]	aatA
+Thaumarchaeota_ASW8_contig32_3	48.2	K01876	aspartyl-tRNA synthetase [EC:6.1.1.12]	aspartyl-tRNA synthetase
+Thaumarchaeota_ASW8_contig32_3	47.2	K01876	aspartyl-tRNA synthetase [EC:6.1.1.12]	aspS1
+Thaumarchaeota_ASW8_contig32_4	38.9	K00344	NADPH2:quinone reductase [EC:1.6.5.5]	qor1
+Thaumarchaeota_ASW8_contig32_5	23.6	K00754		glycosyl transferase family protein (EC:2.4.1.-)
+Thaumarchaeota_ASW8_contig32_6	57.4	K01874	methionyl-tRNA synthetase [EC:6.1.1.10]	methionyl-tRNA synthetase (EC:6.1.1.10)
+Thaumarchaeota_ASW8_contig32_7	27.3	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	quinoprotein alcohol dehydrogenase (EC:1.1.99.8)
+Thaumarchaeota_ASW8_contig33_1	61.9	K00341	NADH-quinone oxidoreductase subunit L [EC:1.6.5.3]	nuoL
+Thaumarchaeota_ASW8_contig33_2	49.6	K00342	NADH-quinone oxidoreductase subunit M [EC:1.6.5.3]	Proton-translocating NADH-quinone oxidoreductase, chain M (EC:1.6.99.5)
+Thaumarchaeota_ASW8_contig33_2	49.6	K00342	NADH-quinone oxidoreductase subunit M [EC:1.6.5.3]	proton-translocating NADH-quinone oxidoreductase subunit M
+Thaumarchaeota_ASW8_contig33_3	52.0	K00340	NADH-quinone oxidoreductase subunit K [EC:1.6.5.3]	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K) (EC:1.6.5.3)
+Thaumarchaeota_ASW8_contig33_3	51.0	K00340	NADH-quinone oxidoreductase subunit K [EC:1.6.5.3]	nuoK
+Thaumarchaeota_ASW8_contig33_4	42.4	K00339	NADH-quinone oxidoreductase subunit J [EC:1.6.5.3]	nuoJ
+Thaumarchaeota_ASW8_contig33_5	55.3	K00338	NADH-quinone oxidoreductase subunit I [EC:1.6.5.3]	nuoI
+Thaumarchaeota_ASW8_contig33_6	48.3	K00337	NADH-quinone oxidoreductase subunit H [EC:1.6.5.3]	nuoH
+Thaumarchaeota_ASW8_contig33_7	59.3	K00333	NADH-quinone oxidoreductase subunit D [EC:1.6.5.3]	NADH dehydrogenase subunit D (EC:1.6.5.3)
+Thaumarchaeota_ASW8_contig33_7	59.6	K00333	NADH-quinone oxidoreductase subunit D [EC:1.6.5.3]	nuoD
+Thaumarchaeota_ASW8_contig33_8	41.2	K00332	NADH-quinone oxidoreductase subunit C [EC:1.6.5.3]	nuoC
+Thaumarchaeota_ASW8_contig33_8	39.9	K00332	NADH-quinone oxidoreductase subunit C [EC:1.6.5.3]	NADH:ubiquinone oxidoreductase 27 kD subunit (EC:1.6.5.3)
+Thaumarchaeota_ASW8_contig33_9	71.2	K00331	NADH-quinone oxidoreductase subunit B [EC:1.6.5.3]	nuoB1
+Thaumarchaeota_ASW8_contig33_10	42.5	K00330	NADH-quinone oxidoreductase subunit A [EC:1.6.5.3]	NADH-ubiquinone/plastoquinone oxidoreductase subunit 3
+Thaumarchaeota_ASW8_contig33_10	43.9	K00330	NADH-quinone oxidoreductase subunit A [EC:1.6.5.3]	NADH-ubiquinone/plastoquinone oxidoreductase, chain 3
+Thaumarchaeota_ASW8_contig33_10	44.3	K00330	NADH-quinone oxidoreductase subunit A [EC:1.6.5.3]	NADH-ubiquinone/plastoquinone oxidoreductase subunit 3
+Thaumarchaeota_ASW8_contig34_2	42.1	K05967	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig34_3	46.8	K09140	pre-rRNA-processing protein TSR3	hypothetical protein
+Thaumarchaeota_ASW8_contig34_3	44.8	K09140	pre-rRNA-processing protein TSR3	hypothetical protein
+Thaumarchaeota_ASW8_contig34_3	46.1	K09140	pre-rRNA-processing protein TSR3	hypothetical protein
+Thaumarchaeota_ASW8_contig34_4	44.7	K07108	uncharacterized protein	conserved hypothetical protein
+Thaumarchaeota_ASW8_contig34_5	29.7	K00784	ribonuclease Z [EC:3.1.26.11]	hypothetical protein
+Thaumarchaeota_ASW8_contig34_5	29.7	K00784	ribonuclease Z [EC:3.1.26.11]	ribonuclease Z (EC:3.1.26.11)
+Thaumarchaeota_ASW8_contig34_5	29.7	K00784	ribonuclease Z [EC:3.1.26.11]	ribonuclease Z (EC:3.1.26.11)
+Thaumarchaeota_ASW8_contig34_5	30.1	K00784	ribonuclease Z [EC:3.1.26.11]	ribonuclease Z (EC:3.1.26.11)
+Thaumarchaeota_ASW8_contig34_5	29.7	K00784	ribonuclease Z [EC:3.1.26.11]	ribonuclease Z (EC:3.1.26.11)
+Thaumarchaeota_ASW8_contig34_6	43.4	K01737	6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]	hypothetical protein
+Thaumarchaeota_ASW8_contig34_7	40.1	K06920	7-cyano-7-deazaguanine synthase [EC:6.3.4.20]	Queuosine synthesis
+Thaumarchaeota_ASW8_contig34_9	36.2	K01069	hydroxyacylglutathione hydrolase [EC:3.1.2.6]	gloB_9
+Thaumarchaeota_ASW8_contig34_10	40.1	K17759	NAD(P)H-hydrate epimerase [EC:5.1.99.6]	carbohydrate kinase
+Thaumarchaeota_ASW8_contig34_15	38.1	K03168	DNA topoisomerase I [EC:5.99.1.2]	topA
+Thaumarchaeota_ASW8_contig34_15	38.8	K03168	DNA topoisomerase I [EC:5.99.1.2]	topA
+Thaumarchaeota_ASW8_contig34_16	35.3	K14647	minor extracellular serine protease Vpr [EC:3.4.21.-]	peptidase S8
+Thaumarchaeota_ASW8_contig34_17	60.0	K01873	valyl-tRNA synthetase [EC:6.1.1.9]	valS
+Thaumarchaeota_ASW8_contig34_17	60.9	K01873	valyl-tRNA synthetase [EC:6.1.1.9]	valS
+Thaumarchaeota_ASW8_contig34_17	61.0	K01873	valyl-tRNA synthetase [EC:6.1.1.9]	valS
+Thaumarchaeota_ASW8_contig34_17	61.9	K01873	valyl-tRNA synthetase [EC:6.1.1.9]	valyl-tRNA synthetase
+Thaumarchaeota_ASW8_contig34_18	49.6	K03265	peptide chain release factor subunit 1	peptide chain release factor subunit 1 (aeRF-1)
+Thaumarchaeota_ASW8_contig34_18	49.2	K03265	peptide chain release factor subunit 1	prf
+Thaumarchaeota_ASW8_contig34_19	50.9	K09903	uridylate kinase [EC:2.7.4.22]	pyrH
+Thaumarchaeota_ASW8_contig34_20	61.4	K01496	phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19]	phosphoribosyl-AMP cyclohydrolase (EC:3.5.4.19)
+Thaumarchaeota_ASW8_contig34_21	64.8	K02500	cyclase [EC:4.1.3.-]	hisF
+Thaumarchaeota_ASW8_contig34_22	42.8	K01814	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]	putative 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase
+Thaumarchaeota_ASW8_contig34_23	47.7	K02501	glutamine amidotransferase [EC:2.4.2.-]	glutamine amidotransferase (EC:2.4.2.-)
+Thaumarchaeota_ASW8_contig34_24	53.6	K01693	imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]	imidazoleglycerol-phosphate dehydratase (EC:4.2.1.19)
+Thaumarchaeota_ASW8_contig34_26	49.0	K00013	histidinol dehydrogenase [EC:1.1.1.23]	hisD
+Thaumarchaeota_ASW8_contig34_27	51.7	K00765	ATP phosphoribosyltransferase [EC:2.4.2.17]	ATP phosphoribosyltransferase HisG (EC:2.4.2.17)
+Thaumarchaeota_ASW8_contig34_27	54.0	K00765	ATP phosphoribosyltransferase [EC:2.4.2.17]	ATP phosphoribosyltransferase (EC:2.4.2.17)
+Thaumarchaeota_ASW8_contig34_28	35.9	K02617	phenylacetic acid degradation protein	isoleucine patch superfamily enzyme, carbonic anhydrase/acetyltransferase
+Thaumarchaeota_ASW8_contig34_29	60.8	K07305	peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12]	msrB
+Thaumarchaeota_ASW8_contig34_30	46.3	K01170	tRNA-intron endonuclease, archaea type [EC:3.1.27.9]	tRNA intron endonuclease
+Thaumarchaeota_ASW8_contig34_30	48.4	K01170	tRNA-intron endonuclease, archaea type [EC:3.1.27.9]	tRNA intron endonuclease
+Thaumarchaeota_ASW8_contig34_31	39.9	K17105	geranylgeranylglycerol-phosphate geranylgeranyltransferase [EC:2.5.1.42]	putative (S)-2,3-Di-O-farnesylgeranylglyceryl synthase
+Thaumarchaeota_ASW8_contig34_32	32.8	K04800	replication factor C large subunit	ATPase central domain-containing protein
+Thaumarchaeota_ASW8_contig34_33	53.7	K01875	seryl-tRNA synthetase [EC:6.1.1.11]	seryl-tRNA synthetase (EC:6.1.1.11)
+Thaumarchaeota_ASW8_contig34_33	53.0	K01875	seryl-tRNA synthetase [EC:6.1.1.11]	serS
+Thaumarchaeota_ASW8_contig34_35	56.1	K02956	small subunit ribosomal protein S15	rps
+Thaumarchaeota_ASW8_contig34_35	56.8	K02956	small subunit ribosomal protein S15	rps15p
+Thaumarchaeota_ASW8_contig34_35	56.1	K02956	small subunit ribosomal protein S15	rps15p
+Thaumarchaeota_ASW8_contig34_35	55.4	K02956	small subunit ribosomal protein S15	rps
+Thaumarchaeota_ASW8_contig34_36	44.9	K02428	XTP/dITP diphosphohydrolase [EC:3.6.1.66]	ditpase (EC:3.6.1.15 3.6.1.-)
+Thaumarchaeota_ASW8_contig34_36	47.2	K02428	XTP/dITP diphosphohydrolase [EC:3.6.1.66]	RdgB/HAM1 family non-canonical purine NTP pyrophosphatase
+Thaumarchaeota_ASW8_contig34_37	45.2	K08851	TP53 regulating kinase and related kinases [EC:2.7.11.1]	Mn2+-dependent serine/threonine protein kinase
+Thaumarchaeota_ASW8_contig34_38	60.5	K01409	N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]	putative metalloendopeptidase glycoprotease family
+Thaumarchaeota_ASW8_contig34_39	32.2	K07581	RNA-binding protein	uncharacterized protein family UPF0201
+Thaumarchaeota_ASW8_contig35_3	52.5	K01733	threonine synthase [EC:4.2.3.1]	threonine synthase
+Thaumarchaeota_ASW8_contig35_3	52.9	K01733	threonine synthase [EC:4.2.3.1]	threonine synthase
+Thaumarchaeota_ASW8_contig35_4	49.0	K00872	homoserine kinase [EC:2.7.1.39]	thrB
+Thaumarchaeota_ASW8_contig35_4	46.4	K00872	homoserine kinase [EC:2.7.1.39]	homoserine kinase
+Thaumarchaeota_ASW8_contig35_5	48.5	K00003	homoserine dehydrogenase [EC:1.1.1.3]	hom
+Thaumarchaeota_ASW8_contig35_6	43.1	K00928	aspartate kinase [EC:2.7.2.4]	LysC
+Thaumarchaeota_ASW8_contig35_7	59.8	K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	asd
+Thaumarchaeota_ASW8_contig35_7	59.2	K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	aspartate-semialdehyde dehydrogenase (EC:1.2.1.11)
+Thaumarchaeota_ASW8_contig35_8	50.0	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	putative transcriptional regulator, AsnC family
+Thaumarchaeota_ASW8_contig35_8	50.0	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	transcriptional regulator
+Thaumarchaeota_ASW8_contig35_8	52.8	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	putative HTH-type transcriptional regulator LrpA
+Thaumarchaeota_ASW8_contig36_1	42.7	K09497	T-complex protein 1 subunit epsilon	T-complex protein 1, epsilon subunit
+Thaumarchaeota_ASW8_contig36_1	42.4	K09497	T-complex protein 1 subunit epsilon	T-complex protein 1 epsilon subunit
+Thaumarchaeota_ASW8_contig36_1	42.6	K09497	T-complex protein 1 subunit epsilon	T-complex protein 1 epsilon subunit
+Thaumarchaeota_ASW8_contig36_3	38.6	K03592	PmbA protein	zinc-dependent protease
+Thaumarchaeota_ASW8_contig36_4	44.6	K03568	TldD protein	TldD-like protein
+Thaumarchaeota_ASW8_contig36_4	45.1	K03568	TldD protein	peptidase U62, modulator of DNA gyrase
+Thaumarchaeota_ASW8_contig36_5	50.8	K06865	ATPase	conserved hypothetical protein
+Thaumarchaeota_ASW8_contig37_1	45.3	K02982	small subunit ribosomal protein S3	rps
+Thaumarchaeota_ASW8_contig37_1	45.3	K02982	small subunit ribosomal protein S3	30S ribosomal protein S3
+Thaumarchaeota_ASW8_contig37_1	46.3	K02982	small subunit ribosomal protein S3	30S ribosomal protein S3
+Thaumarchaeota_ASW8_contig37_1	45.4	K02982	small subunit ribosomal protein S3	30S ribosomal protein S3
+Thaumarchaeota_ASW8_contig37_2	52.3	K02890	large subunit ribosomal protein L22	50S ribosomal protein L22
+Thaumarchaeota_ASW8_contig37_2	47.3	K02890	large subunit ribosomal protein L22	LSU ribosomal protein L22P (rpl22P)
+Thaumarchaeota_ASW8_contig37_2	47.3	K02890	large subunit ribosomal protein L22	ribosomal protein L22(archaeal)
+Thaumarchaeota_ASW8_contig37_3	62.0	K02965	small subunit ribosomal protein S19	30S ribosomal protein S15
+Thaumarchaeota_ASW8_contig37_4	50.4	K02886	large subunit ribosomal protein L2	LSU ribosomal protein L2P
+Thaumarchaeota_ASW8_contig37_4	49.6	K02886	large subunit ribosomal protein L2	rpl2p
+Thaumarchaeota_ASW8_contig37_5	54.5	K02892	large subunit ribosomal protein L23	LSU ribosomal protein L23P
+Thaumarchaeota_ASW8_contig37_6	44.5	K02930	large subunit ribosomal protein L4e	rpl4p
+Thaumarchaeota_ASW8_contig37_6	44.5	K02930	large subunit ribosomal protein L4e	50S ribosomal protein L4P
+Thaumarchaeota_ASW8_contig37_7	50.0	K02906	large subunit ribosomal protein L3	rpl3p
+Thaumarchaeota_ASW8_contig37_7	49.1	K02906	large subunit ribosomal protein L3	archaeal ribosomal protein L3
+Thaumarchaeota_ASW8_contig37_9	52.2	K10747	DNA ligase 1 [EC:6.5.1.1 6.5.1.6 6.5.1.7]	lig
+Thaumarchaeota_ASW8_contig37_10	44.7	K07220	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig37_10	44.2	K07220	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig37_11	58.8	K01170	tRNA-intron endonuclease, archaea type [EC:3.1.27.9]	endA1
+Thaumarchaeota_ASW8_contig37_12	48.2	K07442	tRNA (adenine57-N1/adenine58-N1)-methyltransferase [EC:2.1.1.219 2.1.1.220]	putative tRNA methyltransferase complex GCD14 subunit
+Thaumarchaeota_ASW8_contig38_2	45.6	K00257		mmqC
+Thaumarchaeota_ASW8_contig38_2	44.8	K00248	butyryl-CoA dehydrogenase [EC:1.3.8.1]	bcd
+Thaumarchaeota_ASW8_contig38_3	31.5	K00257		mmqC
+Thaumarchaeota_ASW8_contig38_3	30.6	K00257		mmgC
+Thaumarchaeota_ASW8_contig38_3	31.0	K00248	butyryl-CoA dehydrogenase [EC:1.3.8.1]	butyryl-CoA dehydrogenase (EC:1.3.99.2)
+Thaumarchaeota_ASW8_contig38_3	30.6	K00249	acyl-CoA dehydrogenase [EC:1.3.8.7]	acdA
+Thaumarchaeota_ASW8_contig38_4	32.9	K19225	rhomboid protease GluP [EC:3.4.21.105]	integral membrane protein rhomboid-like protein
+Thaumarchaeota_ASW8_contig38_5	61.9	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	propanoyl-CoA C-acyltransferase
+Thaumarchaeota_ASW8_contig38_5	61.1	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	propanoyl-CoA C-acyltransferase (EC:2.3.1.176)
+Thaumarchaeota_ASW8_contig38_5	61.1	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	propanoyl-CoA C-acyltransferase
+Thaumarchaeota_ASW8_contig38_7	42.0	K00074	3-hydroxybutyryl-CoA dehydrogenase [EC:1.1.1.157]	hypothetical protein
+Thaumarchaeota_ASW8_contig38_8	45.9	K01715	enoyl-CoA hydratase [EC:4.2.1.17]	enoyl-CoA hydratase/isomerase
+Thaumarchaeota_ASW8_contig39_1	54.6	K01956	carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	carbamoylphosphate synthase small subunit (EC:6.3.5.5)
+Thaumarchaeota_ASW8_contig39_1	54.2	K01956	carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	carbamoyl phosphate synthase small subunit
+Thaumarchaeota_ASW8_contig39_1	53.0	K01956	carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	carbamoyl-phosphate synthase small subunit
+Thaumarchaeota_ASW8_contig39_2	57.6	K01955	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	carB
+Thaumarchaeota_ASW8_contig39_2	57.3	K01955	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	carbamoyl-phosphate synthase large subunit
+Thaumarchaeota_ASW8_contig39_2	57.6	K01955	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	carB
+Thaumarchaeota_ASW8_contig39_3	51.7	K01079	phosphoserine phosphatase [EC:3.1.3.3]	serB
+Thaumarchaeota_ASW8_contig39_4	53.3	K02966	small subunit ribosomal protein S19e	rps19e
+Thaumarchaeota_ASW8_contig39_5	43.2	K03540	ribonuclease P protein subunit RPR2 [EC:3.1.26.5]	RNase P subunit
+Thaumarchaeota_ASW8_contig39_5	45.7	K03540	ribonuclease P protein subunit RPR2 [EC:3.1.26.5]	rnp
+Thaumarchaeota_ASW8_contig39_6	39.1	K14568	rRNA small subunit pseudouridine methyltransferase Nep1 [EC:2.1.1.260]	nep
+Thaumarchaeota_ASW8_contig39_6	41.1	K14568	rRNA small subunit pseudouridine methyltransferase Nep1 [EC:2.1.1.260]	EMG1/NEP1 methyltransferase
+Thaumarchaeota_ASW8_contig39_7	30.2	K07024	uncharacterized protein	Phosphoglycolate phosphatase, archaeal type (EC:3.1.3.18)
+Thaumarchaeota_ASW8_contig39_7	30.5	K07024	uncharacterized protein	phosphoglycolate phosphatase (EC:3.1.3.18)
+Thaumarchaeota_ASW8_contig40_5	56.4	K01654	N-acetylneuraminate synthase [EC:2.5.1.56]	2SCK8.07
+Thaumarchaeota_ASW8_contig40_5	58.5	K01654	N-acetylneuraminate synthase [EC:2.5.1.56]	N-acetylneuraminate synthase (EC:2.5.1.56)
+Thaumarchaeota_ASW8_contig40_5	57.4	K01654	N-acetylneuraminate synthase [EC:2.5.1.56]	N-acetylneuraminic acid (Neu5Ac) synthase
+Thaumarchaeota_ASW8_contig40_7	39.1	K15894	UDP-N-acetylglucosamine 4,6-dehydratase [EC:4.2.1.115]	pseB
+Thaumarchaeota_ASW8_contig40_7	42.5	K15894	UDP-N-acetylglucosamine 4,6-dehydratase [EC:4.2.1.115]	pseB
+Thaumarchaeota_ASW8_contig40_7	42.6	K15894	UDP-N-acetylglucosamine 4,6-dehydratase [EC:4.2.1.115]	pseB
+Thaumarchaeota_ASW8_contig40_8	34.8	K00067	dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]	dTDP-4-dehydrorhamnose reductase
+Thaumarchaeota_ASW8_contig40_9	51.7	K01654	N-acetylneuraminate synthase [EC:2.5.1.56]	putative N-acetylneuraminate synthase
+Thaumarchaeota_ASW8_contig40_9	49.4	K01654	N-acetylneuraminate synthase [EC:2.5.1.56]	N-acetylneuraminate synthase (EC:2.5.1.56)
+Thaumarchaeota_ASW8_contig41_1	62.5	K03665	GTPase	hflX
+Thaumarchaeota_ASW8_contig41_1	62.8	K03665	GTPase	GTP1/OBG protein
+Thaumarchaeota_ASW8_contig41_2	37.4	K02011	iron(III) transport system permease protein	binding-protein-dependent transport system inner membrane protein
+Thaumarchaeota_ASW8_contig41_2	37.4	K02011	iron(III) transport system permease protein	binding-protein-dependent transport systems inner membrane component
+Thaumarchaeota_ASW8_contig41_3	33.7	K03431	phosphoglucosamine mutase [EC:5.4.2.10]	phosphoglucosamine mutase (EC:5.4.2.10)
+Thaumarchaeota_ASW8_contig41_5	30.3	K08979	putative membrane protein	conserved membrane protein of unknown function
+Thaumarchaeota_ASW8_contig42_1	45.7	K04043	molecular chaperone DnaK	dnaK
+Thaumarchaeota_ASW8_contig42_1	46.2	K04043	molecular chaperone DnaK	dnaK
+Thaumarchaeota_ASW8_contig42_1	43.5	K04043	molecular chaperone DnaK	chaperone DnaK
+Thaumarchaeota_ASW8_contig42_1	43.8	K04043	molecular chaperone DnaK	dnaK
+Thaumarchaeota_ASW8_contig42_1	46.0	K04043	molecular chaperone DnaK	dnaK
+Thaumarchaeota_ASW8_contig42_1	44.1	K04043	molecular chaperone DnaK	chaperone protein DnaK
+Thaumarchaeota_ASW8_contig42_3	39.9	K01601	ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39]	ribulose 1,5-bisphosphate carboxylase large subunit (EC:4.1.1.39)
+Thaumarchaeota_ASW8_contig42_4	27.5	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	NAD-dependent epimerase
+Thaumarchaeota_ASW8_contig42_5	53.4	K00616	transaldolase [EC:2.2.1.2]	transaldolase
+Thaumarchaeota_ASW8_contig42_5	54.3	K00616	transaldolase [EC:2.2.1.2]	transaldolase
+Thaumarchaeota_ASW8_contig42_6	58.8	K00615	transketolase [EC:2.2.1.1]	cbbT
+Thaumarchaeota_ASW8_contig42_6	59.1	K00615	transketolase [EC:2.2.1.1]	transketolase
+Thaumarchaeota_ASW8_contig43_2	28.9	K01101	4-nitrophenyl phosphatase [EC:3.1.3.41]	HAD-superfamily hydrolase
+Thaumarchaeota_ASW8_contig43_3	47.6	K02334	DNA polymerase bacteriophage-type [EC:2.7.7.7]	phage SPO1 DNA polymerase-related protein
+Thaumarchaeota_ASW8_contig43_3	44.1	K02334	DNA polymerase bacteriophage-type [EC:2.7.7.7]	uracil-DNA glycosylase, family 4 (EC:3.2.2.-)
+Thaumarchaeota_ASW8_contig43_4	55.4	K10773	endonuclease III [EC:4.2.99.18]	nth
+Thaumarchaeota_ASW8_contig43_4	62.8	K10773	endonuclease III [EC:4.2.99.18]	nth
+Thaumarchaeota_ASW8_contig43_5	40.2	K03465	thymidylate synthase (FAD) [EC:2.1.1.148]	thymidylate synthase, flavin-dependent
+Thaumarchaeota_ASW8_contig43_6	50.2	K01433	formyltetrahydrofolate deformylase [EC:3.5.1.10]	purU
+Thaumarchaeota_ASW8_contig43_8	38.5	K06953	uncharacterized protein	putative phosphoesterase, ICC
+Thaumarchaeota_ASW8_contig43_8	42.6	K06953	uncharacterized protein	Metallophosphoesterase
+Thaumarchaeota_ASW8_contig43_9	56.5	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	fructose-bisphosphate aldolase (EC:4.1.2.13)
+Thaumarchaeota_ASW8_contig43_9	56.7	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	fructose-1,6-bisphosphate aldolase
+Thaumarchaeota_ASW8_contig43_9	56.9	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	fba
+Thaumarchaeota_ASW8_contig43_10	55.5	K00850	6-phosphofructokinase 1 [EC:2.7.1.11]	phosphofructokinase
+Thaumarchaeota_ASW8_contig45_1	66.4	K03124	transcription initiation factor TFIIB	tfb5
+Thaumarchaeota_ASW8_contig45_1	66.4	K03124	transcription initiation factor TFIIB	tfb1
+Thaumarchaeota_ASW8_contig45_1	66.4	K03124	transcription initiation factor TFIIB	Transcription initiation factor IIB (TFIIB)
+Thaumarchaeota_ASW8_contig45_2	54.9	K01868	threonyl-tRNA synthetase [EC:6.1.1.3]	thrS
+Thaumarchaeota_ASW8_contig45_2	55.2	K01868	threonyl-tRNA synthetase [EC:6.1.1.3]	threonyl-tRNA ligase (EC:6.1.1.3)
+Thaumarchaeota_ASW8_contig45_4	38.3	K17884	archaetidylinositol phosphate synthase [EC:2.7.8.39]	CDP-alcohol phosphatidyltransferase
+Thaumarchaeota_ASW8_contig45_5	68.5	K02976	small subunit ribosomal protein S26e	rps26e
+Thaumarchaeota_ASW8_contig45_8	48.2	K00966	mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	nucleoside-diphosphate-sugar pyrophosphorylase
+Thaumarchaeota_ASW8_contig45_10	34.2	K15916	glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8]	bifunctional phosphoglucose/phosphomannose isomerase
+Thaumarchaeota_ASW8_contig45_10	35.4	K15916	glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8]	bifunctional phosphoglucose/phosphomannose isomerase (EC:5.3.1.8)
+Thaumarchaeota_ASW8_contig45_10	35.4	K15916	glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8]	Bifunctional phosphoglucose/phosphomannose isomerase (EC:5.3.1.8 5.3.1.9)
+Thaumarchaeota_ASW8_contig45_12	43.8	K01834	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]	gpmA
+Thaumarchaeota_ASW8_contig45_13	42.9	K01586	diaminopimelate decarboxylase [EC:4.1.1.20]	diaminopimelate decarboxylase (EC:4.1.1.20)
+Thaumarchaeota_ASW8_contig45_16	53.4	K03014	DNA-directed RNA polymerases I, II, and III subunit RPABC2	RNA polymerase Rpb6
+Thaumarchaeota_ASW8_contig45_16	50.0	K03055	DNA-directed RNA polymerase subunit K [EC:2.7.7.6]	rpoK
+Thaumarchaeota_ASW8_contig45_16	53.4	K03014	DNA-directed RNA polymerases I, II, and III subunit RPABC2	RNA polymerase Rpb6
+Thaumarchaeota_ASW8_contig45_16	51.3	K03014	DNA-directed RNA polymerases I, II, and III subunit RPABC2	DNA-directed RNA polymerase, subunit K/omega (EC:2.7.7.6)
+Thaumarchaeota_ASW8_contig45_16	53.9	K03014	DNA-directed RNA polymerases I, II, and III subunit RPABC2	rpoK
+Thaumarchaeota_ASW8_contig45_19	36.2	K09142	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig45_20	49.5	K00058	D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	serA
+Thaumarchaeota_ASW8_contig45_24	48.5	K07159	uncharacterized protein	putative 3-isopropylmalate dehydratase
+Thaumarchaeota_ASW8_contig45_24	48.5	K07159	uncharacterized protein	TIGR00162 family protein
+Thaumarchaeota_ASW8_contig45_25	46.1	K07159	uncharacterized protein	TIGR00162 family protein
+Thaumarchaeota_ASW8_contig45_25	42.4	K07159	uncharacterized protein	putative 3-isopropylmalate dehydratase
+Thaumarchaeota_ASW8_contig45_27	68.5	K14415	tRNA-splicing ligase RtcB [EC:6.5.1.3]	hypothetical protein
+Thaumarchaeota_ASW8_contig45_27	68.8	K14415	tRNA-splicing ligase RtcB [EC:6.5.1.3]	protein of unknown function UPF0027
+Thaumarchaeota_ASW8_contig45_29	32.0	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	asparagine synthase
+Thaumarchaeota_ASW8_contig45_29	33.2	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	asparagine synthetase
+Thaumarchaeota_ASW8_contig45_30	43.1	K03726	helicase [EC:3.6.4.-]	putative ski2-type helicase (EC:3.6.4.-)
+Thaumarchaeota_ASW8_contig45_30	43.9	K03726	helicase [EC:3.6.4.-]	DEAD/DEAH box helicase
+Thaumarchaeota_ASW8_contig45_30	43.7	K03726	helicase [EC:3.6.4.-]	putative ski2-type helicase (EC:3.6.4.-)
+Thaumarchaeota_ASW8_contig45_31	52.3	K10726	replicative DNA helicase Mcm [EC:3.6.4.-]	Cdc46/Mcm DNA replication licensing factor ATPase
+Thaumarchaeota_ASW8_contig45_31	52.9	K10726	replicative DNA helicase Mcm [EC:3.6.4.-]	MCM family protein
+Thaumarchaeota_ASW8_contig45_31	52.9	K10726	replicative DNA helicase Mcm [EC:3.6.4.-]	MCM family protein
+Thaumarchaeota_ASW8_contig45_31	52.9	K10726	replicative DNA helicase Mcm [EC:3.6.4.-]	MCM2/3/5 family protein
+Thaumarchaeota_ASW8_contig45_31	52.6	K10726	replicative DNA helicase Mcm [EC:3.6.4.-]	MCM family protein
+Thaumarchaeota_ASW8_contig46_2	34.2	K03546	exonuclease SbcC	SMC protein
+Thaumarchaeota_ASW8_contig46_6	47.9	K07569	RNA-binding protein	hypothetical protein
+Thaumarchaeota_ASW8_contig46_7	41.2	K03124	transcription initiation factor TFIIB	tfb4
+Thaumarchaeota_ASW8_contig46_7	41.2	K03124	transcription initiation factor TFIIB	transcription initiation factor IIB 2
+Thaumarchaeota_ASW8_contig46_7	41.2	K03124	transcription initiation factor TFIIB	transcription initiation factor IIB 2
+Thaumarchaeota_ASW8_contig46_7	41.1	K03124	transcription initiation factor TFIIB	tfb
+Thaumarchaeota_ASW8_contig46_7	40.0	K03124	transcription initiation factor TFIIB	tfb
+Thaumarchaeota_ASW8_contig46_7	40.0	K03124	transcription initiation factor TFIIB	transcription initiation factor TFIIIB, Brf1 subunit/transcription initiation factor TFIIB
+Thaumarchaeota_ASW8_contig46_7	41.3	K03124	transcription initiation factor TFIIB	tfbB
+Thaumarchaeota_ASW8_contig47_1	56.7	K00850	6-phosphofructokinase 1 [EC:2.7.1.11]	6-phosphofructokinase (EC:2.7.1.11)
+Thaumarchaeota_ASW8_contig47_2	47.0	K03163	DNA topoisomerase I [EC:5.99.1.2]	2-alkenal reductase
+Thaumarchaeota_ASW8_contig47_2	46.7	K03163	DNA topoisomerase I [EC:5.99.1.2]	2-alkenal reductase (EC:1.3.1.74)
+Thaumarchaeota_ASW8_contig47_5	51.8	K06915	uncharacterized protein	conserved hypothetical protein
+Thaumarchaeota_ASW8_contig47_6	38.7	K06915	uncharacterized protein	Rad32-like protein
+Thaumarchaeota_ASW8_contig48_2	55.9	K03789	ribosomal-protein-alanine N-acetyltransferase [EC:2.3.1.128]	ribosomal-protein-alanine acetyltransferase
+Thaumarchaeota_ASW8_contig48_3	40.2	K15429	tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]	putative methyltransferase
+Thaumarchaeota_ASW8_contig48_4	56.1	K06174	ATP-binding cassette, sub-family E, member 1	putative ATPase, Rnase L inhibitor (RLI) like protein
+Thaumarchaeota_ASW8_contig48_5	73.3	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily protein (EC:3.6.4.6)
+Thaumarchaeota_ASW8_contig48_5	72.8	K13525	transitional endoplasmic reticulum ATPase	cdc48-6
+Thaumarchaeota_ASW8_contig48_5	72.8	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily
+Thaumarchaeota_ASW8_contig49_2	41.2	K01803	triosephosphate isomerase (TIM) [EC:5.3.1.1]	triosephosphate isomerase (EC:5.3.1.1)
+Thaumarchaeota_ASW8_contig49_4	42.0	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	transcriptional regulatory protein, AsnC family
+Thaumarchaeota_ASW8_contig49_6	49.2	K01007	pyruvate, water dikinase [EC:2.7.9.2]	phosphoenolpyruvate synthase
+Thaumarchaeota_ASW8_contig49_6	48.8	K01007	pyruvate, water dikinase [EC:2.7.9.2]	phosphoenolpyruvate synthase
+Thaumarchaeota_ASW8_contig50_3	49.0	K01870	isoleucyl-tRNA synthetase [EC:6.1.1.5]	ileS
+Thaumarchaeota_ASW8_contig51_2	51.3	K06942	uncharacterized protein	GTP binding protein
+Thaumarchaeota_ASW8_contig51_2	51.4	K06942	uncharacterized protein	translation-associated GTPase
+Thaumarchaeota_ASW8_contig51_2	49.2	K06942	uncharacterized protein	GTP binding protein
+Thaumarchaeota_ASW8_contig51_2	49.2	K06942	uncharacterized protein	GTP-binding conserved hypothetical protein TIGR00650
+Thaumarchaeota_ASW8_contig51_3	26.8	K07025	putative hydrolase of the HAD superfamily	HAD superfamily (subfamily IA) hydrolase
+Thaumarchaeota_ASW8_contig51_4	59.6	K02877	large subunit ribosomal protein L15e	ribosomal protein L15E
+Thaumarchaeota_ASW8_contig51_6	49.2	K04794	peptidyl-tRNA hydrolase, PTH2 family [EC:3.1.1.29]	pth
+Thaumarchaeota_ASW8_contig51_7	24.1	K17830	digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]	geranylgeranyl reductase
+Thaumarchaeota_ASW8_contig51_8	34.5	K03232	elongation factor 1-beta	ef1B
+Thaumarchaeota_ASW8_contig52_1	41.8	K00764	amidophosphoribosyltransferase [EC:2.4.2.14]	Amidophosphoribosyltransferase (EC:2.4.2.14)
+Thaumarchaeota_ASW8_contig52_1	43.8	K00764	amidophosphoribosyltransferase [EC:2.4.2.14]	amidophosphoribosyltransferase (EC:2.4.2.14)
+Thaumarchaeota_ASW8_contig52_2	52.2	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	purL
+Thaumarchaeota_ASW8_contig52_4	55.5	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	phosphoribosylformylglycinamidine synthase I (EC:6.3.5.3)
+Thaumarchaeota_ASW8_contig52_5	40.7	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	phosphoribosylformylglycinamidine synthase PurS
+Thaumarchaeota_ASW8_contig52_6	50.9	K01151	deoxyribonuclease IV [EC:3.1.21.2]	apurinic endonuclease APN1
+Thaumarchaeota_ASW8_contig52_6	51.3	K01151	deoxyribonuclease IV [EC:3.1.21.2]	apurinic endonuclease Apn1 (EC:3.1.21.2)
+Thaumarchaeota_ASW8_contig52_6	51.6	K01151	deoxyribonuclease IV [EC:3.1.21.2]	putative endonuclease 4
+Thaumarchaeota_ASW8_contig53_1	41.5	K06966	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig53_1	40.6	K06966	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig53_2	38.3	K16048	3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase reductase component [EC:1.5.1.-]	Putative 3-hydroxy-9,10-seconandrost-1,3,5(10)-triene-9,17-dione hydroxylase
+Thaumarchaeota_ASW8_contig53_4	65.9	K01681	aconitate hydratase [EC:4.2.1.3]	aco
+Thaumarchaeota_ASW8_contig53_4	65.7	K01681	aconitate hydratase [EC:4.2.1.3]	aconitate hydratase (EC:4.2.1.3)
+Thaumarchaeota_ASW8_contig53_5	47.7	K03724	ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	ATP-dependent helicase
+Thaumarchaeota_ASW8_contig53_5	47.2	K03724	ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	ATP dependent helicase, Lhr family (EC:3.6.4.-)
+Thaumarchaeota_ASW8_contig54_1	46.5	K02316	DNA primase [EC:2.7.7.-]	DNA primase
+Thaumarchaeota_ASW8_contig54_3	59.7	K00027	malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]	NADP-dependent malic enzyme
+Thaumarchaeota_ASW8_contig54_4	35.3	K07463	archaea-specific RecJ-like exonuclease	DHHA1 domain protein
+Thaumarchaeota_ASW8_contig54_5	47.1	K03724	ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	ATP-dependent helicase
+Thaumarchaeota_ASW8_contig55_1	44.7	K14165	atypical dual specificity phosphatase [EC:3.1.3.16 3.1.3.48]	dual specificity protein phosphatase
+Thaumarchaeota_ASW8_contig55_2	50.9	K13628	iron-sulfur cluster assembly protein	hypothetical protein
+Thaumarchaeota_ASW8_contig55_2	50.0	K13628	iron-sulfur cluster assembly protein	iron-sulfur cluster assembly accessory protein
+Thaumarchaeota_ASW8_contig55_4	45.7	K01807	ribose 5-phosphate isomerase A [EC:5.3.1.6]	rpiA
+Thaumarchaeota_ASW8_contig55_7	57.9	K02922	large subunit ribosomal protein L37e	rpl37e
+Thaumarchaeota_ASW8_contig55_7	57.9	K02922	large subunit ribosomal protein L37e	50S ribosomal protein L37e
+Thaumarchaeota_ASW8_contig55_8	75.0	K04796	small nuclear ribonucleoprotein	putative small nuclear ribonucleoprotein
+Thaumarchaeota_ASW8_contig55_8	75.0	K04796	small nuclear ribonucleoprotein	putative small nuclear ribonucleoprotein
+Thaumarchaeota_ASW8_contig55_8	75.0	K04796	small nuclear ribonucleoprotein	Small nuclear ribonucleoprotein, LSM family
+Thaumarchaeota_ASW8_contig55_9	49.7	K00798	cob(I)alamin adenosyltransferase [EC:2.5.1.17]	Cob(I)alamin adenosyltransferase
+Thaumarchaeota_ASW8_contig55_11	48.5	K03671	thioredoxin 1	thioredoxin 1
+Thaumarchaeota_ASW8_contig56_1	40.0	K06965	protein pelota	pelA
+Thaumarchaeota_ASW8_contig56_2	40.2	K03926	periplasmic divalent cation tolerance protein	cation tolerance protein CutA
+Thaumarchaeota_ASW8_contig56_3	39.8	K05595	multiple antibiotic resistance protein	multiple antibiotic resistance (MarC)-like protein
+Thaumarchaeota_ASW8_contig56_4	32.4	K14168	cytoplasmic tRNA 2-thiolation protein 1 [EC:2.7.7.-]	Adenine nucleotide alpha hydrolase
+Thaumarchaeota_ASW8_contig56_4	33.7	K14168	cytoplasmic tRNA 2-thiolation protein 1 [EC:2.7.7.-]	adenine nucleotide alpha hydrolase
+Thaumarchaeota_ASW8_contig56_6	49.1	K02866	large subunit ribosomal protein L10e	50S ribosomal protein L16
+Thaumarchaeota_ASW8_contig56_6	49.7	K02866	large subunit ribosomal protein L10e	50S ribosomal protein L10e
+Thaumarchaeota_ASW8_contig56_8	32.9	K02533	tRNA/rRNA methyltransferase [EC:2.1.1.-]	SpoU rRNA methylase
+Thaumarchaeota_ASW8_contig56_8	31.6	K02533	tRNA/rRNA methyltransferase [EC:2.1.1.-]	RNA methylase
+Thaumarchaeota_ASW8_contig56_8	32.7	K02533	tRNA/rRNA methyltransferase [EC:2.1.1.-]	LasT
+Thaumarchaeota_ASW8_contig56_9	39.0	K02493	release factor glutamine methyltransferase [EC:2.1.1.297]	methylase
+Thaumarchaeota_ASW8_contig56_9	37.6	K02493	release factor glutamine methyltransferase [EC:2.1.1.297]	methylase
+Thaumarchaeota_ASW8_contig56_10	40.8	K02528	16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]	ribosomal RNA adenine methylase transferase
+Thaumarchaeota_ASW8_contig56_11	53.1	K07572	putative nucleotide binding protein	putative RNA-binding protein
+Thaumarchaeota_ASW8_contig56_12	44.7	K03051	DNA-directed RNA polymerase subunit F [EC:2.7.7.6]	RNA polymerase Rpb4
+Thaumarchaeota_ASW8_contig56_13	50.6	K02889	large subunit ribosomal protein L21e	ribosomal protein L21e
+Thaumarchaeota_ASW8_contig56_13	49.4	K02889	large subunit ribosomal protein L21e	50S ribosomal protein L21e
+Thaumarchaeota_ASW8_contig56_13	49.4	K02889	large subunit ribosomal protein L21e	rpl21e
+Thaumarchaeota_ASW8_contig56_13	48.8	K02889	large subunit ribosomal protein L21e	50S ribosomal protein L21
+Thaumarchaeota_ASW8_contig56_13	48.3	K02889	large subunit ribosomal protein L21e	50S ribosomal protein L21e
+Thaumarchaeota_ASW8_contig56_13	50.6	K02889	large subunit ribosomal protein L21e	rpl21e
+Thaumarchaeota_ASW8_contig56_14	49.3	K09866	aquaporin-4	glycerol uptake facilitator
+Thaumarchaeota_ASW8_contig56_14	45.7	K09866	aquaporin-4	major intrinsic protein
+Thaumarchaeota_ASW8_contig56_14	44.8	K06188	aquaporin Z	MIP family channel protein
+Thaumarchaeota_ASW8_contig56_15	53.2	K00518	nickel superoxide dismutase [EC:1.15.1.1]	putative nickel-containing superoxide dismutase (EC:1.15.1.1)
+Thaumarchaeota_ASW8_contig56_16	33.8	K03100	signal peptidase I [EC:3.4.21.89]	signal peptidase I
+Thaumarchaeota_ASW8_contig56_17	42.6	K00540		hypothetical protein
+Thaumarchaeota_ASW8_contig56_18	41.1	K02004	putative ABC transport system permease protein	ABC efflux transporter, FtsX-domain permease protein
+Thaumarchaeota_ASW8_contig56_20	37.2	K02031	peptide/nickel transport system ATP-binding protein	peptide ABC transporter ATP-binding protein
+Thaumarchaeota_ASW8_contig56_20	42.4	K13892	glutathione transport system ATP-binding protein	ABC transporter
+Thaumarchaeota_ASW8_contig56_20	42.4	K13892	glutathione transport system ATP-binding protein	ABC transporter
+Thaumarchaeota_ASW8_contig56_21	45.2	K02034	peptide/nickel transport system permease protein	peptide/nickel ABC transporter permease
+Thaumarchaeota_ASW8_contig56_22	54.2	K02033	peptide/nickel transport system permease protein	peptide/nickel ABC transporter permease
+Thaumarchaeota_ASW8_contig56_23	47.8	K02035	peptide/nickel transport system substrate-binding protein	peptide/nickel ABC transporter substrate-binding protein
+Thaumarchaeota_ASW8_contig56_26	41.2	K07090	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig56_26	41.9	K07090	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig56_26	41.9	K07090	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig56_28	49.5	K07466	replication factor A1	putative nucleic acid binding OB-fold tRNA/helicase-type
+Thaumarchaeota_ASW8_contig57_2	51.2	K00024	malate dehydrogenase [EC:1.1.1.37]	malate dehydrogenase (EC:1.1.1.37)
+Thaumarchaeota_ASW8_contig57_2	51.5	K00024	malate dehydrogenase [EC:1.1.1.37]	malate dehydrogenase
+Thaumarchaeota_ASW8_contig57_2	50.8	K00024	malate dehydrogenase [EC:1.1.1.37]	mdh
+Thaumarchaeota_ASW8_contig57_2	50.8	K00024	malate dehydrogenase [EC:1.1.1.37]	mdh
+Thaumarchaeota_ASW8_contig57_5	35.3	K00830	alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]	class V aminotransferase
+Thaumarchaeota_ASW8_contig57_6	40.4	K02003	putative ABC transport system ATP-binding protein	ABC transporter
+Thaumarchaeota_ASW8_contig57_6	36.3	K02003	putative ABC transport system ATP-binding protein	ABC transporter-like protein
+Thaumarchaeota_ASW8_contig57_6	36.1	K02003	putative ABC transport system ATP-binding protein	ABC transporter
+Thaumarchaeota_ASW8_contig58_1	56.9	K01915	glutamine synthetase [EC:6.3.1.2]	glutamine synthetase (EC:6.3.1.2)
+Thaumarchaeota_ASW8_contig58_2	48.7	K16789	thiamine transporter	proton-coupled thiamine transporter YuaJ
+Thaumarchaeota_ASW8_contig58_4	57.2	K06944	uncharacterized protein	small GTP-binding protein
+Thaumarchaeota_ASW8_contig58_5	57.0	K03671	thioredoxin 1	thioredoxin
+Thaumarchaeota_ASW8_contig58_5	50.5	K03671	thioredoxin 1	thioredoxin
+Thaumarchaeota_ASW8_contig58_5	51.0	K03671	thioredoxin 1	thioredoxin
+Thaumarchaeota_ASW8_contig58_5	51.4	K03671	thioredoxin 1	trxA
+Thaumarchaeota_ASW8_contig58_6	43.2	K15634	probable phosphoglycerate mutase [EC:5.4.2.12]	acid phosphatase
+Thaumarchaeota_ASW8_contig59_2	53.0	K02003	putative ABC transport system ATP-binding protein	ABC-type antimicrobial peptide transport system, ATPase component
+Thaumarchaeota_ASW8_contig59_2	51.1	K02003	putative ABC transport system ATP-binding protein	ABC transporter-like protein
+Thaumarchaeota_ASW8_contig59_2	51.1	K02003	putative ABC transport system ATP-binding protein	ABC transporter
+Thaumarchaeota_ASW8_contig59_2	55.6	K02003	putative ABC transport system ATP-binding protein	lipoprotein-releasing system ATP-binding protein
+Thaumarchaeota_ASW8_contig59_3	27.9	K03455	monovalent cation:H+ antiporter-2, CPA2 family	transporter, CPA2 family
+Thaumarchaeota_ASW8_contig59_4	54.9	K01956	carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	carA
+Thaumarchaeota_ASW8_contig60_1	29.1	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	quinoprotein alcohol dehydrogenase (EC:1.1.99.8)
+Thaumarchaeota_ASW8_contig60_2	29.6	K02123	V/A-type H+-transporting ATPase subunit I	V-type ATPase subunit family protein
+Thaumarchaeota_ASW8_contig60_2	30.0	K02123	V/A-type H+-transporting ATPase subunit I	V-type ATPase 116 kDa subunit
+Thaumarchaeota_ASW8_contig60_2	30.0	K02123	V/A-type H+-transporting ATPase subunit I	V-type ATPase 116 kDa subunit
+Thaumarchaeota_ASW8_contig61_3	30.9	K03271	D-sedoheptulose 7-phosphate isomerase [EC:5.3.1.28]	sugar isomerase
+Thaumarchaeota_ASW8_contig61_4	39.0	K02377	GDP-L-fucose synthase [EC:1.1.1.271]	hypothetical protein
+Thaumarchaeota_ASW8_contig61_4	38.2	K02377	GDP-L-fucose synthase [EC:1.1.1.271]	epimerase-domain-containing protein
+Thaumarchaeota_ASW8_contig61_5	63.4	K01711	GDPmannose 4,6-dehydratase [EC:4.2.1.47]	GDP-mannose 4,6-dehydratase
+Thaumarchaeota_ASW8_contig62_1	48.3	K01887	arginyl-tRNA synthetase [EC:6.1.1.19]	argS
+Thaumarchaeota_ASW8_contig62_5	44.8	K13280	signal peptidase, endoplasmic reticulum-type [EC:3.4.-.-]	peptidase S26B, signal peptidase
+Thaumarchaeota_ASW8_contig62_6	68.6	K03120	transcription initiation factor TFIID TATA-box-binding protein	tbp
+Thaumarchaeota_ASW8_contig62_6	68.1	K03120	transcription initiation factor TFIID TATA-box-binding protein	TATA box-binding protein
+Thaumarchaeota_ASW8_contig62_7	35.4	K00762	orotate phosphoribosyltransferase [EC:2.4.2.10]	pyrE
+Thaumarchaeota_ASW8_contig62_7	38.7	K00762	orotate phosphoribosyltransferase [EC:2.4.2.10]	orotate phosphoribosyltransferase
+Thaumarchaeota_ASW8_contig63_1	38.2	K04479	DNA polymerase IV (archaeal DinB-like DNA polymerase) [EC:2.7.7.7]	DNA polymerase IV (EC:2.7.7.7)
+Thaumarchaeota_ASW8_contig63_1	39.1	K04479	DNA polymerase IV (archaeal DinB-like DNA polymerase) [EC:2.7.7.7]	nucleotidyltransferase/DNA polymerase involved in DNA repair
+Thaumarchaeota_ASW8_contig63_2	49.1	K09118	uncharacterized protein	PF03699 family protein
+Thaumarchaeota_ASW8_contig63_2	48.0	K09118	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig64_1	34.1	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	quinoprotein alcohol dehydrogenase (EC:1.1.99.8)
+Thaumarchaeota_ASW8_contig64_2	56.4	K01880	glycyl-tRNA synthetase [EC:6.1.1.14]	glyS
+Thaumarchaeota_ASW8_contig64_4	47.5	K07731	putative transcriptional regulator	XRE family transcriptional regulator
+Thaumarchaeota_ASW8_contig65_3	45.8	K01990	ABC-2 type transport system ATP-binding protein	ABC transporter, ATP-binding protein
+Thaumarchaeota_ASW8_contig65_3	49.8	K01990	ABC-2 type transport system ATP-binding protein	ABC transporter, ATP-binding protein
+Thaumarchaeota_ASW8_contig65_6	53.7	K06910	uncharacterized protein	PEBP family protein
+Thaumarchaeota_ASW8_contig66_3	39.3	K03538	ribonuclease P protein subunit POP4 [EC:3.1.26.5]	ribonuclease P, Rpp29
+Thaumarchaeota_ASW8_contig66_3	37.6	K03538	ribonuclease P protein subunit POP4 [EC:3.1.26.5]	ribonuclease P protein component 1 (EC:3.1.26.5)
+Thaumarchaeota_ASW8_contig66_4	53.8	K02961	small subunit ribosomal protein S17	30S ribosomal protein S17
+Thaumarchaeota_ASW8_contig66_4	53.8	K02961	small subunit ribosomal protein S17	30S ribosomal protein S17P
+Thaumarchaeota_ASW8_contig66_5	70.3	K02874	large subunit ribosomal protein L14	rpl14p
+Thaumarchaeota_ASW8_contig66_5	70.3	K02874	large subunit ribosomal protein L14	LSU ribosomal protein L14P
+Thaumarchaeota_ASW8_contig66_5	69.5	K02874	large subunit ribosomal protein L14	rpl14p
+Thaumarchaeota_ASW8_contig66_5	68.4	K02874	large subunit ribosomal protein L14	50S ribosomal protein L14
+Thaumarchaeota_ASW8_contig66_6	42.5	K02895	large subunit ribosomal protein L24	rpl24p
+Thaumarchaeota_ASW8_contig66_6	42.5	K02895	large subunit ribosomal protein L24	50S ribosomal protein L24
+Thaumarchaeota_ASW8_contig66_6	42.5	K02895	large subunit ribosomal protein L24	50S ribosomal protein L24
+Thaumarchaeota_ASW8_contig66_6	42.5	K02895	large subunit ribosomal protein L24	50S ribosomal protein L24
+Thaumarchaeota_ASW8_contig66_6	42.5	K02895	large subunit ribosomal protein L24	50S ribosomal protein L24
+Thaumarchaeota_ASW8_contig66_6	40.7	K02895	large subunit ribosomal protein L24	rpl24p
+Thaumarchaeota_ASW8_contig66_6	40.7	K02895	large subunit ribosomal protein L24	rpl24p
+Thaumarchaeota_ASW8_contig66_6	40.7	K02895	large subunit ribosomal protein L24	rpl24p
+Thaumarchaeota_ASW8_contig66_6	40.7	K02895	large subunit ribosomal protein L24	rpl24p
+Thaumarchaeota_ASW8_contig66_6	40.7	K02895	large subunit ribosomal protein L24	rpl24p
+Thaumarchaeota_ASW8_contig66_6	40.7	K02895	large subunit ribosomal protein L24	ribosomal protein L24
+Thaumarchaeota_ASW8_contig66_6	40.7	K02895	large subunit ribosomal protein L24	50S ribosomal protein L24
+Thaumarchaeota_ASW8_contig66_6	47.2	K02895	large subunit ribosomal protein L24	rpl24p
+Thaumarchaeota_ASW8_contig66_7	40.3	K02987	small subunit ribosomal protein S4e	ribosomal family S4e
+Thaumarchaeota_ASW8_contig66_8	47.6	K02931	large subunit ribosomal protein L5	rpl5p
+Thaumarchaeota_ASW8_contig66_8	47.6	K02931	large subunit ribosomal protein L5	rpl5p
+Thaumarchaeota_ASW8_contig66_8	47.6	K02931	large subunit ribosomal protein L5	rpl5p
+Thaumarchaeota_ASW8_contig66_8	47.0	K02931	large subunit ribosomal protein L5	50S ribosomal protein L5
+Thaumarchaeota_ASW8_contig66_10	59.2	K02994	small subunit ribosomal protein S8	SSU ribosomal protein S8P
+Thaumarchaeota_ASW8_contig66_10	59.2	K02994	small subunit ribosomal protein S8	rps8p
+Thaumarchaeota_ASW8_contig66_10	56.9	K02994	small subunit ribosomal protein S8	rps8p
+Thaumarchaeota_ASW8_contig66_11	47.4	K02933	large subunit ribosomal protein L6	rpl6p
+Thaumarchaeota_ASW8_contig66_11	47.4	K02933	large subunit ribosomal protein L6	rpl6p
+Thaumarchaeota_ASW8_contig66_11	46.2	K02933	large subunit ribosomal protein L6	rpl6p
+Thaumarchaeota_ASW8_contig66_11	46.2	K02933	large subunit ribosomal protein L6	LSU ribosomal protein L9e (L6p)
+Thaumarchaeota_ASW8_contig67_1	27.0	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	glucose dehydrogenase
+Thaumarchaeota_ASW8_contig67_5	52.5	K03924	MoxR-like ATPase [EC:3.6.3.-]	hypothetical protein
+Thaumarchaeota_ASW8_contig67_5	49.4	K03924	MoxR-like ATPase [EC:3.6.3.-]	MoxR-like ATPase
+Thaumarchaeota_ASW8_contig67_5	51.6	K03924	MoxR-like ATPase [EC:3.6.3.-]	moxR-3
+Thaumarchaeota_ASW8_contig67_5	51.4	K03924	MoxR-like ATPase [EC:3.6.3.-]	ATPase, AAA family
+Thaumarchaeota_ASW8_contig67_5	52.0	K03924	MoxR-like ATPase [EC:3.6.3.-]	PH0776
+Thaumarchaeota_ASW8_contig67_5	51.4	K03924	MoxR-like ATPase [EC:3.6.3.-]	methanol dehydrogenase regulatory protein
+Thaumarchaeota_ASW8_contig67_5	51.4	K03924	MoxR-like ATPase [EC:3.6.3.-]	methanol dehydrogenase regulatory protein
+Thaumarchaeota_ASW8_contig67_9	51.9	K01647	citrate synthase [EC:2.3.3.1]	Citrate synthase (EC:2.3.3.1)
+Thaumarchaeota_ASW8_contig67_9	52.6	K01647	citrate synthase [EC:2.3.3.1]	citZ
+Thaumarchaeota_ASW8_contig67_9	52.6	K01647	citrate synthase [EC:2.3.3.1]	CitZ protein
+Thaumarchaeota_ASW8_contig67_9	52.6	K01647	citrate synthase [EC:2.3.3.1]	citrate synthase (EC:2.3.3.1)
+Thaumarchaeota_ASW8_contig67_9	52.1	K01647	citrate synthase [EC:2.3.3.1]	2-methylcitrate synthase/citrate synthase II
+Thaumarchaeota_ASW8_contig67_9	50.8	K01647	citrate synthase [EC:2.3.3.1]	citZ
+Thaumarchaeota_ASW8_contig67_9	50.8	K01647	citrate synthase [EC:2.3.3.1]	citZ
+Thaumarchaeota_ASW8_contig67_9	50.8	K01647	citrate synthase [EC:2.3.3.1]	citZ
+Thaumarchaeota_ASW8_contig67_9	50.8	K01647	citrate synthase [EC:2.3.3.1]	citZ
+Thaumarchaeota_ASW8_contig67_13	30.8	K09493	T-complex protein 1 subunit alpha	t-complex protein 1, alpha subunit
+Thaumarchaeota_ASW8_contig67_14	27.3	K08168	MFS transporter, DHA2 family, metal-tetracycline-proton antiporter	major facilitator superfamily protein
+Thaumarchaeota_ASW8_contig67_15	57.4	K03433	proteasome beta subunit [EC:3.4.25.1]	psmB2
+Thaumarchaeota_ASW8_contig67_16	38.6	K18105	RNA 3'-terminal phosphate cyclase (GTP) [EC:6.5.1.5]	RNA 3'-terminal-phosphate cyclase (EC:6.5.1.4)
+Thaumarchaeota_ASW8_contig67_17	41.1	K00952	nicotinamide-nucleotide adenylyltransferase [EC:2.7.7.1]	cytidyltransferase-like protein (EC:2.7.7.1)
+Thaumarchaeota_ASW8_contig67_17	41.5	K00952	nicotinamide-nucleotide adenylyltransferase [EC:2.7.7.1]	cytidyltransferase
+Thaumarchaeota_ASW8_contig67_18	35.1	K00436	NAD-reducing hydrogenase large subunit [EC:1.12.1.2]	dhsS
+Thaumarchaeota_ASW8_contig67_18	34.7	K00436	NAD-reducing hydrogenase large subunit [EC:1.12.1.2]	dhsS
+Thaumarchaeota_ASW8_contig67_18	34.2	K00436	NAD-reducing hydrogenase large subunit [EC:1.12.1.2]	dhsS
+Thaumarchaeota_ASW8_contig67_19	43.8	K01802	peptidylprolyl isomerase [EC:5.2.1.8]	FKBP-type peptidylprolyl isomerase
+Thaumarchaeota_ASW8_contig67_20	47.6	K00096	glycerol-1-phosphate dehydrogenase [NAD(P)+] [EC:1.1.1.261]	egsA
+Thaumarchaeota_ASW8_contig67_20	47.6	K00096	glycerol-1-phosphate dehydrogenase [NAD(P)+] [EC:1.1.1.261]	glycerol dehydrogenase-like oxidoreductase (EC:1.1.1.261)
+Thaumarchaeota_ASW8_contig67_20	47.7	K00096	glycerol-1-phosphate dehydrogenase [NAD(P)+] [EC:1.1.1.261]	egsA
+Thaumarchaeota_ASW8_contig67_21	51.4	K03581	exodeoxyribonuclease V alpha subunit [EC:3.1.11.5]	helicase, putative, RecD/TraA family (EC:3.1.11.5)
+Thaumarchaeota_ASW8_contig67_22	46.1	K03264	translation initiation factor 6	eif
+Thaumarchaeota_ASW8_contig67_23	33.6	K04797	prefoldin alpha subunit	pfdA
+Thaumarchaeota_ASW8_contig67_24	51.0	K03110	fused signal recognition particle receptor	signal recognition particle-docking protein FtsY
+Thaumarchaeota_ASW8_contig67_25	50.2	K00611	ornithine carbamoyltransferase [EC:2.1.3.3]	ornithine carbamoyltransferase (EC:2.1.3.3)
+Thaumarchaeota_ASW8_contig67_27	32.0	K10789	myeloperoxidase [EC:1.11.2.2]	peroxidase
+Thaumarchaeota_ASW8_contig68_1	56.4	K11996	adenylyltransferase and sulfurtransferase	dinucleotide-utilizing enzyme possibly involved in molybdopterin or thiamin biosynthesis
+Thaumarchaeota_ASW8_contig68_1	58.1	K11996	adenylyltransferase and sulfurtransferase	putative molybdopterin biosynthesis protein MoeB
+Thaumarchaeota_ASW8_contig68_1	56.4	K11996	adenylyltransferase and sulfurtransferase	putative molybdopterin biosynthesis protein MoeB
+Thaumarchaeota_ASW8_contig68_2	40.0	K03636	molybdopterin synthase sulfur carrier subunit	molybdenum cofactor biosynthesis protein MoaD
+Thaumarchaeota_ASW8_contig68_2	41.1	K03636	molybdopterin synthase sulfur carrier subunit	MoaD family protein
+Thaumarchaeota_ASW8_contig68_2	41.1	K03636	molybdopterin synthase sulfur carrier subunit	MoaD family protein
+Thaumarchaeota_ASW8_contig68_2	41.1	K03636	molybdopterin synthase sulfur carrier subunit	MoaD family protein
+Thaumarchaeota_ASW8_contig68_3	58.8	K01733	threonine synthase [EC:4.2.3.1]	thrC2
+Thaumarchaeota_ASW8_contig68_3	58.8	K01733	threonine synthase [EC:4.2.3.1]	threonine synthase (EC:4.2.3.1)
+Thaumarchaeota_ASW8_contig68_3	60.3	K01733	threonine synthase [EC:4.2.3.1]	Threonine synthase (EC:4.2.3.1)
+Thaumarchaeota_ASW8_contig68_3	58.5	K01733	threonine synthase [EC:4.2.3.1]	thrC2
+Thaumarchaeota_ASW8_contig68_4	43.1	K07023	putative hydrolases of HD superfamily	Metal dependent phosphohydrolase
+Thaumarchaeota_ASW8_contig68_5	48.8	K04799	flap endonuclease-1 [EC:3.-.-.-]	fen
+Thaumarchaeota_ASW8_contig68_5	49.1	K04799	flap endonuclease-1 [EC:3.-.-.-]	flap endonuclease-1
+Thaumarchaeota_ASW8_contig68_5	48.8	K04799	flap endonuclease-1 [EC:3.-.-.-]	fen
+Thaumarchaeota_ASW8_contig68_6	44.8	K03855	ferredoxin like protein	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+Thaumarchaeota_ASW8_contig69_1	65.9	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9]	thioredoxin reductase
+Thaumarchaeota_ASW8_contig69_1	67.1	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9]	thioredoxin reductase
+Thaumarchaeota_ASW8_contig69_1	67.1	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9]	thioredoxin reductase
+Thaumarchaeota_ASW8_contig69_1	67.1	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9]	thioredoxin reductase
+Thaumarchaeota_ASW8_contig69_1	66.5	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9]	thioredoxin reductase
+Thaumarchaeota_ASW8_contig69_5	34.3	K17830	digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]	dehydrogenase (flavoprotein)
+Thaumarchaeota_ASW8_contig69_5	37.5	K17830	digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]	dehydrogenase (flavoprotein)
+Thaumarchaeota_ASW8_contig69_6	51.4	K04479	DNA polymerase IV (archaeal DinB-like DNA polymerase) [EC:2.7.7.7]	DNA polymerase IV (EC:2.7.7.7)
+Thaumarchaeota_ASW8_contig70_1	29.0	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	quinoprotein alcohol dehydrogenase (EC:1.1.99.8)
+Thaumarchaeota_ASW8_contig70_3	62.7	K03120	transcription initiation factor TFIID TATA-box-binding protein	TATA-box binding protein (TBP), component of TFIID and TFIIIB
+Thaumarchaeota_ASW8_contig70_3	62.2	K03120	transcription initiation factor TFIID TATA-box-binding protein	2-alkenal reductase (EC:1.3.1.74)
+Thaumarchaeota_ASW8_contig70_3	62.2	K03120	transcription initiation factor TFIID TATA-box-binding protein	tbp
+Thaumarchaeota_ASW8_contig70_3	62.2	K03120	transcription initiation factor TFIID TATA-box-binding protein	2-alkenal reductase
+Thaumarchaeota_ASW8_contig70_3	61.6	K03120	transcription initiation factor TFIID TATA-box-binding protein	tbp
+Thaumarchaeota_ASW8_contig70_3	60.4	K03120	transcription initiation factor TFIID TATA-box-binding protein	TATA-box binding family protein
+Thaumarchaeota_ASW8_contig70_3	60.4	K03120	transcription initiation factor TFIID TATA-box-binding protein	TATA-box binding family protein
+Thaumarchaeota_ASW8_contig72_2	59.2	K01895	acetyl-CoA synthetase [EC:6.2.1.1]	acsA1
+Thaumarchaeota_ASW8_contig72_2	58.9	K01895	acetyl-CoA synthetase [EC:6.2.1.1]	acsA1
+Thaumarchaeota_ASW8_contig72_2	59.3	K01895	acetyl-CoA synthetase [EC:6.2.1.1]	acetyl-coenzyme A synthetase (EC:6.2.1.1)
+Thaumarchaeota_ASW8_contig72_3	47.8	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	Fructose-bisphosphate aldolase (EC:4.1.2.13)
+Thaumarchaeota_ASW8_contig72_3	47.8	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	aldolase
+Thaumarchaeota_ASW8_contig72_3	47.8	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	aldolase
+Thaumarchaeota_ASW8_contig72_3	47.8	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	aldolase
+Thaumarchaeota_ASW8_contig72_3	48.5	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	fructose-bisphosphate aldolase (EC:4.1.2.13)
+Thaumarchaeota_ASW8_contig72_3	48.5	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	Fructose-bisphosphate aldolase (EC:4.1.2.13)
+Thaumarchaeota_ASW8_contig72_3	48.5	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	Fructose-bisphosphate aldolase (EC:4.1.2.13)
+Thaumarchaeota_ASW8_contig72_3	48.2	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	Fructose-bisphosphate aldolase (EC:4.1.2.13)
+Thaumarchaeota_ASW8_contig72_3	48.2	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	Fructose-bisphosphate aldolase (EC:4.1.2.13)
+Thaumarchaeota_ASW8_contig72_3	48.2	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	Fructose-bisphosphate aldolase
+Thaumarchaeota_ASW8_contig72_3	48.2	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	Fructose-bisphosphate aldolase
+Thaumarchaeota_ASW8_contig72_3	48.2	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	Fructose-bisphosphate aldolase
+Thaumarchaeota_ASW8_contig72_3	48.2	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	DhnA-type fructose-1,6-bisphosphate aldolase andrelated enzyme
+Thaumarchaeota_ASW8_contig72_3	48.7	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	aldolase
+Thaumarchaeota_ASW8_contig72_3	47.4	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	hypothetical protein
+Thaumarchaeota_ASW8_contig72_3	48.2	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	Fructose-bisphosphate aldolase (EC:4.1.2.13)
+Thaumarchaeota_ASW8_contig74_3	65.0	K01687	dihydroxy-acid dehydratase [EC:4.2.1.9]	dihydroxy-acid dehydratase (EC:4.2.1.9)
+Thaumarchaeota_ASW8_contig75_1	38.2	K00946	thiamine-monophosphate kinase [EC:2.7.4.16]	thiL
+Thaumarchaeota_ASW8_contig75_2	50.7	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	DNA modification methylase
+Thaumarchaeota_ASW8_contig75_4	70.9	K02927	large subunit ribosomal protein L40e	rpl40e
+Thaumarchaeota_ASW8_contig76_1	56.5	K02986	small subunit ribosomal protein S4	rpsD
+Thaumarchaeota_ASW8_contig76_2	49.1	K03040	DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]	DNA-directed RNA polymerase subunit alpha
+Thaumarchaeota_ASW8_contig76_2	49.1	K03040	DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]	DNA-directed RNA polymerase subunit alpha
+Thaumarchaeota_ASW8_contig76_3	46.8	K02879	large subunit ribosomal protein L17	rplQ
+Thaumarchaeota_ASW8_contig76_3	46.8	K02879	large subunit ribosomal protein L17	rplQ
+Thaumarchaeota_ASW8_contig76_3	52.1	K02879	large subunit ribosomal protein L17	rplQ
+Thaumarchaeota_ASW8_contig76_3	45.6	K02879	large subunit ribosomal protein L17	50S ribosomal protein L17
+Thaumarchaeota_ASW8_contig77_2	60.0	K02924	large subunit ribosomal protein L39e	LSU ribosomal protein L39E (rpl39E)
+Thaumarchaeota_ASW8_contig77_2	60.0	K02924	large subunit ribosomal protein L39e	Ribosomal protein L39E
+Thaumarchaeota_ASW8_contig77_3	50.7	K06875	programmed cell death protein 5	hypothetical protein
+Thaumarchaeota_ASW8_contig77_5	41.7	K13038	phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36 6.3.2.5]	coaBC
+Thaumarchaeota_ASW8_contig77_5	40.2	K13038	phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36 6.3.2.5]	phosphopantothenoylcysteine decarboxylase/phosphopantothenate/cysteine ligase (EC:6.3.2.5)
+Thaumarchaeota_ASW8_contig78_2	25.8	K06927	diphthine-ammonia ligase [EC:6.3.1.14]	MJ050-like PP-loop ATpase
+Thaumarchaeota_ASW8_contig78_3	55.1	K03106	signal recognition particle subunit SRP54	signal peptide-binding domain protein
+Thaumarchaeota_ASW8_contig78_3	55.6	K03106	signal recognition particle subunit SRP54	srp
+Thaumarchaeota_ASW8_contig78_4	33.9	K07583	tRNA pseudouridine synthase 10 [EC:5.4.99.-]	pseudouridylate synthase-like protein
+Thaumarchaeota_ASW8_contig78_4	33.5	K07583	tRNA pseudouridine synthase 10 [EC:5.4.99.-]	pseudouridylate synthase-like protein
+Thaumarchaeota_ASW8_contig78_5	42.3	K09497	T-complex protein 1 subunit epsilon	TCP-1 (CTT or eukaryotic type II) chaperonin family, epsilon subunit
+Thaumarchaeota_ASW8_contig78_6	49.1	K01255	leucyl aminopeptidase [EC:3.4.11.1]	leucyl aminopeptidase
+Thaumarchaeota_ASW8_contig78_6	52.3	K01255	leucyl aminopeptidase [EC:3.4.11.1]	leucyl aminopeptidase (EC:3.4.11.1)
+Thaumarchaeota_ASW8_contig78_6	51.5	K01255	leucyl aminopeptidase [EC:3.4.11.1]	leucyl aminopeptidase
+Thaumarchaeota_ASW8_contig78_6	48.7	K01255	leucyl aminopeptidase [EC:3.4.11.1]	pepA
+Thaumarchaeota_ASW8_contig78_8	45.0	K10896	fanconi anemia group M protein	DEAD/DEAH box helicase
+Thaumarchaeota_ASW8_contig78_8	44.7	K10896	fanconi anemia group M protein	DEAD/DEAH box helicase domain protein
+Thaumarchaeota_ASW8_contig78_9	44.0	K00943	dTMP kinase [EC:2.7.4.9]	tmk
+Thaumarchaeota_ASW8_contig78_10	43.9	K06885	uncharacterized protein	putative dGTPase (EC:3.1.5.1)
+Thaumarchaeota_ASW8_contig78_10	45.3	K06885	uncharacterized protein	phosphohydrolase
+Thaumarchaeota_ASW8_contig78_10	44.7	K06885	uncharacterized protein	metal dependent phosphohydrolase
+Thaumarchaeota_ASW8_contig78_10	45.8	K06885	uncharacterized protein	putative metal dependent phosphohydrolase
+Thaumarchaeota_ASW8_contig78_10	44.1	K06885	uncharacterized protein	metal dependent phosphohydrolase
+Thaumarchaeota_ASW8_contig78_12	40.7	K02858	3,4-dihydroxy 2-butanone 4-phosphate synthase [EC:4.1.99.12]	ribB
+Thaumarchaeota_ASW8_contig78_13	40.8	K13993	HSP20 family protein	heat shock protein Hsp20
+Thaumarchaeota_ASW8_contig78_16	47.9	K01990	ABC-2 type transport system ATP-binding protein	ABC transporter ATP-binding protein
+Thaumarchaeota_ASW8_contig78_17	33.1	K01992	ABC-2 type transport system permease protein	ABC-2 type transporter
+Thaumarchaeota_ASW8_contig78_18	45.9	K11212	LPPG:FO 2-phospho-L-lactate transferase [EC:2.7.8.28]	LPPG:FO 2-phospho-L-lactate transferase
+Thaumarchaeota_ASW8_contig78_18	48.2	K11212	LPPG:FO 2-phospho-L-lactate transferase [EC:2.7.8.28]	cofD
+Thaumarchaeota_ASW8_contig78_19	36.8	K14941	2-phospho-L-lactate guanylyltransferase [EC:2.7.7.68]	cofC
+Thaumarchaeota_ASW8_contig78_20	47.1	K01512	acylphosphatase [EC:3.6.1.7]	acylphosphatase
+Thaumarchaeota_ASW8_contig78_21	28.5	K01439	succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]	acetylornithine deacetylase/succinyl-diaminopimelate desuccinylase
+Thaumarchaeota_ASW8_contig78_23	44.2	K03284	magnesium transporter	CorA-like protein
+Thaumarchaeota_ASW8_contig78_24	43.5	K01897	long-chain acyl-CoA synthetase [EC:6.2.1.3]	lcfA2
+Thaumarchaeota_ASW8_contig80_1	45.1	K02523	octaprenyl-diphosphate synthase [EC:2.5.1.90]	polyprenyl synthetase
+Thaumarchaeota_ASW8_contig80_2	49.9	K00343	NADH-quinone oxidoreductase subunit N [EC:1.6.5.3]	proton-translocating NADH-quinone oxidoreductase, chain N
+Thaumarchaeota_ASW8_contig80_3	41.8	K00342	NADH-quinone oxidoreductase subunit M [EC:1.6.5.3]	proton-translocating NADH-quinone oxidoreductase subunit M (EC:1.6.99.5)
+Thaumarchaeota_ASW8_contig81_1	59.1	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	S-adenosylmethionine synthetase (EC:2.5.1.6)
+Thaumarchaeota_ASW8_contig81_1	63.1	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	metK-1
+Thaumarchaeota_ASW8_contig81_1	63.1	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	metK-1
+Thaumarchaeota_ASW8_contig81_2	71.0	K01251	adenosylhomocysteinase [EC:3.3.1.1]	adenosylhomocysteinase
+Thaumarchaeota_ASW8_contig81_3	41.6	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	transcriptional regulator
+Thaumarchaeota_ASW8_contig81_3	39.5	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	hypothetical protein
+Thaumarchaeota_ASW8_contig82_2	47.8	K02078	acyl carrier protein	hypothetical protein
+Thaumarchaeota_ASW8_contig82_4	39.2	K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	3-oxoacyl-ACP reductase (EC:1.1.1.100)
+Thaumarchaeota_ASW8_contig82_4	39.1	K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	3-oxoacyl-[acyl-carrier protein] reductase
+Thaumarchaeota_ASW8_contig83_1	53.2	K13010	perosamine synthetase [EC:2.6.1.102]	UDP-4-keto-6-deoxy-N-acetylglucosamine 4-aminotransferase (EC:2.6.1.50)
+Thaumarchaeota_ASW8_contig83_2	58.9	K01654	N-acetylneuraminate synthase [EC:2.5.1.56]	N-acetylneuraminate synthase (EC:2.5.1.56)
+Thaumarchaeota_ASW8_contig83_3	53.0	K07257	spore coat polysaccharide biosynthesis protein SpsF	hypothetical protein
+Thaumarchaeota_ASW8_contig84_1	62.9	K02433	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]	glutamyl-tRNA(Gln) amidotransferase, A subunit
+Thaumarchaeota_ASW8_contig84_2	48.2	K02434	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B (EC:6.3.5.-)
+Thaumarchaeota_ASW8_contig84_2	48.2	K02434	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]	gatB
+Thaumarchaeota_ASW8_contig85_1	74.0	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	S-adenosylmethionine synthetase (EC:2.5.1.6)
+Thaumarchaeota_ASW8_contig85_1	72.2	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	methionine adenosyltransferase (EC:2.5.1.6)
+Thaumarchaeota_ASW8_contig85_1	72.5	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	S-adenosylmethionine synthetase (EC:2.5.1.6)
+Thaumarchaeota_ASW8_contig85_1	72.2	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	methionine adenosyltransferase (EC:2.5.1.6)
+Thaumarchaeota_ASW8_contig85_1	72.2	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	S-adenosylmethionine synthetase (EC:2.5.1.6)
+Thaumarchaeota_ASW8_contig85_2	29.8	K00860	adenylylsulfate kinase [EC:2.7.1.25]	cysC
+Thaumarchaeota_ASW8_contig85_3	33.3	K00860	adenylylsulfate kinase [EC:2.7.1.25]	hypothetical protein
+Thaumarchaeota_ASW8_contig85_4	58.9	K00600	glycine hydroxymethyltransferase [EC:2.1.2.1]	glyA
+Thaumarchaeota_ASW8_contig86_1	26.3	K03298	drug/metabolite transporter, DME family	ywfM
+Thaumarchaeota_ASW8_contig86_2	58.8	K03136	transcription initiation factor TFIIE subunit alpha	tfe
+Thaumarchaeota_ASW8_contig86_3	26.0	K08153	MFS transporter, DHA1 family, multidrug resistance protein	MFS transporter
+Thaumarchaeota_ASW8_contig87_3	51.1	K03386	peroxiredoxin (alkyl hydroperoxide reductase subunit C) [EC:1.11.1.15]	peroxidase (EC:1.11.1.7)
+Thaumarchaeota_ASW8_contig89_1	29.0	K09015	Fe-S cluster assembly protein SufD	FeS assembly protein SufD
+Thaumarchaeota_ASW8_contig89_1	29.0	K09015	Fe-S cluster assembly protein SufD	FeS assembly protein SufD
+Thaumarchaeota_ASW8_contig89_2	73.4	K09014	Fe-S cluster assembly protein SufB	Iron-regulated ABC transporter membrane component SufB
+Thaumarchaeota_ASW8_contig89_2	72.4	K09014	Fe-S cluster assembly protein SufB	sufB
+Thaumarchaeota_ASW8_contig89_2	73.0	K09014	Fe-S cluster assembly protein SufB	sufB
+Thaumarchaeota_ASW8_contig89_2	73.1	K09014	Fe-S cluster assembly protein SufB	FeS assembly protein SufB
+Thaumarchaeota_ASW8_contig89_2	72.6	K09014	Fe-S cluster assembly protein SufB	FeS assembly protein SufB
+Thaumarchaeota_ASW8_contig89_3	56.7	K09721	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig89_5	34.1	K03799	heat shock protein HtpX [EC:3.4.24.-]	peptidase M48 (EC:3.4.24.-)
+Thaumarchaeota_ASW8_contig89_6	41.1	K01992	ABC-2 type transport system permease protein	ABC-2 type transport system permease
+Thaumarchaeota_ASW8_contig89_7	55.6	K01990	ABC-2 type transport system ATP-binding protein	daunorubicin resistance ABC transporter ATPase
+Thaumarchaeota_ASW8_contig89_8	22.9	K00303	sarcosine oxidase, subunit beta [EC:1.5.3.1]	glycine/D-amino acid oxidase, deaminating
+Thaumarchaeota_ASW8_contig89_10	38.1	K07159	uncharacterized protein	hypothetical protein
+Thaumarchaeota_ASW8_contig89_11	49.0	K01754	threonine dehydratase [EC:4.3.1.19]	ilvA
+Thaumarchaeota_ASW8_contig89_11	50.5	K01754	threonine dehydratase [EC:4.3.1.19]	threonine dehydratase
+Thaumarchaeota_ASW8_contig89_12	44.8	K01271	Xaa-Pro dipeptidase [EC:3.4.13.9]	proline dipeptidase
+Thaumarchaeota_ASW8_contig89_13	32.6	K09696	sodium transport system permease protein	natB
+Thaumarchaeota_ASW8_contig89_13	32.6	K09696	sodium transport system permease protein	natB
+Thaumarchaeota_ASW8_contig89_13	31.9	K09696	sodium transport system permease protein	ABC-2 type transporter
+Thaumarchaeota_ASW8_contig89_13	31.9	K09696	sodium transport system permease protein	ABC-2 type transporter
+Thaumarchaeota_ASW8_contig89_13	32.5	K09696	sodium transport system permease protein	ABC-2 type transporter
+Thaumarchaeota_ASW8_contig89_13	32.5	K09696	sodium transport system permease protein	ABC-2 type transporter
+Thaumarchaeota_ASW8_contig89_13	32.2	K09696	sodium transport system permease protein	ABC-type Na+ efflux pump, permease component
+Thaumarchaeota_ASW8_contig89_13	34.0	K09696	sodium transport system permease protein	Na+ ABC transporter permease
+Thaumarchaeota_ASW8_contig89_14	51.5	K09697	sodium transport system ATP-binding protein	ABC-type Na+ transport system, ATPase component
+Thaumarchaeota_ASW8_contig89_15	56.7	K06863	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.23]	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase-like protein
+Thaumarchaeota_ASW8_contig89_15	57.0	K06863	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.23]	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+Thaumarchaeota_ASW8_contig89_15	56.4	K06863	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.23]	5-formaminoimidazole-4-carboxamide-1-(Beta)-D-ribofuranosyl 5'-monophosphate synthetase-like protein
+Thaumarchaeota_ASW8_contig89_15	57.0	K06863	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.23]	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+Thaumarchaeota_ASW8_contig89_16	54.4	K06863	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.23]	PF06849 family protein
+Thaumarchaeota_ASW8_contig89_18	53.0	K00054	hydroxymethylglutaryl-CoA reductase [EC:1.1.1.88]	hmgA-1
+Thaumarchaeota_ASW8_contig89_18	52.7	K00054	hydroxymethylglutaryl-CoA reductase [EC:1.1.1.88]	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+Thaumarchaeota_ASW8_contig89_18	53.0	K00054	hydroxymethylglutaryl-CoA reductase [EC:1.1.1.88]	hmgA
+Thaumarchaeota_ASW8_contig89_20	49.4	K00927	phosphoglycerate kinase [EC:2.7.2.3]	phosphoglycerate kinase (EC:2.7.2.3)
+Thaumarchaeota_ASW8_contig89_20	49.7	K00927	phosphoglycerate kinase [EC:2.7.2.3]	pgk
+Thaumarchaeota_ASW8_contig89_21	45.5	K00948	ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	ribose-phosphate pyrophosphokinase
+Thaumarchaeota_ASW8_contig89_22	52.7	K18237	ribose 1,5-bisphosphate isomerase [EC:5.3.1.29]	translation initiation factor, aIF-2BII family
+Thaumarchaeota_ASW8_contig89_22	52.0	K18237	ribose 1,5-bisphosphate isomerase [EC:5.3.1.29]	translation initiation factor eIF-2B2 family
+Thaumarchaeota_ASW8_contig89_23	37.3	K01783	ribulose-phosphate 3-epimerase [EC:5.1.3.1]	ribulose-phosphate 3-epimerase (EC:5.1.3.1)
+Thaumarchaeota_ASW8_contig89_24	55.1	K00615	transketolase [EC:2.2.1.1]	Transketolase (EC:2.2.1.1)
+Thaumarchaeota_ASW8_contig90_4	52.2	K06932	tRNA(Ile2)-agmatinylcytidine synthase [EC:6.3.4.22]	PF08489 domain protein
+Thaumarchaeota_ASW8_contig91_2	42.8	K00066	GDP-mannose 6-dehydrogenase [EC:1.1.1.132]	algD

@@ -1,0 +1,137 @@
+gi|1100650553	gi|1100650553   Vibrio barjaei
+gi|1348428386	gi|1348428386   Verrucomicrobiota bacterium
+gi|1052732504	gi|1052732504   uncultured Ruminococcus sp.
+gi|1213765404	gi|1213765404   uncultured Eubacteriales bacterium
+gi|1052863684	gi|1052863684   uncultured Clostridium sp.
+gi|1053019030	gi|1053019030   uncultured Clostridium sp.
+gi|406970729	gi|406970729   uncultured bacterium
+gi|1189867846	gi|1189867846   unclassified Nocardioides
+gi|919593770	gi|919593770   Thermogemmatispora carboxidivorans
+gi|46014898	gi|46014898   Thermococcus litoralis
+gi|344033754	gi|344033754   Thermoanaerobacter wiegelii Rt8.B1
+gi|934109494	gi|934109494   Thermanaerothrix daxensis
+gi|917359626	gi|917359626   Thermanaerosceptrum fracticalcis
+gi|917470736	gi|917470736   Tetragenococcus muriaticus
+gi|521361547	gi|521361547   Streptomyces rapamycinicus NRRL 5491
+gi|1005382093	gi|1005382093   Sporosarcina psychrophila
+gi|1088491558	gi|1088491558   Spirochaetes bacterium GWB1_66_5
+gi|931395627	gi|931395627   Spirochaetes bacterium DG_61
+gi|931397817	gi|931397817   Spirochaetes bacterium DG_61
+gi|1113368431	gi|1113368431   Sphingobacteriales bacterium 46-32
+gi|503503987	gi|503503987   Sphaerochaeta coccoides
+gi|1240598302	gi|1240598302   Sinorhizobium sp. CCBAU 05631
+gi|25008525	gi|25008525   Sinorhizobium meliloti 1021
+gi|25008526	gi|25008526   Sinorhizobium meliloti 1021
+gi|502625701	gi|502625701   Sebaldella termitidis
+gi|1088412118	gi|1088412118   Rhodobacteraceae bacterium GWF1_65_7
+gi|40889476	gi|40889476   Pyrococcus furiosus
+gi|99032451	gi|99032451   Pyrococcus furiosus
+gi|40889466	gi|40889466   Pyrococcus furiosus
+gi|1333521279	gi|1333521279   Petrotoga sp. 9T1HF07.CasAA.8.2
+gi|833814355	gi|833814355   Peptococcaceae bacterium 1109
+gi|941472480	gi|941472480   Pedobacter sp. Hv1
+gi|818439230	gi|818439230   Parcubacteria group bacterium
+gi|1276897172	gi|1276897172   Parcubacteria group bacterium
+gi|1387348109	gi|1387348109   Paraburkholderia unamae
+gi|738755437	gi|738755437   Paenibacillus wynnii
+gi|1085596789	gi|1085596789   Omnitrophica WOR_2 bacterium RIFOXYA2_FULL_45_12
+gi|1101515361	gi|1101515361   Moorella thermoacetica
+gi|1052282861	gi|1052282861   Micromonospora echinospora
+gi|818452921	gi|818452921   Microgenomates group bacterium GW2011_GWA2_39_19
+gi|818854960	gi|818854960   Microgenomates group bacterium GW2011_GWA1_48_10
+gi|1113169384	gi|1113169384   Microbacterium sp. 69-10
+gi|1140832259	gi|1140832259   Microbacterium aurum
+gi|1232004345	gi|1232004345   Methanosarcinales archaeon ex4484_138
+gi|918226050	gi|918226050   Methanomicrobium mobile
+gi|1391059454	gi|1391059454   Marinilabilia rubra
+gi|495964568	gi|495964568   Longicatena
+gi|1054679569	gi|1054679569   Longibaculum muris
+gi|770826459	gi|770826459   Lacticaseibacillus paracasei
+gi|1150024386	gi|1150024386   Izhakiella australiensis
+gi|1125708085	gi|1125708085   Ignicoccus islandicus
+gi|808084728	gi|808084728   Hymenobacter terrenus
+gi|493830992	gi|493830992   Hungatella hathewayi
+gi|1330243928	gi|1330243928   Haloimpatiens massiliensis
+gi|974127335	gi|974127335   Hadesarchaea archaeon YNP_N21
+gi|1223376863	gi|1223376863   Friedmanniella luteola
+gi|1119427538	gi|1119427538   Flaviramulus basaltis
+gi|1085052614	gi|1085052614   Firmicutes bacterium GWF2_51_9
+gi|551046432	gi|551046432   Faecalicoccus pleomorphus
+gi|524749678	gi|524749678   Faecalibacterium sp. CAG:74
+gi|373247393	gi|373247393   Escherichia coli 4_1_47FAA
+gi|308914057	gi|308914057   Erysipelotrichaceae bacterium 3_1_53
+gi|1332912275	gi|1332912275   Enterococcus avium
+gi|510806208	gi|510806208   Enterococcus
+gi|365747861	gi|365747861   Enterobacter ludwigii
+gi|225168618	gi|225168618   Dethiobacter alkaliphilus AHT 1
+gi|1084730660	gi|1084730660   Deltaproteobacteria bacterium RBG
+gi|948989219	gi|948989219   Companilactobacillus kimchiensis
+gi|1119591775	gi|1119591775   Clostridium sp. Marseille-P3244
+gi|357170941	gi|357170941   Clostridium sp. DL-VIII
+gi|511345327	gi|511345327   Clostridium sp. CAG:1013
+gi|1084557323	gi|1084557323   Chloroflexi bacterium RBG_13_68_17
+gi|1000291347	gi|1000291347   Chloroflexi bacterium OLB13
+gi|815051348	gi|815051348   Chlamydia trachomatis
+gi|1190743367	gi|1190743367   Chlamydia abortus
+gi|1084422847	gi|1084422847   Candidatus Wolfebacteria bacterium RIFCSPHIGHO2_01_FULL_48_22
+gi|818834865	gi|818834865   Candidatus Wolfebacteria bacterium GW2011_GWB1_47_243
+gi|1277893708	gi|1277893708   Candidatus Wolfebacteria bacteriu
+gi|1088140204	gi|1088140204   Candidatus Sungbacteria bacterium RIFCSPHIGHO2_02_FULL_49_20
+gi|1088139335	gi|1088139335   Candidatus Sungbacteria bacterium RIFCSPHIGHO2_02_FULL_49_12
+gi|1008847385	gi|1008847385   Candidatus Proteinoplasmatales archaeon SG8-5
+gi|1276895319	gi|1276895319   Candidatus Portnoybacteria bacterium CG23
+gi|1088067415	gi|1088067415   Candidatus Portnoybacteria bacterium
+gi|1278547709	gi|1278547709   Candidatus Portnoybacteria bacterium
+gi|1279217549	gi|1279217549   Candidatus Portnoybacteria bacterium
+gi|269986496	gi|269986496   Candidatus Parvarchaeum acidiphilum ARMAN-4
+gi|1277083156	gi|1277083156   Candidatus Omnitrophica bacterium
+gi|1277098120	gi|1277098120   Candidatus Nealsonbacteria bacterium
+gi|1101060267	gi|1101060267   Candidatus Micrarchaeota archaeon
+gi|1101063310	gi|1101063310   Candidatus Micrarchaeota archaeon
+gi|1101063503	gi|1101063503   Candidatus Micrarchaeota archaeon
+gi|1276444499	gi|1276444499   Candidatus Micrarchaeota archaeon
+gi|1101062990	gi|1101062990   Candidatus Micrarchaeota archaeon
+gi|501266648	gi|501266648   Candidatus Korarchaeum cryptofilum
+gi|1083576610	gi|1083576610   Candidatus Kaiserbacteria bacterium
+gi|1083462333	gi|1083462333   Candidatus Giovannonibacteria bacterium
+gi|1083466025	gi|1083466025   Candidatus Giovannonibacteria bacterium
+gi|818599293	gi|818599293   Candidatus Giovannonibacteria bacterium
+gi|1083362792	gi|1083362792   Candidatus Doudnabacteria bacterium
+gi|1083353904	gi|1083353904   Candidatus Doudnabacteria bacterium
+gi|1083366194	gi|1083366194   Candidatus Doudnabacteria bacterium
+gi|1276420781	gi|1276420781   Candidatus Diapherotrites archaeon
+gi|1087925053	gi|1087925053   Candidatus Blackburnbacteria bacterium RIFCSPHIGHO2_01_FULL_43_15b
+gi|1083063793	gi|1083063793   Candidatus Berkelbacteria bacterium
+gi|1007513221	gi|1007513221   Candidatus Bathyarchaeota archaeon B26-1
+gi|818594595	gi|818594595   Candidatus Azambacteria bacterium
+gi|1277813847	gi|1277813847   Candidatus Aquicultor secundus
+gi|985663489	gi|985663489   candidate division MSBL1 archaeon
+gi|1082858908	gi|1082858908   candidate division CPR2 bacterium GWD2_39_7
+gi|504247195	gi|504247195   Caldilinea
+gi|1086829954	gi|1086829954   Bauldia litoralis
+gi|524012081	gi|524012081   Bacteroides sp. CAG:20
+gi|1286980736	gi|1286980736   bacterium HR32
+gi|1287021994	gi|1287021994   bacterium HR17
+gi|1277169048	gi|1277169048   bacterium CG10_big_fil_rev_8_21_14_0_10_33_18
+gi|1278360828	gi|1278360828   bacterium (Candidatus Howlettbacteria)
+gi|504273283	gi|504273283   Bacillaceae
+gi|1390137634	gi|1390137634   Ardenticatenia bacterium
+gi|2649077	gi|2649077   Archaeoglobus fulgidus DSM 4304
+gi|931427657	gi|931427657   Anaerolineae bacterium SG8_19
+gi|1121273570	gi|1121273570   Anaerocolumna xylanovorans
+gi|1309177415	gi|1309177415   Actinobacteria bacterium HGW-Actinobacteria-11
+gi|1125171844	gi|1125171844   Acidobacteria bacterium 13_2_20CM_56_17
+gi|694274258	gi|694274258   [Clostridium] innocuum
+gi|496091738	gi|496091738   [Clostridium] innocuum
+gi|1392647401	gi|1392647401   [Clostridium] innocuum
+gi|83589372	gi|83589372   0
+gi|1180594304	gi|1180594304   0
+gi|497200287	gi|497200287   0
+gi|1148859447	gi|1148859447   0
+gi|1176605002	gi|1176605002   0
+gi|765014390	gi|765014390   0
+gi|499840725	gi|499840725   0
+gi|522203550	gi|522203550   0
+gi|1061374988	gi|1061374988   0
+gi|1176726205	gi|1176726205   0
+gi|916975221	gi|916975221   0

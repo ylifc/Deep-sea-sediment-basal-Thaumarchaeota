@@ -1,0 +1,46 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.162990
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Thermoplasma_volcanium_GSS1_renamed/Thermoplasma_volcanium_GSS1_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Thermoplasma_volcanium_GSS1-contig1_1237      8    132      8    132 PF00380.20  Ribosomal_S9      Family     1   121   121    110.5   6.2e-33   1 CL0329   
+Thermoplasma_volcanium_GSS1-contig1_1355      7    192      5    194 PF01015.19  Ribosomal_S3Ae    Family     3   192   195    178.0   1.4e-53   1 No_clan  
+Thermoplasma_volcanium_GSS1-contig1_332       1    180      1    181 PF04919.13  DUF655            Family     1   180   181    232.4   3.1e-70   1 CL0198   
+Thermoplasma_volcanium_GSS1-contig1_355      90    163     89    163 PF00900.21  Ribosomal_S4e     Family     2    75    75     66.4   1.4e-19   1 CL0021   
+Thermoplasma_volcanium_GSS1-contig1_358       4    129      4    129 PF00410.20  Ribosomal_S8      Domain     1   126   126     87.1   7.9e-26   1 No_clan  
+Thermoplasma_volcanium_GSS1-contig1_361       4    144      2    145 PF01280.21  Ribosomal_L19e    Family     3   143   144    144.8   1.6e-43   1 No_clan  
+Thermoplasma_volcanium_GSS1-contig1_431     121    224    119    224 PF07541.13  EIF_2_alpha       Family     3   114   114     62.4   3.6e-18   1 No_clan  
+Thermoplasma_volcanium_GSS1-contig1_440       5    100      3    101 PF00466.21  Ribosomal_L10     Family     3    97   100     72.9   1.7e-21   1 No_clan  
+Thermoplasma_volcanium_GSS1-contig1_441      19    206     10    207 PF00687.22  Ribosomal_L1      Domain     6   203   204    148.5   1.8e-44   1 No_clan  
+Thermoplasma_volcanium_GSS1-contig1_469       4     66      3     66 PF01200.19  Ribosomal_S28e    Family     2    64    64    108.7   9.4e-33   1 CL0021   
+Thermoplasma_volcanium_GSS1-contig1_510      26    175     15    175 PF01025.20  GrpE              Family     8   166   166    118.2   2.6e-35   1 No_clan  
+Thermoplasma_volcanium_GSS1-contig1_561       6    192      5    192 PF00827.18  Ribosomal_L15e    Family     2   189   189    259.7   1.3e-78   1 CL0652   
+Thermoplasma_volcanium_GSS1-contig1_591      60    164     57    164 PF01000.27  RNA_pol_A_bac     Domain     5   112   112     73.4   1.6e-21   1 No_clan  
+Thermoplasma_volcanium_GSS1-contig1_7         3    137      3    138 PF01090.20  Ribosomal_S19e    Family     1   136   137    164.2   1.2e-49   1 CL0123   

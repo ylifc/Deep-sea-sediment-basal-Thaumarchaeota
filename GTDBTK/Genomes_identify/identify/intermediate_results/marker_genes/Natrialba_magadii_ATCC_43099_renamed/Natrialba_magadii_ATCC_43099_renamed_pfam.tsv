@@ -1,0 +1,46 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.597017
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Natrialba_magadii_ATCC_43099_renamed/Natrialba_magadii_ATCC_43099_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Natrialba_magadii_ATCC_43099-contig1_1099     21    197     18    198 PF04919.13  DUF655            Family     4   180   181    215.2   1.6e-64   1 CL0198   
+Natrialba_magadii_ATCC_43099-contig1_1522      3    140      3    141 PF01090.20  Ribosomal_S19e    Family     1   136   137    153.4   6.5e-46   1 CL0123   
+Natrialba_magadii_ATCC_43099-contig1_222      91    164     90    164 PF00900.21  Ribosomal_S4e     Family     2    75    75     77.4   1.3e-22   1 CL0021   
+Natrialba_magadii_ATCC_43099-contig1_224       5    130      5    130 PF00410.20  Ribosomal_S8      Domain     1   126   126     80.6   2.2e-23   1 No_clan  
+Natrialba_magadii_ATCC_43099-contig1_227       3    144      3    146 PF01280.21  Ribosomal_L19e    Family     1   142   144    195.8   8.1e-59   1 No_clan  
+Natrialba_magadii_ATCC_43099-contig1_2416     10    191      2    191 PF01015.19  Ribosomal_S3Ae    Family    10   195   195    216.8   4.5e-65   1 No_clan  
+Natrialba_magadii_ATCC_43099-contig1_2514    120    230    118    230 PF07541.13  EIF_2_alpha       Family     4   114   114     86.2     4e-25   1 No_clan  
+Natrialba_magadii_ATCC_43099-contig1_3534     19    205     11    205 PF00687.22  Ribosomal_L1      Domain     6   204   204    139.1   3.8e-41   1 No_clan  
+Natrialba_magadii_ATCC_43099-contig1_3535     13    106     11    107 PF00466.21  Ribosomal_L10     Family     3    98   100     82.7   3.8e-24   1 No_clan  
+Natrialba_magadii_ATCC_43099-contig1_423      48    144     48    152 PF01000.27  RNA_pol_A_bac     Domain     1   111   112     72.2   9.7e-21   1 No_clan  
+Natrialba_magadii_ATCC_43099-contig1_426       7    132      7    132 PF00380.20  Ribosomal_S9      Family     1   121   121    114.1   1.3e-33   1 CL0329   
+Natrialba_magadii_ATCC_43099-contig1_452      11     70      8     71 PF01200.19  Ribosomal_S28e    Family     4    63    64    101.8   3.3e-30   1 CL0021   
+Natrialba_magadii_ATCC_43099-contig1_654     218    372    213    373 PF01025.20  GrpE              Family     9   165   166    143.3   1.3e-42   1 No_clan  
+Natrialba_magadii_ATCC_43099-contig1_963       4    188      4    190 PF00827.18  Ribosomal_L15e    Family     1   186   189    279.8   2.3e-84   1 CL0652   

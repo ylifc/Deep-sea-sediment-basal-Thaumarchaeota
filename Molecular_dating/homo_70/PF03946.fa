@@ -1,0 +1,701 @@
+
+>PF03946 lcl|consensus
+--------------------------------------------------------------------------------
+--------------------------IKLRVPAGKATPAPPLGPA---LGPLGVNIMKFCKDFNKAT-KDYK-----GLP
+IPVKITV--YQDRSF-----------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|1950844244|pdb|6YWS|g
+--------------------------------------------------------------------------------
+-----------mskaakggaggveqvVKLIVGAGQASPSPPVGPA---LGSKGIKSMDFCKEFNART-AHINt----GTP
+MPVRVTV--RPDRSFhfdvrtphtswlllnaaeapigkggkrkgasnpgkevvgtvslkhvyeiakikqselrlsglple
+glcraviyqarsiginvip-------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|307549370|gb|ADN49435.1|
+--------------------------------------------------------------------------------
+---------------------makrvVKIAVAPGKAG-----GPAvqqLSQYGVDVNKVTEEINKKT-KILTnyginNVF
+VEIEID---EDTKSFdikpelppiadlimkaigkdtgshqavkeligdisieklaeiayikweelrsrnfknalkqvvsa
+crsigvtiggkdpkqvlkeidagsynnviskyeellrqegrl--------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|503178563|ref|WP_013413224.1|
+--------------------------------------------------------------------------------
+---------------------mpketVEVLIEGGKATPGPPLGPS---LGPYGVNIKEVVDEINKKT-ADFK-----GMK
+VPVKVIId-TETREFeikvgtpptsalimnelniekgssdpgaekvgdlsikqvikiakmkfdsllakdykaaakeilgt
+clsmgvtvegkdprevqkeidegkydeffee-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|511306072|ref|WP_016357873.1|
+--------------------------------------------------------------------------------
+---------------------mptdtVEVLVEGGSATPGPPLGPA---IGPLGINMMQVVEEINNKT-ADFK-----GMK
+VPVKVIVd-SDTKEFeieigtppttalimdelniekgshepgtevaadlsveqafkiarmkydsllandykaatkevmgt
+avsmgitvdgkdprdaqkaldageydsvfdgy------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|502720302|ref|WP_012955286.1|
+--------------------------------------------------------------------------------
+---------------------makdtVEVLLEGGTATPGPPLGPA---IGPFGVNMMQVVEEINEKS-ADFA-----GMK
+VPVIITId-SNTKEFeieigtppttalimdelgiekgahepgaevaadlsveqalkiarmkfdsllsndyksatkeimgt
+cvsmgitvdgkdprdaqkavdageyddilve-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|50403579|sp|P62445.1|RL11_METMP
+--------------------------------------------------------------------------------
+---------------------maeqvVEILVSGGKATAGPPLGPA---IGPLGVNIMQVVQKINNMT-KDYE-----GMS
+VPVKVIVd-TDKRTFevevgippasalikkeigiekgsqepkhqvagnitmeqivkiakmkqdamlaynlknaskevvgt
+cvsvgisvegmtpseaqkaidagqfdsyfn--------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|166230152|sp|A6UVR5.1|RL11_META3
+--------------------------------------------------------------------------------
+---------------------matevVDVLVTGGKATAGPPLGPA---VGPLGINIMNVVKEINEKT-KDYA-----GMS
+VPVKVIVn-TDDRSFeievgipptsaliktelgldkgstepkaivagnlsmeqavkiakmkkdsmlsftlknatkevigt
+cvstginvegmsprdaqkaidagefdeyfne-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|502705036|ref|WP_012940280.1|
+--------------------------------------------------------------------------------
+-----------------------mqvVEVLVPGGKATPGPPLGPA---IGPLGLNVKQVVDAINKAT-KDFE-----GLP
+VPVKIIV--KEDRSFeievgvppvsalvkkelsiekgahkpkhevvgnltmdqvikiakikkkqmlsytlksavkevlgt
+cvsmgvtvegkhpkdvikeieeglieipeeeee-----------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|357209978|gb|AET64598.1|
+--------------------------------------------------------------------------------
+-------------------mkflasfVEVLVPGGKASAGPPLGPA---LGPLGVNVADVVKKINEAT-ADLN-----GMQ
+VPVKVTV--RSRTDYqvevgtpptsalvlkevglekgsgnalqivgnltmeqvvkvagikrknllsvsmksaakevigtc
+gsmgitvegmprkeaqaavdegrfdeila---------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|445575860|gb|ELY30323.1|
+--------------------------------------------------------------------------------
+----------------------magtIEVLVPGGEANPGPPLGPE---LGPTPVNVQDVVQEINDET-AAFD-----GME
+VPVTVEY--DDDGSFsievgvpptaelikdeagfetgsgepqenfvadlsfdqvkkiaeqkssdllsydtknaakevvgt
+ctslgvtiegndprefkeriddgeyddqlva-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|118597256|sp|Q12UQ0.1|RL11_METBU
+--------------------------------------------------------------------------------
+----------------------masvVEALIPGGKANPGPPLGPA---LGPLGVNIKDVIEKINEKT-KDYN-----GMQ
+VPVKVIV--NDDKSVeievgtpptsalilkelniekgsgesgtvvvgnleiaqvakiarmkkddilsyslkaaikevmgt
+cvpmgvtienldprecqkavdegkfdesltaeaw----------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|121685197|sp|Q0W049.1|RL11_METAR
+--------------------------------------------------------------------------------
+----------------------madvVEVLVPGGKANPGPPLGPA---LGPLGINIKKVVDEINNKT-KDYN-----GMT
+VPVKVIV--DASRNFtvevgtpptsalvlselklekgsgtpntnfigsltieqaikvaqmkrdamlsytlknavkevagt
+cvslgvmiegkkpkefiaevnagkyddklse-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|509093009|gb|AGN27027.1|
+--------------------------------------------------------------------------------
+---------------mkkkgdnmadtVEVLVEGGKATPGQPLGPA---LGPLGVNIPQIVGAINEKT-KAFD-----GMK
+VPVKIII--DKDKNFeikvgtpptsslvtkelgiekgsgstkadkvgdlkieqvvkiaqmkgdslmgkdvkmrslevigt
+cdsmgvtidgkeprairkdildgaydqafve-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|505316849|ref|WP_015503951.1|
+--------------------------------------------------------------------------------
+----------------------mvdtVEALVDGGKATAGPPLGPA---LGPKGVNIGQVIAKINEKT-KAFE-----GMK
+VPVKILI--NPDKTFdikvgtppvsalikgelgietgsgnpkttivgnltveqakkiaamkqdsllgaterarvsevagn
+cvslgvtidgknpkdfqkdlkagvyddvlgh-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|197624326|gb|EDY36887.1|
+--------------------------------------------------------------------------------
+----------------------mgqvIEVLVEGGKATPGPPLGPA---LGPMGVNVAQVVKAINEKT-KDYA-----GMQ
+VPVKIDId-PKTKEFtitigtpptsalikkelgiekgsgnartekvgnlsleqvvkiakmkkdnslsydvkgvvlevlgt
+cvsmgvtvegkdprevqkliknneitlpnl--------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|530554918|gb|EQB66309.1|
+--------------------------------------------------------------------------------
+----------------------mpqeISVMVEGGKATAGPPLGPA---LGPMGVNIGLVLKEINDKT-KLFS-----GMQ
+VPVKVIVd-PETKKFeisvgkppvsallkkelgietatgasktktsgdlkvsqikkvaemkidnmtassiksavmevlgt
+cvsmgitvdgkdpreiqklikdgsiai-----------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|226702725|sp|A9A582.1|RL11_NITMS
+--------------------------------------------------------------------------------
+---------------------mgeqkISSLVTGGGASAGPPLGPA---LGPLGVNIMEVINAINDKT-KDFE-----GMK
+VPVTVIVd-SDTKKYeieigipsaaalimkeagiqkgsgasgtewagdvtmdavvkvantklensyasslksvaktivgt
+clalgvkvegktpkeitaeinegkwdekfq--------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|408366014|gb|AFU59744.1|
+--------------------------------------------------------------------------------
+--------------------mgdkksISALVNGGEANAGPPLGPA---LGPMGVNVLQVVNTINEKT-KDFP-----GMK
+VPVKVEVd-SETKKFtvevgipptaalvakeagipkgsgtagtnyagdltmasavkiakmkidgsyafdvrgavkevigs
+cvsmgvkvegkpakevyadiaagkyddllk--------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|502894828|ref|WP_013129804.1|
+--------------------------------------------------------------------------------
+---------------------makktIKVMVEGGRATPGPPLGPT---LSPYKVNIPEVVKAINEAT-KDFE-----GLS
+VPVEITId-VDTKKFevkvgiptttalllkeagakqptgdpghqkignisleqavkiaiakkeqlsaktlkaavktilgs
+arsigitvegkdprevqkmidegvyddlfrkyesewegva----------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|54039079|sp|P62446.1|RL11_NANEQ
+--------------------------------------------------------------------------------
+---------------------mgeiaIRLLVTGGKATPGPPIGPA---LSPFKINPGKVVAEINKLT-KEYE-----GLP
+VPVEIIIn-PETKEYkiivglpptsallmkaagvtrgpqrtvhewvgnvsmkdvveiakkkidsmptsslkaavksvlgt
+aratgikvenkdpkevtkevdegkwdhiine-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|126014812|gb|ABN70190.1|
+--------------------------------------------------------------------------------
+---------------------mgkkvIKVMVEGGKANPGPPLGPT---LSPLRVNVMEVVKAINEAT-KDFE-----GLT
+VPVEIIVd-TSTRKFevkvgiptttalllkevgvkqppgdpahqkigdlpidkiikiailkkeqltaktlkaavktilgt
+arsigitvdgkdpkivqkeideglydatiakyepewekeeeqetgev---------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|54039104|sp|Q971J0.1|RL11_SULTO
+--------------------------------------------------------------------------------
+---------------------mptksIKIVVEGGNVKPGPPLAPT---LSQLGLNVGEVVKKINDAT-SQFK-----GMS
+VPVTLEVd-TDTKKYeikvgiptttslllkfanasepsgdpahkkvgdikfediiqvaimkkpqitaktlkaavksilgt
+ahsigltvdkkspkelvkavdegkyddllakyeqkwneaeg---------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|464617|sp|P35025.3|RL11_SULAC
+--------------------------------------------------------------------------------
+---------------------mptktIKIMVEGGSAKPGPPLGPT---LSQLGLNVQEVVKKINDVT-AQFK-----GMS
+VPVTIEId-SSTKKYdikvgvptttslllkainaqepsgdpahkkignldleqiadiaikkkpqlsaktltaaiksllgt
+arsigitvegkdpkdvikeidqgkyndlltnyeqkwneaeg---------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|304378382|gb|ADM28221.1|
+--------------------------------------------------------------------------------
+--------------------mprikvIKIQVEGGKASPAPPLGPA---ITDAGLNVAEVIEKINKMT-EVYK-----GLT
+VTVKIIVd-LDTKNYeielelptvtsmllsmakasepsgdpmhkkignisiedvvrvallkkpeltakslkaavktilgs
+arsigltvegkdpkdvikeveqgvydailgkyegewsrv-----------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|166230145|sp|A2BN63.1|RL11_HYPBU
+--------------------------------------------------------------------------------
+---------------------mgirvINVKVRGGEAKPAPPLAPA---IEKLGLDVNKVVEDINKAT-EKYK-----GFE
+VAVKLIVd-ENTKEYeievkpptttelllkavgasepsgdpmhqkigdlpfekiveiailkkpslnaktlkaavktilgs
+arsigitvdgkdpkqvtkeveeglydavlakyeeeweka-----------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|123509555|ref|XP_001329884.1|
+--------------------------------------------------------------------------------
+-------------------madqaviIKCRVWGGETGVTSKLAPK---LGPLGVPAPKVAQEVAKAT-EKYK-----GFR
+ATVKITV---QNREFkvevenststlliaalnephrdrkkvkavkhsgslsldtiidiartmrpkscartlagtvkevlg
+taqamgahvdgmdpkevqkkiasgeipipke-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|284089918|gb|EFC43573.1|
+--------------------------------------------------------------------------------
+--------------mppkadpsevkiLFVRCLGGEAGATATLAPK---VGPLGLSAKKVGDDIAKVT-KDWK-----GLK
+VTVKLTI---QNRQAeieiipsasslvikalkeaprdrkkvknikhngnisfddvlsiartmrsksfaktmagsvkeilg
+tcysigctvagenpktlqeqitngtvefkipeq-----------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|190589398|gb|EDV29420.1|
+--------------------------------------------------------------------------------
+--------------mppkldpnevkiVHIRVTGGEVGATSSLAPK---LGPLGLSPKKVGDDIAKST-QDWK-----GLR
+ITVRLTI---QNRQAkidvvpsasslvikalkepprdrkkqknilhtgnvpldqiidiartmrprsmarklegtvkeilg
+taqslgctveqqhphdvidgindgsiaipee-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|223541400|gb|EEF42951.1|
+--------------------------------------------------------------------------------
+--------------mppkfdpsqvvdVYVRVTGGEVGAASSLAPK---IGPLGLSPKKIGEDIAKETaKDWK-----GLR
+VTVKLTV---QNRQAkvtvvpsaaalvikalkeperdrkktknikhsgnisldnvieiakvmkprsmakdlsgtvkeilg
+tcvsvgctvdskdpkdlqqeitdgdveipld-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 lcl|6_pfamImport
+--------------------------------------------------------------------------------
+--------------------------MYLRCTSGQVSATSTLTPK---ISPLSLSPKETGDDIVKAT-SDCN-----GLK
+ITVKLTI---QNGQA-----------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 lcl|7_pfamImport
+--------------------------------------------------------------------------------
+--------------------------MYLRCTSGEISAKSALAPK---IGPLGLSPKEVGDDIAKAA-GDWK-----GLR
+ITVKPTI---QNRQA-----------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 lcl|4_pfamImport
+--------------------------------------------------------------------------------
+--------------------------LYLRCTSSEVSASSALAPK---MGPLGLAPKTVGDDIAEVT-SDWK-----GLK
+ITVKLTI---PNRQA-----------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 lcl|8_pfamImport
+--------------------------------------------------------------------------------
+--------------------------IHLSCTHGEVCATSALAPK---IVLLGLAPKKVGDDIVKAT-RNWK-----CLK
+ITVKLTI---QKRY------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 lcl|2_pfamImport
+--------------------------------------------------------------------------------
+--------------------------VYLRCTCGEVGA---LALM---ISLVGLFSKRVSNDIAKAI-SDWK-----GLR
+IIVKLTI---QSRQS-----------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 lcl|5_pfamImport
+--------------------------------------------------------------------------------
+--------------------------VYLRCTGGEVGAVSSQGLK---IGPLGLSPRKAGDDIPKAT-GDGK-----GLR
+MTMKLTI-----RHR-----------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 lcl|3_pfamImport
+--------------------------------------------------------------------------------
+--------------------------VHLRCSHGEVAVTSAPAPR---LGPLGLSPKKDGDDIAKAT-GDWK-----GLR
+MT-KLTI---QNRQA-----------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|444729519|gb|ELW69932.1|
+--------------------------------------------------------------------------------
+----------------pkfntneikvMYLRCTGGKVGATSALAPK---IGPLGLSLQKVGDDIAKAT-GDWK-----GLR
+IIMKLTI---QNRQAqievipsasvliikaleelprdrkkqrnikhngnitvdeivsialqmryrslarelsgtikeilg
+ttqsvvcnvdachphdiiddinsgaveclag-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|961715985|ref|XP_014918172.1|
+--------------------------------------------------------------------------------
+--------------mapkfdpgeikvAHLRCTGEEVGTTSVLAPK---IGPLRLSTKKVGDNITKAT-GDWK-----SLR
+ITAKRTI---QNRQAqievvpsastritrvlkepptdrkkhkntirhprnltfdeivniaxxmwhgslaxelsgtikeil
+etaqsvgcnvdghhphditddinsgtmecpas------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|1603561630|emb|VFV19645.1|
+--------------------------------------------------------------------------------
+--------------mppkfdpnaikvVYLRCTDGEVGATSILAPK---IVPLRLSPKKIGDDIAKAT-GDWQ-----GLR
+ITVKLII---RNRQLqtevvspasaliikvlkelprdrkkqknikhsgnitfdeivniawqmrhrflarglsgnikeilg
+ttqsvgynvdvchphdiiddinftgmps----------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|444516667|gb|ELV11250.1|
+matkdsslahgiiwlllhfgwtwvalyvsdamqgeqflrdikakmtakdicvvftekltatkgvfldcdflavqrirvss
+anvymihcdegsvcmppkfnpnvikvVYLRCTGGEVGASSALAPR---VRPLDLSPKKVGDDIAKAT-GDWK-----GLR
+ITVKLTI---QNKQAqievipsasaliikalkepprdrkkqknikysgnitfdeivsivrqmrhqslarelsgtikdilg
+taqsvgcnvdgrhlhdiiddinsgavkcpas-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|449542583|gb|EMD33561.1|
+--------------------------------------------------------------------------------
+--------------mapkldpneikiIYLRATGGEVGASSALAPK---IGPLGLSPKKVGEDIAKAT-SAWK-----GLR
+VTVQLTI---QNRQAkvdvvpsasslvikalkepprdrkkeknikhsgnvtfdeiveiartmrskslaktlangckeilg
+taqsvgctidglpphdvidkinegeievpee-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|1209709372|gb|OWR55480.1|
+--------------------------------------------------------------------------------
+--------------mppkfdpneikiVCLRCVGGEVGATSSLAPK---IGPLGLSPKKVGDDIAKAT-SEWK-----GLK
+ITVQLIV---QNRQAqisvvpsaaaliiralkepprdrkkqknikhsgnitledvisiaktmrprsmarylsgtvkeilg
+taqsvgctvegrpphdlivdinegtltide--------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|122101775|sp|Q4DHZ9|Q4DHZ9_TRYCR
+--------------------------------------------------------------------------------
+--------------mppkfdpnqeliVIVRAVGGEVPATASLAPK---VGPLGLNAKKIGEDIAKST-KDWK-----GLK
+VTCELRV---KNRVAtvrvtpsvasrliralkepprdrkkvknikhsgnipfseilkiakeaapnsmganmksvvmevlg
+talsvgctidgenpreiqdkvrigklkvpn--------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|312074178|ref|XP_003139854.1|
+--------------------------------------------------------------------------------
+--------------mppkfdpneikiVYLRCVGGEVGATSALAPK---VGPLGLSPKKIGDDIAKAT-QDWK-----GLK
+VTCKLTI---QNRVAkidvvpsaasllikelkeptrdrkkvknvkhngdltveqviniarqmrprsmakklegtvkeilg
+taqsvgctvngqhphdivdairsgeiviped-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|575483986|ref|XP_006681287.1|
+--------------------------------------------------------------------------------
+--------------mppkadpteikyVIIRSTGGEVPGGSVLAPK---LGPLGVPPKKAGDDIAKAT-QAYK-----GLK
+VTVRLAV---QNRQAtvevlpsastlliqalkepprdrkkeknikhsgnltlnqvceiarkiqhksyakefsgnvkevlg
+tafsvgctvdgqppqdliekiqsgelevpsa-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|74922205|sp|Q7RGK2|Q7RGK2_PLAYO
+--------------------------------------------------------------------------------
+--------------makrpdpneiryVYIRQVGGEVGASSVLSPK---LGPLGLSPKKIGDDIAKET-QSWK-----GLK
+ICVKLTI---QNRQAkievvptsasmvlkelneaprdrkkvknikhngnlkieqvysiaramkeksrakefrgtvkeilg
+tcnsigctvdgkkpttiqemidngdidvpdn-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|122102470|sp|Q4N2R4|Q4N2R4_THEPA
+--------------------------------------------------------------------------------
+--------------makkpdpnevvyVYLRQLGGEVAPSSVLAPK---LGPLGMSPKKVGDDIAKET-ANWK-----GIK
+VTVKLTI---QNRQAkieikpsatallikelkepvrdrkkvknikhngnltwdqlmgvartmrptsmartmkgtvkevlg
+tcsaigctvdnqkprdlqekldngeievpne-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|298708136|emb|CBJ30477.1|
+--------------------------------------------------------------------------------
+--------------mgpppptgeaqyVILRAIGGEVGNTAALAPK---LGPLGLSPKKIGEDIQKNT-QEWK-----GLP
+ITVKLTI---INRQAtvsvipaasslilkalneperdrkkvknikhdgnvtldqvieiarvmrersmartlagtvkemlg
+tcnsvgctvngqsprdiqsgisegeivipde-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|330804502|ref|XP_003290233.1|
+--------------------------------------------------------------------------------
+--------------mppkvdpsekveVYLRVCGGEAGAMSTLAPK---LGPLGVSPKKVGDEIAKAT-QPWK-----GMK
+VSVKLTI---QNRVAtpevlptaaslvikalkepprdrkkeknikhtgniqieeifkiaqtmrnkslavdfkgtvleilg
+tcvsvgcringkpakeiqkaiqegsvevpsn-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|523780278|gb|EPR79546.1|
+--------------------------------------------------------------------------------
+--------------msapkqdsdeklIFLRVVGGEA-PGSTLAQR---VGPLGISAKVVGEDIKKVT-AKYQ-----GMK
+VGVLLRI---KDRKAavevilstanlviealnepprdrkkvkninhsgdlsmtdiviigrkvatkaysktltgtvkqvlg
+tclsvgctvegknpktvireinegmvtlpae-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|51701819|sp|Q8SR84.1|RL12_ENCCU
+--------------------------------------------------------------------------------
+-------------maeqkgmdpdtkyIKLQVVGGEV-PGATLAQR---VGPLGLSSKVVGEDIKKAT-ADYK-----SLK
+VHVQLAI---KDRKAtvevqpsvatliikslkepprdrkkeknilhngslrmtevvdiariarssrsysnslsgtvkevl
+gtcksigckvdgkcpkevtreidageiklpdq------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|300709335|ref|XP_002996833.1|
+--------------------------------------------------------------------------------
+--------------mnknadtgdvkyLKIQVIGGEL-PGPVLAQR---AGSWGIPIKKVGEDIKAAT-AEYK-----SLK
+VMVGVTV---SGGKAtvevlpntstliikalrepprdrkkvknikhdgdlkfsdvieiakkiriksfskklagtvkevlg
+tcysvgctvegrtprevtasinsgeiripde-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|667633077|ref|XP_008073821.1|
+--------------------------------------------------------------------------------
+--------------magpavddsikyVSLRCVGGEV-PGATLAQK---VGPLGIPAKVVGEDIKKAT-MDYK-----SLK
+INVRLAI---KDRKAtievmpstatlilkalnepprdrkkeknikhtgsitlvdvveiaravkvrslsnefkgtimqvlg
+tcvsigckiegkcpkevmkeinegelrlpae-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|402466351|gb|EJW01858.1|
+--------------------------------------------------------------------------------
+--------------mssqaksddvkiITVKVIGGEV-PGTALSTK---VGPLGVPAKLVGEDIRKST-GDYK-----GLR
+VHVKLSI---KDRKAtvevtpstatliikalrepvrdrkkeknvlhsgslkmtdiieiarkklpdsqcktlrsvvkcvlg
+tclsvgckvdgknpkevikeinealikipeh-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|378755105|gb|EHY65132.1|
+--------------------------------------------------------------------------------
+-----------------mnkveevkyVRLRVVGGEPAGGASLAQK---VGPLGFNAKQVGENIAKQT-KEYM-----GYK
+IGVLLTI---QGRQMditaepgtsalilkelkepprnrkkekniqhngslsldavvqiakkqrsksyartlagtvkeilg
+tclsigclvdgespkevtrkiqegeiviade-------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|471222699|ref|XP_004030146.1|
+--------------------------------------------------------------------------------
+--------------mppkvdpnevrfINIKVFGGEPGPASTLAPK---LGPLGLNAKKVGEDIIKAC-SDHK-----GIR
+VMVQLKC---QNRAAevtilntssallikelgkhsrdrkkvknvkhngdlsleqikkvakimeadnksfaktfagtvksv
+lgtaqsigvtvnkqhpkkiieainkgeinv--------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|124481371|sp|A0BE24|A0BE24_PARTE
+--------------------------------------------------------------------------------
+--------------mppkvdpnevrlINIKVFGGEGGPASTLAPK---LGPLGLNPKQVGDKIIAES-GKWK-----GIR
+VMVNLRC---QNRNAdvtviptssallikeiggyerdrkktknvkhngnltleqvikvaraveekslaktftgtvkqvlg
+taqslgatvdgqpvkaiigkinsgelkvek--------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|156566952|gb|ABU82357.1|
+--------------------------------------------------------------------------------
+---------------------mpkkvLTFSVEGGNAKPAPPIKPA---LESVGLDPNEVVQKINEVT-KRYK-----GFT
+VTVKVIVd-PDTKEYeieveppnitelllklagakapsgdpihqkvgdlpfekvieaallkapeltaktlkgavktvlgt
+araigltvdkmdpkevtrlveegkydeqlkkyepeweavs----------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|503792539|ref|WP_014026533.1|
+--------------------------------------------------------------------------------
+--------------------mgrkktLTFTVEGGRVKPGPPIAPA---IAPLGLNVAEVVQKINEAT-KKFE-----GMT
+VPVKIIVd-LDTKEYeievgiptttalllraagakepsgdpahhkigdipfekiveiaimkkpqltaktlkaavktilgt
+arcigllvdgkdpkqvvkeveqglydavlakyeeewrka-----------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|503031187|ref|WP_013266163.1|
+--------------------------------------------------------------------------------
+--------------------mpqekiINIQIEGGNAKPGPPLGPT---LSSLGLNVKQVIDEINNKT-KDFK-----GMT
+VPVKITVd-MTTKSYrievgiptvtalllkeagvdapsgdpahkkignvsfesivkvslmvkpkitaktlksavksvlgt
+aksigltvdnkdpkevikdvdagaydeiiskyepewasr-----------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|429133999|gb|AFZ71011.1|
+--------------------------------------------------------------------------------
+--------------------mpqekvLTIQVEGGAAKPGPPLGPT---LSSLGLNVKKVVDEINEKT-KDFK-----GMT
+IPVKITIn-MSTKEYkievgiptittlllreagasepsgdpehkkvgdlklekvveiavrsrpkllsknlenavksilgs
+aksigltvegknpkdvikeiedgkhkellekyeneylr------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|119524262|gb|ABL77634.1|
+--------------------------------------------------------------------------------
+-------------------msqnlktFTFLVEGGKATAGPPIGPA---LGPLGLNVMQVVKRINELT-ADYA-----GMR
+VPVKVTVd-VEKKTFevevgtpttaaliikelkvekgahqpsrenvgnltlqqvikiakikkkdmgastlkaavktvagt
+aqsmgvtiegkppkvfieevekglydeeirkhegeaa-------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|315425501|dbj|BAJ47163.1|
+--------------------------------------------------------------------------------
+---------------------mgektFRFLVEGGKVTAGPPLGPA---LGPLGLNVLAVAEEANRLT-QEFN-----GMR
+VPIEVVVd-TDTKKFeirvgtpstsallasaagvqkgsgtagrdyvgdlkfteivkiaekklqdmrsktlkaavkevlgs
+cvsmgikvdgkdpkevvklveqgkydnllgeqn-----------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|226702706|sp|B1L6L2.1|RL11_KORCO
+--------------------------------------------------------------------------------
+---------------------mpkkiVRVLIEGGKATPGPPLGPA---LGGLGLNMGQIVKEINEKT-SSYS-----GMR
+VPVEIEVd-TETKKFeirvgtpptsmlilrelkaekgssdaskkignlkmetvvniakmklassntpelkqvvkqvlgta
+lsmgvtvegkdprevqrevdsgawdkllgg--------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|38605473|sp|Q9HL70.2|RL11_THEAC
+--------------------------------------------------------------------------------
+----------------------maqsVKTMVEGGKATTGPPIGPA---LGPLGLNVAQVVKEINEKT-KEFQ-----GMR
+VPVTITVvdPETKKYeitvgipptsallkkklgiekgaakrkeaiagnatldqivdvaktkmasmlasdlkaatlevlgt
+cvsmginvdgkdpkevqrqikageisi-----------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|530555167|gb|EQB66554.1|
+--------------------------------------------------------------------------------
+----------------------maqeVKTMVEGGKATSGPPLGPA---LGPLGLNLGQIIKEINEKT-KDFQ-----GMQ
+VPITVTVtdPAKKTYeikvgipptsallkkelgiekgsgkrketvvanatleaitkvakskmdsmmsndlkgavlevlgt
+cfslginvegktakevqeeilkgeikvs----------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|74894767|sp|Q23884.1|RM11_DICDI
+--------------------------------------------------------------------------------
+---mtyiskkqaakkvivrekpilvrLKLIIGAGTASMTPPLGPN---LGQYGINSIEFFNDFNTET-KELFe---tGLA
+LRVILWI--NVMKAFyfelqmpkisnllkeyykveceaakggnvyiekerllkdcfkiaillctfnkaekqweqiekkyl
+ritvleilgtcrsckiyvkkaene--------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|470294626|ref|XP_004344448.1|
+--------------------------------------------------------------------------------
+---------mskakgaaggahivvatLKLLIPAGKAAPAPPLGPA---LGQKGVAIGQFVKDFNDQT-KQFVp----GTE
+LPVRLAV--KGDRSYsytvgqpttayfvlraaglakgakaagkevmgtislrhvyeiaqiklkdpsvkhlnmqtmaqcvi
+gtaralgvrviddrpknvkaaaaaaaaaaapatsapagaapavata----------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|389593555|ref|XP_003722031.1|
+------------------------------------------------------mlrrsavrylkarpktvniepgsnrf
+ldpnveakakdifavpefpnkavlhnWRFFIKAGKAATGPPVGQE---FSKLGLKAMDFAKAFNDRT-KPHFk---dDIE
+LIVRIQV--YFDKSYifrieppptawfllrairkkrgetgpvvlrgnycayltlemcyeiakmkqmswgkveyppievrv
+rrvvgqarrmgiaiigidtvhsspvkgmtekqyleesekhrkvhmiqyealkakelesaplierlhrpnmapltntqlee
+glkdanllnalwksshpkslftqdtrdremarrylntrgwfkemtpeemrvvflnyrlpkqedhqrqlnmtngqaqsqay
+wsrdaaspq
+>PF03946 gi|241998902|ref|XP_002434094.1|
+--------------------------------------------------------------------------------
+---msksvkrlksmkkvvekvmhttpLKLYIPAASAMPGPPLGPQ---LGQRGINIANFCKEFNERT-KDMKp----GIP
+IPCKISL--KPDRTYklemmnppisffvmqaagidrgamqngkekagiislkhvyeiakiksedtvyecmpmqdlckivi
+nyayrcgvqvvreldaeqcrefhekrrpivqaqlaqieekrqakllrtva------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|321473576|gb|EFX84543.1|
+--------------------------------------------------------------------------------
+------------mskktiakidhgnrMETYIPSGKAVAGPPLGPQ---LGQKNINIAAFCKEFNERT-KDYKe----GIP
+LPCRVVV--NPDRTFdltinqppatyflkqaagiqrgamkhaqevagkvslkhvyeiakikqqdatlsflpletickqvv
+aiakscgievvpkldaeeygeflkerkiiveeelkdlqakkearmlrta-------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|749798132|ref|XP_011152554.1|
+--------------------------------------------------------------------------------
+-----mskmgrmklkkvvekidhsskLCVNIGAGMASPAPPLGPQ---LGQRNINIANFCKDFNQRT-ADIKe----GIP
+MPCRVKV--HSDRTYdlvihkppatyylkqaagiqkgmikkgdvagkitlkhlyeiakiksedpplalmtleqvcqmlvg
+iartcgievvreidpveyaeflknreviltefreelrlaketkvlrtni-------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|675881960|ref|XP_009026482.1|
+--------------------------------------------------------------------------------
+-----mskvvakgmkkisekinhppfLSVTIPAGLASPAPPLGTQ---LGQRNIQIANFCKDFNEKT-KNIKe----GTP
+LPTRITI--NSDRSYnlvihnppvsyflklaagidrgamktgrevsgfvslkhiyeiaaiksadpcwkhvplneicqsii
+gtahscgievveeldenfyaqflkerreivekqklelqelkaakllrvav------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|1032732057|ref|XP_016841642.1|
+--------------------------------------------------------------------------------
+---msksaarlkfakkivdkvdhsskLRTNIPAGQAMPSPPLGPQ---LGQRNINIAAFVKDFNEKT-AHLKe----GIP
+IPCRVKV--NPDRSYhlvmhkppavyylkqaagiqkgalappevvgkvslkhlyeiaviksedpplalmslqqitqmlvg
+iartvgievvkhldaeeykqfleerkvifeqqlkelkeakeakmlrtg--------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|762154875|ref|XP_011415519.1|
+------------------------------------------------------------------------------ma
+skgkiagklgknvkkagankqeyapyLKVIIPAGLAVAAPPLGPQ---LAQRGVQIAGFCKDYNAMT-AEYKp----KVP
+LIADLKI--NVDRTYsislvspptsyflkqaagikkaamkpgqevagklslkhiyeiakiketsdnrfrgmslecicksl
+igqchnigievvrdlkpedygkflkereeivkeqeaaleakrqakllrq-------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|270010187|gb|EFA06635.1|
+--------------------------------------------------------------------------------
+----mskvaarmktlkkvvekvkhgnLRTNIPAGMAAAGPPLGPM---LGQRGINIAAFCKDFNEKT-KDIKe----GIP
+LPTRVTV--NPDRSYelvinkppvvfflkqaagiqraamepgkeiagkvtlkhvyeiaklksvdptletrslddlcqmvc
+giarscgievvrdldpeeygkflaerkeiveqqkkelqekkeakmlrtg-------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|242024086|ref|XP_002432461.1|
+--------------------------------------------------------------------------------
+---mskvakvkaalsatgsrviqanlFRTVIAAQSASAGPPLGPI---LGKFGLNISAFCKNFNEQT-KTIKq----GIP
+LPVTVRI--KPDKSFiieihtppikyylfqaaginrgkvegdttpsgkislkhayeiakikhndpyekfqlfdleqvvrr
+vllvarqngieitrdldpneyqtflkerfayleeldkqieaekmakfaka------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|1009340111|emb|CRZ25306.1|
+--------------------------------------------------------------------------------
+--mstvakvgarvrkrpvikiihnplYKVIVKAQMATAAPPLGPN---LGKRGINVANFCKDFNRAT-SNIKp----GTP
+LPVRVTI--KPDRTYdleictptsmwllmhaagirrgatcpreeisgmitvkhiyeiakikaadkcllgvplkliceqli
+ktahtiglkvvrgnldpmeyrkfleerkvvvdrelkrmeeekaakvlrttptq---------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|465702|sp|P34264.1|RM11_CAEEL
+--------------------------------------------------------------------------------
+----maskgaarvrkkeivkvvhgalLRTNIKAQMASAAPPLGPQ---LGQRGLNVANFCKEFNKET-GHFKq----GVP
+LPTRITV--KPDRTYdleictptttwllkqaagigrgkaskdeivgkltvkhlyeiakiksrdkalqhvpleqicrmlik
+tcrtlgidvqyhdldpvelkeflvarkekvdaqlkdladkkaakmlrtt-------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 lcl|9_pfamImport
+--------------------------------------------------------------------------------
+--------------------------IKTFIQAGLAAAGPPLGPI---LGQHGLNIATFCKDFNERT-KDIKe----GVP
+LPTRIYI--NPDRSY-----------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|340377521|ref|XP_003387278.1|
+--------------------------------------------------------------------------------
+----maskvaskagkkiagggdlmspLRLYIPAQKATTS-ILGRT---LGQRGINIGLFCKDFNEQT-KDIKe----NIP
+IPTRIHV--NPDRSYsieitsppvsyflkaaagiekgashqgkevagtvllkhvyeiarvksqdsalkrlplegicrlii
+gsarsmgikvlkkertyrnn------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|72014263|ref|XP_786047.1|
+--------------------------------------------------------------------------------
+---msratksakaakdtakkvnlgnvIRTYVRAGSAVPGPPLGPV---LGQRGVAIGQFCKDFNEKT-KHIKd----GIP
+LPSKIYI--NPDRTYnikfttppvsyflkqaagmkkgayqpgqqefgvislkhiyeialiksqdenmeglpmdhickmai
+gsahsmgikvvprleeeemtsymedstqrreafeeemteakaaak-----------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|198435177|ref|XP_002129028.1|
+--------------------------------------------------------------------------------
+-------mskvtraskqvkkvfhpsvIRTTMKAGGASTGPPIGPT---IGQRGLPIVKFVEDFNNLT-KDIKp----GTP
+IPTRIHV---DGKKFtiqllepessylimqaagiskgsrsmkdfpvgkithkhiyeiakvkleqenvkirnmplkemcel
+laeqayrlgvdvvrnidpeeydafltskeeeeaefqrkkeedalakrkkmigke--------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|1168897658|ref|XP_020491486.1|
+--------------------------------------------------------------------------------
+-------mskiskaakavkkldagnvIRAIVRSGQAAPGPPLGPI---LGQRGIPIGQFCKDFNEKT-KELKe----GIP
+LPIKIHV--KPDRTYdlkigqptvsyflkqaagiakgasktghetagkvsvkavyeiaqvkaqdecfklrnfslenvvks
+iigsarslgieivnnlpadeykvfleqreeklkadaaaaaaaaaealtgkkk----------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|194166682|gb|EDW81583.1|
+--------------------------------------------------------------------------------
+---mskaaaklkslkrvaervthttkLKTNIPAGMAAAGPPLGPM---LGQRAINIAAFCKDFNTKT-AEMKe----GVP
+LPCRISV--NSDRTYdltihhppatfflkqaagiqrgtmtpgrevagmitlkhlyeiaqikiqdppnvmltmqqmcemli
+giartcgikvvrdldateygqfleerkviveeqrrdlqekrdakmlrtg-------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|1005948707|ref|XP_015782671.1|
+--------------------------------------------------------------------------------
+---------maskarkaaekvihttpLFVWISAGLANPGPPLGPQ---LGQRGINIAQFCKEFNDKT-AKHKk----GIP
+IPCMISV--NPDRSFkltmsnppityflrqaagaergaadyrtqvagmitvkhvyeiakiksqdayyenvpmekifqeiv
+vralqmgvkvvhkldakeyaeflekrrveveeelrkleeerqnrllrt--------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|156219311|gb|EDO40195.1|
+--------------------------------------------------------------------------------
+-----------------maakqlsgvLRTYIAAGKASPSPPLGPA---LGQRGVNIAQFCKEFNDKT-KHIIq----GVP
+IPTIIKY--KGDRTFtfetttptvshflksaagiekgaqkpgrevagtvslkqiyeiakikhqdkafrnvplksvcktvm
+gsahsmgikiepgrdads--------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|196014753|ref|XP_002117235.1|
+--------------------------------------------------------------------------------
+----------------------------MYIKAGKASPSPPLGPA---LGQRGLNIGKFCKEFNDKT-ANMEe----GIP
+IPTKIFI--YADRSYkfstsappasyflkaaagiekgsahqgkevagvvtlkhiyeiakvkhndeqfrnmtlehvckaim
+gsaksigikvvre-------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|326435071|gb|EGD80641.1|
+--------------------------------------------------------------------------------
+-------------------makivsrFSMYIPAAAAAPAPPLGPA---LGQRGINIMEFCKQFNDRT-KTMKk----GIP
+VPTQVEV--KNDRSFqfktgmppnsyflkkaagitkgaqnpgkevagtvtlkqiyeiaavkaqddkfkntplegvcrcii
+gsarsmgirvvsdkaeeaa-------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|262105324|gb|EEY63376.1|
+--------------------------------------------------------------------------------
+------------------msvavkgvVRLRVLAGKASPSPAIGQA---LGPLGVNMMEFCKAFNDRT-SKMTe----NIP
+VPVVLTA--YSDRTFnfvtktpptswflkkaagiksgsstpgqqvvgtvhlrqiyeiakvkqqdemvdyidlqsicktli
+gsaksmgldvvq--------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|298710902|emb|CBJ26411.1|
+--------------------------------------------------------------------------------
+--------------------msfvrtVRMRVPAGTAKPGPAIGQA---LGPLGINMMEFCKKFNEET-KHIVq----NTP
+MPCELTA--YTDRSFtfklstpqttwmlkrcagvekggsragheycgkvglkalyeiakvknaedhsvllplesvcksvr
+atalsmgleivddreslkqkgggl--------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|217410353|gb|EEC50283.1|
+--------------------------------------------------------------------------------
+-------------------------fVNLRVPAGSAKPGPAIGQA---LGPLGINMADFTRQFNEKS-ETMYk---kDVA
+LGVRLHA--MADRSFtfdirsppvtylvkrvcgmdkgpsspspespvafitpeaiyeiakvkqqddhmwhlplegiarsv
+vgtcksmgvhv---------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|223993369|ref|XP_002286368.1|
+--------------------------------------------------------------------------------
+--------------------msflrhVKLRVPSGTARPGPAIGQA---LGPLGINMAEFCKQFNERT-DTMYe---kGTP
+LGVQLSA--FSDRSFkfnvrspptsflvlkaagmekgpnqpsperasgfitpeavyeiarlkqkddmrwhlplegiarsv
+vgtarsmgvqvreaqddae-------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|122126006|sp|Q4N7N2|Q4N7N2_THEPA
+--------------------------------------------------------------------------------
+---------------------mqigrFRLIVPAAVAKPSPSIGQT---LGPLGINMAEFCKKFNERT-KEIRp----NVP
+VQVLITT--HHDNSYkfslrtpssqwflrriarvpmgssnpkheivgnvtlkevyhiakckcmdpqligtplyvickrii
+gtanamgirvtrellpefkkrdylpvskldqmkkdikmqrrsskrmks--------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|557734278|gb|ESS30389.1|
+--------------------------------------------------------------------------------
+--------------------msvvgrFRLIVPAATAKPSPAIGQT---LGPLGINMMQFCKEFNART-ANVRp----EVP
+LQVTIVP--LTDRSYkfsirapsniwfllrtarcpmgsespghqsvgnvtlkeiyhiarcksmdwpligmslrgicrsli
+gtarasgieiskeilpayhkrdytdvqaldsmrkdmrqrkkaakraatkk------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|586730000|gb|EWS72379.1|
+--------------------------------------------------------------------------------
+-------------------maeikaiINLRLLAGIAKPNPKMGQS---LGPLGINMMHFCKDFNAAT-AHIR------SD
+IPLRVQVaaKVDRSYsyiikppetswlikkvimkekltqyaghvnldyidvryvyeiakikkeididfkratlesicnci
+igqcnsmgvnvsiidekpkpfnpkakv-----------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|124469622|sp|A0DSH0|A0DSH0_PARTE
+--------------------------------------------------------------------------------
+--------mnlikkklqtlpkdyrakIMLRLYAGVAKPSPKMGQS---LGPLGINMMQFCKEFNAAS-QAFR------PD
+VPLRVQViaFPDRTFkflikppettwflrkatgtdkftnfpgyiwydtislqqvyeiakvkqemdphlkhvslpaicrmi
+igqlaslgcnlstqyfkpetvvrpeiks----------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|2015435543|pdb|6Z1P|An
+--------------------------------------------------------------------------------
+-------------------maeikaiINLRLLAGIAKPNPKMGQS---LGPLGINMMHFCKDFNAAT-AHIRs----DIP
+LRVQVAA--KVDRSYsyiikppetswlikkvimkekltqyaghvnldyidvryvyeiakikkeididfkratlesicnci
+igqcnsmgvnvsiidekpkpfnpkakv-----------------------------------------------------
+--------------------------------------------------------------------------------
+---------
+>PF03946 gi|50513478|pdb|1S72|I
+--------------------------------------------------------------------------------
+----------------------magtIEVLVPGGEANPGPPLGPE---LGPTPVDVQAVVQEINDQT-AAFD-----GTE
+VPVTVKY--DDDGSFeievgvpptaelikdeagfetgsgepqedfvadlsvdqvkqiaeqkhpdllsydltnaakevvgt
+ctslgvtiegenprefkeridageyddvfaaeaqa---------------------------------------------
+--------------------------------------------------------------------------------
+---------

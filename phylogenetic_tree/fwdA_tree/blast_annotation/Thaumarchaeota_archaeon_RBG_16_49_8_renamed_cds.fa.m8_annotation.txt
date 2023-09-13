@@ -1,0 +1,6 @@
+Thaumarchaeota_archaeon_RBG_16_49_8-contig34_2	0.0	MBI2937348.1	formylmethanofuran dehydrogenase subunit A [Nitrososphaerota archaeon]
+Thaumarchaeota_archaeon_RBG_16_49_8-contig34_3	1.69e-97	OHE55554.1	formylmethanofuran dehydrogenase subunit C [Thaumarchaeota archaeon RBG_16_49_8]
+Thaumarchaeota_archaeon_RBG_16_49_8-contig49_17	2.53e-28	WP_092932176.1	tRNA (N6-threonylcarbamoyladenosine(37)-N6)-methyltransferase TrmO [Natrinema hispanicum]
+Thaumarchaeota_archaeon_RBG_16_49_8-contig49_17	3.99e-28	KAF5429896.1	formylmethanofuran dehydrogenase subunit E [Methanophagales archaeon]
+Thaumarchaeota_archaeon_RBG_16_49_8-contig66_7	1.60e-76	NRT55143.1	formylmethanofuran--tetrahydromethanopterin N-formyltransferase/formylmethanofuran dehydrogenase subunit C [Leptothrix sp. C29]
+Thaumarchaeota_archaeon_RBG_16_49_8-contig96_29	4.31e-26	KAF5429896.1	formylmethanofuran dehydrogenase subunit E [Methanophagales archaeon]

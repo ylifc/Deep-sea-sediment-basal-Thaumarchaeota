@@ -1,0 +1,45 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.266572
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Thermofilum_pendens_Hrk_5_renamed/Thermofilum_pendens_Hrk_5_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Thermofilum_pendens_Hrk_5-contig1_223      13    109     12    111 PF00466.21  Ribosomal_L10     Family     2    97   100     79.3   1.9e-23   1 No_clan  
+Thermofilum_pendens_Hrk_5-contig1_224      25    213     16    214 PF00687.22  Ribosomal_L1      Domain     5   203   204    137.6   4.8e-41   1 No_clan  
+Thermofilum_pendens_Hrk_5-contig1_239       3    142      2    142 PF01280.21  Ribosomal_L19e    Family     2   144   144    171.6   1.1e-51   1 No_clan  
+Thermofilum_pendens_Hrk_5-contig1_241       3    128      3    128 PF00410.20  Ribosomal_S8      Domain     1   126   126     89.1   2.3e-26   1 No_clan  
+Thermofilum_pendens_Hrk_5-contig1_244      99    180     98    180 PF00900.21  Ribosomal_S4e     Family     2    75    75     74.5     5e-22   1 CL0021   
+Thermofilum_pendens_Hrk_5-contig1_278       9    132      8    132 PF00380.20  Ribosomal_S9      Family     2   121   121    110.2     9e-33   1 CL0329   
+Thermofilum_pendens_Hrk_5-contig1_281      50    166     48    166 PF01000.27  RNA_pol_A_bac     Domain     3   112   112     75.5   4.2e-22   1 No_clan  
+Thermofilum_pendens_Hrk_5-contig1_357      12    166      2    167 PF04919.13  DUF655            Family    25   180   181    156.6   6.6e-47   1 CL0198   
+Thermofilum_pendens_Hrk_5-contig1_394       2    155      2    167 PF00827.18  Ribosomal_L15e    Family     1   154   189    217.0   1.8e-65   1 CL0652   
+Thermofilum_pendens_Hrk_5-contig1_480       5    138      3    139 PF01090.20  Ribosomal_S19e    Family     3   136   137    173.1   2.4e-52   1 CL0123   
+Thermofilum_pendens_Hrk_5-contig1_505      14     76     13     76 PF01200.19  Ribosomal_S28e    Family     2    64    64    108.3   1.4e-32   1 CL0021   
+Thermofilum_pendens_Hrk_5-contig1_649     121    232    121    233 PF07541.13  EIF_2_alpha       Family     1   113   114     73.2   1.9e-21   1 No_clan  
+Thermofilum_pendens_Hrk_5-contig1_660       4    190      2    191 PF01015.19  Ribosomal_S3Ae    Family     3   193   195    225.1   5.8e-68   1 No_clan  

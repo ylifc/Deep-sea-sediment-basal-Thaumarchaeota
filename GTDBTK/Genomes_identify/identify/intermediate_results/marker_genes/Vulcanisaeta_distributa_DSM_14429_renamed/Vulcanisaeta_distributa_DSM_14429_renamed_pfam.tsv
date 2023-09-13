@@ -1,0 +1,46 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.312296
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Vulcanisaeta_distributa_DSM_14429_renamed/Vulcanisaeta_distributa_DSM_14429_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Vulcanisaeta_distributa_DSM_14429-contig1_1532     92    169     92    169 PF00900.21  Ribosomal_S4e     Family     1    75    75     96.0   1.3e-28   1 CL0021   
+Vulcanisaeta_distributa_DSM_14429-contig1_18       18    112     16    114 PF00466.21  Ribosomal_L10     Family     3    95   100     73.5   1.7e-21   1 No_clan  
+Vulcanisaeta_distributa_DSM_14429-contig1_19       18    209      4    209 PF00687.22  Ribosomal_L1      Domain     3   204   204    133.2   1.4e-39   1 No_clan  
+Vulcanisaeta_distributa_DSM_14429-contig1_1997      4    193      3    193 PF01015.19  Ribosomal_S3Ae    Family     2   195   195    224.7     1e-67   1 No_clan  
+Vulcanisaeta_distributa_DSM_14429-contig1_2058      4    173      4    187 PF00827.18  Ribosomal_L15e    Family     1   171   189    213.7   2.6e-64   1 CL0652   
+Vulcanisaeta_distributa_DSM_14429-contig1_2071      3    140      3    141 PF01090.20  Ribosomal_S19e    Family     1   136   137    167.0   2.4e-50   1 CL0123   
+Vulcanisaeta_distributa_DSM_14429-contig1_2080    139    250    138    251 PF07541.13  EIF_2_alpha       Family     2   113   114     86.1   2.5e-25   1 No_clan  
+Vulcanisaeta_distributa_DSM_14429-contig1_2327      4    141      1    143 PF01280.21  Ribosomal_L19e    Family     5   142   144    170.6   2.8e-51   1 No_clan  
+Vulcanisaeta_distributa_DSM_14429-contig1_2433      5    130      5    130 PF00410.20  Ribosomal_S8      Domain     1   126   126     96.0   2.2e-28   1 No_clan  
+Vulcanisaeta_distributa_DSM_14429-contig1_2439     14     77     14     77 PF01200.19  Ribosomal_S28e    Family     1    64    64    103.1   7.9e-31   1 CL0021   
+Vulcanisaeta_distributa_DSM_14429-contig1_543       5    186      4    187 PF04919.13  DUF655            Family     2   180   181    202.2   8.8e-61   1 CL0198   
+Vulcanisaeta_distributa_DSM_14429-contig1_82       33    158     33    158 PF00380.20  Ribosomal_S9      Family     1   121   121    111.3   5.6e-33   1 CL0329   
+Vulcanisaeta_distributa_DSM_14429-contig1_85       46    155     45    155 PF01000.27  RNA_pol_A_bac     Domain     2   112   112     95.0     5e-28   1 No_clan  
+Vulcanisaeta_distributa_DSM_14429-contig1_905     115    155    108    156 PF00827.18  Ribosomal_L15e    Family   148   188   189     22.6     1e-05   1 CL0652   

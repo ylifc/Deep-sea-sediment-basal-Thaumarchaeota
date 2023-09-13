@@ -1,0 +1,1064 @@
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1	100	K10725	archaeal cell division control protein 6	cell division control protein Cdc6
+Nitrosotenuis_cloacae_strain_SAT1-contig1_2	100	K02323	DNA polymerase II small subunit [EC:2.7.7.7]	DNA polymerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_5	100	K03399	cobalt-precorrin-7 (C5)-methyltransferase [EC:2.1.1.289]	precorrin-6B methylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_7	46.9	K03768	peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]	Peptidyl-prolyl cis-trans isomerase, cyclophilin-type
+Nitrosotenuis_cloacae_strain_SAT1-contig1_8	100	K15977	putative oxidoreductase	DoxX family protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_10	74.1	K01262	Xaa-Pro aminopeptidase [EC:3.4.11.9]	Peptidase M24
+Nitrosotenuis_cloacae_strain_SAT1-contig1_10	74.4	K01271	Xaa-Pro dipeptidase [EC:3.4.13.9]	peptidase M24
+Nitrosotenuis_cloacae_strain_SAT1-contig1_11	42.2	K00566	tRNA-specific 2-thiouridylase [EC:2.8.1.-]	queuosine synthesis
+Nitrosotenuis_cloacae_strain_SAT1-contig1_12	100	K09152	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_15	100	K06911	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_16	100	K03799	heat shock protein HtpX [EC:3.4.24.-]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_17	100	K07041	uncharacterized protein	beta-lactamase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_18	99.5	K03433	proteasome beta subunit [EC:3.4.25.1]	proteasome subunit beta
+Nitrosotenuis_cloacae_strain_SAT1-contig1_19	100	K00096	glycerol-1-phosphate dehydrogenase [NAD(P)+] [EC:1.1.1.261]	glycerol-1-phosphate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_24	100	K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	short-chain dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_26	100	K00860	adenylylsulfate kinase [EC:2.7.1.25]	adenylylsulfate kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_27	100	K01082	3'(2'), 5'-bisphosphate nucleotidase [EC:3.1.3.7]	2', 3'-cyclic nucleotide 2'-phosphodiesterase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_29	62.8	K19548	dihydroanticapsin dehydrogenase [EC:1.1.1.385]	short-chain dehydrogenase/reductase SDR
+Nitrosotenuis_cloacae_strain_SAT1-contig1_31	100	K03124	transcription initiation factor TFIIB	tfb
+Nitrosotenuis_cloacae_strain_SAT1-contig1_38	26.8	K10026	7-carboxy-7-deazaguanine synthase [EC:4.3.99.3]	Radical SAM domain-containing protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_39	100	K01495	GTP cyclohydrolase I [EC:3.5.4.16]	GTP cyclohydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_41	99.6	K06920	7-cyano-7-deazaguanine synthase [EC:6.3.4.20]	potassium ABC transporter ATPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_42	100	K00872	homoserine kinase [EC:2.7.1.39]	serine kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_43	99.6	K06883	uncharacterized protein	GTPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_44	100	K07027	uncharacterized protein	membrane protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_45	100	K07124	uncharacterized protein	alcohol dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_50	99.6	K00390	phosphoadenosine phosphosulfate reductase [EC:1.8.4.8]	phosphoadenosine phosphosulfate reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_51	100	K00958	sulfate adenylyltransferase [EC:2.7.7.4]	sulfate adenylyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_53	100	K10773	endonuclease III [EC:4.2.99.18]	DNA lyase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_54	100	K09123	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_55	100	K09128	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_56	100	K09141	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_57	100	K09122	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_60	100	K02191	cobalt-precorrin-6B (C15)-methyltransferase [EC:2.1.1.196]	precorrin-6B methylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_61	100	K03394	precorrin-2/cobalt-factor-2 C20-methyltransferase [EC:2.1.1.130 2.1.1.151]	precorrin-2 C20-methyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_62	99.6	K05936	precorrin-4/cobalt-precorrin-4 C11-methyltransferase [EC:2.1.1.133 2.1.1.271]	cbiF
+Nitrosotenuis_cloacae_strain_SAT1-contig1_66	100	K01776	glutamate racemase [EC:5.1.1.3]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_70	100	K01880	glycyl-tRNA synthetase [EC:6.1.1.14]	glycyl-tRNA synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_71	100	K01151	deoxyribonuclease IV [EC:3.1.21.2]	endonuclease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_72	100	K18882	DNA primase large subunit [EC:2.7.7.-]	DNA primase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_73	100	K02683	DNA primase small subunit [EC:2.7.7.-]	DNA primase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_74	99.9	K09118	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_75	54.0	K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	class I glutamine amidotransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_75	53.4	K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	class I glutamine amidotransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_78	99.2	K02991	small subunit ribosomal protein S6e	30S ribosomal protein S6
+Nitrosotenuis_cloacae_strain_SAT1-contig1_79	99.8	K03242	translation initiation factor 2 subunit 3	translation initiation factor IF-2 subunit gamma
+Nitrosotenuis_cloacae_strain_SAT1-contig1_80	99.2	K07158	uncharacterized protein	twitching motility protein PilT
+Nitrosotenuis_cloacae_strain_SAT1-contig1_81	99.3	K06910	uncharacterized protein	phospholipid-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_82	47.8	K07151	dolichyl-diphosphooligosaccharide--protein glycosyltransferase [EC:2.4.99.18]	dolichyl-diphosphooligosaccharide--protein glycotransferase (EC:2.4.99.18)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_83	99.6	K03237	translation initiation factor 2 subunit 1	RNA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_84	100	K19221	cob(I)alamin adenosyltransferase [EC:2.5.1.17]	cob(I)yrinic acid a c-diamide adenosyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_85	100	K02224	cobyrinic acid a,c-diamide synthase [EC:6.3.5.9 6.3.5.11]	cobyrinic acid a,c-diamide synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_86	100	K06042	precorrin-8X/cobalt-precorrin-8 methylmutase [EC:5.4.99.61 5.4.99.60]	precorrin-8X methylmutase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_87	62.2	K03795	sirohydrochlorin cobaltochelatase [EC:4.99.1.3]	sirohydrochlorin cobaltochelatase (EC:4.99.1.3)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_88	100	K02189	cobalt-precorrin 5A hydrolase [EC:3.7.1.12]	precorrin-3B C17-methyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_89	100	K02188	cobalt-precorrin-5B (C1)-methyltransferase [EC:2.1.1.195]	cobalamin biosynthesis protein CbiD
+Nitrosotenuis_cloacae_strain_SAT1-contig1_90	51.4	K03686	molecular chaperone DnaJ	DnaJ domain protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_91	99.6	K00329	NADH dehydrogenase [EC:1.6.99.3]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_92	100	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	S-adenosylmethionine synthetase (EC:2.5.1.6)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_93	98.8	K04796	small nuclear ribonucleoprotein	ribonucleoprotein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_94	100	K04482	DNA repair protein RAD51	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_96	100	K03724	ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	Lhr helicase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_97	99.8	K07466	replication factor A1	single-stranded DNA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_98	99.7	K01990	ABC-2 type transport system ATP-binding protein	multidrug ABC transporter ATPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_99	100	K01992	ABC-2 type transport system permease protein	ABC transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_100	100	K09726	uncharacterized protein	lipid A disaccharide synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_102	100	K03687	molecular chaperone GrpE	molecular chaperone GrpE
+Nitrosotenuis_cloacae_strain_SAT1-contig1_103	100	K04043	molecular chaperone DnaK	dnaK
+Nitrosotenuis_cloacae_strain_SAT1-contig1_104	100	K03686	molecular chaperone DnaJ	molecular chaperone DnaJ
+Nitrosotenuis_cloacae_strain_SAT1-contig1_107	99.8	K03330	glutamyl-tRNA(Gln) amidotransferase subunit E [EC:6.3.5.7]	glutamyl-tRNA amidotransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_108	100	K09482	glutamyl-tRNA(Gln) amidotransferase subunit D [EC:6.3.5.7]	glutamyl-tRNA amidotransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_109	100	K13525	transitional endoplasmic reticulum ATPase	ATPase AAA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_110	100	K02886	large subunit ribosomal protein L2	rpl2p
+Nitrosotenuis_cloacae_strain_SAT1-contig1_111	100	K01512	acylphosphatase [EC:3.6.1.7]	acylphosphatase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_113	36.5	K14168	cytoplasmic tRNA 2-thiolation protein 1 [EC:2.7.7.-]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_115	100	K03926	periplasmic divalent cation tolerance protein	cation tolerance protein CutA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_116	100	K06965	protein pelota	mRNA surveillance protein Pelota
+Nitrosotenuis_cloacae_strain_SAT1-contig1_120	100	K03709	DtxR family transcriptional regulator, Mn-dependent transcriptional regulator	transcriptional regulator
+Nitrosotenuis_cloacae_strain_SAT1-contig1_122	93.1	K06937	7,8-dihydro-6-hydroxymethylpterin dimethyltransferase [EC:2.1.1.-]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_122	92.9	K06937	7,8-dihydro-6-hydroxymethylpterin dimethyltransferase [EC:2.1.1.-]	Radical SAM domain protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_122	100	K06937	7,8-dihydro-6-hydroxymethylpterin dimethyltransferase [EC:2.1.1.-]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_122	92.4	K06937	7,8-dihydro-6-hydroxymethylpterin dimethyltransferase [EC:2.1.1.-]	radical SAM protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_124	99.7	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	NAD-dependent epimerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_125	38.1	K02474	UDP-N-acetyl-D-galactosamine dehydrogenase [EC:1.1.1.-]	nucleotide sugar dehydrogenase (EC:1.1.1.22)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_126	99.8	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	asparagine synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_133	24.0	K08104	[heparan sulfate]-glucosamine 3-sulfotransferase 5 [EC:2.8.2.23]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_135	99.7	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	UDP-glucose 4-epimerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_136	100	K19002	1,2-diacylglycerol 3-alpha-glucosyltransferase [EC:2.4.1.-]	glycosyl transferase family 1
+Nitrosotenuis_cloacae_strain_SAT1-contig1_137	100	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	epimerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_139	35.4	K10380	ankyrin	103.t00009
+Nitrosotenuis_cloacae_strain_SAT1-contig1_141	56.6	K02078	acyl carrier protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_142	42.5	K17865	3-hydroxybutyryl-CoA dehydratase [EC:4.2.1.55]	enoyl-CoA hydratase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_142	38.4	K17865	3-hydroxybutyryl-CoA dehydratase [EC:4.2.1.55]	MaoC domain protein dehydratase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_143	100	K00997	holo-[acyl-carrier protein] synthase [EC:2.7.8.7]	4-phosphopantetheinyl transferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_144	55.5	K07011	uncharacterized protein	glycosyl transferase family protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_145	99.7	K00973	glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]	glucose-1-phosphate thymidylyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_146	99.7	K01710	dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]	spore coat protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_147	99.3	K01790	dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_148	41.1	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	dolichol-phosphate mannosyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_150	99.7	K00067	dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_152	100	K01790	dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13]	dTDP-4-dehydrorhamnose 3,5-epimerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_153	32.4	K16437	methylation protein EvaC	methyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_154	100	K01709	CDP-glucose 4,6-dehydratase [EC:4.2.1.45]	CDP-glucose 4,6-dehydratase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_155	100	K00978	glucose-1-phosphate cytidylyltransferase [EC:2.7.7.33]	glucose-1-phosphate cytidylyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_161	99.7	K08068	UDP-N-acetylglucosamine 2-epimerase (hydrolysing) [EC:3.2.1.183]	UDP-N-acetylglucosamine 2-epimerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_162	66.0	K01654	N-acetylneuraminate synthase [EC:2.5.1.56]	N-acylneuraminate-9-phosphate synthase (EC:2.5.1.57)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_164	37.0	K18431	CMP-N,N'-diacetyllegionaminic acid synthase [EC:2.7.7.82]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_165	31.2	K18431	CMP-N,N'-diacetyllegionaminic acid synthase [EC:2.7.7.82]	conserved hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_165	31.2	K18431	CMP-N,N'-diacetyllegionaminic acid synthase [EC:2.7.7.82]	conserved hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_171	100	K17716	UDP-glucose 4-epimerase [EC:5.1.3.2]	membrane protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_172	99.6	K07257	spore coat polysaccharide biosynthesis protein SpsF	acylneuraminate cytidylyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_173	51.8	K01654	N-acetylneuraminate synthase [EC:2.5.1.56]	spsE
+Nitrosotenuis_cloacae_strain_SAT1-contig1_175	100	K00604	methionyl-tRNA formyltransferase [EC:2.1.2.9]	methionyl-tRNA formyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_176	39.3	K00680		acetyltransferase (EC:2.3.1.-)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_177	39.4	K13010	perosamine synthetase [EC:2.6.1.102]	glutamine--scyllo-inositol transaminase (EC:2.6.1.50)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_178	28.7	K03790	ribosomal-protein-alanine N-acetyltransferase [EC:2.3.1.128]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_180	100	K15916	glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8]	glucose-6-phosphate isomerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_181	99.7	K08963	methylthioribose-1-phosphate isomerase [EC:5.3.1.23]	methylthioribose-1-phosphate isomerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_184	43.8	K14260	alanine-synthesizing transaminase [EC:2.6.1.66 2.6.1.2]	tyrosine/nicotianamine aminotransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_187	99.6	K06988	uncharacterized protein	DNA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_188	100	K15634	probable phosphoglycerate mutase [EC:5.4.2.12]	fructose-2,6-bisphosphatase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_190	100	K02275	cytochrome c oxidase subunit II [EC:1.9.3.1]	heme transporter CcmD
+Nitrosotenuis_cloacae_strain_SAT1-contig1_191	100	K02274	cytochrome c oxidase subunit I [EC:1.9.3.1]	heme transporter CcmD
+Nitrosotenuis_cloacae_strain_SAT1-contig1_192	100	K00368	nitrite reductase (NO-forming) [EC:1.7.2.1]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_193	100	K02259	cytochrome c oxidase assembly protein subunit 15	cytochrome oxidase assembly protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_200	37.0	K01154	type I restriction enzyme, S subunit [EC:3.1.21.3]	Type I restriction-modification system, specificity subunit S (EC:3.1.21.3)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_201	100	K03427	type I restriction enzyme M protein [EC:2.1.1.72]	restriction endonuclease subunit S
+Nitrosotenuis_cloacae_strain_SAT1-contig1_202	100	K01153	type I restriction enzyme, R subunit [EC:3.1.21.3]	restriction endonuclease subunit R
+Nitrosotenuis_cloacae_strain_SAT1-contig1_217	99.9	K06915	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_223	100	K03671	thioredoxin 1	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_224	100	K07304	peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_225	100	K04047	starvation-inducible DNA-binding protein	Dps family ferritin
+Nitrosotenuis_cloacae_strain_SAT1-contig1_227	100	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9]	thioredoxin reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_232	100	K07305	peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12]	peptide methionine sulfoxide reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_237	100	K02039	phosphate transport system protein	PhoU family transcriptional regulator
+Nitrosotenuis_cloacae_strain_SAT1-contig1_238	100	K02036	phosphate transport system ATP-binding protein [EC:3.6.3.27]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_239	100	K02038	phosphate transport system permease protein	phosphate ABC transporter permease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_240	100	K02037	phosphate transport system permease protein	phosphate ABC transporter permease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_241	26.7	K02039	phosphate transport system protein	prp1
+Nitrosotenuis_cloacae_strain_SAT1-contig1_243	57.1	K02040	phosphate transport system substrate-binding protein	phosphate ABC transporter substrate-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_243	54.9	K02040	phosphate transport system substrate-binding protein	pstS
+Nitrosotenuis_cloacae_strain_SAT1-contig1_243	56.3	K02040	phosphate transport system substrate-binding protein	pstS
+Nitrosotenuis_cloacae_strain_SAT1-contig1_245	100	K00826	branched-chain amino acid aminotransferase [EC:2.6.1.42]	branched-chain amino acid aminotransferase (EC:2.6.1.42)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_247	99.8	K00928	aspartate kinase [EC:2.7.2.4]	aspartate kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_248	59.1	K02563	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]	glycosyltransferase family 28 protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_257	25.7	K01179	endoglucanase [EC:3.2.1.4]	endoglucanase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_260	43.6	K01073	acyl-CoA hydrolase [EC:3.1.2.20]	cytosolic long-chain acyl-CoA thioester hydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_260	43.6	K01073	acyl-CoA hydrolase [EC:3.1.2.20]	cytosolic long-chain acyl-CoA thioester hydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_260	43.6	K01073	acyl-CoA hydrolase [EC:3.1.2.20]	acyl-CoA hydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_260	43.6	K01073	acyl-CoA hydrolase [EC:3.1.2.20]	cytosolic long-chain acyl-CoA thioester hydrolase family protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_260	43.6	K01073	acyl-CoA hydrolase [EC:3.1.2.20]	acyl-CoA hydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_260	43.6	K01073	acyl-CoA hydrolase [EC:3.1.2.20]	acyl-CoA hydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_260	43.6	K01073	acyl-CoA hydrolase [EC:3.1.2.20]	acyl-CoA hydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_260	43.6	K01073	acyl-CoA hydrolase [EC:3.1.2.20]	acyl-CoA hydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_260	43.6	K01073	acyl-CoA hydrolase [EC:3.1.2.20]	acyl-CoA hydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_260	43.6	K01073	acyl-CoA hydrolase [EC:3.1.2.20]	acyl-CoA hydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_260	43.6	K01073	acyl-CoA hydrolase [EC:3.1.2.20]	cytosolic long-chain acyl-CoA thioester hydrolase family protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_260	43.6	K01073	acyl-CoA hydrolase [EC:3.1.2.20]	cytosolic long-chain acyl-CoA thioester hydrolase family protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_260	43.6	K01073	acyl-CoA hydrolase [EC:3.1.2.20]	acyl-CoA hydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_264	39.3	K00540		oxygen-independent coproporphyrinogen III oxidase (EC:1.-.-.-)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_267	24.2	K03893	arsenical pump membrane protein	arsenical pump membrane protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_268	100	K00809	deoxyhypusine synthase [EC:2.5.1.46]	deoxyhypusine synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_269	100	K00809	deoxyhypusine synthase [EC:2.5.1.46]	deoxyhypusine synthase (EC:2.5.1.46)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_271	34.8	K09495	T-complex protein 1 subunit gamma	putative chaperonin containing TCP-1 complex subunit CCT3
+Nitrosotenuis_cloacae_strain_SAT1-contig1_271	34.5	K09495	T-complex protein 1 subunit gamma	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_271	34.3	K09495	T-complex protein 1 subunit gamma	T-complex protein 1 subunit gamma
+Nitrosotenuis_cloacae_strain_SAT1-contig1_272	37.5	K03307	solute:Na+ symporter, SSS family	Na+/solute symporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_277	82.0	K01480	agmatinase [EC:3.5.3.11]	putative arginase family protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_277	81.5	K01480	agmatinase [EC:3.5.3.11]	agmatinase (EC:3.5.3.11)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_278	99.2	K01430	urease subunit gamma [EC:3.5.1.5]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_279	33.2	K07241	high-affinity nickel-transport protein	high-affinity nickel-transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_281	100	K03469	ribonuclease HI [EC:3.1.26.4]	ribonuclease HI
+Nitrosotenuis_cloacae_strain_SAT1-contig1_282	79.5	K18593	4-hydroxybutyryl-CoA synthetase (ADP-forming) [EC:6.2.1.-]	CoA-binding domain-containing protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_282	79.4	K18593	4-hydroxybutyryl-CoA synthetase (ADP-forming) [EC:6.2.1.-]	CoA-binding domain-containing protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_286	38.7	K03892	ArsR family transcriptional regulator	ArsR family transcriptional regulator
+Nitrosotenuis_cloacae_strain_SAT1-contig1_287	51.1	K03741	arsenate reductase [EC:1.20.4.1]	protein tyrosine phosphatase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_288	100	K06188	aquaporin Z	major intrinsic protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_289	100	K01246	DNA-3-methyladenine glycosylase I [EC:3.2.2.20]	DNA-3-methyladenine glycosylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_290	100	K14534	4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase [EC:4.2.1.120 5.3.3.3]	4-hydroxybutyryl-CoA dehydratase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_291	100	K01428	urease subunit alpha [EC:3.5.1.5]	ureC
+Nitrosotenuis_cloacae_strain_SAT1-contig1_292	100	K01429	urease subunit beta [EC:3.5.1.5]	Urease subunit beta
+Nitrosotenuis_cloacae_strain_SAT1-contig1_293	100	K01430	urease subunit gamma [EC:3.5.1.5]	urease subunit gamma
+Nitrosotenuis_cloacae_strain_SAT1-contig1_294	99.4	K03187	urease accessory protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_295	100	K03188	urease accessory protein	urease accessory protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_296	100	K03189	urease accessory protein	urease accessory protein UreG
+Nitrosotenuis_cloacae_strain_SAT1-contig1_297	100	K03190	urease accessory protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_298	100	K13280	signal peptidase, endoplasmic reticulum-type [EC:3.4.-.-]	peptidase S26
+Nitrosotenuis_cloacae_strain_SAT1-contig1_300	100	K03671	thioredoxin 1	thioredoxin
+Nitrosotenuis_cloacae_strain_SAT1-contig1_304	100	K17686	Cu+-exporting ATPase [EC:3.6.3.54]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_305	99.8	K01251	adenosylhomocysteinase [EC:3.3.1.1]	S-adenosyl-L-homocysteine hydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_306	99.8	K01464	dihydropyrimidinase [EC:3.5.2.2]	dihydroorotase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_307	99.6	K01807	ribose 5-phosphate isomerase A [EC:5.3.1.6]	ribose 5-phosphate isomerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_309	100	K04796	small nuclear ribonucleoprotein	RNA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_310	100	K01470	creatinine amidohydrolase [EC:3.5.2.10]	creatininase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_311	100	K01433	formyltetrahydrofolate deformylase [EC:3.5.1.10]	formyltetrahydrofolate deformylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_313	100	K15778	phosphomannomutase / phosphoglucomutase [EC:5.4.2.8 5.4.2.2]	phosphomannomutase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_314	99.2	K02936	large subunit ribosomal protein L7Ae	rpl7ae
+Nitrosotenuis_cloacae_strain_SAT1-contig1_315	100	K02979	small subunit ribosomal protein S28e	30S ribosomal protein S28
+Nitrosotenuis_cloacae_strain_SAT1-contig1_316	100	K02896	large subunit ribosomal protein L24e	50S ribosomal protein L24
+Nitrosotenuis_cloacae_strain_SAT1-contig1_317	99.2	K00940	nucleoside-diphosphate kinase [EC:2.7.4.6]	nucleoside diphosphate kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_318	99.8	K03243	translation initiation factor 5B	translation initiation factor 2
+Nitrosotenuis_cloacae_strain_SAT1-contig1_319	100	K03671	thioredoxin 1	thioredoxin
+Nitrosotenuis_cloacae_strain_SAT1-contig1_321	100	K01892	histidyl-tRNA synthetase [EC:6.1.1.21]	histidyl-tRNA synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_322	99.5	K03264	translation initiation factor 6	translation initiation factor 6
+Nitrosotenuis_cloacae_strain_SAT1-contig1_324	100	K04801	replication factor C small subunit	rfc
+Nitrosotenuis_cloacae_strain_SAT1-contig1_325	99.4	K09723	DNA replication factor GINS	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_326	100	K10726	replicative DNA helicase Mcm [EC:3.6.4.-]	ATPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_327	100	K03726	helicase [EC:3.6.4.-]	RNA helicase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_328	66.0	K01001	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [EC:2.7.8.15]	glycosyl transferase family protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_332	99.7	K18855	UDP-N-acetylglucosamine 3-dehydrogenase [EC:1.1.1.374]	dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_333	100	K00826	branched-chain amino acid aminotransferase [EC:2.6.1.42]	branched-chain amino acid aminotransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_335	100	K00528	ferredoxin--NADP+ reductase [EC:1.18.1.2]	oxidoreductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_337	100	K03622	archaea-specific DNA-binding protein	DNA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_338	49.1	K03417	methylisocitrate lyase [EC:4.1.3.30]	2,3-dimethylmalate lyase (EC:4.1.3.32)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_342	100	K00239	succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]	fumarate reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_343	100	K00241	succinate dehydrogenase / fumarate reductase, cytochrome b subunit	succinate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_344	100	K00242	succinate dehydrogenase / fumarate reductase, membrane anchor subunit	succinate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_345	99.6	K00240	succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]	succinate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_346	42.3	K03593	ATP-binding protein involved in chromosome partitioning	ParA/MinD-like ATPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_347	100	K01755	argininosuccinate lyase [EC:4.3.2.1]	argininosuccinate lyase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_349	99.6	K01092	myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	fructose 1,6-bisphosphatase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_351	100	K04800	replication factor C large subunit	replication protein C
+Nitrosotenuis_cloacae_strain_SAT1-contig1_353	55.3	K03646	colicin import membrane protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_354	81.2	K18604	acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3]	carboxyl transferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_354	81.4	K18604	acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3]	carboxyl transferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_354	81.6	K18604	acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3]	carboxyl transferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_355	82.0	K18603	acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3]	carbamoyl-phosphate synthase L chain ATP-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_356	60.1	K18605	biotin carboxyl carrier protein	biotin/lipoyl attachment domain-containing protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_357	50.3	K03564	peroxiredoxin Q/BCP [EC:1.11.1.15]	alkyl hydroperoxide reductase/Thiol specific antioxidant/Mal allergen
+Nitrosotenuis_cloacae_strain_SAT1-contig1_358	82.1	K00330	NADH-quinone oxidoreductase subunit A [EC:1.6.5.3]	NADH-ubiquinone oxidoreductase subunit A
+Nitrosotenuis_cloacae_strain_SAT1-contig1_359	99.4	K00331	NADH-quinone oxidoreductase subunit B [EC:1.6.5.3]	NADH dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_360	100	K00332	NADH-quinone oxidoreductase subunit C [EC:1.6.5.3]	NADH dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_361	100	K00333	NADH-quinone oxidoreductase subunit D [EC:1.6.5.3]	NADH-ubiquinone oxidoreductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_362	100	K00337	NADH-quinone oxidoreductase subunit H [EC:1.6.5.3]	NADH-ubiquinone oxidoreductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_363	100	K00338	NADH-quinone oxidoreductase subunit I [EC:1.6.5.3]	NADH-ubiquinone oxidoreductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_364	74.4	K05578	NAD(P)H-quinone oxidoreductase subunit 6 [EC:1.6.5.3]	NADH-ubiquinone oxidoreductase subunit J (EC:1.6.5.3)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_365	83.3	K00340	NADH-quinone oxidoreductase subunit K [EC:1.6.5.3]	NADH-ubiquinone oxidoreductase subunit 4L
+Nitrosotenuis_cloacae_strain_SAT1-contig1_366	100	K00342	NADH-quinone oxidoreductase subunit M [EC:1.6.5.3]	formate hydrogenlyase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_367	100	K00341	NADH-quinone oxidoreductase subunit L [EC:1.6.5.3]	NADH-ubiquinone oxidoreductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_368	100	K00343	NADH-quinone oxidoreductase subunit N [EC:1.6.5.3]	NADH-ubiquinone oxidoreductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_369	99.6	K02523	octaprenyl-diphosphate synthase [EC:2.5.1.90]	geranylgeranyl pyrophosphate synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_370	100	K06137	pyrroloquinoline-quinone synthase [EC:1.3.3.11]	pyrroloquinoline quinone biosynthesis protein PqqC
+Nitrosotenuis_cloacae_strain_SAT1-contig1_376	100	K03120	transcription initiation factor TFIID TATA-box-binding protein	TATA box-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_377	100	K00762	orotate phosphoribosyltransferase [EC:2.4.2.10]	orotate phosphoribosyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_380	100	K03789	ribosomal-protein-alanine N-acetyltransferase [EC:2.3.1.128]	acyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_382	100	K15429	tRNA (guanine37-N1)-methyltransferase [EC:2.1.1.228]	methyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_383	99.8	K06174	ATP-binding cassette, sub-family E, member 1	ATPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_385	99.8	K01255	leucyl aminopeptidase [EC:3.4.11.1]	cytosol aminopeptidase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_386	99.1	K03282	large conductance mechanosensitive channel	mechanosensitive ion channel protein MscL
+Nitrosotenuis_cloacae_strain_SAT1-contig1_388	100	K00615	transketolase [EC:2.2.1.1]	ribulose-phosphate 3-epimerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_389	99.7	K00615	transketolase [EC:2.2.1.1]	transketolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_390	100	K00616	transaldolase [EC:2.2.1.2]	transaldolase (EC:2.2.1.2)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_392	100	K03120	transcription initiation factor TFIID TATA-box-binding protein	TATA box-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_397	100	K04748	nitric oxide reductase NorQ protein	ATPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_398	27.6	K17830	digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]	Digeranylgeranylglycerophospholipid reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_398	28.6	K17830	digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]	geranylgeranyl reductase family protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_399	100	K07581	RNA-binding protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_400	99.5	K02984	small subunit ribosomal protein S3Ae	30S ribosomal protein S3
+Nitrosotenuis_cloacae_strain_SAT1-contig1_401	100	K01875	seryl-tRNA synthetase [EC:6.1.1.11]	seryl-tRNA synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_403	100	K07463	archaea-specific RecJ-like exonuclease	single-stranded DNA exonuclease RecJ
+Nitrosotenuis_cloacae_strain_SAT1-contig1_404	100	K02956	small subunit ribosomal protein S15	30S ribosomal protein S15
+Nitrosotenuis_cloacae_strain_SAT1-contig1_408	100	K10945	methane/ammonia monooxygenase subunit B	ammonia monooxygenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_409	100	K10946	methane/ammonia monooxygenase subunit C	ammonia monooxygenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_409	98.9	K10946	methane/ammonia monooxygenase subunit C	ammonia monooxygenase/methane monooxygenase subunit C
+Nitrosotenuis_cloacae_strain_SAT1-contig1_409	98.9	K10946	methane/ammonia monooxygenase subunit C	amoC
+Nitrosotenuis_cloacae_strain_SAT1-contig1_411	100	K10944	methane/ammonia monooxygenase subunit A [EC:1.14.18.3 1.14.99.39]	ammonia monooxygenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_412	99.6	K06223	DNA adenine methylase [EC:2.1.1.72]	DNA methyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_419	100	K02201	pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]	cytidyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_422	100	K01867	tryptophanyl-tRNA synthetase [EC:6.1.1.2]	tryptophan--tRNA ligase (EC:6.1.1.2)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_423	99.8	K01889	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	phenylalanyl-tRNA synthetase subunit alpha
+Nitrosotenuis_cloacae_strain_SAT1-contig1_424	100	K01890	phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	phenylalanyl-tRNA synthetase subunit beta
+Nitrosotenuis_cloacae_strain_SAT1-contig1_430	100	K01681	aconitate hydratase [EC:4.2.1.3]	aconitate hydratase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_433	100	K06215	pyridoxal 5'-phosphate synthase pdxS subunit [EC:4.3.3.6]	pyridoxal biosynthesis protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_434	100	K08681	5'-phosphate synthase pdxT subunit [EC:4.3.3.6]	glutamine amidotransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_435	100	K01873	valyl-tRNA synthetase [EC:6.1.1.9]	valyl-tRNA synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_436	100	K01737	6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]	6-pyruvoyl tetrahydropterin synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_437	100	K01724	4a-hydroxytetrahydrobiopterin dehydratase [EC:4.2.1.96]	pterin-4-alpha-carbinolamine dehydratase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_438	100	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	asparagine synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_439	99.8	K01756	adenylosuccinate lyase [EC:4.3.2.2]	adenylosuccinate lyase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_440	100	K14415	tRNA-splicing ligase RtcB [EC:6.5.1.3]	tRNA-splicing ligase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_443	100	K02948	small subunit ribosomal protein S11	30S ribosomal protein S11
+Nitrosotenuis_cloacae_strain_SAT1-contig1_444	100	K00946	thiamine-monophosphate kinase [EC:2.7.4.16]	thiamine-monophosphate kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_445	99.8	K03431	phosphoglucosamine mutase [EC:5.4.2.10]	phosphomannomutase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_454	100	K03424	TatD DNase family protein [EC:3.1.21.-]	DNAase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_455	99.0	K02962	small subunit ribosomal protein S17e	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_457	99.4	K06963	tRNA acetyltransferase TAN1	RNA methyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_464	100	K01939	adenylosuccinate synthase [EC:6.3.4.4]	adenylosuccinate synthetase (EC:6.3.4.4)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_466	100	K01591	orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]	orotidine 5-phosphate decarboxylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_467	28.9	K01518	bis(5'-nucleosidyl)-tetraphosphatase [EC:3.6.1.17]	bis-(5'-nucleosyl)-tetraphosphatase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_468	100	K15888	tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific] [EC:2.5.1.89]	UDP diphosphate synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_469	100	K08975	putative membrane protein	membrane protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_471	99.3	K03238	translation initiation factor 2 subunit 2	translation initiation factor IF-2
+Nitrosotenuis_cloacae_strain_SAT1-contig1_472	100	K09148	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_473	99.0	K03236	translation initiation factor 1A	translation initiation factor 1A
+Nitrosotenuis_cloacae_strain_SAT1-contig1_474	99.6	K07178	RIO kinase 1 [EC:2.7.11.1]	serine/threonine protein kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_475	100	K06961	ribosomal RNA assembly protein	RNA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_476	100	K03167	DNA topoisomerase VI subunit B [EC:5.99.1.3]	DNA topoisomerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_477	100	K03166	DNA topoisomerase VI subunit A [EC:5.99.1.3]	DNA topoisomerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_484	100	K00772	5'-methylthioadenosine phosphorylase [EC:2.4.2.28]	5'-methylthioadenosine phosphorylase (EC:2.4.2.28)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_485	99.4	K00759	adenine phosphoribosyltransferase [EC:2.4.2.7]	adenine phosphoribosyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_490	100	K02427	23S rRNA (uridine2552-2'-O)-methyltransferase [EC:2.1.1.166]	rrmJ
+Nitrosotenuis_cloacae_strain_SAT1-contig1_491	99.7	K00555	tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase [EC:2.1.1.215 2.1.1.216]	tRNA (guanine-N1)-methyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_492	100	K03470	ribonuclease HII [EC:3.1.26.4]	ribonuclease HII
+Nitrosotenuis_cloacae_strain_SAT1-contig1_493	99.6	K04795	fibrillarin-like pre-rRNA processing protein	fibrillin
+Nitrosotenuis_cloacae_strain_SAT1-contig1_495	99.7	K17828	dihydroorotate dehydrogenase (NAD+) catalytic subunit [EC:1.3.1.14]	dihydroorotate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_496	99.6	K02823	dihydroorotate dehydrogenase electron transfer subunit	2-polyprenylphenol hydroxylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_498	100	K02983	small subunit ribosomal protein S30e	30S ribosomal protein S30
+Nitrosotenuis_cloacae_strain_SAT1-contig1_501	100	K06199	CrcB protein	chromosome condensation protein CrcB
+Nitrosotenuis_cloacae_strain_SAT1-contig1_505	100	K04483	DNA repair protein RadA	radA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_506	100	K02889	large subunit ribosomal protein L21e	50S ribosomal protein L21
+Nitrosotenuis_cloacae_strain_SAT1-contig1_507	100	K03051	DNA-directed RNA polymerase subunit F [EC:2.7.7.6]	RNA polymerase Rpb4
+Nitrosotenuis_cloacae_strain_SAT1-contig1_508	99.5	K07572	putative nucleotide binding protein	RNA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_509	100	K02528	16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]	ribose ABC transporter permease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_510	99.4	K02493	release factor glutamine methyltransferase [EC:2.1.1.297]	methylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_511	99.7	K00031	isocitrate dehydrogenase [EC:1.1.1.42]	3-isopropylmalate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_512	25.5	K03651	Icc protein	cpdA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_513	25.7	K03446	MFS transporter, DHA2 family, multidrug resistance protein	drug:H(+) antiporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_514	100	K15977	putative oxidoreductase	DoxX family protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_523	100	K03163	DNA topoisomerase I [EC:5.99.1.2]	DNA topoisomerase I
+Nitrosotenuis_cloacae_strain_SAT1-contig1_524	38.9	K00540		short chain dehydrogenase (EC:1.-.-.-)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_533	100	K06877	DEAD/DEAH box helicase domain-containing protein	helicase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_535	99.6	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	DNA methylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_536	100	K03116	sec-independent protein translocase protein TatA	translocase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_538	100	K19576	MFS transporter, DHA1 family, quinolone resistance protein	MFS transporter permease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_539	100	K03183	demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	methylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_540	100	K03432	proteasome alpha subunit [EC:3.4.25.1]	proteasome subunit alpha
+Nitrosotenuis_cloacae_strain_SAT1-contig1_542	100	K07006	uncharacterized protein	pyridoxamine 5'-phosphate oxidase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_543	59.2	K00261	glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]	gdhA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_545	37.8	K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	glutamine amidotransferase class I
+Nitrosotenuis_cloacae_strain_SAT1-contig1_546	100	K18594	3-hydroxypropionyl-CoA synthetase (ADP-forming) [EC:6.2.1.-]	acyl-CoA synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_547	100	K15019	3-hydroxypropionyl-coenzyme A dehydratase [EC:4.2.1.116]	enoyl-CoA hydratase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_548	100	K13628	iron-sulfur cluster assembly protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_549	40.1	K02316	DNA primase [EC:2.7.7.-]	DNA primase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_550	100	K07732	riboflavin kinase, archaea type [EC:2.7.1.161]	riboflavin kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_551	99.5	K14656	FAD synthetase	cytidyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_552	100	K00586	diphthine synthase [EC:2.1.1.98]	methyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_553	100	K05831	LysW-gamma-L-lysine/LysW-L-ornithine carboxypeptidase	acetylornithine deacetylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_554	99.6	K05827	[lysine-biosynthesis-protein LysW]---L-2-aminoadipate ligase [EC:6.3.2.43]	glutathione synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_555	100	K05826	alpha-aminoadipate/glutamate carrier protein LysW	lysine biosynthesis protein LysW
+Nitrosotenuis_cloacae_strain_SAT1-contig1_556	100	K01649	2-isopropylmalate synthase [EC:2.3.3.13]	2-isopropylmalate synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_557	29.4	K03719	Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein	transcriptional regulator
+Nitrosotenuis_cloacae_strain_SAT1-contig1_558	100	K05830	LysW-gamma-L-lysine/LysW-L-ornithine aminotransferase [EC:2.6.1.-]	pyridoxal-5'-phosphate-dependent protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_559	100	K05828	LysW-gamma-L-alpha-aminoadipate/LysW-L-glutamate kinase [EC:2.7.2.-]	acetylaminoadipate kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_560	99.7	K05829	LysW-gamma-L-alpha-aminoadipyl-6-phosphate/LysW-L-glutamyl-5-phosphate reductase [EC:1.2.1.-]	N-acetyl-gamma-glutamyl-phosphate reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_562	100	K05827	[lysine-biosynthesis-protein LysW]---L-2-aminoadipate ligase [EC:6.3.2.43]	glutathione synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_563	100	K05826	alpha-aminoadipate/glutamate carrier protein LysW	lysine biosynthesis protein LysW
+Nitrosotenuis_cloacae_strain_SAT1-contig1_564	100	K01940	argininosuccinate synthase [EC:6.3.4.5]	argininosuccinate synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_565	100	K02051	NitT/TauT family transport system substrate-binding protein	sulfate ABC transporter substrate-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_566	100	K02049	NitT/TauT family transport system ATP-binding protein	nitrate ABC transporter ATPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_567	100	K02050	NitT/TauT family transport system permease protein	sulfate ABC transporter permease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_570	63.7	K08153	MFS transporter, DHA1 family, multidrug resistance protein	major facilitator transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_573	99.9	K00548	5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	methionine synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_576	100	K00548	5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]	methionine synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_579	100	K02924	large subunit ribosomal protein L39e	50S ribosomal protein L39
+Nitrosotenuis_cloacae_strain_SAT1-contig1_580	99.4	K02910	large subunit ribosomal protein L31e	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_582	100	K03531	cell division protein FtsZ	cell division protein FtsZ
+Nitrosotenuis_cloacae_strain_SAT1-contig1_583	34.0	K15865	threonylcarbamoyladenosine tRNA methylthiotransferase CDKAL1 [EC:2.8.4.5]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_583	33.8	K15865	threonylcarbamoyladenosine tRNA methylthiotransferase CDKAL1 [EC:2.8.4.5]	uncharacterized protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_584	99.8	K01744	aspartate ammonia-lyase [EC:4.3.1.1]	aspA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_585	100	K00368	nitrite reductase (NO-forming) [EC:1.7.2.1]	multicopper oxidase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_587	100	K00058	D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	3-phosphoglycerate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_591	100	K02877	large subunit ribosomal protein L15e	50S ribosomal protein L15
+Nitrosotenuis_cloacae_strain_SAT1-contig1_594	100	K06072	deoxyhypusine monooxygenase [EC:1.14.99.29]	PBS lyase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_595	100	K03546	exonuclease SbcC	chromosome segregation protein SMC
+Nitrosotenuis_cloacae_strain_SAT1-contig1_597	100	K06915	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_599	100	K02119	V/A-type H+-transporting ATPase subunit C	ATPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_602	99.6	K06989	aspartate dehydrogenase [EC:1.4.1.21]	aspartate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_603	100	K03517	quinolinate synthase [EC:2.5.1.72]	quinolinate synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_607	100	K06218	mRNA interferase RelE/StbE	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_609	100	K00767	nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	nicotinate-nucleotide pyrophosphorylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_611	100	K03050	DNA-directed RNA polymerase subunit E" [EC:2.7.7.6]	transcription elongation factor Spt4
+Nitrosotenuis_cloacae_strain_SAT1-contig1_612	99.5	K03049	DNA-directed RNA polymerase subunit E' [EC:2.7.7.6]	DNA-directed RNA polymerase subunit E
+Nitrosotenuis_cloacae_strain_SAT1-contig1_613	100	K03593	ATP-binding protein involved in chromosome partitioning	chromosome partitioning protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_614	99.4	K09735	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_615	100	K01507	inorganic pyrophosphatase [EC:3.6.1.1]	inorganic diphosphatase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_616	74.8	K07043	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_617	99.9	K15987	K(+)-stimulated pyrophosphate-energized sodium pump [EC:3.6.1.1]	hppA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_623	100	K09143	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_626	99.7	K02301	protoheme IX farnesyltransferase [EC:2.5.1.-]	protoheme IX farnesyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_628	100	K13525	transitional endoplasmic reticulum ATPase	ATPase AAA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_629	100	K03232	elongation factor 1-beta	effector protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_630	29.1	K17830	digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]	43 kDa subunit bacteriochlorophyll synthase-like protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_631	100	K04794	peptidyl-tRNA hydrolase, PTH2 family [EC:3.1.1.29]	peptidyl-tRNA hydrolase (EC:3.1.1.29)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_632	45.4	K18235	virginiamycin B lyase [EC:4.2.99.-]	conserved exported protein of unknown function
+Nitrosotenuis_cloacae_strain_SAT1-contig1_632	44.9	K18235	virginiamycin B lyase [EC:4.2.99.-]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_633	99.7	K06176	tRNA pseudouridine13 synthase [EC:5.4.99.27]	pseudouridine synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_634	100	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	dolichol-phosphate mannosyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_647	100	K13953	alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1]	zinc-dependent alcohol dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_649	99.9	K06888	uncharacterized protein	thioredoxin
+Nitrosotenuis_cloacae_strain_SAT1-contig1_659	71.7	K05592	ATP-dependent RNA helicase DeaD [EC:3.6.4.13]	DEAD/DEAH box helicase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_659	72.1	K05592	ATP-dependent RNA helicase DeaD [EC:3.6.4.13]	DEAD/DEAH box helicase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_659	74.7	K05592	ATP-dependent RNA helicase DeaD [EC:3.6.4.13]	superfamily II helicase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_659	72.8	K05592	ATP-dependent RNA helicase DeaD [EC:3.6.4.13]	DEAD/DEAH box helicase domain protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_662	100	K02626	arginine decarboxylase [EC:4.1.1.19]	pyruvoyl-dependent arginine decarboxylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_665	100	K08602	oligoendopeptidase F [EC:3.4.24.-]	oligoendopeptidase F
+Nitrosotenuis_cloacae_strain_SAT1-contig1_670	100	K03413	two-component system, chemotaxis family, response regulator CheY	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_672	32.9	K14446	crotonyl-CoA carboxylase/reductase [EC:1.3.1.85]	Crotonyl-CoA carboxylase/reductase, ethylmalonyl-CoA producing
+Nitrosotenuis_cloacae_strain_SAT1-contig1_673	25.9	K19265	L-glyceraldehyde 3-phosphate reductase [EC:1.1.1.-]	L-glyceraldehyde 3-phosphate reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_674	99.9	K03406	methyl-accepting chemotaxis protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_679	100	K05794	tellurite resistance protein TerC	membrane protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_680	100	K06940	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_681	100	K02927	large subunit ribosomal protein L40e	50S ribosomal protein L40
+Nitrosotenuis_cloacae_strain_SAT1-contig1_682	100	K01902	succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]	succinate--CoA ligase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_683	100	K01903	succinyl-CoA synthetase beta subunit [EC:6.2.1.5]	succinyl-CoA synthetase subunit beta
+Nitrosotenuis_cloacae_strain_SAT1-contig1_685	99.9	K01870	isoleucyl-tRNA synthetase [EC:6.1.1.5]	isoleucyl-tRNA synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_686	99.8	K01945	phosphoribosylamine--glycine ligase [EC:6.3.4.13]	phosphoribosylamine--glycine ligase (EC:6.3.4.13)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_687	99.5	K01934	5-formyltetrahydrofolate cyclo-ligase [EC:6.3.3.2]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_688	99.7	K01491	methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]	5,10-methylene-tetrahydrofolate cyclohydrolase (EC:1.5.1.5 3.5.4.9)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_689	47.7	K08070	2-alkenal reductase [EC:1.3.1.74]	2-alkenal reductase (EC:1.3.1.74)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_693	99.5	K11175	phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]	phosphoribosylglycinamide formyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_694	35.3	K07709	two-component system, NtrC family, sensor histidine kinase HydH [EC:2.7.13.3]	signal transduction histidine kinase, nitrogen specific, NtrB (EC:2.7.13.3)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_694	33.7	K02668	two-component system, NtrC family, sensor histidine kinase PilS [EC:2.7.13.3]	PAS/PAC sensor signal transduction histidine kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_698	100	K03413	two-component system, chemotaxis family, response regulator CheY	histidine kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_704	100	K07577	putative mRNA 3-end processing factor	exonuclease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_718	99.8	K03703	excinuclease ABC subunit C	ethanolamine utilization protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_719	100	K03701	excinuclease ABC subunit A	excinuclease ABC subunit A
+Nitrosotenuis_cloacae_strain_SAT1-contig1_720	99.8	K03702	excinuclease ABC subunit B	excinuclease ABC subunit B
+Nitrosotenuis_cloacae_strain_SAT1-contig1_722	63.8	K07005	uncharacterized protein	pyridoxamine 5'-phosphate oxidase-like FMN-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_728	100	K14728	phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase [EC:1.2.-.-]	oxidoreductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_729	79.0	K18602	malonic semialdehyde reductase [EC:1.1.1.-]	iron-containing alcohol dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_729	79.0	K18602	malonic semialdehyde reductase [EC:1.1.1.-]	iron-containing alcohol dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_729	77.4	K18602	malonic semialdehyde reductase [EC:1.1.1.-]	iron-containing alcohol dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_730	99.6	K01480	agmatinase [EC:3.5.3.11]	arginase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_731	100	K00050	hydroxypyruvate reductase [EC:1.1.1.81]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_735	99.7	K01647	citrate synthase [EC:2.3.3.1]	citrate (Si)-synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_737	100	K07463	archaea-specific RecJ-like exonuclease	single-stranded DNA exonuclease RecJ
+Nitrosotenuis_cloacae_strain_SAT1-contig1_738	42.9	K03809	NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	repressor
+Nitrosotenuis_cloacae_strain_SAT1-contig1_743	34.6	K12196	vacuolar protein-sorting-associated protein 4	vat_4
+Nitrosotenuis_cloacae_strain_SAT1-contig1_748	100	K01956	carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	carbamoyl phosphate synthase small subunit
+Nitrosotenuis_cloacae_strain_SAT1-contig1_749	99.9	K01955	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	carbamoyl phosphate synthase large subunit
+Nitrosotenuis_cloacae_strain_SAT1-contig1_751	100	K03124	transcription initiation factor TFIIB	tfb
+Nitrosotenuis_cloacae_strain_SAT1-contig1_760	100	K03124	transcription initiation factor TFIIB	tfb
+Nitrosotenuis_cloacae_strain_SAT1-contig1_761	100	K06953	uncharacterized protein	metallophosphoesterase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_765	100	K02122	V/A-type H+-transporting ATPase subunit F	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_769	100	K00008	L-iditol 2-dehydrogenase [EC:1.1.1.14]	L-iditol 2-dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_773	100	K01652	acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	acetolactate synthase catalytic subunit (EC:2.2.1.6)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_774	100	K01653	acetolactate synthase I/III small subunit [EC:2.2.1.6]	acetolactate synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_775	100	K01649	2-isopropylmalate synthase [EC:2.3.3.13]	citramalate synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_776	99.7	K00052	3-isopropylmalate dehydrogenase [EC:1.1.1.85]	3-isopropylmalate dehydrogenase (EC:1.1.1.83 1.1.1.85)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_787	100	K01876	aspartyl-tRNA synthetase [EC:6.1.1.12]	aspartyl-tRNA synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_789	63.7	K02031	peptide/nickel transport system ATP-binding protein	oligopeptide/dipeptide ABC transporter ATPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_792	100	K03652	DNA-3-methyladenine glycosylase [EC:3.2.2.21]	3-methyladenine DNA glycosylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_793	100	K02334	DNA polymerase bacteriophage-type [EC:2.7.7.7]	uracil-DNA glycosylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_794	100	K03568	TldD protein	peptidase U62
+Nitrosotenuis_cloacae_strain_SAT1-contig1_798	100	K03413	two-component system, chemotaxis family, response regulator CheY	chemotaxis protein CheY
+Nitrosotenuis_cloacae_strain_SAT1-contig1_800	100	K06865	ATPase	ATPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_801	41.8	K03709	DtxR family transcriptional regulator, Mn-dependent transcriptional regulator	iron dependent repressor
+Nitrosotenuis_cloacae_strain_SAT1-contig1_802	100	K09005	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_805	100	K07090	uncharacterized protein	permease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_811	100	K01170	tRNA-intron endonuclease, archaea type [EC:3.1.27.9]	ribonuclease BN
+Nitrosotenuis_cloacae_strain_SAT1-contig1_812	86.6	K07220	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_812	85.3	K07220	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_812	85.3	K07220	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_812	85.3	K07220	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_812	85.3	K07220	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_813	100	K10747	DNA ligase 1 [EC:6.5.1.1 6.5.1.6 6.5.1.7]	ATP-dependent DNA ligase (EC:6.5.1.1)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_816	99.7	K01622	fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11]	dihydroorotate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_817	100	K03231	elongation factor 1-alpha	tuf
+Nitrosotenuis_cloacae_strain_SAT1-contig1_818	99.0	K02946	small subunit ribosomal protein S10	30S ribosomal protein S10
+Nitrosotenuis_cloacae_strain_SAT1-contig1_819	100	K03059	DNA-directed RNA polymerase subunit P [EC:2.7.7.6]	RNA polymerase Rbp10
+Nitrosotenuis_cloacae_strain_SAT1-contig1_822	99.4	K06966	uncharacterized protein	DNA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_823	99.7	K15016	enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.35]	3-hydroxyacyl-CoA dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_824	100	K02503	histidine triad (HIT) family protein	HIT family hydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_825	27.8	K03686	molecular chaperone DnaJ	putative chaperone DnaJ
+Nitrosotenuis_cloacae_strain_SAT1-contig1_827	100	K01845	glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]	glutamate-1-semialdehyde 2,1-aminomutase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_831	99.7	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_833	29.5	K03594	bacterioferritin [EC:1.16.3.1]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_833	30.2	K03594	bacterioferritin [EC:1.16.3.1]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_834	31.3	K16050	4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase [EC:3.7.1.17]	alpha/beta hydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_836	100	K03821	polyhydroxyalkanoate synthase [EC:2.3.1.-]	poly(3-hydroxyalkanoate) synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_840	46.7	K07709	two-component system, NtrC family, sensor histidine kinase HydH [EC:2.7.13.3]	histidine kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_842	100	K03124	transcription initiation factor TFIIB	tfb
+Nitrosotenuis_cloacae_strain_SAT1-contig1_848	99.7	K03524	BirA family transcriptional regulator, biotin operon repressor / biotin-[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	biotin--acetyl-CoA-carboxylase ligase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_850	100	K06929	uncharacterized protein	CoA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_852	99.8	K06942	uncharacterized protein	GTPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_853	99.8	K01883	cysteinyl-tRNA synthetase [EC:6.1.1.16]	cysteinyl-tRNA synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_854	99.6	K01916	NAD+ synthase [EC:6.3.1.5]	NAD synthetase (EC:6.3.1.5)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_855	56.0	K00363	nitrite reductase (NADH) small subunit [EC:1.7.1.15]	Rieske (2Fe-2S) domain-containing protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_856	99.8	K01251	adenosylhomocysteinase [EC:3.3.1.1]	S-adenosyl-L-homocysteine hydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_857	99.8	K01874	methionyl-tRNA synthetase [EC:6.1.1.10]	methionyl-tRNA synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_861	100	K00053	ketol-acid reductoisomerase [EC:1.1.1.86]	ketol-acid reductoisomerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_862	100	K01849	methylmalonyl-CoA mutase, C-terminal domain [EC:5.4.99.2]	methylmalonyl-CoA mutase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_863	62.6	K13722	tricorn protease interacting factor F2/3 [EC:3.4.11.-]	peptidase M1 membrane alanine aminopeptidase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_865	99.7	K07588	LAO/AO transport system kinase [EC:2.7.-.-]	protein kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_866	100	K01848	methylmalonyl-CoA mutase, N-terminal domain [EC:5.4.99.2]	methylmalonyl-CoA mutase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_867	100	K05606	methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1]	methylmalonyl-CoA epimerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_870	50.0	K13589	two-component system, cell cycle response regulator CpdR	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_871	100	K01006	pyruvate, orthophosphate dikinase [EC:2.7.9.1]	pyruvate phosphate dikinase (EC:2.7.9.1)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_872	99.5	K01803	triosephosphate isomerase (TIM) [EC:5.3.1.1]	triosephosphate isomerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_874	100	K07333	archaeal flagellar protein FlaJ	pilus assembly protein TadC
+Nitrosotenuis_cloacae_strain_SAT1-contig1_875	100	K07333	archaeal flagellar protein FlaJ	pilus assembly protein TadC
+Nitrosotenuis_cloacae_strain_SAT1-contig1_876	71.5	K07332	archaeal flagellar protein FlaI	putative type II secretion system protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_876	71.3	K07332	archaeal flagellar protein FlaI	type II secretion system protein E
+Nitrosotenuis_cloacae_strain_SAT1-contig1_886	100	K02319	DNA polymerase I [EC:2.7.7.7]	DNA mismatch repair protein MutH
+Nitrosotenuis_cloacae_strain_SAT1-contig1_887	100	K01493	dCMP deaminase [EC:3.5.4.12]	deoxycytidylate deaminase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_888	99.8	K10896	fanconi anemia group M protein	ERCC4 helicase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_889	75.8	K07533	foldase protein PrsA [EC:5.2.1.8]	putative PpiC-type peptidyl-prolyl cis-trans isomerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_893	100	K02548	1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.74 2.5.1.-]	1,4-dihydroxy-2-naphthoate prenyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_895	31.1	K07325	archaeal flagellin FlaB	flaB5
+Nitrosotenuis_cloacae_strain_SAT1-contig1_896	36.1	K05540	tRNA-dihydrouridine synthase B [EC:1.-.-.-]	tRNA-U20-dihydrouridine synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_897	100	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	asparagine synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_898	100	K07108	uncharacterized protein	transcriptional regulator
+Nitrosotenuis_cloacae_strain_SAT1-contig1_899	100	K03622	archaea-specific DNA-binding protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_900	99.4	K03014	DNA-directed RNA polymerases I, II, and III subunit RPABC2	DNA-directed RNA polymerase subunit K
+Nitrosotenuis_cloacae_strain_SAT1-contig1_901	100	K09143	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_902	49.1	K02975	small subunit ribosomal protein S25e	30S ribosomal protein S25e
+Nitrosotenuis_cloacae_strain_SAT1-contig1_902	48.1	K02975	small subunit ribosomal protein S25e	30S ribosomal protein S25e
+Nitrosotenuis_cloacae_strain_SAT1-contig1_904	100	K03413	two-component system, chemotaxis family, response regulator CheY	chemotaxis protein CheY
+Nitrosotenuis_cloacae_strain_SAT1-contig1_908	100	K06941	23S rRNA (adenine2503-C2)-methyltransferase [EC:2.1.1.192]	50S rRNA methyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_909	99.8	K01868	threonyl-tRNA synthetase [EC:6.1.1.3]	threonine--tRNA ligase (EC:6.1.1.3)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_910	39.1	K13589	two-component system, cell cycle response regulator CpdR	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_911	100	K01480	agmatinase [EC:3.5.3.11]	arginase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_912	99.5	K17884	archaetidylinositol phosphate synthase [EC:2.7.8.39]	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_913	100	K02976	small subunit ribosomal protein S26e	30S ribosomal protein S26
+Nitrosotenuis_cloacae_strain_SAT1-contig1_916	100	K00858	NAD+ kinase [EC:2.7.1.23]	sugar kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_917	100	K01937	CTP synthase [EC:6.3.4.2]	pyrG
+Nitrosotenuis_cloacae_strain_SAT1-contig1_918	100	K15383	MtN3 and saliva related transmembrane protein	MtN3 and saliva related transmembrane protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_919	100	K01695	tryptophan synthase alpha chain [EC:4.2.1.20]	tryptophan synthase subunit alpha
+Nitrosotenuis_cloacae_strain_SAT1-contig1_920	100	K01696	tryptophan synthase beta chain [EC:4.2.1.20]	tryptophan synthase subunit beta (EC:4.2.1.20)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_921	100	K01609	indole-3-glycerol phosphate synthase [EC:4.1.1.48]	indole-3-glycerol phosphate synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_922	100	K00766	anthranilate phosphoribosyltransferase [EC:2.4.2.18]	anthranilate phosphoribosyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_923	100	K01658	anthranilate synthase component II [EC:4.1.3.27]	anthranilate synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_924	99.8	K01657	anthranilate synthase component I [EC:4.1.3.27]	anthranilate synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_929	100	K01687	dihydroxy-acid dehydratase [EC:4.2.1.9]	dihydroxy-acid dehydratase (EC:4.2.1.9)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_931	99.3	K02503	histidine triad (HIT) family protein	5'-nucleosyl-tetraphosphatase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_933	44.1	K13589	two-component system, cell cycle response regulator CpdR	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_937	99.8	K03265	peptide chain release factor subunit 1	peptide chain release factor 1
+Nitrosotenuis_cloacae_strain_SAT1-contig1_945	99.9	K07243	high-affinity iron transporter	iron permease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_952	100	K06863	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.23]	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_955	100	K09807	uncharacterized protein	membrane protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_956	99.6	K07709	two-component system, NtrC family, sensor histidine kinase HydH [EC:2.7.13.3]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_961	99.8	K03885	NADH dehydrogenase [EC:1.6.99.3]	6-phosphogluconate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_962	100	K01876	aspartyl-tRNA synthetase [EC:6.1.1.12]	aspartyl-tRNA synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_963	98.9	K02435	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_964	99.8	K02433	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]	gatA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_965	100	K02434	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]	glutamyl-tRNA amidotransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_972	52.1	K07023	putative hydrolases of HD superfamily	HD superfamily hydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_973	99.4	K07023	putative hydrolases of HD superfamily	phosphohydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_974	99.4	K00798	cob(I)alamin adenosyltransferase [EC:2.5.1.17]	cob(I)yrinic acid a c-diamide adenosyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_976	52.6	K04750	PhnB protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_980	99.3	K01759	lactoylglutathione lyase [EC:4.4.1.5]	methylmalonyl-CoA epimerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_987	100	K01754	threonine dehydratase [EC:4.3.1.19]	threonine dehydratase (EC:4.3.1.19)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_988	100	K01588	5-(carboxyamino)imidazole ribonucleotide mutase [EC:5.4.99.18]	N5-carboxyaminoimidazole ribonucleotide mutase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_989	100	K01589	5-(carboxyamino)imidazole ribonucleotide synthase [EC:6.3.4.18]	phosphoribosylaminoimidazole carboxylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_991	100	K07991	archaeal preflagellin peptidase FlaK [EC:3.4.23.52]	peptidase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_995	35.2	K01077	alkaline phosphatase [EC:3.1.3.1]	alkaline phosphatase (EC:3.1.3.1)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_996	39.9	K00973	glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]	sugar-phosphate nucleotidyl transferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_997	30.0	K00320	5,10-methylenetetrahydromethanopterin reductase [EC:1.5.98.2]	methylenetetrahydromethanopterin reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_998	100	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	3-ketoacyl-CoA thiolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_999	44.9	K07068	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1000	46.8	K03552	holliday junction resolvase, archaea type	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1005	99.8	K01733	threonine synthase [EC:4.2.3.1]	threonine synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1006	34.2	K14696	solute carrier family 30 (zinc transporter), member 9	catA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1007	100	K00150	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59]	glyceraldehyde-3-phosphate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1010	100	K06940	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1011	100	K01641	hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10]	3-hydroxy-3-methylglutaryl-CoA synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1013	100	K01935	dethiobiotin synthetase [EC:6.3.3.3]	ATP-dependent dethiobiotin synthetase BioD
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1014	100	K00833	adenosylmethionine---8-amino-7-oxononanoate aminotransferase [EC:2.6.1.62]	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1015	100	K01012	biotin synthase [EC:2.8.1.6]	biotin synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1016	99.7	K00639	glycine C-acetyltransferase [EC:2.3.1.29]	8-amino-7-oxononanoate synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1018	100	K06196	cytochrome c-type biogenesis protein	cytochrome C biogenesis protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1026	99.3	K03574	8-oxo-dGTP diphosphatase [EC:3.6.1.55]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1029	100	K02933	large subunit ribosomal protein L6	50S ribosomal protein L6
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1030	100	K02994	small subunit ribosomal protein S8	30S ribosomal protein S8
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1031	100	K02954	small subunit ribosomal protein S14	30S ribosomal protein S14
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1032	100	K02931	large subunit ribosomal protein L5	50S ribosomal protein L5
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1033	100	K02987	small subunit ribosomal protein S4e	30S ribosomal protein S4
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1034	100	K02895	large subunit ribosomal protein L24	50S ribosomal protein L24
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1035	100	K02874	large subunit ribosomal protein L14	50S ribosomal protein L14
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1036	100	K02961	small subunit ribosomal protein S17	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1037	100	K03538	ribonuclease P protein subunit POP4 [EC:3.1.26.5]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1038	100	K02904	large subunit ribosomal protein L29	50S ribosomal protein L29
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1039	100	K02982	small subunit ribosomal protein S3	30S ribosomal protein S3
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1040	100	K02890	large subunit ribosomal protein L22	50S ribosomal protein L22
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1041	100	K02965	small subunit ribosomal protein S19	rps19p
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1042	98.9	K02892	large subunit ribosomal protein L23	50S ribosomal protein L23
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1043	100	K02930	large subunit ribosomal protein L4e	50S ribosomal protein L4
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1044	100	K02906	large subunit ribosomal protein L3	50S ribosomal protein L3
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1046	99.6	K09142	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1047	99.6	K03432	proteasome alpha subunit [EC:3.4.25.1]	proteasome subunit alpha
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1048	99.3	K09738	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1050	99.6	K01923	phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]	phosphoribosylaminoimidazole-succinocarboxamide synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1056	100	K00764	amidophosphoribosyltransferase [EC:2.4.2.14]	glutamine amidotransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1057	100	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	phosphoribosylformylglycinamidine synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1058	100	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	phosphoribosylformylglycinamidine synthase (EC:6.3.5.3)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1059	38.1	K00088	IMP dehydrogenase [EC:1.1.1.205]	CBS domain protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1059	38.1	K00088	IMP dehydrogenase [EC:1.1.1.205]	CBS domain protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1059	38.1	K00088	IMP dehydrogenase [EC:1.1.1.205]	CBS domain protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1060	100	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	phosphoribosylglycinamide synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1062	100	K03118	sec-independent protein translocase protein TatC	preprotein translocase subunit TatC
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1063	100	K03116	sec-independent protein translocase protein TatA	translocase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1064	46.8	K18588	coenzyme Q-binding protein COQ10	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1065	100	K03186	4-hydroxy-3-polyprenylbenzoate decarboxylase [EC:4.1.1.98]	phenolic acid decarboxylase subunit B
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1067	100	K06863	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.23]	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1068	99.3	K08999	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1084	100	K07304	peptide-methionine (S)-S-oxide reductase [EC:1.8.4.11]	methionine sulfoxide reductase A
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1098	100	K03234	elongation factor 2	fusA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1101	100	K11785	1,4-dihydroxy-6-naphthoate synthase [EC:1.14.-.-]	ABC transporter substrate-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1104	100	K18285	aminodeoxyfutalosine synthase [EC:2.5.1.120]	radical SAM protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1112	100	K00027	malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]	malate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1114	57.1	K13589	two-component system, cell cycle response regulator CpdR	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1116	45.0	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	transcriptional regulatory protein, AsnC family
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1117	99.4	K03686	molecular chaperone DnaJ	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.3	K03762	MFS transporter, MHS family, proline/betaine transporter	proP
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.3	K03762	MFS transporter, MHS family, proline/betaine transporter	glycine/betaine ABC transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.3	K03762	MFS transporter, MHS family, proline/betaine transporter	glycine/betaine ABC transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.3	K03762	MFS transporter, MHS family, proline/betaine transporter	proP
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.3	K03762	MFS transporter, MHS family, proline/betaine transporter	proP
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.3	K03762	MFS transporter, MHS family, proline/betaine transporter	proline/glycine betaine transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.3	K03762	MFS transporter, MHS family, proline/betaine transporter	Proline/betaine transporter (Proline porter II) (PPII)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.3	K03762	MFS transporter, MHS family, proline/betaine transporter	Proline/betaine transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.3	K03762	MFS transporter, MHS family, proline/betaine transporter	metabolite-proton symporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.3	K03762	MFS transporter, MHS family, proline/betaine transporter	proline/glycine betaine transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.3	K03762	MFS transporter, MHS family, proline/betaine transporter	major facilitator superfamily permease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.3	K03762	MFS transporter, MHS family, proline/betaine transporter	Permeases of the major facilitator superfamily
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.3	K03762	MFS transporter, MHS family, proline/betaine transporter	Permeases of the major facilitator superfamily
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.3	K03762	MFS transporter, MHS family, proline/betaine transporter	proline/betaine transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.3	K03762	MFS transporter, MHS family, proline/betaine transporter	glycine/betaine ABC transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.3	K03762	MFS transporter, MHS family, proline/betaine transporter	glycine/betaine ABC transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.3	K03762	MFS transporter, MHS family, proline/betaine transporter	Permeases of the major facilitator superfamily
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.9	K03762	MFS transporter, MHS family, proline/betaine transporter	proP_1
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	34.4	K03762	MFS transporter, MHS family, proline/betaine transporter	permease (proline/betaine)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	34.4	K03762	MFS transporter, MHS family, proline/betaine transporter	general substrate transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	34.4	K03762	MFS transporter, MHS family, proline/betaine transporter	MFS transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	34.4	K03762	MFS transporter, MHS family, proline/betaine transporter	MFS transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	34.4	K03762	MFS transporter, MHS family, proline/betaine transporter	MFS transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1122	30.5	K03762	MFS transporter, MHS family, proline/betaine transporter	glycine/betaine ABC transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1127	99.6	K07159	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1139	100	K02033	peptide/nickel transport system permease protein	peptide ABC transporter permease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1140	100	K02034	peptide/nickel transport system permease protein	peptide ABC transporter permease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1150	100	K03497	chromosome partitioning protein, ParB family	transcriptional regulator
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1151	100	K04799	flap endonuclease-1 [EC:3.-.-.-]	flap endonuclease-1
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1154	99.8	K01895	acetyl-CoA synthetase [EC:6.2.1.1]	3-hydroxypropionyl-CoA synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1158	100	K07305	peptide-methionine (R)-S-oxide reductase [EC:1.8.4.12]	peptide methionine sulfoxide reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1159	100	K00003	homoserine dehydrogenase [EC:1.1.1.3]	homoserine dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1160	99.4	K07575	PUA domain protein	RNA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1164	100	K03433	proteasome beta subunit [EC:3.4.25.1]	proteasome subunit beta
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1165	33.3	K01439	succinyl-diaminopimelate desuccinylase [EC:3.5.1.18]	dapE
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1166	100	K17758	NAD(P)H-hydrate epimerase [EC:5.1.99.6]	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1168	100	K07442	tRNA (adenine57-N1/adenine58-N1)-methyltransferase [EC:2.1.1.219 2.1.1.220]	tRNA methyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1169	35.7	K13589	two-component system, cell cycle response regulator CpdR	response regulator
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1170	100	K03413	two-component system, chemotaxis family, response regulator CheY	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1171	100	K01887	arginyl-tRNA synthetase [EC:6.1.1.19]	arginyl-tRNA synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1172	100	K07024	uncharacterized protein	phosphoglycolate phosphatase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1173	100	K06944	uncharacterized protein	GTP-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1179	100	K01011	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	sulfurtransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1180	99.8	K00392	sulfite reductase (ferredoxin) [EC:1.8.7.1]	ferredoxin--nitrite reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1181	99.6	K03146	thiamine thiazole synthase	ribonucleoside-triphosphate reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1183	100	K00384	thioredoxin reductase (NADPH) [EC:1.8.1.9]	thioredoxin reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1185	100	K13589	two-component system, cell cycle response regulator CpdR	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1186	100	K12339	cysteine synthase B [EC:2.5.1.47]	pyridoxal-5'-phosphate-dependent protein subunit beta
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1187	46.4	K04085	tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]	SirA family protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1187	44.9	K04085	tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]	tusA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1190	99.7	K07053	uncharacterized protein	metal-dependent phosphoesterase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1191	100	K12234	coenzyme F420-0:L-glutamate ligase / coenzyme F420-1:gamma-L-glutamate ligase [EC:6.3.2.31 6.3.2.34]	F420-dependent oxidoreductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1193	99.5	K01079	phosphoserine phosphatase [EC:3.1.3.3]	phosphoserine phosphatase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1195	28.1	K07243	high-affinity iron transporter	putative iron/lead transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1196	99.8	K01881	prolyl-tRNA synthetase [EC:6.1.1.15]	proline--tRNA ligase (EC:6.1.1.15)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1197	70.5	K02032	peptide/nickel transport system ATP-binding protein	oligopeptide/dipeptide ABC transporter ATPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1198	99.9	K03529	chromosome segregation protein	chromosome partitioning protein ParA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1201	100	K06869	uncharacterized protein	carboxylate--amine ligase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1206	99.7	K04479	DNA polymerase IV (archaeal DinB-like DNA polymerase) [EC:2.7.7.7]	DNA polymerase IV
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1209	100	K10389	tubulin gamma	cell division protein FtsZ
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1211	100	K02016	iron complex transport system substrate-binding protein	ABC transporter substrate-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1219	57.6	K00020	3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31]	2-hydroxy-3-oxopropionate reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1223	100	K17830	digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]	geranylgeranyl reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1226	100	K02035	peptide/nickel transport system substrate-binding protein	ABC transporter substrate-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1228	100	K08979	putative membrane protein	membrane protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1231	100	K07143	UPF0148 protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1232	100	K03113	translation initiation factor 1	translation initiation factor Sui1
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1235	100	K11212	LPPG:FO 2-phospho-L-lactate transferase [EC:2.7.8.28]	2-phospho-L-lactate transferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1236	99.5	K14941	2-phospho-L-lactate guanylyltransferase [EC:2.7.7.68]	CofC protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1239	100	K09140	pre-rRNA-processing protein TSR3	ribonuclease P
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1242	99.7	K01265	methionyl aminopeptidase [EC:3.4.11.18]	methionine aminopeptidase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1245	100	K03120	transcription initiation factor TFIID TATA-box-binding protein	TATA box-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1246	100	K06878	tRNA-binding protein	tRNA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1249	31.1	K14597	chlorobactene glucosyltransferase	glycosyl transferase family protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1250	43.5	K08070	2-alkenal reductase [EC:1.3.1.74]	2-alkenal reductase (EC:1.3.1.74)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1251	99.7	K11779	FO synthase [EC:2.5.1.-]	thiamine biosynthesis protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1252	76.5	K11781	FO synthase subunit 2 [EC:2.5.1.77]	radical SAM protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1253	99.8	K03592	PmbA protein	peptidase U62
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1256	99.6	K06869	uncharacterized protein	3-isopropylmalate dehydratase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1257	100	K01933	phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	phosphoribosylaminoimidazole carboxylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1258	28.4	K03455	monovalent cation:H+ antiporter-2, CPA2 family	transporter CPA2 family
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1260	100	K07739	elongator complex protein 3 [EC:2.3.1.48]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1261	100	K04566	lysyl-tRNA synthetase, class I [EC:6.1.1.6]	lysyl-tRNA synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1281	71.4	K09866	aquaporin-4	Glycerol uptake facilitator
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1281	70.6	K09866	aquaporin-4	glycerol uptake facilitator
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1281	70.1	K09866	aquaporin-4	major intrinsic protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1282	100	K03564	peroxiredoxin Q/BCP [EC:1.11.1.15]	peroxiredoxin
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1286	99.8	K03182	4-hydroxy-3-polyprenylbenzoate decarboxylase [EC:4.1.1.98]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1287	60.4	K11784	cyclic dehypoxanthinyl futalosine synthase [EC:1.21.98.1]	cofH2
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1288	100	K16306	fructose-bisphosphate aldolase / 2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase [EC:4.1.2.13 2.2.1.10]	fructose-bisphosphate aldolase (EC:4.1.2.13)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1289	99.7	K11646	3-dehydroquinate synthase II [EC:1.4.1.24]	3-dehydroquinate synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1290	100	K03785	3-dehydroquinate dehydratase I [EC:4.2.1.10]	3-dehydroquinate dehydratase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1291	100	K00014	shikimate dehydrogenase [EC:1.1.1.25]	shikimate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1292	100	K00891	shikimate kinase [EC:2.7.1.71]	shikimate kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1293	100	K00800	3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]	3-phosphoshikimate 1-carboxyvinyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1294	100	K01736	chorismate synthase [EC:4.2.3.5]	chorismate synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1295	99.8	K00812	aspartate aminotransferase [EC:2.6.1.1]	aspartate aminotransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1296	100	K04517	prephenate dehydrogenase [EC:1.3.1.12]	prephenate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1298	100	K03147	phosphomethylpyrimidine synthase [EC:4.1.99.17]	phosphomethylpyrimidine synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1299	100	K00941	hydroxymethylpyrimidine/phosphomethylpyrimidine kinase [EC:2.7.1.49 2.7.4.7]	phosphomethylpyrimidine kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1300	99.6	K00966	mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	nucleoside-diphosphate-sugar pyrophosphorylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1301	100	K00621	glucosamine-phosphate N-acetyltransferase [EC:2.3.1.4]	histone acetyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1303	100	K00965	UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]	galactose-1-phosphate uridylyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1304	100	K15635	2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	phosphoglycerate mutase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1305	100	K09763	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1307	100	K02977	small subunit ribosomal protein S27Ae	30S ribosomal protein S27
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1309	100	K07583	tRNA pseudouridine synthase 10 [EC:5.4.99.-]	pseudouridine synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1310	100	K03106	signal recognition particle subunit SRP54	signal recognition particle
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1311	29.0	K06927	diphthine-ammonia ligase [EC:6.3.1.14]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1312	100	K03263	translation initiation factor 5A	translation initiation factor IF-5A
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1316	100	K03306	inorganic phosphate transporter, PiT family	inorganic phosphate transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1317	100	K07220	uncharacterized protein	phosphate transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1318	100	K04751	nitrogen regulatory protein P-II 1	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1319	100	K04751	nitrogen regulatory protein P-II 1	nitrogen regulatory protein P-II
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1320	100	K13953	alcohol dehydrogenase, propanol-preferring [EC:1.1.1.1]	zinc-dependent alcohol dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1321	99.6	K05896	segregation and condensation protein A	chromosome segregation protein ScpA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1322	100	K06024	segregation and condensation protein B	transcriptional regulator
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1323	99.2	K02995	small subunit ribosomal protein S8e	30S ribosomal protein S8
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1324	100	K03105	signal recognition particle subunit SRP19	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1325	98.8	K07569	RNA-binding protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1326	100	K03124	transcription initiation factor TFIIB	transcription factor IIB
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1327	100	K09013	Fe-S cluster assembly ATP-binding protein	ABC transporter ATP-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1328	98.6	K09131	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1331	100	K09162	chlorite dismutase [EC:1.13.11.49]	chlorite dismutase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1332	38.8	K00540		probable oxidoreductase (aldo-keto reductase family protein) (EC:1.1.1.-)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1336	100	K02304	precorrin-2 dehydrogenase / sirohydrochlorin ferrochelatase [EC:1.3.1.76 4.99.1.4]	siroheme synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1337	100	K02492	glutamyl-tRNA reductase [EC:1.2.1.70]	glutamyl-tRNA reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1338	100	K01698	porphobilinogen synthase [EC:4.2.1.24]	delta-aminolevulinic acid dehydratase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1340	99.5	K06950	uncharacterized protein	phosphohydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1343	100	K07466	replication factor A1	DNA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1347	99.5	K19302	undecaprenyl-diphosphatase [EC:3.6.1.27]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1348	99.8	K00927	phosphoglycerate kinase [EC:2.7.2.3]	3-phosphoglycerate kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1350	100	K04488	nitrogen fixation protein NifU and related proteins	Fe-S cluster protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1351	100	K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	cysteine desulfurase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1352	34.7	K05710	3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin subunit	nirD
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1353	65.1	K09015	Fe-S cluster assembly protein SufD	sufD
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1354	100	K09014	Fe-S cluster assembly protein SufB	Fe-S cluster assembly protein SufB
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1355	100	K01719	uroporphyrinogen-III synthase [EC:4.2.1.75]	uroporphyrinogen-III synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1356	100	K02303	uroporphyrin-III C-methyltransferase [EC:2.1.1.107]	uroporphyrin-III methyltransferase (EC:2.1.1.107)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1357	100	K01749	hydroxymethylbilane synthase [EC:2.5.1.61]	porphobilinogen deaminase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1358	99.8	K01845	glutamate-1-semialdehyde 2,1-aminomutase [EC:5.4.3.8]	glutamate-1-semialdehyde aminotransferase (EC:5.4.3.8)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1360	100	K01992	ABC-2 type transport system permease protein	ABC transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1361	99.7	K01990	ABC-2 type transport system ATP-binding protein	ABC transporter ATP-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1372	100	K01170	tRNA-intron endonuclease, archaea type [EC:3.1.27.9]	tRNA intron endonuclease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1373	100	K02866	large subunit ribosomal protein L10e	50S ribosomal protein L10e
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1377	99.8	K03455	monovalent cation:H+ antiporter-2, CPA2 family	potassium transporter Kef
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1382	100	K03406	methyl-accepting chemotaxis protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1385	99.6	K00528	ferredoxin--NADP+ reductase [EC:1.18.1.2]	oxidoreductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1387	55.8	K02492	glutamyl-tRNA reductase [EC:1.2.1.70]	hemA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1387	56.0	K02492	glutamyl-tRNA reductase [EC:1.2.1.70]	glutamyl-tRNA reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1387	56.0	K02492	glutamyl-tRNA reductase [EC:1.2.1.70]	glutamyl-tRNA reductase (EC:1.2.1.70)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1391	100	K01011	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	thiosulfate sulfurtransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1392	99.6	K00858	NAD+ kinase [EC:2.7.1.23]	inorganic polyphosphate kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1393	99.4	K07060	endoribonuclease Nob1 [EC:3.1.-.-]	nucleotide-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1394	100	K01011	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	sulfurtransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1395	100	K10848	DNA excision repair protein ERCC-4 [EC:3.1.-.-]	heavy metal resistance protein CzcA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1396	100	K04798	prefoldin beta subunit	ATP-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1397	58.5	K09741	KEOPS complex subunit Pcc1	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1398	100	K02921	large subunit ribosomal protein L37Ae	50S ribosomal protein L37
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1399	100	K12589	exosome complex component RRP42	RNA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1400	100	K11600	exosome complex component RRP41	exonuclease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1401	100	K03679	exosome complex component RRP4	RNA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1402	100	K14574	ribosome maturation protein SDO1	RNA-associated protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1403	99.5	K03047	DNA-directed RNA polymerase subunit D [EC:2.7.7.6]	DNA-directed RNA polymerase subunit alpha
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1404	100	K02883	large subunit ribosomal protein L18e	50S ribosomal protein L18
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1405	99.3	K02871	large subunit ribosomal protein L13	50S ribosomal protein L13
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1406	100	K02996	small subunit ribosomal protein S9	30S ribosomal protein S9
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1407	99.6	K00966	mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	mannose-1-phosphate guanyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1408	100	K01704	3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	isopropylmalate isomerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1409	100	K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	isopropylmalate isomerase (EC:4.2.1.33)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1410	100	K01704	3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	leuD
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1411	99.8	K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	3-isopropylmalate dehydratase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1412	38.4	K12234	coenzyme F420-0:L-glutamate ligase / coenzyme F420-1:gamma-L-glutamate ligase [EC:6.3.2.31 6.3.2.34]	coenzyme F420-0 gamma-glutamyl ligase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1416	100	K00175	2-oxoglutarate ferredoxin oxidoreductase subunit beta [EC:1.2.7.3]	2-oxoacid:ferredoxin oxidoreductase subunit beta
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1417	100	K00174	2-oxoglutarate ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3]	2-oxoglutarate ferredoxin oxidoreductase subunit alpha
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1418	60.4	K00015	glyoxylate reductase [EC:1.1.1.26]	glyoxylate reductase (EC:1.1.1.26)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1420	100	K15736	L-2-hydroxyglutarate oxidase [EC:1.1.3.-]	FAD-dependent oxidoreductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1421	99.7	K01858	myo-inositol-1-phosphate synthase [EC:5.5.1.4]	myo-inositol-1-phosphate synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1423	100	K11131	H/ACA ribonucleoprotein complex subunit 4 [EC:5.4.99.-]	H/ACA RNA-protein complex component Cbf5p
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1424	99.5	K00945	cytidylate kinase [EC:2.7.4.14]	cytidylate kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1426	99.5	K00939	adenylate kinase [EC:2.7.4.3]	adenylate kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1427	99.8	K03076	preprotein translocase subunit SecY	preprotein translocase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1428	100	K02876	large subunit ribosomal protein L15	50S ribosomal protein L15
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1429	100	K02907	large subunit ribosomal protein L30	50S ribosomal protein L30
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1430	100	K02988	small subunit ribosomal protein S5	30S ribosomal protein S5
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1431	100	K02881	large subunit ribosomal protein L18	50S ribosomal protein L18
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1432	100	K00611	ornithine carbamoyltransferase [EC:2.1.3.3]	ornithine carbamoyltransferase (EC:2.1.3.3)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1433	100	K03110	fused signal recognition particle receptor	signal recognition particle
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1434	100	K04797	prefoldin alpha subunit	prefoldin subunit alpha
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1436	100	K04564	superoxide dismutase, Fe-Mn family [EC:1.15.1.1]	superoxide dismutase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1437	100	K14647	minor extracellular serine protease Vpr [EC:3.4.21.-]	peptidase S8
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1438	99.8	K01610	phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]	phosphoenolpyruvate carboxykinase (EC:4.1.1.49)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1439	99.3	K02912	large subunit ribosomal protein L32e	50S ribosomal protein L32e
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1440	100	K02885	large subunit ribosomal protein L19e	50S ribosomal protein L19
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1441	99.0	K00567	methylated-DNA-[protein]-cysteine S-methyltransferase [EC:2.1.1.63]	cysteine methyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1442	100	K09716	D-aminoacyl-tRNA deacylase [EC:3.1.1.96]	D-tyrosyl-tRNA(Tyr) deacylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1443	100	K07342	protein transport protein SEC61 subunit gamma and related proteins	preprotein translocase subunit SecE
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1444	99.3	K02601	transcriptional antiterminator NusG	50S ribosomal protein L24
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1445	100	K02867	large subunit ribosomal protein L11	50S ribosomal protein L11
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1446	99.3	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	transcriptional regulator
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1447	99.5	K02863	large subunit ribosomal protein L1	50S ribosomal protein L1
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1448	100	K02864	large subunit ribosomal protein L10	50S ribosomal protein L10
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1450	100	K02869	large subunit ribosomal protein L12	rpl12p
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1452	100	K01872	alanyl-tRNA synthetase [EC:6.1.1.7]	alanyl-tRNA synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1453	100	K01869	leucyl-tRNA synthetase [EC:6.1.1.4]	leucyl-tRNA synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1455	100	K03455	monovalent cation:H+ antiporter-2, CPA2 family	potassium transporter Kef
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1456	99.6	K06940	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1458	100	K02992	small subunit ribosomal protein S7	30S ribosomal protein S7
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1459	100	K02950	small subunit ribosomal protein S12	30S ribosomal protein S12
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1460	100	K02600	N utilization substance protein A	transcription elongation factor NusA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1461	100	K02908	large subunit ribosomal protein L30e	50S ribosomal protein L7ae
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1464	99.9	K03041	DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]	DNA-directed RNA polymerase subunit A'/A'' (EC:2.7.7.6)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1465	100	K13798	DNA-directed RNA polymerase subunit B [EC:2.7.7.6]	DNA-directed RNA polymerase subunit B (EC:2.7.7.6)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1466	98.8	K03053	DNA-directed RNA polymerase subunit H [EC:2.7.7.6]	rpoH
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1470	99.7	K04487	cysteine desulfurase [EC:2.8.1.7]	cysteine desulfurase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1471	100	K06864	uncharacterized protein	ATP-utilizing protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1472	100	K09121	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1473	100	K00024	malate dehydrogenase [EC:1.1.1.37]	malate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1474	100	K06898	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1486	99.8	K03405	magnesium chelatase subunit I [EC:6.6.1.1]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1487	99.5	K02952	small subunit ribosomal protein S13	30S ribosomal protein S13
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1488	100	K02986	small subunit ribosomal protein S4	30S ribosomal protein S4
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1489	100	K00820	glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	glucosamine 6-phosphate synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1491	36.1	K17725	sulfur dioxygenase [EC:1.13.11.18]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1492	100	K17759	NAD(P)H-hydrate epimerase [EC:5.1.99.6]	NAD(P)H-hydrate epimerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1493	100	K07477	translin	RNA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1494	98.7	K03058	DNA-directed RNA polymerase subunit N [EC:2.7.7.6]	DNA-directed RNA polymerase subunit N
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1495	100	K01689	enolase [EC:4.2.1.11]	enolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1496	100	K02967	small subunit ribosomal protein S2	30S ribosomal protein S2
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1497	100	K06990	uncharacterized protein	MEMO1 family protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1498	99.7	K00869	mevalonate kinase [EC:2.7.1.36]	mevalonate kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1499	100	K06981	isopentenyl phosphate kinase [EC:2.7.4.26]	gamma-glutamyl kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1500	100	K01823	isopentenyl-diphosphate delta-isomerase [EC:5.3.3.2]	isopentenyl-diphosphate delta-isomerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1501	100	K13787	geranylgeranyl diphosphate synthase, type I [EC:2.5.1.1 2.5.1.10 2.5.1.29]	geranylgeranyl pyrophosphate synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1502	99.8	K01885	glutamyl-tRNA synthetase [EC:6.1.1.17]	glutamyl-tRNA synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1503	39.8	K16164	acylpyruvate hydrolase [EC:3.7.1.5]	fumarylacetoacetate (FAA) hydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1503	43.5	K16164	acylpyruvate hydrolase [EC:3.7.1.5]	2-hydroxyhepta-2,4-diene-1,7-dioate isomerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1504	37.3	K05710	3-phenylpropionate/trans-cinnamate dioxygenase ferredoxin subunit	biphenyl dioxygenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1505	100	K09721	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1508	43.8	K00001	alcohol dehydrogenase [EC:1.1.1.1]	alcohol dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1509	99.7	K03284	magnesium transporter	magnesium transporter
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1510	100	K15449	tRNA wybutosine-synthesizing protein 1 [EC:4.1.3.44]	wyosine base formation
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1511	100	K02428	XTP/dITP diphosphohydrolase [EC:3.6.1.66]	Non-canonical purine NTP pyrophosphatase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1512	100	K08851	TP53 regulating kinase and related kinases [EC:2.7.11.1]	serine/threonine protein kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1514	100	K01409	N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]	O-sialoglycoprotein endopeptidase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1515	100	K06942	uncharacterized protein	ychF
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1516	100	K18532	adenylate kinase [EC:2.7.4.3]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1517	100	K18779	7-cyano-7-deazaguanine tRNA-ribosyltransferase [EC:2.4.2.48]	queuine/archaeosine tRNA-ribosyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1520	99.8	K07577	putative mRNA 3-end processing factor	beta-lactamase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1521	100	K03660	N-glycosylase/DNA lyase [EC:3.2.2.- 4.2.99.18]	DNA repair protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1524	100	K00412	ubiquinol-cytochrome c reductase cytochrome b subunit	cytochrome B
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1525	70.5	K00411	ubiquinol-cytochrome c reductase iron-sulfur subunit [EC:1.10.2.2]	petC
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1529	99.8	K11996	adenylyltransferase and sulfurtransferase	4-methyl-5(B-hydroxyethyl)-thiazole monophosphate biosynthesis protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1530	100	K01733	threonine synthase [EC:4.2.3.1]	threonine synthase (EC:4.2.3.1)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1532	99.1	K01496	phosphoribosyl-AMP cyclohydrolase [EC:3.5.4.19]	phosphoribosyl-AMP cyclohydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1533	100	K02500	cyclase [EC:4.1.3.-]	imidazole glycerol phosphate synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1534	100	K01814	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1535	100	K02501	glutamine amidotransferase [EC:2.4.2.-]	glutamine amidotransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1536	100	K01693	imidazoleglycerol-phosphate dehydratase [EC:4.2.1.19]	imidazoleglycerol-phosphate dehydratase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1538	100	K00817	histidinol-phosphate aminotransferase [EC:2.6.1.9]	histidinol phosphate aminotransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1539	100	K00013	histidinol dehydrogenase [EC:1.1.1.23]	histidinol dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1540	100	K00765	ATP phosphoribosyltransferase [EC:2.4.2.17]	ATP phosphoribosyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1541	99.8	K00054	hydroxymethylglutaryl-CoA reductase [EC:1.1.1.88]	3-hydroxy-3-methylglutaryl-CoA reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1542	37.8	K00117	quinoprotein glucose dehydrogenase [EC:1.1.5.2]	glucose dehydrogenase [pyrroloquinoline-quinone] (EC:1.1.5.2)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1543	100	K06932	tRNA(Ile2)-agmatinylcytidine synthase [EC:6.3.4.22]	DNA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1544	100	K07561	2-(3-amino-3-carboxypropyl)histidine synthase [EC:2.5.1.108]	diphthamide biosynthesis protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1546	100	K07573	exosome complex component CSL4	RNA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1547	100	K04518	prephenate dehydratase [EC:4.2.1.51]	prephenate dehydratase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1549	99.8	K00088	IMP dehydrogenase [EC:1.1.1.205]	inosine-5-monophosphate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1550	99.7	K00796	dihydropteroate synthase [EC:2.5.1.15]	dihydropteroate synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1551	99.6	K07142	uncharacterized protein	MAF flag10 domain containing protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1553	100	K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	GMP synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1556	67.1	K00847	fructokinase [EC:2.7.1.4]	ROK family protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1557	42.6	K09496	T-complex protein 1 subunit delta	TCP-1/cpn60 family chaperonin, putative
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1558	100	K01486	adenine deaminase [EC:3.5.4.2]	adenine deaminase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1559	100	K02929	large subunit ribosomal protein L44e	50S ribosomal protein L44
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1560	100	K02978	small subunit ribosomal protein S27e	30S ribosomal protein S27
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1562	100	K02233	adenosylcobinamide-GDP ribazoletransferase [EC:2.7.8.26]	cobalamin biosynthesis protein CobS
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1563	100	K02227	adenosylcobinamide-phosphate synthase [EC:6.3.1.10]	cobalamin biosynthesis protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1564	100	K02232	adenosylcobyric acid synthase [EC:6.3.5.10]	cobalamin biosynthesis protein CobQ
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1565	99.7	K04720	threonine-phosphate decarboxylase [EC:4.1.1.81]	aminotransferase class I/II
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1566	100	K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	aspartate-semialdehyde dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1567	100	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	transcriptional regulator
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1568	100	K02301	protoheme IX farnesyltransferase [EC:2.5.1.-]	protoheme IX farnesyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1578	100	K00135	succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase [EC:1.2.1.16 1.2.1.79 1.2.1.20]	succinate-semialdehyde dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1588	100	K04751	nitrogen regulatory protein P-II 1	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1589	23.3	K07182	CBS domain-containing protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1591	100	K03320	ammonium transporter, Amt family	ammonia channel protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1592	99.1	K04751	nitrogen regulatory protein P-II 1	nitrogen regulatory protein P-II
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1606	67.6	K00059	3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	short-chain dehydrogenase/reductase SDR
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1607	30.1	K06149	universal stress protein A	universal stress protein UspA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1608	100	K07101	uncharacterized protein	phosphoribosyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1609	40.4	K00088	IMP dehydrogenase [EC:1.1.1.205]	yhcV
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1613	30.7	K07090	uncharacterized protein	universal stress protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1615	40.1	K07100	putative phosphoribosyl transferase	phosphoribosyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1615	36.7	K07100	putative phosphoribosyl transferase	phosphoribosyl transferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1615	36.7	K07100	putative phosphoribosyl transferase	phosphoribosyl transferase domain protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1615	34.7	K07100	putative phosphoribosyl transferase	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1615	33.8	K07100	putative phosphoribosyl transferase	phosphoribosyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1618	33.8	K10610	DNA damage-binding protein 1	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1620	42.0	K09497	T-complex protein 1 subunit epsilon	T-complex protein 1, epsilon subunit
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1620	42.2	K09497	T-complex protein 1 subunit epsilon	T-complex protein 1 epsilon subunit, putative
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1620	42.2	K09497	T-complex protein 1 subunit epsilon	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1620	42.2	K09497	T-complex protein 1 subunit epsilon	T-complex protein 1 subunit epsilon
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1622	50.5	K00024	malate dehydrogenase [EC:1.1.1.37]	Lactate/malate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1625	53.8	K03294	basic amino acid/polyamine antiporter, APA family	amino acid permease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1626	26.6	K03322	manganese transport protein	mntH
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1636	36.6	K03182	4-hydroxy-3-polyprenylbenzoate decarboxylase [EC:4.1.1.98]	3-octaprenyl-4-hydroxybenzoate carboxy-lyase (EC:4.1.1.-)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1636	38.6	K01612	4-hydroxybenzoate decarboxylase [EC:4.1.1.61]	4-hydroxybenzoate decarboxylase (EC:4.1.1.61)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1640	57.4	K02107	V/A-type H+-transporting ATPase subunit G/H	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1640	57.9	K02107	V/A-type H+-transporting ATPase subunit G/H	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1641	100	K03626	nascent polypeptide-associated complex subunit alpha	transcription factor
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1642	99.4	K07398	conserved protein with predicted RNA binding PUA domain	queuine tRNA-ribosyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1644	29.1	K02039	phosphate transport system protein	prp1
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1645	100	K03665	GTPase	GTP-binding protein HflX
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1646	100	K07254	tRNA (cytidine56-2'-O)-methyltransferase [EC:2.1.1.206]	tRNA (cytidine(56)-2'-O)-methyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1651	100	K03136	transcription initiation factor TFIIE subunit alpha	transcription factor
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1652	100	K14654	2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase [EC:1.1.1.302]	deaminase/reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1653	30.3	K01485	cytosine deaminase [EC:3.5.4.1]	guaD3
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1654	100	K08096	GTP cyclohydrolase IIa [EC:3.5.4.29]	GTP cyclohydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1655	100	K00794	6,7-dimethyl-8-ribityllumazine synthase [EC:2.5.1.78]	riboflavin synthase subunit beta
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1656	100	K02858	3,4-dihydroxy 2-butanone 4-phosphate synthase [EC:4.1.99.12]	3,4-dihydroxy-2-butanone 4-phosphate synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1657	99.5	K00793	riboflavin synthase [EC:2.5.1.9]	riboflavin synthase subunit alpha
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1658	36.2	K15976	putative NAD(P)H nitroreductase [EC:1.-.-.-]	NAD(P)H nitroreductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1662	100	K00318	proline dehydrogenase [EC:1.5.-.-]	proline dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1667	100	K01669	deoxyribodipyrimidine photo-lyase [EC:4.1.99.3]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1675	99.6	K01644	citrate lyase subunit beta / citryl-CoA lyase [EC:4.1.3.34]	citrate lyase subunit beta
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1676	35.9	K00344	NADPH2:quinone reductase [EC:1.6.5.5]	qor1
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1677	98.9	K06875	programmed cell death protein 5	DNA-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1678	100	K02966	small subunit ribosomal protein S19e	30S ribosomal protein S19
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1679	99.0	K03540	ribonuclease P protein subunit RPR2 [EC:3.1.26.5]	RNase P subunit
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1680	100	K07566	L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1681	54.9	K03719	Lrp/AsnC family transcriptional regulator, leucine-responsive regulatory protein	putative AsnC family transcriptional regulator
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1682	100	K04047	starvation-inducible DNA-binding protein	Dps family ferritin
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1683	100	K16264	cobalt-zinc-cadmium efflux system protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1700	100	K14568	rRNA small subunit pseudouridine methyltransferase Nep1 [EC:2.1.1.260]	ribosome biogenesis protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1702	100	K00525	ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	ribonucleotide reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1703	100	K00527	ribonucleoside-triphosphate reductase [EC:1.17.4.2]	ArsR family transcriptional regulator
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1705	100	K07068	uncharacterized protein	nucleotide-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1706	99.7	K00626	acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	acetyl-CoA acetyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1708	32.9	K13566	omega-amidase [EC:3.5.1.3]	nit2
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1708	35.9	K01501	nitrilase [EC:3.5.5.1]	nitrilase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1708	32.3	K01501	nitrilase [EC:3.5.5.1]	nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1708	30.2	K12251	N-carbamoylputrescine amidase [EC:3.5.1.53]	Glycosyl hydrolase family protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1709	100	K01821	4-oxalocrotonate tautomerase [EC:5.3.2.6]	4-oxalocrotonate tautomerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1710	36.9	K07059	uncharacterized protein	rhomboid family protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1716	99.9	K14166	copper transport protein	copper resistance protein CopD
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1718	100	K09816	zinc transport system permease protein	zinc ABC transporter permease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1719	100	K09817	zinc transport system ATP-binding protein [EC:3.6.3.-]	zinc ABC transporter ATPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1720	99.7	K09815	zinc transport system substrate-binding protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1721	100	K07722	CopG family transcriptional regulator, nickel-responsive regulator	nickel-responsive regulator 1
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1723	100	K03410	chemotaxis protein CheC	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1724	100	K03413	two-component system, chemotaxis family, response regulator CheY	chemotaxis protein CheY
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1725	100	K03408	purine-binding chemotaxis protein CheW	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1727	99.6	K00575	chemotaxis protein methyltransferase CheR [EC:2.1.1.80]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1728	100	K03411	chemotaxis protein CheD [EC:3.5.1.44]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1729	99.5	K03410	chemotaxis protein CheC	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1730	54.7	K03407	two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]	chemotaxis protein histidine kinase-like protein (EC:2.7.13.3)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1730	54.3	K03407	two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]	cheA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1731	100	K03412	two-component system, chemotaxis family, response regulator CheB [EC:3.1.1.61]	chemotaxis protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1734	100	K07333	archaeal flagellar protein FlaJ	flagellar assembly protein FlaJ
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1735	99.8	K07332	archaeal flagellar protein FlaI	flagellar protein FlaI
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1736	100	K07331	archaeal flagellar protein FlaH	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1738	100	K07330	archaeal flagellar protein FlaG	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1740	100	K07325	archaeal flagellin FlaB	flagellin
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1742	100	K07325	archaeal flagellin FlaB	flagellin
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1743	100	K07325	archaeal flagellin FlaB	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1744	100	K07325	archaeal flagellin FlaB	flagellin
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1750	100	K00609	aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	aspartate carbamoyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1751	100	K00610	aspartate carbamoyltransferase regulatory subunit	aspartate carbamoyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1752	100	K02124	V/A-type H+-transporting ATPase subunit K	ATPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1754	100	K02120	V/A-type H+-transporting ATPase subunit D	ATPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1755	90.0	K02118	V/A-type H+-transporting ATPase subunit B	ATP synthase alpha/beta chain, C-terminal domain protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1756	100	K02117	V/A-type H+-transporting ATPase subunit A [EC:3.6.3.14]	ATP synthase subunit A
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1757	100	K02121	V/A-type H+-transporting ATPase subunit E	ATP synthase subunit E
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1758	99.9	K02123	V/A-type H+-transporting ATPase subunit I	ATPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1759	100	K01011	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	sulfurtransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1760	100	K03320	ammonium transporter, Amt family	ammonia permease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1762	100	K02119	V/A-type H+-transporting ATPase subunit C	ATPase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1764	100	K07464	CRISPR-associated exonuclease Cas4 [EC:3.1.12.1]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1769	100	K09903	uridylate kinase [EC:2.7.4.22]	uridylate kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1770	100	K06885	uncharacterized protein	phosphohydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1771	100	K00943	dTMP kinase [EC:2.7.4.9]	thymidylate kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1774	30.0	K13993	HSP20 family protein	heat shock protein Hsp20
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1774	30.3	K13993	HSP20 family protein	heat shock protein, class I
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1774	30.3	K13993	HSP20 family protein	Small heat shock protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1774	30.3	K13993	HSP20 family protein	heat shock protein Hsp20
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1774	30.3	K13993	HSP20 family protein	heat-shock protein Hsp20
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1774	30.3	K13993	HSP20 family protein	heat-shock protein Hsp20
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1774	30.3	K13993	HSP20 family protein	heat-shock protein Hsp20
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1774	30.3	K13993	HSP20 family protein	heat shock protein Hsp20
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1774	30.3	K13993	HSP20 family protein	heat shock protein Hsp20
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1774	30.3	K13993	HSP20 family protein	heat shock protein Hsp20
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1774	30.3	K13993	HSP20 family protein	heat shock protein Hsp20
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1775	34.0	K03688	ubiquinone biosynthesis protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1778	100	K09810	lipoprotein-releasing system ATP-binding protein [EC:3.6.3.-]	peptide ABC transporter ATP-binding protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1779	100	K09808	lipoprotein-releasing system permease protein	ABC transporter permease
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1781	100	K01515	ADP-ribose pyrophosphatase [EC:3.6.1.13]	NUDIX hydrolase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1783	100	K06982	pantoate kinase [EC:2.7.1.169]	GHMP kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1784	99.6	K09722	4-phosphopantoate---beta-alanine ligase [EC:6.3.2.36]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1785	100	K00606	3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]	3-methyl-2-oxobutanoate hydroxymethyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1786	100	K13038	phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36 6.3.2.5]	phosphopantothenoylcysteine synthase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1788	29.9	K14475	inhibitor of cysteine peptidase	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1788	30.4	K14475	inhibitor of cysteine peptidase	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1788	31.3	K14475	inhibitor of cysteine peptidase	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1789	99.8	K00294	1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88]	aldehyde dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1791	99.6	K06223	DNA adenine methylase [EC:2.1.1.72]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1793	22.0	K03722	ATP-dependent DNA helicase DinG [EC:3.6.4.12]	helicase c2
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1794	99.8	K03455	monovalent cation:H+ antiporter-2, CPA2 family	potassium transporter Kef
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1805	100	K03885	NADH dehydrogenase [EC:1.6.99.3]	6-phosphogluconate dehydrogenase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1810	100	K13993	HSP20 family protein	molecular chaperone
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1811	100	K13525	transitional endoplasmic reticulum ATPase	ATPase AAA
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1815	100	K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	cysteine desulfurase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1817	35.4	K07130	arylformamidase [EC:3.5.1.9]	kynB
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1817	37.1	K07130	arylformamidase [EC:3.5.1.9]	kynurenine formamidase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1818	99.7	K04069	pyruvate formate lyase activating enzyme [EC:1.97.1.4]	pyruvate-formate lyase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1819	100	K14165	atypical dual specificity phosphatase [EC:3.1.3.16 3.1.3.48]	protein tyrosine phosphatase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1820	100	K06893	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1823	100	K03056	DNA-directed RNA polymerase subunit L [EC:2.7.7.6]	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1824	100	K03057	DNA-directed RNA polymerase subunit M	DNA-directed RNA polymerase subunit M
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1825	100	K04802	proliferating cell nuclear antigen	DNA polymerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1826	100	K00928	aspartate kinase [EC:2.7.2.4]	aspartate kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1828	99.6	K05934	precorrin-3B C17-methyltransferase [EC:2.1.1.131]	precorrin-3B C17-methyltransferase (EC:2.1.1.131)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1829	99.7	K01866	tyrosyl-tRNA synthetase [EC:6.1.1.1]	tyrosyl-tRNA synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1831	40.8	K13010	perosamine synthetase [EC:2.6.1.102]	putative pyridoxal phosphate-dependent enzyme apparently involved in regulation of cell wall biogenesis
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1832	100	K00577	tetrahydromethanopterin S-methyltransferase subunit A [EC:2.1.1.86]	tetrahydromethanopterin S-methyltransferase subunit A
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1834	41.0	K00852	ribokinase [EC:2.7.1.15]	pfkB-3
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1839	99.4	K03768	peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]	peptidylprolyl isomerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1843	58.0	K00299	FMN reductase [EC:1.5.1.38]	flavin reductase (EC:1.7.-.-)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1844	100	K04719	5,6-dimethylbenzimidazole synthase [EC:1.13.11.79]	cob(II)yrinic acid a,c-diamide reductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1847	100	K01974	RNA 3'-terminal phosphate cyclase (ATP) [EC:6.5.1.4]	RNA-3'-phosphate cyclase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1848	100	K00952	nicotinamide-nucleotide adenylyltransferase [EC:2.7.7.1]	cytidyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1849	34.4	K00830	alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]	serine-pyruvate aminotransferase/archaeal aspartate aminotransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1849	32.5	K00830	alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]	Serine--pyruvate transaminase (EC:2.6.1.51)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1849	35.3	K00830	alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]	class V aminotransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1849	34.2	K00830	alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]	alanine--glyoxylate aminotransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1850	67.1	K01802	peptidylprolyl isomerase [EC:5.2.1.8]	FKBP-type peptidylprolyl isomerase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1851	99.7	K00948	ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	phosphoribosylpyrophosphate synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1852	100	K07446	tRNA (guanine10-N2)-dimethyltransferase [EC:2.1.1.213]	RNA methyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1853	100	K00784	ribonuclease Z [EC:3.1.26.11]	ribonuclease Z
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1854	100	K12410	NAD-dependent deacetylase [EC:3.5.1.-]	NAD-dependent protein deacylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1856	100	K09736	uncharacterized protein	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1858	100	K01975	2'-5' RNA ligase [EC:6.5.1.-]	2'-5' RNA ligase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1859	100	K07558	tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72]	transglycosylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1860	100	K07176	putative serine/threonine protein kinase	serine/threonine protein kinase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1861	99.5	K01247	DNA-3-methyladenine glycosylase II [EC:3.2.2.21]	DNA-3-methyladenine glycosylase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1864	100	K17218	sulfide:quinone oxidoreductase [EC:1.8.5.-]	pyridine nucleotide-disulfide oxidoreductase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1865	55.1	K00540		short-chain dehydrogenase/reductase (EC:1.-.-.-)
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1867	100	K09723	DNA replication factor GINS	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1868	99.8	K01915	glutamine synthetase [EC:6.3.1.2]	glutamine synthetase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1870	39.5	K09495	T-complex protein 1 subunit gamma	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1870	39.4	K09495	T-complex protein 1 subunit gamma	hypothetical protein
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1870	39.4	K09495	T-complex protein 1 subunit gamma	T-complex protein 1 subunit gamma
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1870	39.4	K09495	T-complex protein 1 subunit gamma	Tcomplex protein 1, gamma subunit
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1870	40.0	K09495	T-complex protein 1 subunit gamma	CCT3
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1870	40.0	K09495	T-complex protein 1 subunit gamma	CCT3
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1870	39.5	K09495	T-complex protein 1 subunit gamma	T-complex protein 1, gamma subunit
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1870	38.7	K09495	T-complex protein 1 subunit gamma	putative chaperonin containing TCP-1 complex subunit CCT3
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1871	100	K00600	glycine hydroxymethyltransferase [EC:2.1.2.1]	serine hydroxymethyltransferase
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1872	100	K02322	DNA polymerase II large subunit [EC:2.7.7.7]	DNA polymerase II
+Nitrosotenuis_cloacae_strain_SAT1-contig1_1873	100	K17104	phosphoglycerol geranylgeranyltransferase [EC:2.5.1.41]	geranylgeranylglyceryl phosphate synthase

@@ -1,0 +1,46 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:51.980420
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Methanocorpusculum_labreanum_Z_renamed/Methanocorpusculum_labreanum_Z_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Methanocorpusculum_labreanum_Z-contig1_102       3    143      3    146 PF01280.21  Ribosomal_L19e    Family     1   141   144    184.6   9.2e-56   1 No_clan  
+Methanocorpusculum_labreanum_Z-contig1_1280      8    132      8    132 PF00380.20  Ribosomal_S9      Family     1   121   121    108.8   2.4e-32   1 CL0329   
+Methanocorpusculum_labreanum_Z-contig1_1283     44    152     44    152 PF01000.27  RNA_pol_A_bac     Domain     1   112   112    101.4   3.5e-30   1 No_clan  
+Methanocorpusculum_labreanum_Z-contig1_1337    117    225    116    225 PF07541.13  EIF_2_alpha       Family     3   114   114     81.1   6.4e-24   1 No_clan  
+Methanocorpusculum_labreanum_Z-contig1_1385      4    188      4    189 PF00827.18  Ribosomal_L15e    Family     1   188   189    262.3   2.2e-79   1 CL0652   
+Methanocorpusculum_labreanum_Z-contig1_1531      3    136      3    138 PF01090.20  Ribosomal_S19e    Family     1   135   137    190.9   7.5e-58   1 CL0123   
+Methanocorpusculum_labreanum_Z-contig1_1546      4     66      3     66 PF01200.19  Ribosomal_S28e    Family     2    64    64    106.3   5.5e-32   1 CL0021   
+Methanocorpusculum_labreanum_Z-contig1_1617     12    190     11    191 PF04919.13  DUF655            Family     2   180   181    216.4   2.9e-65   1 CL0198   
+Methanocorpusculum_labreanum_Z-contig1_1627      9    104      7    105 PF00466.21  Ribosomal_L10     Family     3    98   100     70.5     1e-20   1 No_clan  
+Methanocorpusculum_labreanum_Z-contig1_1628     20    208     12    208 PF00687.22  Ribosomal_L1      Domain     6   204   204    151.7   2.1e-45   1 No_clan  
+Methanocorpusculum_labreanum_Z-contig1_290       8    195      6    197 PF01015.19  Ribosomal_S3Ae    Family     3   193   195    187.3   2.1e-56   1 No_clan  
+Methanocorpusculum_labreanum_Z-contig1_96       90    158     89    161 PF00900.21  Ribosomal_S4e     Family     2    71    75     62.8   2.1e-18   1 CL0021   
+Methanocorpusculum_labreanum_Z-contig1_978      16    173      5    173 PF01025.20  GrpE              Family    10   166   166    148.8   1.1e-44   1 No_clan  
+Methanocorpusculum_labreanum_Z-contig1_99        5    130      5    130 PF00410.20  Ribosomal_S8      Domain     1   126   126     90.7   6.6e-27   1 No_clan  

@@ -1,0 +1,42 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:51.617722
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/D197_2_renamed/D197_2_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+D197_2_contig198_2       6    130      6    130 PF00380.20  Ribosomal_S9      Family     1   121   121    106.7   9.3e-32   1 CL0329   
+D197_2_contig198_5      46    156     44    156 PF01000.27  RNA_pol_A_bac     Domain     3   112   112     90.5   7.5e-27   1 No_clan  
+D197_2_contig222_1       1     67      1     68 PF00827.18  Ribosomal_L15e    Family     2    69   189     64.7   7.5e-19   1 CL0652   
+D197_2_contig22_5       12    186     11    187 PF04919.13  DUF655            Family     2   180   181    160.5   3.5e-48   1 CL0198   
+D197_2_contig28_8        3    139      3    139 PF01090.20  Ribosomal_S19e    Family     1   137   137    165.8   3.6e-50   1 CL0123   
+D197_2_contig38_6        4     67      4     67 PF01200.19  Ribosomal_S28e    Family     1    64    64    107.3   2.2e-32   1 CL0021   
+D197_2_contig48_3       17    207     14    209 PF00687.22  Ribosomal_L1      Domain     3   202   204    126.7   8.2e-38   1 No_clan  
+D197_2_contig48_4       12     69      9     70 PF00466.21  Ribosomal_L10     Family     5    63   100     30.3     3e-08   1 No_clan  
+D197_2_contig56_6        6    196      5    196 PF01015.19  Ribosomal_S3Ae    Family     2   195   195    185.2   7.9e-56   1 No_clan  
+D197_2_contig97_2       98    171     96    171 PF00900.21  Ribosomal_S4e     Family     3    75    75     58.6   3.4e-17   1 CL0021   

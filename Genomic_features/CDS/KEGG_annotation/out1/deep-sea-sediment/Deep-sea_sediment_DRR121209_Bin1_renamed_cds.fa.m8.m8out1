@@ -1,0 +1,841 @@
+Deep-sea_sediment_DRR121209_Bin1_contig1_2	52.5	K00341	NADH-quinone oxidoreductase subunit L [EC:1.6.5.3]	NADH dehydrogenase subunit L (EC:1.6.5.3)
+Deep-sea_sediment_DRR121209_Bin1_contig1_3	41.0	K00342	NADH-quinone oxidoreductase subunit M [EC:1.6.5.3]	nuoM
+Deep-sea_sediment_DRR121209_Bin1_contig1_4	46.5	K00343	NADH-quinone oxidoreductase subunit N [EC:1.6.5.3]	NADH-ubiquinone oxidoreductase
+Deep-sea_sediment_DRR121209_Bin1_contig1_5	44.9	K02523	octaprenyl-diphosphate synthase [EC:2.5.1.90]	polyprenyl synthetase
+Deep-sea_sediment_DRR121209_Bin1_contig1_6	42.9	K00540		hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig1_7	39.7	K14728	phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase [EC:1.2.-.-]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig1_8	31.5	K02039	phosphate transport system protein	prp1
+Deep-sea_sediment_DRR121209_Bin1_contig1_9	66.2	K02040	phosphate transport system substrate-binding protein	phosphate ABC transporter substrate-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig1_10	65.3	K02037	phosphate transport system permease protein	phosphate ABC transporter
+Deep-sea_sediment_DRR121209_Bin1_contig1_11	62.1	K02038	phosphate transport system permease protein	pstA
+Deep-sea_sediment_DRR121209_Bin1_contig1_12	64.9	K02036	phosphate transport system ATP-binding protein [EC:3.6.3.27]	pstB
+Deep-sea_sediment_DRR121209_Bin1_contig1_13	50.0	K02039	phosphate transport system protein	phosphate uptake regulator
+Deep-sea_sediment_DRR121209_Bin1_contig2_1	32.7	K04800	replication factor C large subunit	replication factor C/ATPase involved in DNA replication
+Deep-sea_sediment_DRR121209_Bin1_contig2_3	53.9	K01875	seryl-tRNA synthetase [EC:6.1.1.11]	seryl-tRNA synthetase (EC:6.1.1.11)
+Deep-sea_sediment_DRR121209_Bin1_contig2_5	38.3	K07463	archaea-specific RecJ-like exonuclease	phosphoesterase DHHA1
+Deep-sea_sediment_DRR121209_Bin1_contig2_6	56.1	K02956	small subunit ribosomal protein S15	rps15p
+Deep-sea_sediment_DRR121209_Bin1_contig2_7	47.4	K02428	XTP/dITP diphosphohydrolase [EC:3.6.1.66]	xanthosine triphosphate pyrophosphatase-like protein
+Deep-sea_sediment_DRR121209_Bin1_contig2_8	42.8	K08851	TP53 regulating kinase and related kinases [EC:2.7.11.1]	Mn2+-dependent serine/threonine protein kinase
+Deep-sea_sediment_DRR121209_Bin1_contig2_9	58.0	K01409	N6-L-threonylcarbamoyladenine synthase [EC:2.3.1.234]	putative metalloendopeptidase glycoprotease family
+Deep-sea_sediment_DRR121209_Bin1_contig2_10	39.0	K07581	RNA-binding protein	uncharacterized protein family UPF0201
+Deep-sea_sediment_DRR121209_Bin1_contig3_2	39.5	K02437	glycine cleavage system H protein	gcs2
+Deep-sea_sediment_DRR121209_Bin1_contig3_3	63.2	K01011	thiosulfate/3-mercaptopyruvate sulfurtransferase [EC:2.8.1.1 2.8.1.2]	thiosulfate sulfurtransferase (EC:2.8.1.1)
+Deep-sea_sediment_DRR121209_Bin1_contig3_5	33.9	K02472	UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase [EC:1.1.1.336]	nucleotide sugar dehydrogenase (EC:1.1.1.22)
+Deep-sea_sediment_DRR121209_Bin1_contig3_7	41.1	K13668	phosphatidylinositol alpha-1,6-mannosyltransferase [EC:2.4.1.-]	pimB
+Deep-sea_sediment_DRR121209_Bin1_contig3_8	55.3	K02472	UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase [EC:1.1.1.336]	wecC
+Deep-sea_sediment_DRR121209_Bin1_contig3_9	41.7	K02474	UDP-N-acetyl-D-galactosamine dehydrogenase [EC:1.1.1.-]	nucleotide sugar dehydrogenase (EC:1.1.1.22)
+Deep-sea_sediment_DRR121209_Bin1_contig4_1	37.5	K07333	archaeal flagellar protein FlaJ	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig5_1	26.1	K02035	peptide/nickel transport system substrate-binding protein	family 5 extracellular solute-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig5_2	41.4	K02033	peptide/nickel transport system permease protein	binding-protein-dependent transport system inner membrane protein
+Deep-sea_sediment_DRR121209_Bin1_contig5_3	46.2	K02034	peptide/nickel transport system permease protein	binding-protein-dependent transport system inner membrane protein
+Deep-sea_sediment_DRR121209_Bin1_contig5_4	45.8	K13722	tricorn protease interacting factor F2/3 [EC:3.4.11.-]	peptidase M1 membrane alanine aminopeptidase
+Deep-sea_sediment_DRR121209_Bin1_contig5_5	41.7	K16267	zinc and cadmium transporter	zinc/iron permease
+Deep-sea_sediment_DRR121209_Bin1_contig5_6	36.5	K09763	uncharacterized protein	putative protein of unknown function DUF309
+Deep-sea_sediment_DRR121209_Bin1_contig6_1	36.5	K03843	alpha-1,3/alpha-1,6-mannosyltransferase [EC:2.4.1.132 2.4.1.257]	alpha-1,3-mannosyltransferase ALG2
+Deep-sea_sediment_DRR121209_Bin1_contig6_3	29.7	K01654	N-acetylneuraminate synthase [EC:2.5.1.56]	N-acetylneuraminate synthase (EC:2.5.1.57)
+Deep-sea_sediment_DRR121209_Bin1_contig6_4	45.8	K00983	N-acylneuraminate cytidylyltransferase [EC:2.7.7.43]	acylneuraminate cytidylyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig6_5	40.0	K02472	UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase [EC:1.1.1.336]	UDP-glucose 6-dehydrogenase
+Deep-sea_sediment_DRR121209_Bin1_contig7_1	49.5	K11646	3-dehydroquinate synthase II [EC:1.4.1.24]	aroB
+Deep-sea_sediment_DRR121209_Bin1_contig7_2	54.9	K16306	fructose-bisphosphate aldolase / 2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase [EC:4.1.2.13 2.2.1.10]	phospho-2-dehydro-3-deoxyheptonate aldolase
+Deep-sea_sediment_DRR121209_Bin1_contig7_3	42.0	K00928	aspartate kinase [EC:2.7.2.4]	aspartate kinase (EC:2.7.2.4)
+Deep-sea_sediment_DRR121209_Bin1_contig7_4	47.7	K01883	cysteinyl-tRNA synthetase [EC:6.1.1.16]	cysS
+Deep-sea_sediment_DRR121209_Bin1_contig7_6	68.2	K06942	uncharacterized protein	GTP-binding conserved hypothetical protein TIGR00650
+Deep-sea_sediment_DRR121209_Bin1_contig7_7	45.7	K07577	putative mRNA 3-end processing factor	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig8_2	52.5	K02003	putative ABC transport system ATP-binding protein	ABC transporter
+Deep-sea_sediment_DRR121209_Bin1_contig8_3	31.2	K09808	lipoprotein-releasing system permease protein	ABC transporter permease
+Deep-sea_sediment_DRR121209_Bin1_contig8_4	29.1	K13770	TetR/AcrR family transcriptional regulator, fatty acid metabolism regulator protein	transcriptional regulator
+Deep-sea_sediment_DRR121209_Bin1_contig8_5	38.7	K09495	T-complex protein 1 subunit gamma	Tcomplex protein 1, gamma subunit
+Deep-sea_sediment_DRR121209_Bin1_contig8_6	66.3	K01255	leucyl aminopeptidase [EC:3.4.11.1]	leucyl aminopeptidase
+Deep-sea_sediment_DRR121209_Bin1_contig9_1	51.5	K00850	6-phosphofructokinase 1 [EC:2.7.1.11]	phosphofructokinase (EC:2.7.1.11)
+Deep-sea_sediment_DRR121209_Bin1_contig9_2	57.3	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	fructose-1,6-bisphosphate aldolase
+Deep-sea_sediment_DRR121209_Bin1_contig9_3	46.1	K00927	phosphoglycerate kinase [EC:2.7.2.3]	phosphoglycerate kinase
+Deep-sea_sediment_DRR121209_Bin1_contig9_4	52.4	K00927	phosphoglycerate kinase [EC:2.7.2.3]	phosphoglycerate kinase (EC:2.7.2.3)
+Deep-sea_sediment_DRR121209_Bin1_contig9_5	40.1	K06953	uncharacterized protein	putative phosphoesterase, ICC
+Deep-sea_sediment_DRR121209_Bin1_contig9_8	63.9	K03433	proteasome beta subunit [EC:3.4.25.1]	psmB3
+Deep-sea_sediment_DRR121209_Bin1_contig9_9	67.4	K03432	proteasome alpha subunit [EC:3.4.25.1]	psmA2
+Deep-sea_sediment_DRR121209_Bin1_contig10_2	35.8	K09122	uncharacterized protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig10_3	34.0	K01465	dihydroorotase [EC:3.5.2.3]	dihydroorotase, multifunctional complex type (EC:3.5.2.3)
+Deep-sea_sediment_DRR121209_Bin1_contig10_6	55.0	K06863	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.23]	ATP-utilizing enzymes of ATP-grasp superfamily (probably carboligase) (EC:6.3.4.-)
+Deep-sea_sediment_DRR121209_Bin1_contig10_7	60.8	K06863	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase [EC:6.3.4.23]	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase-like protein
+Deep-sea_sediment_DRR121209_Bin1_contig11_4	40.6	K16264	cobalt-zinc-cadmium efflux system protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig11_7	68.9	K06937	7,8-dihydro-6-hydroxymethylpterin dimethyltransferase [EC:2.1.1.-]	radical SAM domain protein
+Deep-sea_sediment_DRR121209_Bin1_contig12_1	52.5	K07178	RIO kinase 1 [EC:2.7.11.1]	non-specific serine/threonine protein kinase
+Deep-sea_sediment_DRR121209_Bin1_contig12_2	48.7	K06961	ribosomal RNA assembly protein	putative RNA-binding protein containing KH domain
+Deep-sea_sediment_DRR121209_Bin1_contig12_3	50.1	K03167	DNA topoisomerase VI subunit B [EC:5.99.1.3]	DNA topoisomerase VI subunit B (EC:5.99.1.3)
+Deep-sea_sediment_DRR121209_Bin1_contig12_4	66.5	K03166	DNA topoisomerase VI subunit A [EC:5.99.1.3]	top6A
+Deep-sea_sediment_DRR121209_Bin1_contig12_5	60.0	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	DNA methylase N-4/N-6 domain-containing protein
+Deep-sea_sediment_DRR121209_Bin1_contig12_6	37.3	K04771	serine protease Do [EC:3.4.21.107]	serine protease MucD
+Deep-sea_sediment_DRR121209_Bin1_contig13_1	51.5	K03529	chromosome segregation protein	SMC domain-containing protein
+Deep-sea_sediment_DRR121209_Bin1_contig13_2	46.5	K18933	tyrosine decarboxylase / aspartate 1-decarboxylase [EC:4.1.1.25 4.1.1.11]	pyridoxal-dependent decarboxylase
+Deep-sea_sediment_DRR121209_Bin1_contig13_3	51.4	K00606	3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]	ketopantoate hydroxymethyltransferase (EC:2.1.2.11)
+Deep-sea_sediment_DRR121209_Bin1_contig13_4	56.5	K09722	4-phosphopantoate---beta-alanine ligase [EC:6.3.2.36]	pantothenate synthetase (EC:6.3.2.1)
+Deep-sea_sediment_DRR121209_Bin1_contig13_5	37.8	K06982	pantoate kinase [EC:2.7.1.169]	GHMP kinase, N-terminal domain protein
+Deep-sea_sediment_DRR121209_Bin1_contig13_6	30.5	K02039	phosphate transport system protein	prp1
+Deep-sea_sediment_DRR121209_Bin1_contig13_7	69.5	K01937	CTP synthase [EC:6.3.4.2]	pyrG
+Deep-sea_sediment_DRR121209_Bin1_contig14_2	61.3	K03050	DNA-directed RNA polymerase subunit E" [EC:2.7.7.6]	rpoE``
+Deep-sea_sediment_DRR121209_Bin1_contig14_4	38.1	K09735	uncharacterized protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig14_5	43.7	K02974	small subunit ribosomal protein S24e	rps24e
+Deep-sea_sediment_DRR121209_Bin1_contig14_8	56.8	K03718	Lrp/AsnC family transcriptional regulator, regulator for asnA, asnC and gidA	putative transcriptional regulator, AsnC family
+Deep-sea_sediment_DRR121209_Bin1_contig15_1	34.6	K01092	myo-inositol-1(or 4)-monophosphatase [EC:3.1.3.25]	suhB_2
+Deep-sea_sediment_DRR121209_Bin1_contig15_2	65.3	K01858	myo-inositol-1-phosphate synthase [EC:5.5.1.4]	ino1
+Deep-sea_sediment_DRR121209_Bin1_contig15_4	62.1	K04483	DNA repair protein RadA	radA
+Deep-sea_sediment_DRR121209_Bin1_contig16_1	63.2	K03242	translation initiation factor 2 subunit 3	eif2g
+Deep-sea_sediment_DRR121209_Bin1_contig16_2	52.1	K02991	small subunit ribosomal protein S6e	rps6e
+Deep-sea_sediment_DRR121209_Bin1_contig16_3	55.3	K03243	translation initiation factor 5B	translation initiation factor eaIF-5B
+Deep-sea_sediment_DRR121209_Bin1_contig16_4	60.8	K00940	nucleoside-diphosphate kinase [EC:2.7.4.6]	Nucleoside diphosphate kinase (EC:2.7.4.6)
+Deep-sea_sediment_DRR121209_Bin1_contig16_5	56.6	K02896	large subunit ribosomal protein L24e	ribosomal protein L24E
+Deep-sea_sediment_DRR121209_Bin1_contig16_6	77.5	K02979	small subunit ribosomal protein S28e	rps28e
+Deep-sea_sediment_DRR121209_Bin1_contig16_7	66.7	K02936	large subunit ribosomal protein L7Ae	rpl7ae
+Deep-sea_sediment_DRR121209_Bin1_contig17_1	60.0	K01874	methionyl-tRNA synthetase [EC:6.1.1.10]	metG
+Deep-sea_sediment_DRR121209_Bin1_contig17_2	43.7	K00344	NADPH2:quinone reductase [EC:1.6.5.5]	yfmJ1
+Deep-sea_sediment_DRR121209_Bin1_contig17_3	46.7	K01876	aspartyl-tRNA synthetase [EC:6.1.1.12]	aspS1
+Deep-sea_sediment_DRR121209_Bin1_contig17_4	35.1	K02435	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit C [EC:6.3.5.6 6.3.5.7]	gatC
+Deep-sea_sediment_DRR121209_Bin1_contig17_5	55.8	K02433	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A [EC:6.3.5.6 6.3.5.7]	glutamyl-tRNA(Gln) amidotransferase, A subunit
+Deep-sea_sediment_DRR121209_Bin1_contig17_6	59.5	K02434	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]	glutamyl-tRNA(Gln) amidotransferase subunit B
+Deep-sea_sediment_DRR121209_Bin1_contig18_1	55.3	K03470	ribonuclease HII [EC:3.1.26.4]	rnhB
+Deep-sea_sediment_DRR121209_Bin1_contig18_2	52.8	K04795	fibrillarin-like pre-rRNA processing protein	fibrillarin (EC:2.7.11.1)
+Deep-sea_sediment_DRR121209_Bin1_contig18_3	43.4	K14564	nucleolar protein 56	putative pre-mRNA processing ribonucleoprotein, snoRNA-binding domain protein
+Deep-sea_sediment_DRR121209_Bin1_contig18_4	49.0	K07739	elongator complex protein 3 [EC:2.3.1.48]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig18_5	59.6	K04566	lysyl-tRNA synthetase, class I [EC:6.1.1.6]	lysS
+Deep-sea_sediment_DRR121209_Bin1_contig19_3	49.4	K06966	uncharacterized protein	Rossmann fold nucleotide-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig19_4	37.8	K00484	flavin reductase (NADH) [EC:1.5.1.36]	flavin reductase domain-containing FMN-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig19_6	61.1	K01704	3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	leuD
+Deep-sea_sediment_DRR121209_Bin1_contig19_7	69.4	K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	homoaconitate hydratase family protein
+Deep-sea_sediment_DRR121209_Bin1_contig20_2	58.1	K03168	DNA topoisomerase I [EC:5.99.1.2]	topA
+Deep-sea_sediment_DRR121209_Bin1_contig20_4	36.3	K00830	alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]	class V aminotransferase
+Deep-sea_sediment_DRR121209_Bin1_contig20_5	46.8	K01887	arginyl-tRNA synthetase [EC:6.1.1.19]	argS
+Deep-sea_sediment_DRR121209_Bin1_contig20_6	46.8	K07024	uncharacterized protein	phosphoglycolate phosphatase (EC:3.1.3.18)
+Deep-sea_sediment_DRR121209_Bin1_contig21_1	45.3	K00100		UDP-glucose/GDP-mannose dehydrogenase
+Deep-sea_sediment_DRR121209_Bin1_contig21_2	51.5	K00973	glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]	sugar-phosphate nucleotidyl transferase
+Deep-sea_sediment_DRR121209_Bin1_contig21_4	29.9	K00549	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]	methylcobalamin:homocysteine methyltransferase (EC:2.1.1.-)
+Deep-sea_sediment_DRR121209_Bin1_contig21_5	43.2	K00549	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]	methionine synthase (B12-independent) (EC:2.1.1.14)
+Deep-sea_sediment_DRR121209_Bin1_contig22_1	47.8	K02003	putative ABC transport system ATP-binding protein	ABC transporter, ATP-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig22_4	50.3	K02301	protoheme IX farnesyltransferase [EC:2.5.1.-]	protoheme IX farnesyltransferase (EC:2.5.1.-)
+Deep-sea_sediment_DRR121209_Bin1_contig22_5	53.2	K03116	sec-independent protein translocase protein TatA	Twin-arginine translocation protein TatA
+Deep-sea_sediment_DRR121209_Bin1_contig22_7	50.8	K12234	coenzyme F420-0:L-glutamate ligase / coenzyme F420-1:gamma-L-glutamate ligase [EC:6.3.2.31 6.3.2.34]	cofE
+Deep-sea_sediment_DRR121209_Bin1_contig23_1	50.0	K04566	lysyl-tRNA synthetase, class I [EC:6.1.1.6]	lysK
+Deep-sea_sediment_DRR121209_Bin1_contig23_2	42.1	K02191	cobalt-precorrin-6B (C15)-methyltransferase [EC:2.1.1.196]	cbiT
+Deep-sea_sediment_DRR121209_Bin1_contig23_4	55.6	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2]	NAD-dependent epimerase/dehydratase
+Deep-sea_sediment_DRR121209_Bin1_contig24_1	56.5	K00820	glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	glucosamine--fructose-6-phosphate aminotransferase (EC:2.6.1.16)
+Deep-sea_sediment_DRR121209_Bin1_contig24_3	75.4	K02948	small subunit ribosomal protein S11	rps11p
+Deep-sea_sediment_DRR121209_Bin1_contig24_4	57.2	K02986	small subunit ribosomal protein S4	30S ribosomal protein S4
+Deep-sea_sediment_DRR121209_Bin1_contig24_5	51.7	K02952	small subunit ribosomal protein S13	rps13p
+Deep-sea_sediment_DRR121209_Bin1_contig24_6	58.0	K03047	DNA-directed RNA polymerase subunit D [EC:2.7.7.6]	rpoD
+Deep-sea_sediment_DRR121209_Bin1_contig24_7	40.4	K02883	large subunit ribosomal protein L18e	50S ribosomal protein L18ae
+Deep-sea_sediment_DRR121209_Bin1_contig24_8	63.3	K02871	large subunit ribosomal protein L13	ribosomal protein L13
+Deep-sea_sediment_DRR121209_Bin1_contig25_1	44.5	K06024	segregation and condensation protein B	transcriptional regulator containing HTH domain
+Deep-sea_sediment_DRR121209_Bin1_contig25_2	33.6	K05896	segregation and condensation protein A	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig25_3	30.9	K03529	chromosome segregation protein	chromosome segregation protein SMC
+Deep-sea_sediment_DRR121209_Bin1_contig26_1	47.8	K13280	signal peptidase, endoplasmic reticulum-type [EC:3.4.-.-]	signal peptidase I (EC:3.4.21.89)
+Deep-sea_sediment_DRR121209_Bin1_contig26_3	31.7	K03752	molybdopterin-guanine dinucleotide biosynthesis protein A [EC:2.7.7.77]	molybdopterin-guanine dinucleotide biosynthesis protein
+Deep-sea_sediment_DRR121209_Bin1_contig26_5	52.2	K04768	acetoin utilization protein AcuC	histone deacetylase superfamily protein
+Deep-sea_sediment_DRR121209_Bin1_contig26_6	56.4	K04768	acetoin utilization protein AcuC	putative histone deacetylase superfamily
+Deep-sea_sediment_DRR121209_Bin1_contig26_8	58.8	K00024	malate dehydrogenase [EC:1.1.1.37]	mdh
+Deep-sea_sediment_DRR121209_Bin1_contig26_9	48.6	K00024	malate dehydrogenase [EC:1.1.1.37]	malate/L-lactate dehydrogenase (EC:1.1.1.37)
+Deep-sea_sediment_DRR121209_Bin1_contig26_11	60.6	K00150	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59]	gap
+Deep-sea_sediment_DRR121209_Bin1_contig27_1	55.6	K03724	ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	DEAD/DEAH box helicase
+Deep-sea_sediment_DRR121209_Bin1_contig27_2	30.7	K07466	replication factor A1	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig27_4	34.0	K07463	archaea-specific RecJ-like exonuclease	putative phosphoesterase, DHHA1
+Deep-sea_sediment_DRR121209_Bin1_contig27_6	54.5	K00027	malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]	oxaloacetate-decarboxylating NAD-malic enzyme
+Deep-sea_sediment_DRR121209_Bin1_contig28_1	41.7	K00627	pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig28_2	52.8	K03801	lipoyl(octanoyl) transferase [EC:2.3.1.181]	lipoyl(octanoyl) transferase (EC:2.3.1.181)
+Deep-sea_sediment_DRR121209_Bin1_contig28_3	43.8	K01892	histidyl-tRNA synthetase [EC:6.1.1.21]	histidyl-tRNA synthetase (EC:6.1.1.21)
+Deep-sea_sediment_DRR121209_Bin1_contig28_5	40.0	K04085	tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]	SirA family protein
+Deep-sea_sediment_DRR121209_Bin1_contig29_3	42.1	K00786		transmembrane family-2 glycosyl transferase (EC:2.4.-.-)
+Deep-sea_sediment_DRR121209_Bin1_contig29_5	47.8	K12944	nucleoside triphosphatase [EC:3.6.1.-]	NUDIX hydrolase
+Deep-sea_sediment_DRR121209_Bin1_contig30_2	40.4	K03687	molecular chaperone GrpE	grpE
+Deep-sea_sediment_DRR121209_Bin1_contig30_3	70.7	K04043	molecular chaperone DnaK	dnaK
+Deep-sea_sediment_DRR121209_Bin1_contig30_4	49.4	K03686	molecular chaperone DnaJ	dnaJ
+Deep-sea_sediment_DRR121209_Bin1_contig31_2	55.1	K17686	Cu+-exporting ATPase [EC:3.6.3.54]	copA
+Deep-sea_sediment_DRR121209_Bin1_contig31_3	32.4	K17686	Cu+-exporting ATPase [EC:3.6.3.54]	ActP protein
+Deep-sea_sediment_DRR121209_Bin1_contig32_1	41.7	K00052	3-isopropylmalate dehydrogenase [EC:1.1.1.85]	3-isopropylmalate dehydrogenase (EC:1.1.1.85)
+Deep-sea_sediment_DRR121209_Bin1_contig32_4	36.3	K11936	biofilm PGA synthesis N-glycosyltransferase PgaC [EC:2.4.-.-]	Poly-beta-1,6 N-acetyl-D-glucosamine synthase PgaC/IcaA
+Deep-sea_sediment_DRR121209_Bin1_contig32_7	53.3	K00031	isocitrate dehydrogenase [EC:1.1.1.42]	icd
+Deep-sea_sediment_DRR121209_Bin1_contig33_2	47.6	K03924	MoxR-like ATPase [EC:3.6.3.-]	methanol dehydrogenase regulator
+Deep-sea_sediment_DRR121209_Bin1_contig33_3	52.5	K03924	MoxR-like ATPase [EC:3.6.3.-]	ATPase
+Deep-sea_sediment_DRR121209_Bin1_contig33_4	52.1	K03924	MoxR-like ATPase [EC:3.6.3.-]	MoxR-like AAA family ATPase
+Deep-sea_sediment_DRR121209_Bin1_contig34_1	57.1	K05828	LysW-gamma-L-alpha-aminoadipate/LysW-L-glutamate kinase [EC:2.7.2.-]	argB
+Deep-sea_sediment_DRR121209_Bin1_contig34_2	61.9	K05828	LysW-gamma-L-alpha-aminoadipate/LysW-L-glutamate kinase [EC:2.7.2.-]	argB
+Deep-sea_sediment_DRR121209_Bin1_contig34_3	52.9	K05830	LysW-gamma-L-lysine/LysW-L-ornithine aminotransferase [EC:2.6.1.-]	argD
+Deep-sea_sediment_DRR121209_Bin1_contig34_4	47.8	K06154	Lrp/AsnC family transcriptional regulator, involved in the regulation of lysine biosynthesis	transcriptional regulator
+Deep-sea_sediment_DRR121209_Bin1_contig34_5	45.4	K05831	LysW-gamma-L-lysine/LysW-L-ornithine carboxypeptidase	acetylornithine deacetylase (EC:3.5.1.16)
+Deep-sea_sediment_DRR121209_Bin1_contig34_6	75.0	K03234	elongation factor 2	fusA
+Deep-sea_sediment_DRR121209_Bin1_contig34_7	81.3	K03234	elongation factor 2	fusA
+Deep-sea_sediment_DRR121209_Bin1_contig35_1	66.6	K03182	4-hydroxy-3-polyprenylbenzoate decarboxylase [EC:4.1.1.98]	ubiD
+Deep-sea_sediment_DRR121209_Bin1_contig35_2	47.4	K02548	1,4-dihydroxy-2-naphthoate octaprenyltransferase [EC:2.5.1.74 2.5.1.-]	UbiA prenyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig35_3	48.3	K11784	cyclic dehypoxanthinyl futalosine synthase [EC:1.21.98.1]	radical SAM protein
+Deep-sea_sediment_DRR121209_Bin1_contig35_4	51.9	K18285	aminodeoxyfutalosine synthase [EC:2.5.1.120]	Radical SAM protein
+Deep-sea_sediment_DRR121209_Bin1_contig36_1	39.8	K01889	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	pheS
+Deep-sea_sediment_DRR121209_Bin1_contig36_2	59.2	K01867	tryptophanyl-tRNA synthetase [EC:6.1.1.2]	trpS
+Deep-sea_sediment_DRR121209_Bin1_contig36_3	48.7	K02201	pantetheine-phosphate adenylyltransferase [EC:2.7.7.3]	cytidyltransferase-like protein
+Deep-sea_sediment_DRR121209_Bin1_contig36_4	28.0	K00872	homoserine kinase [EC:2.7.1.39]	homoserine kinase (EC:2.7.1.39)
+Deep-sea_sediment_DRR121209_Bin1_contig37_1	26.2	K03531	cell division protein FtsZ	ftsZ
+Deep-sea_sediment_DRR121209_Bin1_contig37_2	53.7	K02910	large subunit ribosomal protein L31e	rpl31e
+Deep-sea_sediment_DRR121209_Bin1_contig37_3	55.7	K06875	programmed cell death protein 5	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig37_6	45.2	K13038	phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase [EC:4.1.1.36 6.3.2.5]	coaBC
+Deep-sea_sediment_DRR121209_Bin1_contig38_3	26.7	K07024	uncharacterized protein	Phosphoglycolate phosphatase, archaeal type
+Deep-sea_sediment_DRR121209_Bin1_contig38_6	45.8	K14568	rRNA small subunit pseudouridine methyltransferase Nep1 [EC:2.1.1.260]	nep
+Deep-sea_sediment_DRR121209_Bin1_contig39_1	49.2	K00330	NADH-quinone oxidoreductase subunit A [EC:1.6.5.3]	NADH-ubiquinone/plastoquinone oxidoreductase subunit 3
+Deep-sea_sediment_DRR121209_Bin1_contig39_3	38.5	K01607	4-carboxymuconolactone decarboxylase [EC:4.1.1.44]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig39_4	60.9	K03768	peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]	peptidylprolyl isomerase
+Deep-sea_sediment_DRR121209_Bin1_contig39_5	43.6	K01890	phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	pheT
+Deep-sea_sediment_DRR121209_Bin1_contig40_2	33.1	K13525	transitional endoplasmic reticulum ATPase	Cell division protein FtsH (EC:3.4.24.-)
+Deep-sea_sediment_DRR121209_Bin1_contig40_3	52.8	K01876	aspartyl-tRNA synthetase [EC:6.1.1.12]	aspartyl-tRNA synthetase
+Deep-sea_sediment_DRR121209_Bin1_contig40_5	53.7	K17758	NAD(P)H-hydrate epimerase [EC:5.1.99.6]	carbohydrate kinase
+Deep-sea_sediment_DRR121209_Bin1_contig41_1	62.2	K06885	uncharacterized protein	putative metal dependent phosphohydrolase
+Deep-sea_sediment_DRR121209_Bin1_contig41_2	45.1	K00943	dTMP kinase [EC:2.7.4.9]	thymidylate kinase
+Deep-sea_sediment_DRR121209_Bin1_contig41_3	46.0	K10896	fanconi anemia group M protein	ERCC4 helicase
+Deep-sea_sediment_DRR121209_Bin1_contig41_5	37.4	K01255	leucyl aminopeptidase [EC:3.4.11.1]	leucyl aminopeptidase
+Deep-sea_sediment_DRR121209_Bin1_contig42_1	51.5	K03163	DNA topoisomerase I [EC:5.99.1.2]	DNA topoisomerase I
+Deep-sea_sediment_DRR121209_Bin1_contig42_2	28.7	K04719	5,6-dimethylbenzimidazole synthase [EC:1.13.11.79]	cob(II)yrinic acid a,c-diamide reductase
+Deep-sea_sediment_DRR121209_Bin1_contig42_3	33.5	K08482	circadian clock protein KaiC	circadian clock protein KaiC (EC:2.7.11.1)
+Deep-sea_sediment_DRR121209_Bin1_contig43_4	28.3	K00590	site-specific DNA-methyltransferase (cytosine-N4-specific) [EC:2.1.1.113]	putative methyltransferase Cytosine (N4) specific (C1-like) (EC:2.1.1.113)
+Deep-sea_sediment_DRR121209_Bin1_contig43_5	44.4	K00286	pyrroline-5-carboxylate reductase [EC:1.5.1.2]	proC
+Deep-sea_sediment_DRR121209_Bin1_contig43_6	51.1	K00294	1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88]	rocA
+Deep-sea_sediment_DRR121209_Bin1_contig44_1	54.5	K02877	large subunit ribosomal protein L15e	rpl15e
+Deep-sea_sediment_DRR121209_Bin1_contig44_2	51.9	K06942	uncharacterized protein	GTP binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig44_3	46.5	K02984	small subunit ribosomal protein S3Ae	30S ribosomal protein S3
+Deep-sea_sediment_DRR121209_Bin1_contig44_4	69.1	K02992	small subunit ribosomal protein S7	rps7p
+Deep-sea_sediment_DRR121209_Bin1_contig44_5	81.1	K02950	small subunit ribosomal protein S12	rps12p
+Deep-sea_sediment_DRR121209_Bin1_contig44_6	66.7	K02600	N utilization substance protein A	archaeal NusA family KH domain containing protein
+Deep-sea_sediment_DRR121209_Bin1_contig45_1	50.0	K01271	Xaa-Pro dipeptidase [EC:3.4.13.9]	peptidase M24
+Deep-sea_sediment_DRR121209_Bin1_contig45_2	26.0	K17105	geranylgeranylglycerol-phosphate geranylgeranyltransferase [EC:2.5.1.42]	(S)-2,3-di-O-geranylgeranylglyceryl phosphate synthase
+Deep-sea_sediment_DRR121209_Bin1_contig45_6	35.0	K09696	sodium transport system permease protein	ABC-2 type transporter
+Deep-sea_sediment_DRR121209_Bin1_contig46_1	26.1	K00303	sarcosine oxidase, subunit beta [EC:1.5.3.1]	sarcosine oxidase subunit beta
+Deep-sea_sediment_DRR121209_Bin1_contig46_4	50.5	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	putative DNA methylase N-4/N-6 domain protein
+Deep-sea_sediment_DRR121209_Bin1_contig47_2	69.6	K02117	V/A-type H+-transporting ATPase subunit A [EC:3.6.3.14]	atpA
+Deep-sea_sediment_DRR121209_Bin1_contig47_3	72.2	K02117	V/A-type H+-transporting ATPase subunit A [EC:3.6.3.14]	V-type H+-transporting ATPase subunit A (EC:3.6.3.14)
+Deep-sea_sediment_DRR121209_Bin1_contig47_4	74.8	K02118	V/A-type H+-transporting ATPase subunit B	atpB
+Deep-sea_sediment_DRR121209_Bin1_contig47_5	62.5	K02120	V/A-type H+-transporting ATPase subunit D	V-type H+-transporting ATPase subunit D (EC:3.6.3.14)
+Deep-sea_sediment_DRR121209_Bin1_contig48_1	32.9	K00869	mevalonate kinase [EC:2.7.1.36]	mevalonate kinase
+Deep-sea_sediment_DRR121209_Bin1_contig48_2	50.0	K06990	uncharacterized protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig48_3	59.3	K02967	small subunit ribosomal protein S2	rps2p
+Deep-sea_sediment_DRR121209_Bin1_contig48_4	48.0	K01689	enolase [EC:4.2.1.11]	eno
+Deep-sea_sediment_DRR121209_Bin1_contig48_5	57.1	K03058	DNA-directed RNA polymerase subunit N [EC:2.7.7.6]	rpoN
+Deep-sea_sediment_DRR121209_Bin1_contig49_1	59.6	K01956	carbamoyl-phosphate synthase small subunit [EC:6.3.5.5]	carA
+Deep-sea_sediment_DRR121209_Bin1_contig49_3	30.8	K03455	monovalent cation:H+ antiporter-2, CPA2 family	Kef-type K+ transport system, predicted NAD-binding component
+Deep-sea_sediment_DRR121209_Bin1_contig49_4	55.7	K02889	large subunit ribosomal protein L21e	ribosomal protein L21E
+Deep-sea_sediment_DRR121209_Bin1_contig49_5	49.0	K03051	DNA-directed RNA polymerase subunit F [EC:2.7.7.6]	RNA polymerase Rpb4
+Deep-sea_sediment_DRR121209_Bin1_contig49_6	61.0	K07572	putative nucleotide binding protein	putative RNA-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig50_1	57.5	K01955	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	carB
+Deep-sea_sediment_DRR121209_Bin1_contig50_2	49.7	K01079	phosphoserine phosphatase [EC:3.1.3.3]	phosphoserine phosphatase
+Deep-sea_sediment_DRR121209_Bin1_contig50_3	56.5	K02966	small subunit ribosomal protein S19e	rps19e
+Deep-sea_sediment_DRR121209_Bin1_contig50_4	43.5	K03540	ribonuclease P protein subunit RPR2 [EC:3.1.26.5]	rnp
+Deep-sea_sediment_DRR121209_Bin1_contig51_3	39.4	K09121	uncharacterized protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig51_4	51.4	K06898	uncharacterized protein	1-(5-phosphoribosyl)-5-amino-4-imidazole-carboxylate (AIR) carboxylase
+Deep-sea_sediment_DRR121209_Bin1_contig51_5	50.3	K06864	uncharacterized protein	TIGR00268 family protein
+Deep-sea_sediment_DRR121209_Bin1_contig52_1	48.1	K06221	2,5-diketo-D-gluconate reductase A [EC:1.1.1.346]	2,5-didehydrogluconate reductase
+Deep-sea_sediment_DRR121209_Bin1_contig52_2	46.6	K08999	uncharacterized protein	DUF151 domain-containing protein
+Deep-sea_sediment_DRR121209_Bin1_contig52_3	43.2	K07579	putative methylase	ribosomal protein L11 methyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig52_4	35.5	K03453	bile acid:Na+ symporter, BASS family	sodium bile acid symporter family
+Deep-sea_sediment_DRR121209_Bin1_contig53_1	31.2	K00859	dephospho-CoA kinase [EC:2.7.1.24]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig53_2	39.3	K01975	2'-5' RNA ligase [EC:6.5.1.-]	2'-5' RNA ligase
+Deep-sea_sediment_DRR121209_Bin1_contig53_3	39.2	K07558	tRNA nucleotidyltransferase (CCA-adding enzyme) [EC:2.7.7.72]	tRNA CCA-pyrophosphorylase (EC:2.7.7.72)
+Deep-sea_sediment_DRR121209_Bin1_contig53_4	44.4	K07176	putative serine/threonine protein kinase	serine/threonine protein kinase
+Deep-sea_sediment_DRR121209_Bin1_contig54_2	44.2	K01265	methionyl aminopeptidase [EC:3.4.11.18]	methionine aminopeptidase (EC:3.4.11.18)
+Deep-sea_sediment_DRR121209_Bin1_contig54_5	44.9	K02638	plastocyanin	plastocyanin
+Deep-sea_sediment_DRR121209_Bin1_contig55_1	62.5	K00789	S-adenosylmethionine synthetase [EC:2.5.1.6]	methionine adenosyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig55_2	56.4	K04796	small nuclear ribonucleoprotein	putative snRNP Sm-like protein
+Deep-sea_sediment_DRR121209_Bin1_contig55_3	31.6	K04483	DNA repair protein RadA	DNA repair and recombination protein RadA
+Deep-sea_sediment_DRR121209_Bin1_contig56_1	59.5	K00765	ATP phosphoribosyltransferase [EC:2.4.2.17]	ATP phosphoribosyltransferase (EC:2.4.2.17)
+Deep-sea_sediment_DRR121209_Bin1_contig56_2	47.2	K00013	histidinol dehydrogenase [EC:1.1.1.23]	hisD
+Deep-sea_sediment_DRR121209_Bin1_contig57_1	58.8	K01880	glycyl-tRNA synthetase [EC:6.1.1.14]	glycyl-tRNA synthetase (EC:6.1.1.14)
+Deep-sea_sediment_DRR121209_Bin1_contig57_2	50.8	K06915	uncharacterized protein	putative ATPase
+Deep-sea_sediment_DRR121209_Bin1_contig58_1	43.0	K11996	adenylyltransferase and sulfurtransferase	UBA/THIF-type NAD/FAD binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig58_2	58.2	K01733	threonine synthase [EC:4.2.3.1]	threonine synthase (EC:4.2.3.1)
+Deep-sea_sediment_DRR121209_Bin1_contig58_3	46.7	K07023	putative hydrolases of HD superfamily	metal dependent phosphohydrolase
+Deep-sea_sediment_DRR121209_Bin1_contig58_4	55.9	K04799	flap endonuclease-1 [EC:3.-.-.-]	flap endonuclease-1
+Deep-sea_sediment_DRR121209_Bin1_contig58_5	45.7	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily (EC:3.6.4.6)
+Deep-sea_sediment_DRR121209_Bin1_contig59_1	41.9	K01992	ABC-2 type transport system permease protein	ABC transporter permease
+Deep-sea_sediment_DRR121209_Bin1_contig59_3	36.0	K03699	putative hemolysin	integral membrane protein
+Deep-sea_sediment_DRR121209_Bin1_contig59_4	45.1	K03809	NAD(P)H dehydrogenase (quinone) [EC:1.6.5.2]	wrbA
+Deep-sea_sediment_DRR121209_Bin1_contig60_1	48.2	K00008	L-iditol 2-dehydrogenase [EC:1.1.1.14]	alcohol dehydrogenase
+Deep-sea_sediment_DRR121209_Bin1_contig60_2	51.1	K11645	fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	fructose-bisphosphate aldolase (EC:4.1.2.13)
+Deep-sea_sediment_DRR121209_Bin1_contig60_4	51.6	K01895	acetyl-CoA synthetase [EC:6.2.1.1]	acetate--CoA ligase
+Deep-sea_sediment_DRR121209_Bin1_contig61_2	46.4	K07577	putative mRNA 3-end processing factor	putative beta-lactamase domain protein
+Deep-sea_sediment_DRR121209_Bin1_contig61_3	34.4	K02923	large subunit ribosomal protein L38e	50S ribosomal protein L38
+Deep-sea_sediment_DRR121209_Bin1_contig61_4	56.6	K04488	nitrogen fixation protein NifU and related proteins	nifU
+Deep-sea_sediment_DRR121209_Bin1_contig61_5	59.7	K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	SufS subfamily cysteine desulfurase
+Deep-sea_sediment_DRR121209_Bin1_contig61_6	63.4	K11717	cysteine desulfurase / selenocysteine lyase [EC:2.8.1.7 4.4.1.16]	nifS
+Deep-sea_sediment_DRR121209_Bin1_contig62_1	59.5	K06883	uncharacterized protein	ATP-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig62_2	30.4	K03742	nicotinamide-nucleotide amidase [EC:3.5.1.42]	damage-inducible protein CinA
+Deep-sea_sediment_DRR121209_Bin1_contig62_3	44.4	K00948	ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	prs
+Deep-sea_sediment_DRR121209_Bin1_contig62_4	34.9	K07446	tRNA (guanine10-N2)-dimethyltransferase [EC:2.1.1.213]	RNA methylase family protein
+Deep-sea_sediment_DRR121209_Bin1_contig63_3	40.4	K07060	endoribonuclease Nob1 [EC:3.1.-.-]	nucleotide-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig63_4	36.1	K00858	NAD+ kinase [EC:2.7.1.23]	ppnK
+Deep-sea_sediment_DRR121209_Bin1_contig63_5	58.2	K03263	translation initiation factor 5A	eIF-5A
+Deep-sea_sediment_DRR121209_Bin1_contig64_1	32.0	K07333	archaeal flagellar protein FlaJ	pilus assembly protein TadC
+Deep-sea_sediment_DRR121209_Bin1_contig64_3	32.6	K08482	circadian clock protein KaiC	circadian clock protein KaiC
+Deep-sea_sediment_DRR121209_Bin1_contig64_4	72.2	K00150	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59]	gap
+Deep-sea_sediment_DRR121209_Bin1_contig65_3	52.9	K07159	uncharacterized protein	putative 3-isopropylmalate dehydratase
+Deep-sea_sediment_DRR121209_Bin1_contig65_4	68.8	K14415	tRNA-splicing ligase RtcB [EC:6.5.1.3]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig66_1	38.1	K03592	PmbA protein	zinc-dependent protease
+Deep-sea_sediment_DRR121209_Bin1_contig66_2	45.3	K03568	TldD protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig66_3	55.5	K06865	ATPase	putative PilT protein domain protein
+Deep-sea_sediment_DRR121209_Bin1_contig67_1	43.3	K02930	large subunit ribosomal protein L4e	rpl4p
+Deep-sea_sediment_DRR121209_Bin1_contig67_2	54.2	K02892	large subunit ribosomal protein L23	50S ribosomal protein L23
+Deep-sea_sediment_DRR121209_Bin1_contig67_3	51.7	K02886	large subunit ribosomal protein L2	rpl2p
+Deep-sea_sediment_DRR121209_Bin1_contig67_4	64.3	K02965	small subunit ribosomal protein S19	rps19p
+Deep-sea_sediment_DRR121209_Bin1_contig67_5	52.3	K02890	large subunit ribosomal protein L22	50S ribosomal protein L22
+Deep-sea_sediment_DRR121209_Bin1_contig67_6	56.2	K02982	small subunit ribosomal protein S3	SSU ribosomal protein S3P
+Deep-sea_sediment_DRR121209_Bin1_contig68_2	44.4	K03232	elongation factor 1-beta	translation elongation factor aEF-1 beta
+Deep-sea_sediment_DRR121209_Bin1_contig68_3	24.1	K17830	digeranylgeranylglycerophospholipid reductase [EC:1.3.1.101 1.3.7.11]	flavin-dependent dehydrogenase
+Deep-sea_sediment_DRR121209_Bin1_contig68_4	53.3	K04794	peptidyl-tRNA hydrolase, PTH2 family [EC:3.1.1.29]	pth
+Deep-sea_sediment_DRR121209_Bin1_contig68_5	25.9	K02613	ring-1,2-phenylacetyl-CoA epoxidase subunit PaaE	paaE
+Deep-sea_sediment_DRR121209_Bin1_contig69_1	34.6	K00812	aspartate aminotransferase [EC:2.6.1.1]	aspartate aminotransferase (EC:2.6.1.1)
+Deep-sea_sediment_DRR121209_Bin1_contig69_2	31.4	K04517	prephenate dehydrogenase [EC:1.3.1.12]	putative prephenate dehydrogenase (EC:1.3.1.12)
+Deep-sea_sediment_DRR121209_Bin1_contig70_1	36.0	K03531	cell division protein FtsZ	cell division protein FtsZ
+Deep-sea_sediment_DRR121209_Bin1_contig70_4	47.3	K06932	tRNA(Ile2)-agmatinylcytidine synthase [EC:6.3.4.22]	PF08489 domain protein
+Deep-sea_sediment_DRR121209_Bin1_contig71_1	61.9	K02933	large subunit ribosomal protein L6	50S ribosomal protein L6P
+Deep-sea_sediment_DRR121209_Bin1_contig71_2	56.7	K02912	large subunit ribosomal protein L32e	rpl32e
+Deep-sea_sediment_DRR121209_Bin1_contig71_3	46.6	K02885	large subunit ribosomal protein L19e	rpl19e
+Deep-sea_sediment_DRR121209_Bin1_contig71_4	41.9	K02881	large subunit ribosomal protein L18	50S ribosomal protein L18
+Deep-sea_sediment_DRR121209_Bin1_contig71_5	60.6	K02988	small subunit ribosomal protein S5	rps5p
+Deep-sea_sediment_DRR121209_Bin1_contig71_6	41.1	K02907	large subunit ribosomal protein L30	ribosomal protein L30/L7E
+Deep-sea_sediment_DRR121209_Bin1_contig72_1	48.9	K01802	peptidylprolyl isomerase [EC:5.2.1.8]	FKBP-type peptidylprolyl isomerase
+Deep-sea_sediment_DRR121209_Bin1_contig72_2	35.9	K00436	NAD-reducing hydrogenase large subunit [EC:1.12.1.2]	dhsS
+Deep-sea_sediment_DRR121209_Bin1_contig72_3	51.8	K00952	nicotinamide-nucleotide adenylyltransferase [EC:2.7.7.1]	nicotinamide-nucleotide adenylyltransferase (EC:2.7.7.1)
+Deep-sea_sediment_DRR121209_Bin1_contig72_4	60.2	K01974	RNA 3'-terminal phosphate cyclase (ATP) [EC:6.5.1.4]	RNA 3'-phosphate cyclase (EC:6.5.1.4)
+Deep-sea_sediment_DRR121209_Bin1_contig73_1	40.3	K03724	ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	ATP-dependent helicase
+Deep-sea_sediment_DRR121209_Bin1_contig73_2	36.8	K06953	uncharacterized protein	phosphoesterase, putative
+Deep-sea_sediment_DRR121209_Bin1_contig73_4	54.3	K18779	7-cyano-7-deazaguanine tRNA-ribosyltransferase [EC:2.4.2.48]	tRNA-guanine transglycosylase
+Deep-sea_sediment_DRR121209_Bin1_contig74_2	45.7	K01893	asparaginyl-tRNA synthetase [EC:6.1.1.22]	asparaginyl-tRNA synthetase
+Deep-sea_sediment_DRR121209_Bin1_contig74_3	35.6	K01003	carboxyvinyl-carboxyphosphonate phosphorylmutase [EC:2.7.8.23]	methylisocitrate lyase
+Deep-sea_sediment_DRR121209_Bin1_contig75_1	53.1	K01916	NAD+ synthase [EC:6.3.1.5]	nadE
+Deep-sea_sediment_DRR121209_Bin1_contig76_1	70.5	K01652	acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	ilvB
+Deep-sea_sediment_DRR121209_Bin1_contig76_2	53.7	K03644	lipoic acid synthetase [EC:2.8.1.8]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig76_3	66.4	K00167	2-oxoisovalerate dehydrogenase E1 component beta subunit [EC:1.2.4.4]	branched-chain alpha-keto acid dehydrogenase E1 component (EC:1.2.4.4)
+Deep-sea_sediment_DRR121209_Bin1_contig76_4	66.7	K00627	pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]	pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component
+Deep-sea_sediment_DRR121209_Bin1_contig77_1	34.2	K10112	multiple sugar transport system ATP-binding protein	sn-glycerol-3-phosphate ABC transporter ATP-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig77_2	59.7	K10112	multiple sugar transport system ATP-binding protein	sugar ABC transporter ATP-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig77_3	37.5	K02026	multiple sugar transport system permease protein	multiple sugar ABC transporter permease
+Deep-sea_sediment_DRR121209_Bin1_contig77_4	36.7	K02025	multiple sugar transport system permease protein	multiple sugar ABC transporter permease
+Deep-sea_sediment_DRR121209_Bin1_contig78_1	58.4	K03320	ammonium transporter, Amt family	ammonium transporter
+Deep-sea_sediment_DRR121209_Bin1_contig78_2	33.3	K04751	nitrogen regulatory protein P-II 1	glnK
+Deep-sea_sediment_DRR121209_Bin1_contig78_3	29.9	K02334	DNA polymerase bacteriophage-type [EC:2.7.7.7]	uracil-DNA glycosylase, family 4
+Deep-sea_sediment_DRR121209_Bin1_contig78_4	44.8	K03238	translation initiation factor 2 subunit 2	translation initiation factor aIF-2 subunit beta
+Deep-sea_sediment_DRR121209_Bin1_contig79_5	39.2	K03168	DNA topoisomerase I [EC:5.99.1.2]	DNA topoisomerase I, archaeal (EC:5.99.1.2)
+Deep-sea_sediment_DRR121209_Bin1_contig80_3	39.3	K02319	DNA polymerase I [EC:2.7.7.7]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig80_4	28.8	K02336	DNA polymerase II [EC:2.7.7.7]	pol
+Deep-sea_sediment_DRR121209_Bin1_contig81_1	43.3	K06196	cytochrome c-type biogenesis protein	cytochrome C assembly protein
+Deep-sea_sediment_DRR121209_Bin1_contig82_1	50.1	K01872	alanyl-tRNA synthetase [EC:6.1.1.7]	alaS
+Deep-sea_sediment_DRR121209_Bin1_contig83_1	46.7	K11472	glycolate oxidase FAD binding subunit	FAD linked oxidase domain-containing protein
+Deep-sea_sediment_DRR121209_Bin1_contig83_2	41.4	K11473	glycolate oxidase iron-sulfur subunit	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig83_4	55.6	K00294	1-pyrroline-5-carboxylate dehydrogenase [EC:1.2.1.88]	aldehyde dehydrogenase
+Deep-sea_sediment_DRR121209_Bin1_contig84_2	36.1	K06384	stage II sporulation protein M	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig85_2	39.4	K00812	aspartate aminotransferase [EC:2.6.1.1]	aspartate aminotransferase (EC:2.6.1.1)
+Deep-sea_sediment_DRR121209_Bin1_contig85_3	41.2	K00453	tryptophan 2,3-dioxygenase [EC:1.13.11.11]	tryptophan 23-dioxygenase
+Deep-sea_sediment_DRR121209_Bin1_contig85_4	55.6	K06001	tryptophan synthase beta chain [EC:4.2.1.20]	tryptophan synthase subunit beta (EC:4.2.1.20)
+Deep-sea_sediment_DRR121209_Bin1_contig87_1	70.4	K03136	transcription initiation factor TFIIE subunit alpha	tfe
+Deep-sea_sediment_DRR121209_Bin1_contig87_3	66.7	K01687	dihydroxy-acid dehydratase [EC:4.2.1.9]	dihydroxyacid dehydratase (EC:4.2.1.9)
+Deep-sea_sediment_DRR121209_Bin1_contig88_1	74.5	K03768	peptidyl-prolyl cis-trans isomerase B (cyclophilin B) [EC:5.2.1.8]	ppiA
+Deep-sea_sediment_DRR121209_Bin1_contig89_1	56.4	K00054	hydroxymethylglutaryl-CoA reductase [EC:1.1.1.88]	hydroxymethylglutaryl-CoA reductase, degradative (EC:1.1.1.88)
+Deep-sea_sediment_DRR121209_Bin1_contig89_4	58.7	K15383	MtN3 and saliva related transmembrane protein	MtN3 and saliva related transmembrane protein
+Deep-sea_sediment_DRR121209_Bin1_contig91_1	46.0	K01945	phosphoribosylamine--glycine ligase [EC:6.3.4.13]	phosphoribosylamine--glycine ligase
+Deep-sea_sediment_DRR121209_Bin1_contig91_2	48.8	K00764	amidophosphoribosyltransferase [EC:2.4.2.14]	amidophosphoribosyltransferase (EC:2.4.2.14)
+Deep-sea_sediment_DRR121209_Bin1_contig91_3	48.5	K00764	amidophosphoribosyltransferase [EC:2.4.2.14]	Amidophosphoribosyltransferase (EC:2.4.2.14)
+Deep-sea_sediment_DRR121209_Bin1_contig92_1	34.0	K02050	NitT/TauT family transport system permease protein	binding-protein-dependent transport system inner membrane protein
+Deep-sea_sediment_DRR121209_Bin1_contig92_2	50.6	K02049	NitT/TauT family transport system ATP-binding protein	ABC transporter-like protein
+Deep-sea_sediment_DRR121209_Bin1_contig92_3	49.7	K02049	NitT/TauT family transport system ATP-binding protein	ABC transporter
+Deep-sea_sediment_DRR121209_Bin1_contig93_2	27.2	K06965	protein pelota	pelota-like protein
+Deep-sea_sediment_DRR121209_Bin1_contig93_3	44.4	K03926	periplasmic divalent cation tolerance protein	Divalent cation tolerance protein, CutA1 family
+Deep-sea_sediment_DRR121209_Bin1_contig93_5	38.8	K05595	multiple antibiotic resistance protein	multiple antibiotic resistance (MarC)-like proteins
+Deep-sea_sediment_DRR121209_Bin1_contig94_1	62.4	K01873	valyl-tRNA synthetase [EC:6.1.1.9]	valS
+Deep-sea_sediment_DRR121209_Bin1_contig94_2	51.9	K03265	peptide chain release factor subunit 1	peptide chain release factor subunit 1 (aeRF-1)
+Deep-sea_sediment_DRR121209_Bin1_contig95_1	47.9	K17758	NAD(P)H-hydrate epimerase [EC:5.1.99.6]	nnr
+Deep-sea_sediment_DRR121209_Bin1_contig95_2	30.3	K03724	ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	DEAD/DEAH box helicase domain-containing protein
+Deep-sea_sediment_DRR121209_Bin1_contig97_2	25.4	K08482	circadian clock protein KaiC	circadian clock protein KaiC (EC:2.7.11.1)
+Deep-sea_sediment_DRR121209_Bin1_contig97_3	34.0	K08482	circadian clock protein KaiC	circadian clock protein KaiC
+Deep-sea_sediment_DRR121209_Bin1_contig97_4	54.8	K04802	proliferating cell nuclear antigen	monomeric archaeal DNA polymerase sliding clamp
+Deep-sea_sediment_DRR121209_Bin1_contig98_1	39.2	K01178	glucoamylase [EC:3.2.1.3]	glucoamylase (EC:3.2.1.3)
+Deep-sea_sediment_DRR121209_Bin1_contig98_2	36.3	K03183	demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	methyltransferase type 11
+Deep-sea_sediment_DRR121209_Bin1_contig100_2	57.5	K02003	putative ABC transport system ATP-binding protein	macrolide export ATP-binding/permease
+Deep-sea_sediment_DRR121209_Bin1_contig100_3	33.5	K07583	tRNA pseudouridine synthase 10 [EC:5.4.99.-]	pus
+Deep-sea_sediment_DRR121209_Bin1_contig101_1	43.8	K00104	glycolate oxidase [EC:1.1.3.15]	glycolate oxidase subunit GlcD
+Deep-sea_sediment_DRR121209_Bin1_contig101_3	40.4	K00817	histidinol-phosphate aminotransferase [EC:2.6.1.9]	histidinol-phosphate aminotransferase (EC:2.6.1.9)
+Deep-sea_sediment_DRR121209_Bin1_contig102_1	61.2	K03236	translation initiation factor 1A	eIF-1a1
+Deep-sea_sediment_DRR121209_Bin1_contig102_2	47.2	K05592	ATP-dependent RNA helicase DeaD [EC:3.6.4.13]	DEAD/DEAH box helicase
+Deep-sea_sediment_DRR121209_Bin1_contig103_1	58.3	K10726	replicative DNA helicase Mcm [EC:3.6.4.-]	putative minichromosome maintenance protein MCM
+Deep-sea_sediment_DRR121209_Bin1_contig103_2	53.0	K10726	replicative DNA helicase Mcm [EC:3.6.4.-]	mcm
+Deep-sea_sediment_DRR121209_Bin1_contig103_3	26.6	K09723	DNA replication factor GINS	GINS complex protein
+Deep-sea_sediment_DRR121209_Bin1_contig104_1	48.8	K00525	ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	ribonucleotide-diphosphate reductase
+Deep-sea_sediment_DRR121209_Bin1_contig105_1	43.6	K03118	sec-independent protein translocase protein TatC	tatC
+Deep-sea_sediment_DRR121209_Bin1_contig105_4	67.1	K00053	ketol-acid reductoisomerase [EC:1.1.1.86]	ilvC
+Deep-sea_sediment_DRR121209_Bin1_contig105_5	75.0	K00053	ketol-acid reductoisomerase [EC:1.1.1.86]	ilvC
+Deep-sea_sediment_DRR121209_Bin1_contig106_3	40.4	K07022	uncharacterized protein	UPF0282 protein
+Deep-sea_sediment_DRR121209_Bin1_contig106_4	47.4	K00249	acyl-CoA dehydrogenase [EC:1.3.8.7]	acyl-CoA dehydrogenase (EC:1.3.99.3)
+Deep-sea_sediment_DRR121209_Bin1_contig107_3	56.0	K01992	ABC-2 type transport system permease protein	ABC-2 type transporter
+Deep-sea_sediment_DRR121209_Bin1_contig107_4	38.4	K01990	ABC-2 type transport system ATP-binding protein	ABC transporter ATP-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig108_1	36.0	K17760	quinohemoprotein ethanol dehydrogenase [EC:1.1.9.1]	adh
+Deep-sea_sediment_DRR121209_Bin1_contig108_2	34.9	K05337	ferredoxin	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig108_3	52.2	K01647	citrate synthase [EC:2.3.3.1]	citrate synthase (EC:2.3.3.1)
+Deep-sea_sediment_DRR121209_Bin1_contig109_1	62.0	K02012	iron(III) transport system substrate-binding protein	extracellular solute-binding protein family 1
+Deep-sea_sediment_DRR121209_Bin1_contig109_2	32.1	K07108	uncharacterized protein	conserved hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig109_3	59.3	K02011	iron(III) transport system permease protein	binding-protein-dependent transport systems inner membrane component
+Deep-sea_sediment_DRR121209_Bin1_contig110_1	31.9	K11472	glycolate oxidase FAD binding subunit	FAD linked oxidase-like protein
+Deep-sea_sediment_DRR121209_Bin1_contig110_2	51.1	K00104	glycolate oxidase [EC:1.1.3.15]	D-lactate dehydrogenase (EC:1.1.2.4)
+Deep-sea_sediment_DRR121209_Bin1_contig111_1	50.2	K01885	glutamyl-tRNA synthetase [EC:6.1.1.17]	glutamyl-tRNA synthetase
+Deep-sea_sediment_DRR121209_Bin1_contig112_2	52.0	K07442	tRNA (adenine57-N1/adenine58-N1)-methyltransferase [EC:2.1.1.219 2.1.1.220]	putative tRNA methyltransferase complex GCD14 subunit
+Deep-sea_sediment_DRR121209_Bin1_contig112_3	60.4	K01170	tRNA-intron endonuclease, archaea type [EC:3.1.27.9]	endA1
+Deep-sea_sediment_DRR121209_Bin1_contig112_4	39.2	K07220	uncharacterized protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig113_1	41.2	K00586	diphthine synthase [EC:2.1.1.98]	Diphthine synthase (EC:2.1.1.98)
+Deep-sea_sediment_DRR121209_Bin1_contig113_2	39.9	K00980	glycerol-3-phosphate cytidylyltransferase [EC:2.7.7.39]	cytidyltransferase-like protein
+Deep-sea_sediment_DRR121209_Bin1_contig113_3	48.3	K07732	riboflavin kinase, archaea type [EC:2.7.1.161]	CTP-dependent riboflavin kinase (EC:2.7.1.161)
+Deep-sea_sediment_DRR121209_Bin1_contig114_1	60.4	K00772	5'-methylthioadenosine phosphorylase [EC:2.4.2.28]	5'-methylthioadenosine phosphorylase (EC:2.4.2.28)
+Deep-sea_sediment_DRR121209_Bin1_contig114_2	54.1	K00759	adenine phosphoribosyltransferase [EC:2.4.2.7]	apt
+Deep-sea_sediment_DRR121209_Bin1_contig114_3	56.2	K03238	translation initiation factor 2 subunit 2	eIF-2B
+Deep-sea_sediment_DRR121209_Bin1_contig114_4	36.1	K09148	uncharacterized protein	putative protein of unknown function DUF424
+Deep-sea_sediment_DRR121209_Bin1_contig114_5	60.8	K03236	translation initiation factor 1A	translation initiation factor 1A
+Deep-sea_sediment_DRR121209_Bin1_contig114_6	67.3	K07178	RIO kinase 1 [EC:2.7.11.1]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig115_2	35.3	K03574	8-oxo-dGTP diphosphatase [EC:3.6.1.55]	unnamed protein product
+Deep-sea_sediment_DRR121209_Bin1_contig115_3	46.8	K01591	orotidine-5'-phosphate decarboxylase [EC:4.1.1.23]	pyrF
+Deep-sea_sediment_DRR121209_Bin1_contig117_1	61.7	K07041	uncharacterized protein	beta-lactamase domain-containing protein
+Deep-sea_sediment_DRR121209_Bin1_contig117_2	64.0	K09152	uncharacterized protein	putative protein of unknown function DUF552
+Deep-sea_sediment_DRR121209_Bin1_contig117_3	39.6	K07575	PUA domain protein	PUA domain-containing protein
+Deep-sea_sediment_DRR121209_Bin1_contig117_4	79.2	K04796	small nuclear ribonucleoprotein	putative small nuclear ribonucleoprotein
+Deep-sea_sediment_DRR121209_Bin1_contig118_1	41.0	K00605	aminomethyltransferase [EC:2.1.2.10]	gcvT
+Deep-sea_sediment_DRR121209_Bin1_contig118_2	54.3	K00283	glycine dehydrogenase subunit 2 [EC:1.4.4.2]	glycine dehydrogenase
+Deep-sea_sediment_DRR121209_Bin1_contig119_2	61.3	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily (EC:3.6.4.6)
+Deep-sea_sediment_DRR121209_Bin1_contig120_1	52.2	K00925	acetate kinase [EC:2.7.2.1]	Acetate kinase
+Deep-sea_sediment_DRR121209_Bin1_contig120_2	78.4	K01621	xylulose-5-phosphate/fructose-6-phosphate phosphoketolase [EC:4.1.2.9 4.1.2.22]	phosphoketolase
+Deep-sea_sediment_DRR121209_Bin1_contig121_2	33.2	K01955	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig122_1	53.8	K00764	amidophosphoribosyltransferase [EC:2.4.2.14]	putative amidophosphoribosyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig122_2	49.1	K01952	phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	purL
+Deep-sea_sediment_DRR121209_Bin1_contig123_1	65.6	K00809	deoxyhypusine synthase [EC:2.5.1.46]	deoxyhypusine synthase (EC:2.5.1.46)
+Deep-sea_sediment_DRR121209_Bin1_contig123_2	52.2	K15987	K(+)-stimulated pyrophosphate-energized sodium pump [EC:3.6.1.1]	hppA
+Deep-sea_sediment_DRR121209_Bin1_contig124_1	47.7	K03724	ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	putative ATP-dependent helicase
+Deep-sea_sediment_DRR121209_Bin1_contig125_1	48.2	K00928	aspartate kinase [EC:2.7.2.4]	aspartate kinase (EC:2.7.2.4)
+Deep-sea_sediment_DRR121209_Bin1_contig125_2	53.1	K00003	homoserine dehydrogenase [EC:1.1.1.3]	hom
+Deep-sea_sediment_DRR121209_Bin1_contig126_1	63.0	K03113	translation initiation factor 1	putative protein translation factor SUI1
+Deep-sea_sediment_DRR121209_Bin1_contig126_3	73.8	K01493	dCMP deaminase [EC:3.5.4.12]	comEB
+Deep-sea_sediment_DRR121209_Bin1_contig127_1	41.5	K07342	protein transport protein SEC61 subunit gamma and related proteins	preprotein translocase subunit SecE
+Deep-sea_sediment_DRR121209_Bin1_contig127_2	47.0	K02601	transcriptional antiterminator NusG	nusG
+Deep-sea_sediment_DRR121209_Bin1_contig127_3	55.8	K02867	large subunit ribosomal protein L11	large subunit ribosomal protein L11
+Deep-sea_sediment_DRR121209_Bin1_contig127_4	51.1	K02863	large subunit ribosomal protein L1	rpl1p
+Deep-sea_sediment_DRR121209_Bin1_contig128_1	54.6	K01940	argininosuccinate synthase [EC:6.3.4.5]	argG
+Deep-sea_sediment_DRR121209_Bin1_contig128_2	42.1	K01755	argininosuccinate lyase [EC:4.3.2.1]	argininosuccinate lyase
+Deep-sea_sediment_DRR121209_Bin1_contig128_3	64.2	K05826	alpha-aminoadipate/glutamate carrier protein LysW	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig129_2	41.9	K07100	putative phosphoribosyl transferase	phosphoribosyl transferase domain protein
+Deep-sea_sediment_DRR121209_Bin1_contig130_1	46.8	K02895	large subunit ribosomal protein L24	rpl24p
+Deep-sea_sediment_DRR121209_Bin1_contig130_2	73.0	K02874	large subunit ribosomal protein L14	LSU ribosomal protein L14P
+Deep-sea_sediment_DRR121209_Bin1_contig130_3	55.8	K02961	small subunit ribosomal protein S17	30S ribosomal protein S17
+Deep-sea_sediment_DRR121209_Bin1_contig130_4	46.0	K03538	ribonuclease P protein subunit POP4 [EC:3.1.26.5]	ribonuclease p protein subunit rpp29 (EC:3.1.26.5)
+Deep-sea_sediment_DRR121209_Bin1_contig130_5	37.5	K02904	large subunit ribosomal protein L29	rpl29p
+Deep-sea_sediment_DRR121209_Bin1_contig130_6	49.1	K02982	small subunit ribosomal protein S3	30S ribosomal protein S3
+Deep-sea_sediment_DRR121209_Bin1_contig131_1	43.2	K06196	cytochrome c-type biogenesis protein	cytochrome c biogenesis protein transmembrane region
+Deep-sea_sediment_DRR121209_Bin1_contig131_2	27.1	K06019	pyrophosphatase PpaX [EC:3.6.1.1]	ppaX
+Deep-sea_sediment_DRR121209_Bin1_contig131_3	66.0	K02946	small subunit ribosomal protein S10	rps10p
+Deep-sea_sediment_DRR121209_Bin1_contig132_2	58.1	K01873	valyl-tRNA synthetase [EC:6.1.1.9]	valyl-tRNA synthetase
+Deep-sea_sediment_DRR121209_Bin1_contig133_1	24.3	K00965	UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]	sulfate adenylyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig133_2	52.2	K15635	2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	apgM
+Deep-sea_sediment_DRR121209_Bin1_contig134_1	55.1	K01744	aspartate ammonia-lyase [EC:4.3.1.1]	aspartate ammonia-lyase (L-aspartase) (EC:4.3.1.1)
+Deep-sea_sediment_DRR121209_Bin1_contig134_2	49.4	K01756	adenylosuccinate lyase [EC:4.3.2.2]	purB
+Deep-sea_sediment_DRR121209_Bin1_contig135_3	33.9	K17488	GTP cyclohydrolase IV [EC:3.5.4.39]	conserved hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig135_4	39.3	K06920	7-cyano-7-deazaguanine synthase [EC:6.3.4.20]	queC2
+Deep-sea_sediment_DRR121209_Bin1_contig136_1	42.5	K01868	threonyl-tRNA synthetase [EC:6.1.1.3]	threonyl-tRNA synthetase
+Deep-sea_sediment_DRR121209_Bin1_contig136_2	44.6	K01480	agmatinase [EC:3.5.3.11]	putative agmatinase
+Deep-sea_sediment_DRR121209_Bin1_contig136_3	43.3	K00809	deoxyhypusine synthase [EC:2.5.1.46]	dys-2
+Deep-sea_sediment_DRR121209_Bin1_contig137_1	46.3	K00174	2-oxoglutarate ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3]	pyruvate flavodoxin/ferredoxin oxidoreductase-like protein
+Deep-sea_sediment_DRR121209_Bin1_contig137_2	62.4	K00175	2-oxoglutarate ferredoxin oxidoreductase subunit beta [EC:1.2.7.3]	pyruvate-ferredoxin oxidoreductase and related 2-oxoacid-ferredoxin oxidoreductases subunit beta
+Deep-sea_sediment_DRR121209_Bin1_contig138_2	42.9	K01807	ribose 5-phosphate isomerase A [EC:5.3.1.6]	ribose 5-phosphate isomerase
+Deep-sea_sediment_DRR121209_Bin1_contig138_3	53.7	K04487	cysteine desulfurase [EC:2.8.1.7]	Cysteine sulfinate desulfinase/cysteine desulfurase (EC:2.8.1.7)
+Deep-sea_sediment_DRR121209_Bin1_contig139_1	69.8	K01990	ABC-2 type transport system ATP-binding protein	daunorubicin resistance ABC transporter ATP-binding subunit
+Deep-sea_sediment_DRR121209_Bin1_contig140_2	42.7	K04085	tRNA 2-thiouridine synthesizing protein A [EC:2.8.1.-]	SirA family protein
+Deep-sea_sediment_DRR121209_Bin1_contig140_3	29.5	K01719	uroporphyrinogen-III synthase [EC:4.2.1.75]	uroporphyrinogen-III synthase (EC:4.2.1.75)
+Deep-sea_sediment_DRR121209_Bin1_contig141_2	47.2	K11212	LPPG:FO 2-phospho-L-lactate transferase [EC:2.7.8.28]	cofD
+Deep-sea_sediment_DRR121209_Bin1_contig142_1	69.3	K11600	exosome complex component RRP41	ecx1
+Deep-sea_sediment_DRR121209_Bin1_contig142_2	57.8	K03679	exosome complex component RRP4	ecr
+Deep-sea_sediment_DRR121209_Bin1_contig142_3	55.6	K14574	ribosome maturation protein SDO1	RNA-associated protein
+Deep-sea_sediment_DRR121209_Bin1_contig143_3	45.7	K02427	23S rRNA (uridine2552-2'-O)-methyltransferase [EC:2.1.1.166]	23S rRNA Um-2552 2'-O-methyltransferase (EC:2.1.1.166)
+Deep-sea_sediment_DRR121209_Bin1_contig143_4	40.0	K00555	tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase [EC:2.1.1.215 2.1.1.216]	N2,N2-dimethylguanosine tRNA methyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig145_1	53.4	K09162	chlorite dismutase [EC:1.13.11.49]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig145_2	39.3	K00540		probable oxidoreductase (aldo-keto reductase family protein) (EC:1.1.1.-)
+Deep-sea_sediment_DRR121209_Bin1_contig145_3	38.7	K05800	Lrp/AsnC family transcriptional regulator	ybaO
+Deep-sea_sediment_DRR121209_Bin1_contig147_1	38.6	K03124	transcription initiation factor TFIIB	zinc finger TFIIB-type domain-containing protein
+Deep-sea_sediment_DRR121209_Bin1_contig147_2	45.8	K07569	RNA-binding protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig148_1	74.5	K18285	aminodeoxyfutalosine synthase [EC:2.5.1.120]	radical SAM protein
+Deep-sea_sediment_DRR121209_Bin1_contig150_1	47.4	K09716	D-aminoacyl-tRNA deacylase [EC:3.1.1.96]	putative D-tyrosyl-tRNA(Tyr) deacylase (EC:3.1.-.-)
+Deep-sea_sediment_DRR121209_Bin1_contig150_2	52.6	K05982	deoxyribonuclease V [EC:3.1.21.7]	methylated-DNA/protein-cysteine methyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig150_3	46.6	K00611	ornithine carbamoyltransferase [EC:2.1.3.3]	argF
+Deep-sea_sediment_DRR121209_Bin1_contig151_1	51.7	K00015	glyoxylate reductase [EC:1.1.1.26]	glyoxylate reductase (EC:1.1.1.26)
+Deep-sea_sediment_DRR121209_Bin1_contig151_2	48.8	K01933	phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	purM
+Deep-sea_sediment_DRR121209_Bin1_contig151_3	60.2	K01933	phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1]	purM
+Deep-sea_sediment_DRR121209_Bin1_contig152_2	30.0	K08482	circadian clock protein KaiC	Circadian clock protein KaiC
+Deep-sea_sediment_DRR121209_Bin1_contig153_1	49.2	K00945	cytidylate kinase [EC:2.7.4.14]	cytidylate kinase
+Deep-sea_sediment_DRR121209_Bin1_contig153_2	55.6	K11131	H/ACA ribonucleoprotein complex subunit 4 [EC:5.4.99.-]	truB
+Deep-sea_sediment_DRR121209_Bin1_contig154_1	41.3	K06928	nucleoside-triphosphatase [EC:3.6.1.15]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig154_3	48.7	K08975	putative membrane protein	protein of unknown function DUF373
+Deep-sea_sediment_DRR121209_Bin1_contig155_1	51.9	K01641	hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig155_2	40.0	K00632	acetyl-CoA acyltransferase [EC:2.3.1.16]	Acetyl-CoA acetyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig156_1	28.3	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	quinoprotein alcohol dehydrogenase (EC:1.1.99.8)
+Deep-sea_sediment_DRR121209_Bin1_contig157_1	32.0	K02050	NitT/TauT family transport system permease protein	binding-protein-dependent transport system inner membrane protein
+Deep-sea_sediment_DRR121209_Bin1_contig157_2	25.9	K02051	NitT/TauT family transport system substrate-binding protein	ABC-type nitrate/sulfonate/bicarbonate transport system, periplasmic component
+Deep-sea_sediment_DRR121209_Bin1_contig158_1	65.6	K01687	dihydroxy-acid dehydratase [EC:4.2.1.9]	dihydroxy-acid dehydratase (EC:4.2.1.9)
+Deep-sea_sediment_DRR121209_Bin1_contig158_2	53.5	K10773	endonuclease III [EC:4.2.99.18]	nth
+Deep-sea_sediment_DRR121209_Bin1_contig158_3	35.1	K02051	NitT/TauT family transport system substrate-binding protein	conserved hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig159_1	83.9	K13525	transitional endoplasmic reticulum ATPase	ATPase AAA
+Deep-sea_sediment_DRR121209_Bin1_contig160_1	62.2	K01895	acetyl-CoA synthetase [EC:6.2.1.1]	acetate--CoA ligase
+Deep-sea_sediment_DRR121209_Bin1_contig161_1	42.8	K16786	energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]	cobalt/nickel ABC transporter ATP-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig161_2	48.7	K16787	energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]	ABC transporter-like protein
+Deep-sea_sediment_DRR121209_Bin1_contig162_3	53.0	K01990	ABC-2 type transport system ATP-binding protein	malK5
+Deep-sea_sediment_DRR121209_Bin1_contig163_1	59.3	K01885	glutamyl-tRNA synthetase [EC:6.1.1.17]	gltX
+Deep-sea_sediment_DRR121209_Bin1_contig163_2	44.4	K13789	geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig163_3	59.1	K01823	isopentenyl-diphosphate delta-isomerase [EC:5.3.3.2]	fni
+Deep-sea_sediment_DRR121209_Bin1_contig164_1	50.0	K03626	nascent polypeptide-associated complex subunit alpha	putative nascent polypeptide-associated complex protein
+Deep-sea_sediment_DRR121209_Bin1_contig164_2	45.0	K07398	conserved protein with predicted RNA binding PUA domain	putative PUA domain protein
+Deep-sea_sediment_DRR121209_Bin1_contig164_3	36.8	K03627	putative transcription factor	XRE family transcriptional regulator
+Deep-sea_sediment_DRR121209_Bin1_contig164_4	50.8	K07254	tRNA (cytidine56-2'-O)-methyltransferase [EC:2.1.1.206]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig165_1	55.7	K04798	prefoldin beta subunit	pfdB
+Deep-sea_sediment_DRR121209_Bin1_contig165_3	47.7	K02921	large subunit ribosomal protein L37Ae	50S ribosomal protein L37
+Deep-sea_sediment_DRR121209_Bin1_contig165_4	49.2	K12589	exosome complex component RRP42	ecx1
+Deep-sea_sediment_DRR121209_Bin1_contig166_2	35.6	K09015	Fe-S cluster assembly protein SufD	Fe-S cluster assembly protein SufB
+Deep-sea_sediment_DRR121209_Bin1_contig168_1	44.9	K02334	DNA polymerase bacteriophage-type [EC:2.7.7.7]	uracil-DNA glycosylase
+Deep-sea_sediment_DRR121209_Bin1_contig169_1	50.0	K01869	leucyl-tRNA synthetase [EC:6.1.1.4]	leuS
+Deep-sea_sediment_DRR121209_Bin1_contig170_1	56.5	K13798	DNA-directed RNA polymerase subunit B [EC:2.7.7.6]	rpoB
+Deep-sea_sediment_DRR121209_Bin1_contig170_2	51.9	K03053	DNA-directed RNA polymerase subunit H [EC:2.7.7.6]	rpoH
+Deep-sea_sediment_DRR121209_Bin1_contig171_1	44.6	K02010	iron(III) transport system ATP-binding protein [EC:3.6.3.30]	Putrescine transport ATP-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig172_1	53.6	K06865	ATPase	putative PilT protein domain protein
+Deep-sea_sediment_DRR121209_Bin1_contig172_2	61.4	K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	GMP synthase (glutamine-hydrolysing) (EC:6.3.5.2)
+Deep-sea_sediment_DRR121209_Bin1_contig174_1	20.7	K02012	iron(III) transport system substrate-binding protein	putative ABC transporter substrate-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig175_1	49.2	K01586	diaminopimelate decarboxylase [EC:4.1.1.20]	diaminopimelate decarboxylase (EC:4.1.1.20)
+Deep-sea_sediment_DRR121209_Bin1_contig176_1	28.7	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	quinoprotein alcohol dehydrogenase (EC:1.1.99.8)
+Deep-sea_sediment_DRR121209_Bin1_contig176_2	42.2	K07001	NTE family protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig177_1	34.7	K02844	UDP-glucose:(heptosyl)LPS alpha-1,3-glucosyltransferase [EC:2.4.1.-]	glucuronic acid transferase WabG
+Deep-sea_sediment_DRR121209_Bin1_contig178_1	33.9	K08482	circadian clock protein KaiC	kaiC
+Deep-sea_sediment_DRR121209_Bin1_contig178_2	53.1	K03113	translation initiation factor 1	translation initiation factor Sui1
+Deep-sea_sediment_DRR121209_Bin1_contig179_1	56.3	K03724	ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	ATP-dependent helicase
+Deep-sea_sediment_DRR121209_Bin1_contig180_1	57.3	K00772	5'-methylthioadenosine phosphorylase [EC:2.4.2.28]	5'-methylthioadenosine phosphorylase (EC:2.4.2.28)
+Deep-sea_sediment_DRR121209_Bin1_contig180_3	65.6	K01251	adenosylhomocysteinase [EC:3.3.1.1]	adenosylhomocysteinase (EC:3.3.1.1)
+Deep-sea_sediment_DRR121209_Bin1_contig181_1	46.1	K08234	glyoxylase I family protein	glyoxalase/bleomycin resistance protein/dioxygenase
+Deep-sea_sediment_DRR121209_Bin1_contig181_2	26.7	K10843	DNA excision repair protein ERCC-3 [EC:3.6.4.12]	dna repair helicase Rad25 (EC:3.6.1.-)
+Deep-sea_sediment_DRR121209_Bin1_contig182_2	56.7	K03106	signal recognition particle subunit SRP54	srp
+Deep-sea_sediment_DRR121209_Bin1_contig183_1	64.7	K13798	DNA-directed RNA polymerase subunit B [EC:2.7.7.6]	rpoB
+Deep-sea_sediment_DRR121209_Bin1_contig184_1	57.3	K01006	pyruvate, orthophosphate dikinase [EC:2.7.9.1]	PPDK
+Deep-sea_sediment_DRR121209_Bin1_contig185_1	43.8	K03592	PmbA protein	putative Zn-dependent protease-like protein
+Deep-sea_sediment_DRR121209_Bin1_contig185_2	47.8	K03592	PmbA protein	putative Zn-dependent protease-like protein
+Deep-sea_sediment_DRR121209_Bin1_contig186_1	42.3	K00555	tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase [EC:2.1.1.215 2.1.1.216]	N2,N2-dimethylguanosine tRNA methyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig186_2	45.1	K03105	signal recognition particle subunit SRP19	signal recognition particle subunit SRP19 (srp19)
+Deep-sea_sediment_DRR121209_Bin1_contig186_4	50.4	K02995	small subunit ribosomal protein S8e	ribosomal protein S8.e
+Deep-sea_sediment_DRR121209_Bin1_contig187_2	30.0	K08482	circadian clock protein KaiC	circadian clock protein KaiC
+Deep-sea_sediment_DRR121209_Bin1_contig187_3	61.2	K03622	archaea-specific DNA-binding protein	conserved hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig188_1	40.4	K02528	16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]	rsmA
+Deep-sea_sediment_DRR121209_Bin1_contig188_2	43.4	K02493	release factor glutamine methyltransferase [EC:2.1.1.297]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig189_1	46.3	K00965	UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]	Galactose-1-phosphate uridylyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig189_2	37.0	K14656	FAD synthetase	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig190_1	49.2	K03417	methylisocitrate lyase [EC:4.1.3.30]	carboxyphosphonoenolpyruvate phosphonomutase
+Deep-sea_sediment_DRR121209_Bin1_contig190_2	58.8	K00571	site-specific DNA-methyltransferase (adenine-specific) [EC:2.1.1.72]	putative N-4 cytosine-specific methyltransferase (EC:2.1.1.113)
+Deep-sea_sediment_DRR121209_Bin1_contig191_1	50.0	K01890	phenylalanyl-tRNA synthetase beta chain [EC:6.1.1.20]	pheT
+Deep-sea_sediment_DRR121209_Bin1_contig191_2	51.3	K01889	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	phenylalanyl-tRNA synthetase subunit alpha
+Deep-sea_sediment_DRR121209_Bin1_contig192_1	51.6	K00928	aspartate kinase [EC:2.7.2.4]	aspartate kinase (EC:2.7.2.4)
+Deep-sea_sediment_DRR121209_Bin1_contig192_2	56.6	K00133	aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	asd
+Deep-sea_sediment_DRR121209_Bin1_contig194_1	53.6	K01007	pyruvate, water dikinase [EC:2.7.9.2]	phosphoenolpyruvate synthase (EC:2.7.9.2)
+Deep-sea_sediment_DRR121209_Bin1_contig195_2	56.8	K01596	phosphoenolpyruvate carboxykinase (GTP) [EC:4.1.1.32]	phosphoenolpyruvate carboxykinase
+Deep-sea_sediment_DRR121209_Bin1_contig197_1	49.7	K00527	ribonucleoside-triphosphate reductase [EC:1.17.4.2]	Regulatory protein ArsR
+Deep-sea_sediment_DRR121209_Bin1_contig198_1	32.5	K09493	T-complex protein 1 subunit alpha	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig199_1	36.7	K11105	cell volume regulation protein A	sodium/hydrogen exchanger
+Deep-sea_sediment_DRR121209_Bin1_contig200_1	26.9	K01338	ATP-dependent Lon protease [EC:3.4.21.53]	ATP-dependent protease La (EC:3.4.21.53)
+Deep-sea_sediment_DRR121209_Bin1_contig201_1	47.9	K00809	deoxyhypusine synthase [EC:2.5.1.46]	deoxyhypusine synthase (EC:2.5.1.46)
+Deep-sea_sediment_DRR121209_Bin1_contig201_2	60.0	K00088	IMP dehydrogenase [EC:1.1.1.205]	guaB
+Deep-sea_sediment_DRR121209_Bin1_contig202_1	55.5	K13628	iron-sulfur cluster assembly protein	iron-sulfur cluster assembly accessory protein
+Deep-sea_sediment_DRR121209_Bin1_contig202_2	41.1	K14165	atypical dual specificity phosphatase [EC:3.1.3.16 3.1.3.48]	dusP
+Deep-sea_sediment_DRR121209_Bin1_contig202_3	51.5	K00798	cob(I)alamin adenosyltransferase [EC:2.5.1.17]	ATP Cob(I)alamin adenosyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig204_1	44.9	K00053	ketol-acid reductoisomerase [EC:1.1.1.86]	ketol-acid reductoisomerase (EC:1.1.1.86)
+Deep-sea_sediment_DRR121209_Bin1_contig205_1	36.9	K12251	N-carbamoylputrescine amidase [EC:3.5.1.53]	N-carbamoylputrescine amidase (EC:3.5.1.53)
+Deep-sea_sediment_DRR121209_Bin1_contig206_2	43.1	K02035	peptide/nickel transport system substrate-binding protein	peptide/opine/nickel ABC uptake transporter, substrate-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig207_1	38.3	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	dolichyl-phosphate beta-D-mannosyltransferase (EC:2.4.1.83)
+Deep-sea_sediment_DRR121209_Bin1_contig207_2	35.4	K13010	perosamine synthetase [EC:2.6.1.102]	aminotransferase DegT
+Deep-sea_sediment_DRR121209_Bin1_contig208_1	48.4	K09497	T-complex protein 1 subunit epsilon	T-complex protein 1, epsilon subunit
+Deep-sea_sediment_DRR121209_Bin1_contig209_1	37.9	K00784	ribonuclease Z [EC:3.1.26.11]	metallo-beta-lactamase superfamily protein
+Deep-sea_sediment_DRR121209_Bin1_contig209_2	44.3	K01737	6-pyruvoyltetrahydropterin/6-carboxytetrahydropterin synthase [EC:4.2.3.12 4.1.2.50]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig211_2	44.6	K03726	helicase [EC:3.6.4.-]	ski2-like helicase (EC:3.6.4.-)
+Deep-sea_sediment_DRR121209_Bin1_contig212_1	42.8	K00762	orotate phosphoribosyltransferase [EC:2.4.2.10]	orotate phosphoribosyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig213_2	30.3	K01912	phenylacetate-CoA ligase [EC:6.2.1.30]	paaK
+Deep-sea_sediment_DRR121209_Bin1_contig214_2	45.3	K01695	tryptophan synthase alpha chain [EC:4.2.1.20]	trpA
+Deep-sea_sediment_DRR121209_Bin1_contig215_2	59.9	K01736	chorismate synthase [EC:4.2.3.5]	chorismate synthase (EC:4.2.3.5)
+Deep-sea_sediment_DRR121209_Bin1_contig215_3	67.7	K01736	chorismate synthase [EC:4.2.3.5]	chorismate synthase (EC:4.2.3.5)
+Deep-sea_sediment_DRR121209_Bin1_contig217_1	52.5	K02031	peptide/nickel transport system ATP-binding protein	oligopeptide/dipeptide ABC transporter ATPase
+Deep-sea_sediment_DRR121209_Bin1_contig217_2	67.0	K02034	peptide/nickel transport system permease protein	peptide/nickel ABC transporter permease
+Deep-sea_sediment_DRR121209_Bin1_contig218_1	46.3	K03284	magnesium transporter	CorA-like protein
+Deep-sea_sediment_DRR121209_Bin1_contig219_1	63.6	K01955	carbamoyl-phosphate synthase large subunit [EC:6.3.5.5]	carB
+Deep-sea_sediment_DRR121209_Bin1_contig221_1	67.7	K01881	prolyl-tRNA synthetase [EC:6.1.1.15]	proS
+Deep-sea_sediment_DRR121209_Bin1_contig222_3	29.5	K02687	ribosomal protein L11 methyltransferase [EC:2.1.1.-]	50S ribosomal protein L11 methyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig222_4	38.1	K00368	nitrite reductase (NO-forming) [EC:1.7.2.1]	blue (type 1) copper domain-containing protein
+Deep-sea_sediment_DRR121209_Bin1_contig224_1	70.2	K11085	ATP-binding cassette, subfamily B, bacterial MsbA [EC:3.6.3.-]	ABC transporter-like protein
+Deep-sea_sediment_DRR121209_Bin1_contig224_2	60.1	K03564	peroxiredoxin Q/BCP [EC:1.11.1.15]	bcp
+Deep-sea_sediment_DRR121209_Bin1_contig228_1	60.6	K01940	argininosuccinate synthase [EC:6.3.4.5]	argininosuccinate synthase
+Deep-sea_sediment_DRR121209_Bin1_contig232_1	38.7	K03265	peptide chain release factor subunit 1	peptide chain release factor eRF subunit 1
+Deep-sea_sediment_DRR121209_Bin1_contig232_2	29.3	K07182	CBS domain-containing protein	putative CBS domain and cyclic nucleotide-regulated nucleotidyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig232_3	44.0	K06966	uncharacterized protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig233_1	45.3	K00392	sulfite reductase (ferredoxin) [EC:1.8.7.1]	sir1
+Deep-sea_sediment_DRR121209_Bin1_contig235_1	48.6	K01868	threonyl-tRNA synthetase [EC:6.1.1.3]	thrS
+Deep-sea_sediment_DRR121209_Bin1_contig236_2	57.7	K03163	DNA topoisomerase I [EC:5.99.1.2]	DNA topoisomerase I (EC:5.99.1.2)
+Deep-sea_sediment_DRR121209_Bin1_contig239_2	26.4	K02613	ring-1,2-phenylacetyl-CoA epoxidase subunit PaaE	flavodoxin reductase family protein
+Deep-sea_sediment_DRR121209_Bin1_contig239_3	43.8	K07182	CBS domain-containing protein	CBS domain and cyclic nucleotide-regulated nucleotidyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig240_1	47.0	K03183	demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	methyltransferase type 11
+Deep-sea_sediment_DRR121209_Bin1_contig240_2	54.4	K03186	4-hydroxy-3-polyprenylbenzoate decarboxylase [EC:4.1.1.98]	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+Deep-sea_sediment_DRR121209_Bin1_contig241_1	45.0	K09726	uncharacterized protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig244_2	57.0	K01251	adenosylhomocysteinase [EC:3.3.1.1]	sahH
+Deep-sea_sediment_DRR121209_Bin1_contig245_1	58.6	K00052	3-isopropylmalate dehydrogenase [EC:1.1.1.85]	3-isopropylmalate dehydrogenase (EC:1.1.1.83 1.1.1.85)
+Deep-sea_sediment_DRR121209_Bin1_contig245_2	51.3	K07254	tRNA (cytidine56-2'-O)-methyltransferase [EC:2.1.1.206]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig246_1	60.3	K03041	DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]	rpoA
+Deep-sea_sediment_DRR121209_Bin1_contig247_1	28.5	K08166	MFS transporter, DHA2 family, methylenomycin A resistance protein	Putative transmembrane efflux protein
+Deep-sea_sediment_DRR121209_Bin1_contig248_1	48.9	K01586	diaminopimelate decarboxylase [EC:4.1.1.20]	diaminopimelate decarboxylase (EC:4.1.1.20)
+Deep-sea_sediment_DRR121209_Bin1_contig250_2	35.6	K03680	translation initiation factor eIF-2B subunit delta	initiation factor 2B related protein
+Deep-sea_sediment_DRR121209_Bin1_contig251_1	42.4	K06965	protein pelota	mRNA surveillance protein pelota
+Deep-sea_sediment_DRR121209_Bin1_contig251_2	38.5	K02316	DNA primase [EC:2.7.7.-]	DNA primase (EC:2.7.7.-)
+Deep-sea_sediment_DRR121209_Bin1_contig252_1	71.1	K03517	quinolinate synthase [EC:2.5.1.72]	Quinolinate synthase
+Deep-sea_sediment_DRR121209_Bin1_contig252_2	49.4	K00767	nicotinate-nucleotide pyrophosphorylase (carboxylating) [EC:2.4.2.19]	nicotinate-nucleotide pyrophosphorylase (EC:2.4.2.19)
+Deep-sea_sediment_DRR121209_Bin1_contig253_1	47.8	K02035	peptide/nickel transport system substrate-binding protein	putative solute binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig254_1	39.2	K02035	peptide/nickel transport system substrate-binding protein	peptide/nickel ABC transporter substrate-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig254_2	51.9	K02033	peptide/nickel transport system permease protein	peptide/nickel ABC transporter permease
+Deep-sea_sediment_DRR121209_Bin1_contig255_1	52.6	K10747	DNA ligase 1 [EC:6.5.1.1 6.5.1.6 6.5.1.7]	lig
+Deep-sea_sediment_DRR121209_Bin1_contig256_2	52.5	K07566	L-threonylcarbamoyladenylate synthase [EC:2.7.7.87]	putative Sua5/YciO/YrdC/YwlC family protein
+Deep-sea_sediment_DRR121209_Bin1_contig259_1	80.0	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily (EC:3.6.4.6)
+Deep-sea_sediment_DRR121209_Bin1_contig259_2	48.8	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily
+Deep-sea_sediment_DRR121209_Bin1_contig259_3	51.0	K02866	large subunit ribosomal protein L10e	rpl10e
+Deep-sea_sediment_DRR121209_Bin1_contig260_1	42.3	K00820	glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	glutamine--fructose-6-phosphate transaminase (EC:2.6.1.16)
+Deep-sea_sediment_DRR121209_Bin1_contig263_2	71.3	K01007	pyruvate, water dikinase [EC:2.7.9.2]	phosphoenolpyruvate synthase (EC:2.7.9.2)
+Deep-sea_sediment_DRR121209_Bin1_contig264_1	71.4	K14415	tRNA-splicing ligase RtcB [EC:6.5.1.3]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig264_3	39.6	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	asparagine synthase
+Deep-sea_sediment_DRR121209_Bin1_contig265_3	52.2	K10206	LL-diaminopimelate aminotransferase [EC:2.6.1.83]	dapL
+Deep-sea_sediment_DRR121209_Bin1_contig266_1	64.0	K03049	DNA-directed RNA polymerase subunit E' [EC:2.7.7.6]	DNA-directed RNA polymerase subunit E' (EC:2.7.7.6)
+Deep-sea_sediment_DRR121209_Bin1_contig267_1	40.1	K06869	uncharacterized protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig268_1	60.6	K01939	adenylosuccinate synthase [EC:6.3.4.4]	purA
+Deep-sea_sediment_DRR121209_Bin1_contig269_1	37.1	K13993	HSP20 family protein	heat shock protein Hsp20
+Deep-sea_sediment_DRR121209_Bin1_contig269_2	55.0	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily protein (EC:3.6.4.6)
+Deep-sea_sediment_DRR121209_Bin1_contig270_1	65.9	K02033	peptide/nickel transport system permease protein	dipeptide/oligopeptide/nickel ABC transporter permease
+Deep-sea_sediment_DRR121209_Bin1_contig270_2	37.1	K02034	peptide/nickel transport system permease protein	binding-protein-dependent transport system inner membrane protein
+Deep-sea_sediment_DRR121209_Bin1_contig272_1	30.4	K04767	acetoin utilization protein AcuB	CBS domain containing protein
+Deep-sea_sediment_DRR121209_Bin1_contig273_1	39.4	K00946	thiamine-monophosphate kinase [EC:2.7.4.16]	thiamine monophosphate kinase (EC:2.7.4.16)
+Deep-sea_sediment_DRR121209_Bin1_contig274_2	35.9	K15886	multifunctional cyclase / dehydratase / O-methyltransferase [EC:2.3.1.235]	tcmN
+Deep-sea_sediment_DRR121209_Bin1_contig275_2	56.7	K00798	cob(I)alamin adenosyltransferase [EC:2.5.1.17]	ATP--cobalamin adenosyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig277_1	56.7	K01433	formyltetrahydrofolate deformylase [EC:3.5.1.10]	purU
+Deep-sea_sediment_DRR121209_Bin1_contig279_1	59.2	K00166	2-oxoisovalerate dehydrogenase E1 component alpha subunit [EC:1.2.4.4]	3-methyl-2-oxobutanoate dehydrogenase
+Deep-sea_sediment_DRR121209_Bin1_contig279_2	63.6	K01006	pyruvate, orthophosphate dikinase [EC:2.7.9.1]	ppdK
+Deep-sea_sediment_DRR121209_Bin1_contig281_2	51.9	K00381	sulfite reductase (NADPH) hemoprotein beta-component [EC:1.8.1.2]	ferredoxin--nitrite reductase (EC:1.7.7.1)
+Deep-sea_sediment_DRR121209_Bin1_contig282_1	47.9	K10206	LL-diaminopimelate aminotransferase [EC:2.6.1.83]	LL-diaminopimelate aminotransferase (EC:2.6.1.83)
+Deep-sea_sediment_DRR121209_Bin1_contig283_2	59.3	K02120	V/A-type H+-transporting ATPase subunit D	atpD
+Deep-sea_sediment_DRR121209_Bin1_contig283_3	65.5	K02118	V/A-type H+-transporting ATPase subunit B	V-type ATP synthase subunit B
+Deep-sea_sediment_DRR121209_Bin1_contig284_1	47.0	K02864	large subunit ribosomal protein L10	rpl10p
+Deep-sea_sediment_DRR121209_Bin1_contig285_2	65.5	K03059	DNA-directed RNA polymerase subunit P [EC:2.7.7.6]	rpoP
+Deep-sea_sediment_DRR121209_Bin1_contig285_3	55.5	K01641	hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10]	hydroxymethylglutaryl-coenzyme A synthase family protein
+Deep-sea_sediment_DRR121209_Bin1_contig287_1	51.3	K07041	uncharacterized protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig287_2	47.8	K03433	proteasome beta subunit [EC:3.4.25.1]	Proteasome endopeptidase complex (EC:3.4.25.1)
+Deep-sea_sediment_DRR121209_Bin1_contig288_1	56.8	K02906	large subunit ribosomal protein L3	archaeal ribosomal protein L3
+Deep-sea_sediment_DRR121209_Bin1_contig288_3	54.4	K10747	DNA ligase 1 [EC:6.5.1.1 6.5.1.6 6.5.1.7]	ATP-dependent DNA ligase I
+Deep-sea_sediment_DRR121209_Bin1_contig289_2	37.5	K01607	4-carboxymuconolactone decarboxylase [EC:4.1.1.44]	carboxymuconolactone decarboxylase
+Deep-sea_sediment_DRR121209_Bin1_contig289_3	40.4	K06966	uncharacterized protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig291_1	49.1	K19244	alanine dehydrogenase [EC:1.4.1.1]	ornithine cyclodeaminase
+Deep-sea_sediment_DRR121209_Bin1_contig292_1	42.6	K02011	iron(III) transport system permease protein	ABC-type Fe3+ transport system permease component
+Deep-sea_sediment_DRR121209_Bin1_contig293_1	52.0	K00161	pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1]	bkdA
+Deep-sea_sediment_DRR121209_Bin1_contig294_1	34.1	K00852	ribokinase [EC:2.7.1.15]	sugar kinase, ribokinase
+Deep-sea_sediment_DRR121209_Bin1_contig295_1	68.8	K01868	threonyl-tRNA synthetase [EC:6.1.1.3]	threonyl-tRNA ligase (EC:6.1.1.3)
+Deep-sea_sediment_DRR121209_Bin1_contig296_2	38.9	K06981	isopentenyl phosphate kinase [EC:2.7.4.26]	aspartate/glutamate/uridylate kinase
+Deep-sea_sediment_DRR121209_Bin1_contig297_1	29.1	K16034	20-O-methyltransferase	O-methyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig298_1	53.6	K05829	LysW-gamma-L-alpha-aminoadipyl-6-phosphate/LysW-L-glutamyl-5-phosphate reductase [EC:1.2.1.-]	argC
+Deep-sea_sediment_DRR121209_Bin1_contig298_2	55.9	K05827	[lysine-biosynthesis-protein LysW]---L-2-aminoadipate ligase [EC:6.3.2.43]	Lysine biosynthesis enzyme LysX (EC:6.3.2.-)
+Deep-sea_sediment_DRR121209_Bin1_contig299_1	57.2	K01006	pyruvate, orthophosphate dikinase [EC:2.7.9.1]	ppdK
+Deep-sea_sediment_DRR121209_Bin1_contig300_1	75.8	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily (EC:3.6.4.6)
+Deep-sea_sediment_DRR121209_Bin1_contig301_1	25.3	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	Pyrrolo-quinoline quinone
+Deep-sea_sediment_DRR121209_Bin1_contig303_2	36.0	K08482	circadian clock protein KaiC	circadian clock protein KaiC
+Deep-sea_sediment_DRR121209_Bin1_contig304_1	43.7	K14647	minor extracellular serine protease Vpr [EC:3.4.21.-]	peptidase S8
+Deep-sea_sediment_DRR121209_Bin1_contig305_1	50.0	K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	3-isopropylmalate dehydratase large subunit (EC:4.2.1.33)
+Deep-sea_sediment_DRR121209_Bin1_contig305_3	54.0	K03724	ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	Lhr-like helicase (EC:3.6.1.-)
+Deep-sea_sediment_DRR121209_Bin1_contig306_1	69.3	K01869	leucyl-tRNA synthetase [EC:6.1.1.4]	leucyl-tRNA synthetase (EC:6.1.1.4)
+Deep-sea_sediment_DRR121209_Bin1_contig306_2	58.0	K01869	leucyl-tRNA synthetase [EC:6.1.1.4]	leuS
+Deep-sea_sediment_DRR121209_Bin1_contig307_1	51.7	K02010	iron(III) transport system ATP-binding protein [EC:3.6.3.30]	ABC transporter ATP binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig308_1	30.2	K17760	quinohemoprotein ethanol dehydrogenase [EC:1.1.9.1]	Pyrrolo-quinoline quinone
+Deep-sea_sediment_DRR121209_Bin1_contig309_2	61.9	K01823	isopentenyl-diphosphate delta-isomerase [EC:5.3.3.2]	isopentenyl-diphosphate delta-isomerase (EC:5.3.3.2)
+Deep-sea_sediment_DRR121209_Bin1_contig310_1	44.9	K00939	adenylate kinase [EC:2.7.4.3]	adkA
+Deep-sea_sediment_DRR121209_Bin1_contig310_2	61.4	K03076	preprotein translocase subunit SecY	preprotein translocase
+Deep-sea_sediment_DRR121209_Bin1_contig311_1	33.8	K00311	electron-transferring-flavoprotein dehydrogenase [EC:1.5.5.1]	etf
+Deep-sea_sediment_DRR121209_Bin1_contig313_1	68.7	K00027	malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]	NADP-dependent malic enzyme
+Deep-sea_sediment_DRR121209_Bin1_contig315_1	61.2	K07041	uncharacterized protein	beta-lactamase
+Deep-sea_sediment_DRR121209_Bin1_contig316_1	55.3	K02035	peptide/nickel transport system substrate-binding protein	peptide/nickel ABC transporter substrate-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig317_1	39.6	K03116	sec-independent protein translocase protein TatA	Sec-independent protein secretion pathway component
+Deep-sea_sediment_DRR121209_Bin1_contig317_2	64.0	K03118	sec-independent protein translocase protein TatC	tatC
+Deep-sea_sediment_DRR121209_Bin1_contig318_1	43.8	K01178	glucoamylase [EC:3.2.1.3]	glucoamylase (EC:3.2.1.3)
+Deep-sea_sediment_DRR121209_Bin1_contig319_1	40.7	K16785	energy-coupling factor transport system permease protein	cobalt/nickel ABC transporter permease
+Deep-sea_sediment_DRR121209_Bin1_contig320_1	40.7	K01756	adenylosuccinate lyase [EC:4.3.2.2]	adenylosuccinate lyase
+Deep-sea_sediment_DRR121209_Bin1_contig321_1	59.4	K15888	tritrans,polycis-undecaprenyl-diphosphate synthase [geranylgeranyl-diphosphate specific] [EC:2.5.1.89]	undecaprenyl diphosphate synthase
+Deep-sea_sediment_DRR121209_Bin1_contig322_1	41.1	K09162	chlorite dismutase [EC:1.13.11.49]	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig323_1	63.5	K02334	DNA polymerase bacteriophage-type [EC:2.7.7.7]	phage SPO1 DNA polymerase-like protein
+Deep-sea_sediment_DRR121209_Bin1_contig323_2	29.7	K02566	NagD protein	HAD family hydrolase
+Deep-sea_sediment_DRR121209_Bin1_contig324_1	46.2	K00014	shikimate dehydrogenase [EC:1.1.1.25]	aroE
+Deep-sea_sediment_DRR121209_Bin1_contig324_2	48.6	K03785	3-dehydroquinate dehydratase I [EC:4.2.1.10]	3-dehydroquinate dehydratase
+Deep-sea_sediment_DRR121209_Bin1_contig326_1	62.1	K01990	ABC-2 type transport system ATP-binding protein	daunorubicin resistance ABC transporter ATP-binding subunit
+Deep-sea_sediment_DRR121209_Bin1_contig327_1	52.5	K06885	uncharacterized protein	putative metal dependent phosphohydrolase
+Deep-sea_sediment_DRR121209_Bin1_contig328_2	63.2	K03110	fused signal recognition particle receptor	signal recognition particle-docking protein FtsY
+Deep-sea_sediment_DRR121209_Bin1_contig329_1	50.2	K02906	large subunit ribosomal protein L3	rpl3p
+Deep-sea_sediment_DRR121209_Bin1_contig330_1	39.7	K00891	shikimate kinase [EC:2.7.1.71]	shikimate kinase (EC:2.7.1.71)
+Deep-sea_sediment_DRR121209_Bin1_contig330_2	39.6	K00014	shikimate dehydrogenase [EC:1.1.1.25]	AroE
+Deep-sea_sediment_DRR121209_Bin1_contig331_1	40.6	K14168	cytoplasmic tRNA 2-thiolation protein 1 [EC:2.7.7.-]	adenine nucleotide alpha hydrolase
+Deep-sea_sediment_DRR121209_Bin1_contig332_1	58.7	K02032	peptide/nickel transport system ATP-binding protein	oligopeptide transport ATP-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig333_1	57.5	K00088	IMP dehydrogenase [EC:1.1.1.205]	guaB
+Deep-sea_sediment_DRR121209_Bin1_contig334_1	50.0	K07332	archaeal flagellar protein FlaI	Flagella-related protein FlaI
+Deep-sea_sediment_DRR121209_Bin1_contig335_2	34.6	K02493	release factor glutamine methyltransferase [EC:2.1.1.297]	Methylase
+Deep-sea_sediment_DRR121209_Bin1_contig336_1	57.0	K09482	glutamyl-tRNA(Gln) amidotransferase subunit D [EC:6.3.5.7]	gatD
+Deep-sea_sediment_DRR121209_Bin1_contig338_1	43.1	K01945	phosphoribosylamine--glycine ligase [EC:6.3.4.13]	phosphoribosylamine/glycine ligase (EC:6.3.4.13)
+Deep-sea_sediment_DRR121209_Bin1_contig340_1	69.7	K03234	elongation factor 2	fusA
+Deep-sea_sediment_DRR121209_Bin1_contig341_1	47.9	K01990	ABC-2 type transport system ATP-binding protein	ABC transporter
+Deep-sea_sediment_DRR121209_Bin1_contig342_1	73.8	K03041	DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]	rpoA
+Deep-sea_sediment_DRR121209_Bin1_contig343_1	36.3	K00215	4-hydroxy-tetrahydrodipicolinate reductase [EC:1.17.1.8]	dihydrodipicolinate reductase (EC:1.3.1.26)
+Deep-sea_sediment_DRR121209_Bin1_contig344_1	62.8	K00609	aspartate carbamoyltransferase catalytic subunit [EC:2.1.3.2]	aspartate carbamoyltransferase (EC:2.1.3.2)
+Deep-sea_sediment_DRR121209_Bin1_contig345_1	65.8	K02600	N utilization substance protein A	archaeal NusA family KH domain containing protein
+Deep-sea_sediment_DRR121209_Bin1_contig345_2	34.0	K02908	large subunit ribosomal protein L30e	Ribosomal protein L7Ae/L30e/S12e/Gadd45
+Deep-sea_sediment_DRR121209_Bin1_contig346_1	48.1	K00764	amidophosphoribosyltransferase [EC:2.4.2.14]	purF
+Deep-sea_sediment_DRR121209_Bin1_contig349_1	56.8	K01255	leucyl aminopeptidase [EC:3.4.11.1]	pepA
+Deep-sea_sediment_DRR121209_Bin1_contig350_1	42.1	K03330	glutamyl-tRNA(Gln) amidotransferase subunit E [EC:6.3.5.7]	gatE
+Deep-sea_sediment_DRR121209_Bin1_contig351_1	39.1	K00973	glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]	glucose-1-phosphate thymidylyltransferase (EC:2.7.7.24)
+Deep-sea_sediment_DRR121209_Bin1_contig353_1	60.0	K07332	archaeal flagellar protein FlaI	Flagella-related protein FlaI
+Deep-sea_sediment_DRR121209_Bin1_contig354_1	81.5	K03041	DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]	rpoA
+Deep-sea_sediment_DRR121209_Bin1_contig355_1	25.0	K02012	iron(III) transport system substrate-binding protein	iron ABC transporter substrate-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig356_1	74.8	K09014	Fe-S cluster assembly protein SufB	Fe-S cluster assembly protein SufB
+Deep-sea_sediment_DRR121209_Bin1_contig357_1	40.5	K17760	quinohemoprotein ethanol dehydrogenase [EC:1.1.9.1]	methanol/ethanol family PQQ-dependent dehydrogenase
+Deep-sea_sediment_DRR121209_Bin1_contig358_1	61.4	K06174	ATP-binding cassette, sub-family E, member 1	ABC transporter-related RNase L inhibitor
+Deep-sea_sediment_DRR121209_Bin1_contig359_1	55.2	K09482	glutamyl-tRNA(Gln) amidotransferase subunit D [EC:6.3.5.7]	gatD
+Deep-sea_sediment_DRR121209_Bin1_contig359_2	56.0	K03330	glutamyl-tRNA(Gln) amidotransferase subunit E [EC:6.3.5.7]	gatE
+Deep-sea_sediment_DRR121209_Bin1_contig362_1	48.6	K01803	triosephosphate isomerase (TIM) [EC:5.3.1.1]	tpiA
+Deep-sea_sediment_DRR121209_Bin1_contig363_2	51.2	K03470	ribonuclease HII [EC:3.1.26.4]	ribonuclease HII
+Deep-sea_sediment_DRR121209_Bin1_contig364_1	24.8	K08482	circadian clock protein KaiC	RecA/helicase-like
+Deep-sea_sediment_DRR121209_Bin1_contig365_1	63.4	K06996	uncharacterized protein	Glyoxalase/bleomycin resistance protein/dioxygenase
+Deep-sea_sediment_DRR121209_Bin1_contig365_2	60.5	K06996	uncharacterized protein	glyoxalase/bleomycin resistance protein/dioxygenase
+Deep-sea_sediment_DRR121209_Bin1_contig366_1	48.3	K19244	alanine dehydrogenase [EC:1.4.1.1]	Ornithine cyclodeaminase
+Deep-sea_sediment_DRR121209_Bin1_contig368_1	53.4	K03320	ammonium transporter, Amt family	ammonium transporter
+Deep-sea_sediment_DRR121209_Bin1_contig369_1	52.9	K02996	small subunit ribosomal protein S9	rps9p
+Deep-sea_sediment_DRR121209_Bin1_contig369_2	53.3	K02871	large subunit ribosomal protein L13	rpl13p
+Deep-sea_sediment_DRR121209_Bin1_contig371_1	48.1	K07732	riboflavin kinase, archaea type [EC:2.7.1.161]	riboflavin kinase
+Deep-sea_sediment_DRR121209_Bin1_contig373_1	48.5	K00891	shikimate kinase [EC:2.7.1.71]	Shikimate kinase II (EC:2.7.1.71)
+Deep-sea_sediment_DRR121209_Bin1_contig377_2	45.6	K02347	DNA polymerase (family X)	polX
+Deep-sea_sediment_DRR121209_Bin1_contig378_1	52.8	K01586	diaminopimelate decarboxylase [EC:4.1.1.20]	diaminopimelate decarboxylase
+Deep-sea_sediment_DRR121209_Bin1_contig379_1	51.8	K03724	ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	Lhr-like helicase (EC:3.6.1.-)
+Deep-sea_sediment_DRR121209_Bin1_contig380_1	33.3	K17218	sulfide:quinone oxidoreductase [EC:1.8.5.-]	sulfide-quinone oxidoreductase (EC:1.8.5.4)
+Deep-sea_sediment_DRR121209_Bin1_contig381_1	45.6	K03471	ribonuclease HIII [EC:3.1.26.4]	ribonuclease HIII
+Deep-sea_sediment_DRR121209_Bin1_contig383_1	84.0	K03124	transcription initiation factor TFIIB	tfb5
+Deep-sea_sediment_DRR121209_Bin1_contig384_2	54.1	K03855	ferredoxin like protein	fixX
+Deep-sea_sediment_DRR121209_Bin1_contig385_1	76.6	K15987	K(+)-stimulated pyrophosphate-energized sodium pump [EC:3.6.1.1]	hppA
+Deep-sea_sediment_DRR121209_Bin1_contig386_1	38.0	K00527	ribonucleoside-triphosphate reductase [EC:1.17.4.2]	regulatory protein ArsR
+Deep-sea_sediment_DRR121209_Bin1_contig387_1	26.1	K03893	arsenical pump membrane protein	arsenite permease
+Deep-sea_sediment_DRR121209_Bin1_contig389_1	33.0	K09696	sodium transport system permease protein	natB
+Deep-sea_sediment_DRR121209_Bin1_contig392_1	54.8	K11646	3-dehydroquinate synthase II [EC:1.4.1.24]	aroB
+Deep-sea_sediment_DRR121209_Bin1_contig393_1	36.5	K00114	alcohol dehydrogenase (cytochrome c) [EC:1.1.2.8]	conserved hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig395_1	40.6	K00925	acetate kinase [EC:2.7.2.1]	acetate kinase (EC:2.7.2.1)
+Deep-sea_sediment_DRR121209_Bin1_contig396_1	56.9	K18779	7-cyano-7-deazaguanine tRNA-ribosyltransferase [EC:2.4.2.48]	tRNA-guanine transglycosylase
+Deep-sea_sediment_DRR121209_Bin1_contig397_1	58.3	K01687	dihydroxy-acid dehydratase [EC:4.2.1.9]	dihydroxy-acid dehydratase
+Deep-sea_sediment_DRR121209_Bin1_contig398_1	35.4	K02012	iron(III) transport system substrate-binding protein	iron complex ABC transporter substrate-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig399_1	60.3	K02011	iron(III) transport system permease protein	binding-protein-dependent transport system inner membrane protein
+Deep-sea_sediment_DRR121209_Bin1_contig400_1	57.3	K05829	LysW-gamma-L-alpha-aminoadipyl-6-phosphate/LysW-L-glutamyl-5-phosphate reductase [EC:1.2.1.-]	argC
+Deep-sea_sediment_DRR121209_Bin1_contig401_1	51.9	K01869	leucyl-tRNA synthetase [EC:6.1.1.4]	leucyl-tRNA synthetase
+Deep-sea_sediment_DRR121209_Bin1_contig401_2	35.6	K01872	alanyl-tRNA synthetase [EC:6.1.1.7]	alaS
+Deep-sea_sediment_DRR121209_Bin1_contig402_1	32.9	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	asnB
+Deep-sea_sediment_DRR121209_Bin1_contig403_1	34.2	K03442	small conductance mechanosensitive channel	mechanosensitive ion channel protein MscS
+Deep-sea_sediment_DRR121209_Bin1_contig404_1	79.0	K03041	DNA-directed RNA polymerase subunit A' [EC:2.7.7.6]	rpoA
+Deep-sea_sediment_DRR121209_Bin1_contig405_1	67.2	K00820	glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]	glutamine--fructose-6-phosphate transaminase (EC:2.6.1.16)
+Deep-sea_sediment_DRR121209_Bin1_contig406_1	62.3	K00412	ubiquinol-cytochrome c reductase cytochrome b subunit	cytochrome b subunit of the bc complex
+Deep-sea_sediment_DRR121209_Bin1_contig408_1	44.3	K01178	glucoamylase [EC:3.2.1.3]	glucan 1,3-alpha-glucosidase (EC:3.2.1.3)
+Deep-sea_sediment_DRR121209_Bin1_contig410_1	48.3	K02939	large subunit ribosomal protein L9	rplI
+Deep-sea_sediment_DRR121209_Bin1_contig411_1	48.9	K08070	2-alkenal reductase [EC:1.3.1.74]	2-alkenal reductase (EC:1.3.1.74)
+Deep-sea_sediment_DRR121209_Bin1_contig412_1	63.6	K01990	ABC-2 type transport system ATP-binding protein	daunorubicin resistance ABC transporter ATPase
+Deep-sea_sediment_DRR121209_Bin1_contig414_1	25.2	K02012	iron(III) transport system substrate-binding protein	iron ABC transporter substrate-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig415_1	41.6	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	Dolichyl-phosphate beta-D-mannosyltransferase (EC:2.4.1.83)
+Deep-sea_sediment_DRR121209_Bin1_contig417_1	43.5	K00936		atoS
+Deep-sea_sediment_DRR121209_Bin1_contig419_1	28.7	K09846	demethylspheroidene O-methyltransferase [EC:2.1.1.210]	hydroxyneurosporene-O-methyltransferase (EC:2.1.1.-)
+Deep-sea_sediment_DRR121209_Bin1_contig420_1	57.1	K00150	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59]	glyceraldehyde-3-phosphate dehydrogenase (EC:1.2.1.12)
+Deep-sea_sediment_DRR121209_Bin1_contig421_1	60.3	K03433	proteasome beta subunit [EC:3.4.25.1]	psmB
+Deep-sea_sediment_DRR121209_Bin1_contig422_1	55.9	K06966	uncharacterized protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig423_1	81.1	K18285	aminodeoxyfutalosine synthase [EC:2.5.1.120]	radical SAM protein
+Deep-sea_sediment_DRR121209_Bin1_contig424_1	45.3	K13789	geranylgeranyl diphosphate synthase, type II [EC:2.5.1.1 2.5.1.10 2.5.1.29]	polyprenyl synthetase
+Deep-sea_sediment_DRR121209_Bin1_contig425_1	53.8	K00611	ornithine carbamoyltransferase [EC:2.1.3.3]	ornithine carbamoyltransferase (EC:2.1.3.3)
+Deep-sea_sediment_DRR121209_Bin1_contig426_1	55.7	K03724	ATP-dependent helicase Lhr and Lhr-like helicase [EC:3.6.4.-]	ATP dependent helicase, Lhr family (EC:3.6.4.-)
+Deep-sea_sediment_DRR121209_Bin1_contig427_1	70.1	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily protein (EC:3.6.4.6)
+Deep-sea_sediment_DRR121209_Bin1_contig428_1	46.1	K07068	uncharacterized protein	putative nucleic-acid-binding protein containing a Zn-ribbon
+Deep-sea_sediment_DRR121209_Bin1_contig430_1	46.6	K13015	UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]	UDP-glucose/GDP-mannose dehydrogenase
+Deep-sea_sediment_DRR121209_Bin1_contig431_1	64.9	K07058	membrane protein	putative ribonuclease BN
+Deep-sea_sediment_DRR121209_Bin1_contig432_1	40.0	K00100		UDP-glucose/GDP-mannose dehydrogenase
+Deep-sea_sediment_DRR121209_Bin1_contig433_1	55.3	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily protein (EC:3.6.4.6)
+Deep-sea_sediment_DRR121209_Bin1_contig434_1	48.5	K01754	threonine dehydratase [EC:4.3.1.19]	threonine dehydratase
+Deep-sea_sediment_DRR121209_Bin1_contig435_1	37.6	K01869	leucyl-tRNA synthetase [EC:6.1.1.4]	leucyl-tRNA synthetase
+Deep-sea_sediment_DRR121209_Bin1_contig436_2	37.4	K01101	4-nitrophenyl phosphatase [EC:3.1.3.41]	HAD-superfamily hydrolase
+Deep-sea_sediment_DRR121209_Bin1_contig439_1	58.6	K01493	dCMP deaminase [EC:3.5.4.12]	CMP/dCMP deaminase
+Deep-sea_sediment_DRR121209_Bin1_contig441_1	42.1	K09914	putative lipoprotein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig442_1	51.4	K06885	uncharacterized protein	putative metal dependent phosphohydrolase
+Deep-sea_sediment_DRR121209_Bin1_contig444_1	52.7	K04487	cysteine desulfurase [EC:2.8.1.7]	Cysteine sulfinate desulfinase/cysteine desulfurase (EC:2.8.1.7)
+Deep-sea_sediment_DRR121209_Bin1_contig445_1	67.6	K01621	xylulose-5-phosphate/fructose-6-phosphate phosphoketolase [EC:4.1.2.9 4.1.2.22]	xfp
+Deep-sea_sediment_DRR121209_Bin1_contig446_1	81.6	K02118	V/A-type H+-transporting ATPase subunit B	ATP synthase subunit B (EC:3.6.3.14)
+Deep-sea_sediment_DRR121209_Bin1_contig447_1	41.5	K13280	signal peptidase, endoplasmic reticulum-type [EC:3.4.-.-]	LepB
+Deep-sea_sediment_DRR121209_Bin1_contig448_1	54.0	K03432	proteasome alpha subunit [EC:3.4.25.1]	psmA2
+Deep-sea_sediment_DRR121209_Bin1_contig449_1	50.4	K00800	3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]	aroA
+Deep-sea_sediment_DRR121209_Bin1_contig452_2	46.7	K07403	membrane-bound serine protease (ClpP class)	membrane-bound serine protease
+Deep-sea_sediment_DRR121209_Bin1_contig453_1	42.5	K07446	tRNA (guanine10-N2)-dimethyltransferase [EC:2.1.1.213]	N2, N2-dimethylguanosine tRNA methyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig454_2	56.6	K09120	uncharacterized protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig455_1	70.2	K07058	membrane protein	putative ribonuclease BN
+Deep-sea_sediment_DRR121209_Bin1_contig458_1	93.1	K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	leuC
+Deep-sea_sediment_DRR121209_Bin1_contig460_1	59.0	K06865	ATPase	putative PilT protein domain protein
+Deep-sea_sediment_DRR121209_Bin1_contig462_1	46.6	K00003	homoserine dehydrogenase [EC:1.1.1.3]	homoserine dehydrogenase (EC:1.1.1.3)
+Deep-sea_sediment_DRR121209_Bin1_contig470_1	84.7	K13525	transitional endoplasmic reticulum ATPase	AAA family ATPase, CDC48 subfamily protein (EC:3.6.4.6)
+Deep-sea_sediment_DRR121209_Bin1_contig471_1	78.8	K18285	aminodeoxyfutalosine synthase [EC:2.5.1.120]	radical SAM protein
+Deep-sea_sediment_DRR121209_Bin1_contig473_1	63.2	K02986	small subunit ribosomal protein S4	30S ribosomal protein S4
+Deep-sea_sediment_DRR121209_Bin1_contig473_2	57.5	K03040	DNA-directed RNA polymerase subunit alpha [EC:2.7.7.6]	DNA-directed RNA polymerase subunit alpha
+Deep-sea_sediment_DRR121209_Bin1_contig474_1	35.8	K03182	4-hydroxy-3-polyprenylbenzoate decarboxylase [EC:4.1.1.98]	UbiD family decarboxylase
+Deep-sea_sediment_DRR121209_Bin1_contig476_1	64.9	K01895	acetyl-CoA synthetase [EC:6.2.1.1]	AMP-dependent synthetase/ligase
+Deep-sea_sediment_DRR121209_Bin1_contig478_2	60.4	K05592	ATP-dependent RNA helicase DeaD [EC:3.6.4.13]	cshA1
+Deep-sea_sediment_DRR121209_Bin1_contig479_2	61.5	K15634	probable phosphoglycerate mutase [EC:5.4.2.12]	Fructose-2,6-bisphosphatase (EC:5.4.2.1)
+Deep-sea_sediment_DRR121209_Bin1_contig483_1	37.7	K09696	sodium transport system permease protein	Na+ efflux pump permease-like protein
+Deep-sea_sediment_DRR121209_Bin1_contig484_1	68.9	K18285	aminodeoxyfutalosine synthase [EC:2.5.1.120]	radical SAM protein
+Deep-sea_sediment_DRR121209_Bin1_contig485_1	34.1	K09014	Fe-S cluster assembly protein SufB	sufB
+Deep-sea_sediment_DRR121209_Bin1_contig490_1	51.6	K17758	NAD(P)H-hydrate epimerase [EC:5.1.99.6]	nnrD
+Deep-sea_sediment_DRR121209_Bin1_contig491_1	33.1	K01953	asparagine synthase (glutamine-hydrolysing) [EC:6.3.5.4]	metal-binding-domain/4Fe-4S-binding-domain containing ABC transporter, ATP-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig492_1	29.1	K03531	cell division protein FtsZ	cell division protein FtsZ
+Deep-sea_sediment_DRR121209_Bin1_contig494_1	37.0	K09482	glutamyl-tRNA(Gln) amidotransferase subunit D [EC:6.3.5.7]	glutamyl-tRNA(Gln) amidotransferase subunit D
+Deep-sea_sediment_DRR121209_Bin1_contig495_1	74.2	K03265	peptide chain release factor subunit 1	peptide chain release factor 1
+Deep-sea_sediment_DRR121209_Bin1_contig496_1	69.3	K01895	acetyl-CoA synthetase [EC:6.2.1.1]	acetate/CoA ligase
+Deep-sea_sediment_DRR121209_Bin1_contig497_1	55.2	K00966	mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]	nucleotidyl-transferasse
+Deep-sea_sediment_DRR121209_Bin1_contig498_1	41.3	K10896	fanconi anemia group M protein	DEAD/DEAH box helicase domain protein
+Deep-sea_sediment_DRR121209_Bin1_contig499_1	82.5	K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	leuC
+Deep-sea_sediment_DRR121209_Bin1_contig499_2	65.0	K01703	3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	leuC
+Deep-sea_sediment_DRR121209_Bin1_contig502_1	54.1	K01951	GMP synthase (glutamine-hydrolysing) [EC:6.3.5.2]	class I glutamine amidotransferase
+Deep-sea_sediment_DRR121209_Bin1_contig503_1	41.7	K02933	large subunit ribosomal protein L6	50S ribosomal protein L6
+Deep-sea_sediment_DRR121209_Bin1_contig506_1	61.2	K04043	molecular chaperone DnaK	dnaK
+Deep-sea_sediment_DRR121209_Bin1_contig507_1	56.2	K00965	UDPglucose--hexose-1-phosphate uridylyltransferase [EC:2.7.7.12]	galT
+Deep-sea_sediment_DRR121209_Bin1_contig511_1	59.3	K02347	DNA polymerase (family X)	DNA polymerase IV (family X)
+Deep-sea_sediment_DRR121209_Bin1_contig512_1	53.8	K01923	phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6]	purC
+Deep-sea_sediment_DRR121209_Bin1_contig513_1	44.0	K00766	anthranilate phosphoribosyltransferase [EC:2.4.2.18]	trpD
+Deep-sea_sediment_DRR121209_Bin1_contig515_1	60.3	K03330	glutamyl-tRNA(Gln) amidotransferase subunit E [EC:6.3.5.7]	gatE
+Deep-sea_sediment_DRR121209_Bin1_contig515_2	86.4	K03330	glutamyl-tRNA(Gln) amidotransferase subunit E [EC:6.3.5.7]	glutamyl-tRNA(Gln) amidotransferase, subunit E
+Deep-sea_sediment_DRR121209_Bin1_contig516_1	44.0	K06929	uncharacterized protein	CoA-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig517_1	40.3	K01990	ABC-2 type transport system ATP-binding protein	ABC transporter ATP-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig518_1	72.4	K01881	prolyl-tRNA synthetase [EC:6.1.1.15]	prolyl-tRNA synthetase (EC:6.1.1.15)
+Deep-sea_sediment_DRR121209_Bin1_contig521_1	35.9	K00319	methylenetetrahydromethanopterin dehydrogenase [EC:1.5.98.1]	methylenetetrahydromethanopterin dehydrogenase (EC:1.5.99.9)
+Deep-sea_sediment_DRR121209_Bin1_contig522_1	48.7	K03686	molecular chaperone DnaJ	chaperone protein DnaJ
+Deep-sea_sediment_DRR121209_Bin1_contig527_1	30.9	K17760	quinohemoprotein ethanol dehydrogenase [EC:1.1.9.1]	PQQ-dependent dehydrogenase
+Deep-sea_sediment_DRR121209_Bin1_contig528_1	77.0	K07058	membrane protein	putative ribonuclease BN
+Deep-sea_sediment_DRR121209_Bin1_contig529_1	47.3	K00721	dolichol-phosphate mannosyltransferase [EC:2.4.1.83]	glycosyl transferase 2
+Deep-sea_sediment_DRR121209_Bin1_contig530_1	44.9	K09696	sodium transport system permease protein	NatB
+Deep-sea_sediment_DRR121209_Bin1_contig532_1	52.7	K12234	coenzyme F420-0:L-glutamate ligase / coenzyme F420-1:gamma-L-glutamate ligase [EC:6.3.2.31 6.3.2.34]	F420-0:gamma-glutamyl ligase
+Deep-sea_sediment_DRR121209_Bin1_contig533_1	62.7	K01754	threonine dehydratase [EC:4.3.1.19]	threonine dehydratase (EC:4.3.1.19)
+Deep-sea_sediment_DRR121209_Bin1_contig535_1	64.5	K00606	3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]	panB
+Deep-sea_sediment_DRR121209_Bin1_contig535_2	68.6	K00606	3-methyl-2-oxobutanoate hydroxymethyltransferase [EC:2.1.2.11]	panB
+Deep-sea_sediment_DRR121209_Bin1_contig539_1	65.7	K07572	putative nucleotide binding protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig545_1	46.2	K02117	V/A-type H+-transporting ATPase subunit A [EC:3.6.3.14]	V-type H+-transporting ATPase subunit A (EC:3.6.3.14)
+Deep-sea_sediment_DRR121209_Bin1_contig545_2	60.8	K02118	V/A-type H+-transporting ATPase subunit B	atpB
+Deep-sea_sediment_DRR121209_Bin1_contig547_1	57.4	K09726	uncharacterized protein	protein of unknown function DUF354
+Deep-sea_sediment_DRR121209_Bin1_contig549_1	45.1	K08309	soluble lytic murein transglycosylase [EC:3.2.1.-]	lytic transglycosylase catalytic
+Deep-sea_sediment_DRR121209_Bin1_contig550_1	37.6	K16787	energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]	ABC transporter-like protein
+Deep-sea_sediment_DRR121209_Bin1_contig553_1	69.4	K09771	small multidrug resistance family-3 protein	hypothetical protein
+Deep-sea_sediment_DRR121209_Bin1_contig554_1	49.1	K13015	UDP-N-acetyl-D-glucosamine dehydrogenase [EC:1.1.1.136]	nucleotide sugar dehydrogenase
+Deep-sea_sediment_DRR121209_Bin1_contig555_1	50.0	K01990	ABC-2 type transport system ATP-binding protein	ABC transporter ATP-binding protein
+Deep-sea_sediment_DRR121209_Bin1_contig559_1	50.5	K00525	ribonucleoside-diphosphate reductase alpha chain [EC:1.17.4.1]	ribonucleoside-diphosphate reductase class II (EC:1.17.4.-)
+Deep-sea_sediment_DRR121209_Bin1_contig561_1	47.0	K04754	phospholipid-binding lipoprotein MlaA	putative lipoprotein
+Deep-sea_sediment_DRR121209_Bin1_contig562_1	56.5	K02987	small subunit ribosomal protein S4e	30S ribosomal protein S4e
+Deep-sea_sediment_DRR121209_Bin1_contig564_1	53.1	K07668	two-component system, OmpR family, response regulator VicR	response regulator
+Deep-sea_sediment_DRR121209_Bin1_contig565_1	43.4	K04102	4,5-dihydroxyphthalate decarboxylase [EC:4.1.1.55]	4,5-dihydroxyphthalate decarboxylase
+Deep-sea_sediment_DRR121209_Bin1_contig567_1	70.9	K04801	replication factor C small subunit	rfc
+Deep-sea_sediment_DRR121209_Bin1_contig568_1	56.8	K11175	phosphoribosylglycinamide formyltransferase 1 [EC:2.1.2.2]	phosphoribosylglycinamide formyltransferase
+Deep-sea_sediment_DRR121209_Bin1_contig569_1	42.9	K01704	3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	leuD
+Deep-sea_sediment_DRR121209_Bin1_contig570_1	38.2	K08482	circadian clock protein KaiC	kaiC
+Deep-sea_sediment_DRR121209_Bin1_contig571_1	39.5	K18013	3-keto-5-aminohexanoate cleavage enzyme	conserved protein of unknown function
+Deep-sea_sediment_DRR121209_Bin1_contig573_1	53.4	K04479	DNA polymerase IV (archaeal DinB-like DNA polymerase) [EC:2.7.7.7]	dinP
+Deep-sea_sediment_DRR121209_Bin1_contig574_1	56.5	K01992	ABC-2 type transport system permease protein	ABC efflux transporter, permease protein
+Deep-sea_sediment_DRR121209_Bin1_contig575_1	66.3	K00174	2-oxoglutarate ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3]	2-oxoglutarate oxidoreductase, alpha subunit (EC:1.2.7.3)
+Deep-sea_sediment_DRR121209_Bin1_contig580_1	58.4	K02034	peptide/nickel transport system permease protein	ABC-type dipeptide/oligopeptide/nickel transport system, permease component
+Deep-sea_sediment_DRR121209_Bin1_contig584_1	51.3	K07477	translin	RNA-binding protein

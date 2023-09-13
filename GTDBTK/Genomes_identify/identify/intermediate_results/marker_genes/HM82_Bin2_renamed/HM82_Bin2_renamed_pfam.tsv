@@ -1,0 +1,49 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.152832
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/HM82_Bin2_renamed/HM82_Bin2_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+HM82_Bin2-contig125_6      25    166     13    169 PF01025.20  GrpE              Family     7   151   166    105.9   3.1e-31   1 No_clan  
+HM82_Bin2-contig132_4      12    187     11    187 PF04919.13  DUF655            Family     2   181   181    161.9   2.7e-48   1 CL0198   
+HM82_Bin2-contig211_3       3    136      3    138 PF01090.20  Ribosomal_S19e    Family     1   135   137    158.5   1.4e-47   1 CL0123   
+HM82_Bin2-contig261_3      50    207     38    207 PF01025.20  GrpE              Family     6   166   166    130.2     1e-38   1 No_clan  
+HM82_Bin2-contig294_3     122    228    120    229 PF07541.13  EIF_2_alpha       Family     3   113   114     71.9   8.2e-21   1 No_clan  
+HM82_Bin2-contig297_3       4    193      3    194 PF01015.19  Ribosomal_S3Ae    Family     2   194   195    210.4   3.2e-63   1 No_clan  
+HM82_Bin2-contig43_1       12     95     11    100 PF00380.20  Ribosomal_S9      Family     2    85   121     76.3     5e-22   1 CL0329   
+HM82_Bin2-contig43_4       45    157     45    157 PF01000.27  RNA_pol_A_bac     Domain     1   112   112     86.4   2.9e-25   1 No_clan  
+HM82_Bin2-contig478_2     125    228    120    229 PF07541.13  EIF_2_alpha       Family     6   113   114     79.2   4.5e-23   1 No_clan  
+HM82_Bin2-contig491_6      10    150     10    152 PF01280.21  Ribosomal_L19e    Family     1   142   144    128.0   5.1e-38   1 No_clan  
+HM82_Bin2-contig555_4      19    206     11    207 PF00687.22  Ribosomal_L1      Domain     5   203   204    135.0   5.2e-40   1 No_clan  
+HM82_Bin2-contig555_5       8    104      6    120 PF00466.21  Ribosomal_L10     Family     3    98   100     67.0   2.3e-19   1 No_clan  
+HM82_Bin2-contig585_1      20    143     10    147 PF00827.18  Ribosomal_L15e    Family    22   145   189    150.2   9.6e-45   1 CL0652   
+HM82_Bin2-contig603_3       6    130      5    130 PF00410.20  Ribosomal_S8      Domain     2   126   126     77.6   1.4e-22   1 No_clan  
+HM82_Bin2-contig603_6      98    169     96    169 PF00900.21  Ribosomal_S4e     Family     3    75    75     70.3   1.7e-20   1 CL0021   
+HM82_Bin2-contig63_2       28    185     15    185 PF01025.20  GrpE              Family     6   166   166    130.9   6.3e-39   1 No_clan  
+HM82_Bin2-contig98_10       7     69      6     69 PF01200.19  Ribosomal_S28e    Family     2    64    64    104.1   5.2e-31   1 CL0021   

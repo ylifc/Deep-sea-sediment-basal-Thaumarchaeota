@@ -1,0 +1,501 @@
+
+>PF01922 lcl|consensus
+--------------------------------------------------------------------------------
+---------VIYPAYFDSKRTRAEGRRVPKELA--------VENPTAKEIADAC-KKLG------LPVV---VePDKTHP
+RD-----WAn---------------------pGRVRVQLknddg------pvnpeIK-NKKQLLKKIAEYIKKL------
+------------------------------------------------------
+>PF01922 gi|20151089|pdb|1KVV|A
+--------------------------------------------------------------------------------
+-----mkesVVWTVNLDSKKSRAEGRRIPRRFA--------VPNVKLHELVEAS-KELG------LKFR---A-EEKKYP
+KS-----WWee--------------------gGRVVVEK----------------RG-TKTKLMIELARKIAEireqkre
+qkkdkkkkkk--------------------------------------------
+>PF01922 gi|472831610|gb|AGI47347.1|
+--------------------------------------------------------------------------------
+mafdedtaiTLWPEYFDAERTRAEGRRLPLSLC--------VKRPSLDMIAKGA-ITLD------LDYK---IyEDKCYP
+GD-----WIak--------------------kGCVRVEK----------------GKmKKGEILPKIGEVLVKnqe----
+------------------------------------------------------
+>PF01922 gi|548650282|ref|WP_022532979.1|
+--------------------------------------------------------------------------------
+maydddtaiVLWPEYFDSGLTRAQGRRLPTALC--------VKQPSLDMIAKGA-ILLD------LEYR---ViEDKSYP
+SD-----WPsk--------------------rGCVRVEK----------------GKmKKSEILPKIGEILVKnqk----
+------------------------------------------------------
+>PF01922 gi|315425609|dbj|BAJ47268.1|
+--------------------------------------------------------------------------------
+--mirreglILWPVYFDSKSSRKQGRRVSRGLA--------VQRPSADDLAAAC-RRLG------YEVEk----NDAAYP
+RR-----WSrr--------------------tGYVVVKPrp---------------kiSKNMFLKMVAEELRKHgk----
+------------------------------------------------------
+>PF01922 gi|378754860|gb|EHY64888.1|
+--------------------------------------------------------------------------------
+-----mvevrIYPIYFNRGIKRSQGRKVPFSSN--------SKPVTLQQLLKAL-IQLK------IEYK---Ve-TKQHP
+KHs----YAlcaeclpaatkpeeverlfsttgGSVMIT-----------------TD-SKRQLIKEINDLLSTnk-----
+------------------------------------------------------
+>PF01922 gi|387592893|gb|EIJ87917.1|
+--------------------------------------------------------------------------------
+-----mvevrIYPIYFNSGIKRSQGRKVPFRNN--------AKAVTLQQLLKAL-NQLK------IEYT---Ve-TKQHP
+KHs----YElcaqflpstskpeeverlfsttgGAVKIT-----------------TD-SKRQLIKDIDNLLngsk-----
+------------------------------------------------------
+>PF01922 gi|160339328|gb|ABX12415.1|
+--------------------------------------------------------------------------------
+--mkdyehiVIWLDYFNKNLKKSKGRRLGLEKC--------VFDPSLKELTDAA-KAAG------FEITe--SdDKVRFP
+KRp----FVr---------------------sGYVVLPK----------------GS-SKTKILNKISEKLVAKrskqsk
+------------------------------------------------------
+>PF01922 gi|408364731|gb|AFU58461.1|
+--------------------------------------------------------------------------------
+--mkdydhvVLWLDYFNKNLKRRQGRKVNREQA--------VFDPTVQELAEAA-KAAG------FQFSdqeVnDNARFP
+RRs----FTr---------------------sGYVMVAKke---------------gvKKSQVIDAVAEKIVQRrskqks
+gkk---------------------------------------------------
+>PF01922 gi|497447021|ref|WP_009761219.1|
+--------------------------------------------------------------------------------
+-----mvenVIWPAYFDATLSRRDGRRIPRSLA--------VEEPTVDEIATAV-QQVG------YDAV---VeRDVSYP
+RR-----HWeq--------------------sGRVLVKDa--------------dDA-GKSDLLQAVAAYVTALrd----
+------------------------------------------------------
+>PF01922 gi|521283478|ref|WP_020447746.1|
+--------------------------------------------------------------------------------
+-----mvenVLWPAYFDADLSRSDGRRVPSDLA--------VEDPTVEEIAEAV-GQVG------YDAT---VeRDVAYP
+RE-----HYqk--------------------rGRIVVHDa--------------tDT-GKADLIQAVGAYVTALrn----
+------------------------------------------------------
+>PF01922 gi|121723108|sp|Q3IPF4.1|SRP19_NATPD
+--------------------------------------------------------------------------------
+-----mvenVIWPAYLDANCTRNEGRRVAEDLA--------VEEPTVDEIASAV-QQVG------YDAV---IeRSKTYP
+RE------Yep--------------------rGRVVVKGa--------------dDA-SKSDLLEAVAAYVTAIre----
+------------------------------------------------------
+>PF01922 gi|502707814|ref|WP_012943005.1|
+--------------------------------------------------------------------------------
+-----mvenVIWPAYLDANRTRSEGRRVSQDLA--------VDEPTVDEIAKAV-QQIG------YDAT---IeRDKAYS
+RE-----HWad--------------------rGRVVVRGa--------------dDS-TKNDLVQAVAAYVVAMrd----
+------------------------------------------------------
+>PF01922 gi|121687409|sp|Q18K21.1|SRP19_HALWD
+--------------------------------------------------------------------------------
+----mavenIVWPRYLDASITRSDGRRVSLQDA--------IEDPEVDEIAEAV-QQIG------YDAV---IeHDVAHP
+RE-----WGt---------------------sGRVIVKGa--------------dDS-SKNDLVQAVAAYIHLLre----
+------------------------------------------------------
+>PF01922 gi|445580577|gb|ELY34955.1|
+--------------------------------------------------------------------------------
+-----mvenVIWPAYLDAEVSRSAGRRVPLDLA--------VPEPTVDEIAAAA-QQVG------YDAV---IeRERTYP
+RE------Yep--------------------rGRVLVKDa--------------dDA-SKNDLVQAIAAYVTALre----
+------------------------------------------------------
+>PF01922 gi|506243962|ref|WP_015763737.1|
+--------------------------------------------------------------------------------
+-----mvenVIWPAALDAALSRNEGRRVSREQA--------VPEPTVDEIAKAV-QQVG------YDAV---IeREKTYP
+RE------Yep--------------------rGRVLVKDa--------------dDA-TKSDLLGAVAAYLQALra----
+------------------------------------------------------
+>PF01922 gi|504549636|ref|WP_014736738.1|
+-------------------------------------------------------------------------------m
+sreyekrkvVIYPHYIDCSSTRSEGRRVPKSLC--------VPNPTLEEIEKAA-RRLG------FEVE---VeADKKYP
+RM-----WRk---------------------aGRVVVNK----------------VF-SKTRLLKLISMELKKTrg----
+------------------------------------------------------
+>PF01922 gi|502894044|ref|WP_013129020.1|
+-------------------------------------------------------------------------------m
+sreyrgrkiVLYPSYIDSTFSRGEGRRIPSALA--------VPSPSIEEIYNAA-VKLG------LNPV---VeNDKAYP
+GK-----WWv---------------------kGRVVVDK----------------KY-SKTTLLRKIAIEIKENrarkh-
+------------------------------------------------------
+>PF01922 gi|284012396|gb|ADB58349.1|
+--------------------------------------------------------------------------------
+-----mkecVIWTVNIDSRKKRSEGRKIALKYA--------VPNVKLEEIVKAC-KELG------IPCK---A-EEKKYP
+KF-----WWee--------------------gGRVVVPK----------------TE-SKIRLMEKIVSKIKEIrerekt
+kkkk--------------------------------------------------
+>PF01922 gi|484592219|gb|AGK60862.1|
+--------------------------------------------------------------------------------
+----mekecVIWPVNLDKRKSRKEGRKIPRRLS--------VPNVKLNELVSAC-KELE------IKYR---VeEEKKYP
+RC-----WWes--------------------gGRIFVEK----------------RA-KKTHIMIEIAKKILELreksea
+drkkkkkrkkr-------------------------------------------
+>PF01922 gi|307551707|gb|ADN51772.1|
+--------------------------------------------------------------------------------
+--mdrrdywIIWTVYFDSSKSRGFGRKVPSNVA--------IKSPTIDELVKAI-SNLG------LEFE---VyGDKKHP
+GN-----WFeg-------------------pyGYVAVKKesair---------rfgsiNKRRLLMLIARELVRIrqstaq
+arss--------------------------------------------------
+>PF01922 gi|229558604|sp|A8MBC3.1|SRP19_CALMQ
+--------------------------------------------------------------------------------
+--mgkkdywVVWRINIDSTVSRSNGRVVPRQLA--------VDKPTLEEIAKAA-SMLG------LKYE---AhPEKKHP
+RH-----WFeed------------------yvGCIYVYKvd---------------dySRRSLIKKLAQIVKSSrrgg--
+------------------------------------------------------
+>PF01922 gi|21542238|sp|Q8ZTB7.1|SRP19_PYRAE
+--------------------------------------------------------------------------------
+--mkkkggrILWLVYIDASVPRSRGRVLPRGLA--------VEKPSLKEVVQAL-EELG------YKFQ---VfPDKKYP
+PL-----WFee-------------------kwGYVVVET----------------NE-KIREIASKVAGKIREMrr----
+------------------------------------------------------
+>PF01922 gi|343461400|gb|AEM39836.1|
+-------------------------------------------------------------------------------m
+sreyrgkrvVVWPSYIDASKSRGQGRKIPRKDA--------VPRPRVEEIVEAA-ERLG------LNPE---Ve-EARYP
+RA-----WWed--------------------rQRVVVDK----------------LG-SKLETLKAIAREIRRIreerrm
+vrr---------------------------------------------------
+>PF01922 gi|158513940|sp|A2BJ20.1|SRP19_HYPBU
+-------------------------------------------------------------------------------m
+skeyrgrriVLWPANIDSTLSRSEGRKIPLRDA--------VRKPRVEEIVEAA-NRLG------LNPT---Ve-EAAYP
+RS-----WWeq--------------------rKRVVVDK----------------VG-SKLNTLRMIAQEVKKLreerrr
+lgk---------------------------------------------------
+>PF01922 gi|23396864|sp|Q8TV49.1|SRP19_METKA
+--------------------------------------------------------------------------maetpt
+vklkgkdriVVWPAYFDADRSRSEGRKVPKRLA--------VRNPRLTELRHIA-EKLG------LNPK---VqRDKRYP
+KR-----WWdd--------------------kGRLIVDK----------------VE-SKRKTLLMIAEKLKERres---
+------------------------------------------------------
+>PF01922 gi|158512703|sp|A0B5U7.2|SRP19_METTP
+--------------------------------------------------------------------------------
+---mpedrlVIWPAYFDLERSRGQGRRVATANA--------VRNPKLEDIIRAS-KDLG------LDPV---VeTEKCYP
+KN-----WYeq--------------------pGRVLVLK----------------KG-SKTKTLRSIARALKKRrs----
+------------------------------------------------------
+>PF01922 gi|503179700|ref|WP_013414361.1|
+--------------------------------------------------------------------------------
+------meaVIWPANIDSKKTRKEGRKIPKKDA--------VKDPTIKEMYEAA-KKLG------LEPE---IeKNKYYP
+RS-----WWer--------------------kGRLRIKK----------------TK-SKIEIMKKISRLIKAMr-----
+------------------------------------------------------
+>PF01922 gi|297378420|gb|ADI36575.1|
+--------------------------------------------------------------------------------
+---mtnkefVIWPAYFDVQNSRSKGRKLNKEFC--------TRNVKLKEIVSAV-KKLG------YSYE---QvNSKAYP
+KE-----PWen--------------------nGYVKVKIens----------ensTI-GKYELLLQIGKQLca-------
+------------------------------------------------------
+>PF01922 gi|171460845|sp|A6USX5.1|SRP19_META3
+--------------------------------------------------------------------------------
+-----mkeiIIWSAYLDAEKSRKEGRKIPKELC--------VNNPKIKDIYNSL-RKLG------YNAE---IvKNKCHP
+KE-----WWei--------------------vGYIKVKVnd---------------diPKLEILKKICENLKK-------
+------------------------------------------------------
+>PF01922 gi|504399415|ref|WP_014586517.1|
+--------------------------------------------------------------------------------
+-msskdgrwVIWPAYIDAGRSRGQGRAVSRRDA--------VEEPTVDEILVAA-LEMG------LQAE---AeRDKHYP
+KE-----WWek--------------------sGRVRVQK----------------KG-PKAALVREIATRIRRRrg----
+------------------------------------------------------
+>PF01922 gi|121687885|sp|Q0W2Z9.1|SRP19_METAR
+--------------------------------------------------------------------------------
+--mkekhqiVIWPVYLDANKARNEGRLTPMSCS--------VKTPRVMEIFKAA-EKLG------LHPE---HvTGKAHP
+AA-----WAdk--------------------sGYVLVDN----------------IG-PKTDLLRRIGTEIIRMrggkq-
+------------------------------------------------------
+>PF01922 gi|282157604|dbj|BAI62692.1|
+--------------------------------------------------------------------------------
+--mqsnkriFVWPVYLDLNHTRKEGRLTKKEHS--------VKAPKVSEIKRAA-ENLG------LHPE---VeANRAHP
+AR-----PFdr--------------------sGRVTIDN----------------LG-PKSALLDRIGAEIIRLrggkq-
+------------------------------------------------------
+>PF01922 gi|433662841|gb|AGB50267.1|
+--------------------------------------------------------------------------------
+--mrdrnklVIWPAYIDKNRSRSQGRIISRKSS--------VGEPTLTEIEKAA-LKLG------LNPE---VeKEKSYP
+RS-----WWek--------------------sGRVLIDN----------------TA-PKTQLSRKIAAAIKEIra----
+------------------------------------------------------
+>PF01922 gi|298288876|gb|ADI74842.1|
+--------------------------------------------------------------------------------
+mlmrdrgklVIWPVYLDRTRTRSDGRIISKKKS--------VREPELKEIEKAA-SKLG------LNPE---VeEDKAYP
+RS-----WWev--------------------sGRVMVDK----------------TA-PKSYLLKQIAKIIKENreggk-
+------------------------------------------------------
+>PF01922 gi|23396863|sp|Q8TTY3.2|SRP19_METAC
+--------------------------------------------------------------------------------
+--mkdkgklVIWPAYIDQTRSRSNGRIISRKNA--------VKEPHLNEIKDAA-KNLG------LNPE---VePEKAYP
+KS-----WWev--------------------sGRVLVDD----------------RG-PKSVIAKQISLEIRKKrgkgvp
+akt---------------------------------------------------
+>PF01922 gi|187609713|sp|Q12U87.3|SRP19_METBU
+--------------------------------------------------------------------------------
+--mrekgklVIWPANLDKSRSRKGGRIISRKSS--------LEAPLLRELTAAA-EKLN------LNPE---VeADKKYP
+RT-----WWes--------------------sGRILVDN----------------NE-AKTMVARKIAKTIKEArgg---
+------------------------------------------------------
+>PF01922 gi|335931008|gb|AEH61549.1|
+--------------------------------------------------------------------------------
+mlmkdkgklVIWPSYIDKSKSRSKGRIISKKKS--------IKDPQLTEIETAA-AKLD------LHPE---VeADKRYP
+KS-----WWem--------------------sGRVLVEN----------------IE-PKTVTARKIADTIRKIrgdk--
+------------------------------------------------------
+>PF01922 gi|121722888|sp|Q2NF32.1|SRP19_METST
+--------------------------------------------------------------------------------
+------mktIIWPTYINSEHSRGEGRKLSLEES--------VEEPKIREISQSL-KKLK------IQYV---VeHNKSYP
+GS-----WWek--------------------sGRVVVEQ----------------EDmTKLELLRAIAKNIKNSrnn---
+------------------------------------------------------
+>PF01922 gi|288543512|gb|ADC47396.1|
+--------------------------------------------------------------------------------
+-----mkevMIWPIYLDADKSLNEGRKISQEYA--------ISEPRIKEIEKAA-QKLK------YKYT---VeEDKSYP
+GE-----WYnk--------------------sGRIIIET----------------DD-SKKEILMNLSNSIKDIrearkn
+ykptkkgkkgkk------------------------------------------
+>PF01922 gi|159108284|ref|XP_001704414.1|
+--------------------------------------------------------------------------------
+----mgkacIIYPRYMDSEASLKDGRRLGLEHS--------VPRPSLAEIEAAV-RKV-------YPSAqvlAdRDKRYP
+KGaveahDL-----------------------GYLKIDKet------------ikAAgGKLELLKSLQKHIVEArqevid
+tlkqpeaakvt-------------------------------------------
+>PF01922 gi|667638605|ref|XP_007603621.1|
+--------------------------------------------------------------------------------
+mldstekcfIIYPIYINSSVSLGRGRKYSLKNS--------VSKPTFKEIKHAL-DSLG------VKYE---EePEKMHP
+KE-----GKe---------------------kGRFRIDK----------------AH-TRKYIVDNLAPKISELraqada
+rtksgsnllnlvpksrkkskkas-------------------------------
+>PF01922 gi|429964167|gb|ELA46165.1|
+--------------------------------------------------------------------------------
+-----mstfAIYPCHMNAALSHKHGRKYNKKLC--------TSNPTIQEMEKAA-AALG------LQFT---LeDKKTHP
+KT-----PLd---------------------pGRIRFSK----------------EY-GRLTVIRGLKQEIEELrivkve
+keiakkenvkakigttvfmprtkkkkdekkskknk-------------------
+>PF01922 gi|52783413|sp|Q8SRC3.1|SEC65_ENCCU
+--------------------------------------------------------------------------------
+---meskhfCLYPIYMDSARSLSEGRKYRKEIC--------VQRPRYHEIKNAL-EKLE------IEYT---DePSKKHP
+RD-----FFn---------------------sGRFRIKK----------------EY-GRLFVIEGISQTIAELrskpgs
+seetsrekqsrgkavhgvvqngvyvenklnlvrkkkakkkk-------------
+>PF01922 gi|154418215|ref|XP_001582126.1|
+--------------------------------------------------------------------------------
+---mlrsriVCYPCYIDSTTKEFDGRKISKELC--------VEKPTIKELILAF-KDCG------FTGK---EeADKTHP
+RD-----FFr---------------------sGRVSIDFysineetkkktllnpnYK-NRKSIYAALAAKIKENrannrt
+sevqqpskknkkk-----------------------------------------
+>PF01922 gi|121892502|gb|EAX97790.1|
+-------------------------------------------------------msgrrqrvvvqqpppemmqqpmerv
+dgsmnhnriFIYPCYIDNEMTEFQGRKLPKEQC--------VQNPFIEEISRAI-FELG------FEGI---YsMQKRHP
+RN-----FWk---------------------fGRAAITFykkdeatgnrvpiypqYP-KRKDVYRAIAKKIVEIranlsn
+kdrqmllqrlamkry---------------------------------------
+>PF01922 gi|67475490|ref|XP_653439.1|
+----------------------------------------------------------------------------matq
+qkvdtsrwiVIYPAYIDSELTIAQGRKVSKEVS--------VKQPNVFDLKKAC-ETLK------VNFV---LeKQRYSR
+QQ-----WVm----------------------GRVRIQLkdeng------vnitsFK-NRITLIRAVAESVKNAreeaak
+aqpakkvgkk--------------------------------------------
+>PF01922 gi|74862857|sp|Q8I5P4|Q8I5P4_PLAF7
+-----------------------------------------------------mvkeqglnitnvynrdiynnaenntid
+eskdysrwkIIYPNYLNKKKKVNEGRRINLKYC--------VSDPTVDEIALAC-KELN------VSYV---IeKKKYYP
+RD-----WLi---------------------eGRIRIKLpnq----------nndIL-NKFELMKKIGLKLQTIkvnves
+nvvintnnlskkkkkkknke----------------------------------
+>PF01922 gi|156083635|ref|XP_001609301.1|
+---------------------------------------------------------------------------masti
+sedaistwtILYPTYFDKKATVSGGRRVNKTLA--------VEDPSVEDIRIVC-EKLK------VPYK---VeRHKIYP
+RD-----FLn---------------------pGRIRVYFldpn--------aeskAT-TKTGFISEIAPYIAQVkstqks
+vvksttssksskkkkgk-------------------------------------
+>PF01922 gi|122053670|sp|Q4N9F1|Q4N9F1_THEPA
+-----------------------------------------------------------------------------mds
+aevdssnwnIIYPTYLDKDCTSSQGRKINLSVA--------VSKPTIEEIKIVC-EKLN------IPHV---VeEKKRYP
+RN-----WMv---------------------pGRVRVCLrdse--------tnekTR-TKKQVMCEIATLISQLktrqqp
+kqtaqstptskkkpnkkrr-----------------------------------
+>PF01922 gi|255070567|ref|XP_002507365.1|
+--------------------------------------------------------------------mveitsaddaag
+ggykhdrrvIIYPSYINSRCSVAEGRRIPKDAA--------CDAPNVLEIRDVLeKSMK------LPCE---Ve-DKSYP
+KD-----FWq---------------------rGRVRVTIkkddgt-----piareFP-TRRAVMLEIARLVPKHpgrqpg
+apkdkktmptaleiltqfssqpgqagassgaggggggggsskkdkggkkgkkgr
+>PF01922 gi|226462296|gb|EEH59588.1|
+--------------------------------------------------------------------------------
+--------vIIYPVYLNANASVADGRKLARSAC--------CDAPHVLEIRDVIeKHLK------LPCE---Ie-DKHHS
+RD-----TWq---------------------rGRVRVTLkkddgm-----plareIS-TRGALLTEVARMIPKHpartpg
+tsahker-----------------------------------------------
+>PF01922 gi|145341252|ref|XP_001415727.1|
+--------------------------------------------------------------------------------
+--------vVVYPPYIDAARSVAKGRRIAREDA--------VEHPHALEVADACeRALG------MRCE---Le-DKAYS
+RD-----FWc---------------------rGRVRVEWkrddgs-----fvreeLN-TRGKLLRAIAAAVKAHpergen
+gkp---------------------------------------------------
+>PF01922 gi|302820669|ref|XP_002992001.1|
+-----------------------------------------------------------------------------mer
+evpdisrwvIVYPVYINSKKTLAEGRRIAANLA--------CENPTLGEIVESC-HLLK------LSTA---AePEKAYS
+RD-----FMq---------------------rGRVRVQLfqknapk---tpvnpgIT-SRKALMLKIAELVPTRrrdhqs
+haaasshsgasassgrggkggrkkk-----------------------------
+>PF01922 gi|21542239|sp|Q943Z6.1|SRP19_ARATH
+-----------------------------------------------------------------------------mds
+gtinikkwvVIYPVYINSKKTVAEGRRISVSKS--------CENPNCIEISDCC-KHLK------LPSA---VeIDKAYP
+RD-----FMq---------------------vGRVRVQLkredgt-----llnpaIT-SRKHLMQKIAELVPRHpervkk
+qeaqkakkqepqattstsgtssksgkggkkkr----------------------
+>PF01922 gi|695051561|ref|XP_009413810.1|
+-----------------------------------------------------------------------------mqi
+dpanikkwnVIYPVYINSKKTVAEGRRISATKA--------CENPTCIEIGDCC-SYLK------IPFA---IeLDKAYP
+RD-----FMq---------------------rGRVRVQLkredgs-----lwnseID-SKKQLMLRIAELIPKHhgrtkk
+qepvntstaagpsksgkggrkkk-------------------------------
+>PF01922 gi|835958836|ref|XP_012700572.1|
+-------------------------------------------------------------------------mdggggd
+lrstikkwnVIYPVYLNSKKTVAEGRRIAASKA--------CPDPTCIEIADCC-SHLK------IPYA---IeLDKAYP
+RD-----FFq---------------------vGRVRVQLkkddgs-----pvnpaIK-TKKQLMIQIAELVPKHhgrtkk
+qesapsssasgsskntkggkkkk-------------------------------
+>PF01922 gi|297736791|emb|CBI25992.3|
+mhkgvwidqsnpdgnesllvgialtqrpntfflsqffyfsffikkkkarlhsianrdlspylaganlyyrlriligdmdg
+evpnikkwiVFYPVYINSKKTIAEGRRLSTSKA--------CENPTCVEIGDCC-SHLK------LPFA---IeIDKAYP
+RD-----FMq---------------------rGRVRVLLkkedgt-----lynpaIS-SRKELMRHVAELVPRHpgrvkk
+qepastsntgssksgkggkkkr--------------------------------
+>PF01922 gi|565353818|ref|XP_006343819.1|
+-----------------------------------------------------------------------------mdg
+eiknikkwnILYPVYINSKKTIAEGRRICVTKA--------CENPTCTEISDCC-NFLK------IPCA---IeLDKAYP
+RD-----FMq---------------------rGRVRVLLkredgt-----pynpvIP-SRKQLMINVAELVRRHpnrtkk
+qepaassaagssksgkggrkkr--------------------------------
+>PF01922 gi|299116245|emb|CBN74594.1|
+----------------------------msrrrvvvkqqkpqgggmqaamkemanfedgmptpyippdknslyvrpaeal
+rrmdvskliVIWPNNVDSTRTIKRGRRIPKASG--------CPSPTVEDMSQVL-EFLQ------LWHA---VePYKAYP
+RE-----PWv---------------------lGRVRVRLadedgv-----pwnpeVP-DRPSLMKKMGELMPNLksridr
+iskakkdaealaraekekaaaavaaasqsnmkkkgkkkgkr-------------
+>PF01922 lcl|3_pfamImport
+--------------------------------------------------------------------------------
+-----------YPNYIDSKKTVQQGRRISKEQA--------CETPVADEMSEVC-TYFK------LPHV---LePAKKYP
+RD-----WLv---------------------sGRVRVRLlkadgt-----penpeIP-SRKVLMVKMAELVPKL------
+------------------------------------------------------
+>PF01922 lcl|4_pfamImport
+--------------------------------------------------------------------------------
+----------FYPNYLDSKRTVQQGRRIPKSMA--------CEAPIADEMSEVC-TFLK------LPHV---LePTKKYP
+RD-----WLv---------------------aGRIRVRLvredgs-----lenpeLP-NRKALILKMADLIPKL------
+------------------------------------------------------
+>PF01922 gi|302855304|ref|XP_002959148.1|
+--------------------------------------------------------------------------------
+--mnpdrrvIVYPQYLDSTKTVAEGRRIPKTLA--------CEDPFTNELYDCC-KLLK------LESQ---Ie-AKHYP
+RD-----WLp---------------------kGRIRVQLkgedgk-----pinpeIP-DRRTLMVKLAELIPKHpgrasg
+kgrqqttatklmemagggaagsgsgagssgagaskpapskkggkkgkk------
+>PF01922 gi|307106786|gb|EFN55031.1|
+--------------------------------------------------------------------------------
+msfehdkrvIVYPNYLDNRKTVAQGRRIPKELGelppaaavPSAPNAIEIYECIiNGLK------LEAE---Ae-MKSYP
+RD-----WMv---------------------pGRVRVKLrgedgs-----lanpdIP-TRRALLLKVAELVPRHpgrvng
+rpkavaaaaekvaqqaaggsgagsskqqqqqhggkkksskkk------------
+>PF01922 gi|270001745|gb|EEZ98192.1|
+----------------------------------------------------------------mqasssapllqwspdk
+khsdrerwiCIYPAYINSKKTVAQGRRIAKEKC--------VENPTHQEMRDVL-SAAG------LQVG---Ve-NKLYS
+RErs-keLLy---------------------rGRIRIQLkkddgt-----pvnkdFP-TRESVMLHLCEMIPKLkirqnk
+sggdqvqsnpssgkgkgkgkgrr-------------------------------
+>PF01922 lcl|5_pfamImport
+--------------------------------------------------------------------------------
+---------CIYPAYINSKKTLAEGRRVPKDKA--------IENPTYQEIRDVL-SAAG------MKVG---Ve-NKMYS
+RErs-keLLy---------------------iGRIRVQLrnddgt-----plnpdFP-SRTSVMLHLCSMIPKL------
+------------------------------------------------------
+>PF01922 gi|1032744581|ref|XP_001607942.3|
+-----------------------------------------------------------------------maptweatk
+nhsdrerwiCIYPAYINSKKSLAEGRKLTKEKC--------VENPTHQEIRDVL-LSVG------LNVG---Ve-NKLHP
+RErs-keLLy---------------------rGRIRVQLknndgt-----pfnpdFP-SRDSLLSFLGTNIPKLksrqgk
+qaageqsaqqssastskkgkgkgrr-----------------------------
+>PF01922 gi|571563653|ref|XP_006559307.1|
+-----------------------------------------------------------------------malgwnpsk
+khsdrerwiCIYPVYLNSKRTLAEGRKLAKDKC--------VENPTHQEIRDVL-VAAG------FNVG---Ve-NKLHP
+RErs-keLLy---------------------rGRIRVQLknddgt-----pvkseFP-TRDSVLAYVGTTIPKLktrqgk
+hssgeqfsqpssssskkgkgkgrr------------------------------
+>PF01922 gi|641658941|ref|XP_008180902.1|
+------------------------------------------------------------------------mssiyaek
+kpsdrsrwiCIYPAYLNNKKTLAEGRIVPKKFA--------VENPTYQEILEVV-KASG------FNAE---Ve-NKQYP
+REcs-keWHf---------------------rGRIRVQLknddgt-----pfnqtFP-SRESLMKHCGVQIPKLksramk
+vpgpeqqnknepsgskkkkgrk--------------------------------
+>PF01922 gi|1573727813|ref|XP_028027278.1|
+--------------------------------------------------------------------masmitswnpek
+khsdverwiCIYPAYLNSKKTLAEGRRLPKSVC--------VENPTHQEIRDVL-LATG------LRVG---Ve-NKLYS
+REcs-keMLy---------------------rGRIRVQIknddga-----pvnpeFP-TRESVMKYIGESIPKLktrqnr
+pveqqpqptnqaisktkgkkgrr-------------------------------
+>PF01922 gi|1209693176|gb|OWR46710.1|
+--------------------------------------------------------------------maavvtswtpdk
+khtdlqrwiCIYPAYLNSKKTLAEGRKLPRDIC--------VENPTHQEIRDVL-FTTG------LRIG---Ve-NKLYP
+RErs-keMLy---------------------rGRIRVELknddgt-----pikdeYP-TREAVMRHIVESIPKLktrqnr
+paeqqpqavqqssnkskgkkgrr-------------------------------
+>PF01922 gi|1005958869|ref|XP_015787815.1|
+------------------------------------------------------------------------------ma
+eqigeknwlTVYPAYINSNRSRQRGRMVPKEKG--------VSDPRWQEIKDVLeTIKG------VQVK---EePNKVYP
+REldkelMHc---------------------rGRVRYTLpgn----------dprFK-KRDDVLFYLCEMIPKLksrttk
+gntaqtqsteqsavsgkkkksrkn------------------------------
+>PF01922 gi|321456181|gb|EFX67295.1|
+-------------------------------------------------------------------masfarnsfnpnk
+kpsdperwiCVYPAYIDSNKTRVDGRRVPKSRA--------VDKPTCSEICDVL-TAAN------FKVG---Ve-PKFYP
+REps-keDEm---------------------rGRVRVQLknedgt-----pvnpaFP-SRDSVLLYIGEKIPHLksrvfk
+sggdgqsanqggggkkkgkggrr-------------------------------
+>PF01922 gi|121992761|sp|Q29E72|Q29E72_DROPS
+-----------------------------------------------------------------maeplpmrinwnpdl
+khnqmerwiCIYPAYINSKKTRQEGRRLPKENC--------VENPHYHEMRDVL-SVTN------MHFL---Ve-TLKYP
+REis-keAQf---------------------rGRIRVQLrnadgt-----lcskdFP-SRESIMQYIAGKIPQLktrqnk
+sadsfhqpqlqssgsgasggg---------------------------------
+>PF01922 gi|195338145|ref|XP_002035686.1|
+-----------------------------------------------------------------mataapmikhwdpsm
+khndmerwiCIYPAYINSKKTRQEGRRLPKENC--------VDNPSYIEIRDVL-SVSN------LQFL---Me-NKKYC
+REns-seMEf---------------------rGRVRVQLrnvdgt-----lynndFP-TRESIMLHIASKIPQLktrqnk
+pgdsyhqqsqpqsnasgsggggggkkgkgkrr----------------------
+>PF01922 gi|193919113|gb|EDW17980.1|
+-----------------------------------------------------------------maasqpvrmnwhpnm
+khneverwiCIYPAYINSKKTRQEGRRLPKENC--------VENPTYVEIRDVL-SVCN------LQFV---Ve-NKQYC
+REks-reLQf---------------------rGRVRVQLrnadgt-----lcnkdFS-TRESVMKYVAGKIPQLktrqnk
+tndpqpqpqssgsgagggggkkgkgkrr--------------------------
+>PF01922 gi|568253579|gb|ETN62677.1|
+---------------------------------------------------maapqhahcahpgssragppplapwtpdk
+khsdrerwiCIYPTYINRKKTRQEGRRLPKENC--------VDDPSIQEIRDVL-QSIN------MNLL---Le-LKQYP
+RErs-reLQh---------------------rGRVRVQLrddggn-----plnpeYP-TRDSLLVHVGKTIPMLksrqtk
+apeqapvaattsagpkkgkgkrr-------------------------------
+>PF01922 gi|74801817|sp|Q7Q162|Q7Q162_ANOGA
+------------------------------------------------------------------mqgsppltpwspdk
+khsdrerwvCIYPAYINRKKSRQEGRRIPKQYC--------VDDPSPQEIRDVL-QALN------MNVL---Ve-LKQYP
+RErs-reLQc---------------------rGRIRVQLrnddga-----plnseYA-TRDSVLLHLGKTIPLlksrqak
+pqeqsqaaasssagqkkgkgkrr-------------------------------
+>PF01922 gi|167874510|gb|EDS37893.1|
+----------------------------------------------------------------mahaqaplrpfntpgl
+lhsdrerwvCIYPAYLNRKKTRQEGRRLPLAHC--------VDNPTFQEIRDVL-QVLK------LNVI---Ve-NKLYT
+REks-keLAy---------------------rGRIRVQLrqddge-----pvleeYS-TRDSVLLYLGDTIPQLktrmgr
+aenatllqqassssggaggsggsaggsssggggqshkkgkgkrr----------
+>PF01922 gi|122094903|sp|Q17BN4|Q17BN4_AEDAE
+-----------------------------------------------------------------maaavapmrpwnpaf
+qhsdrerwvCIYPAYINKKKTRQEGRRIPKEQC--------VDNPSFQEIRDIM-HSLN------LNVI---Ve-NKQYS
+REks-keLAf---------------------rGRIRVQLrnndgs-----pilkeYP-DRDSLLVHLGKMIPQLktrqgk
+paepqaqastssgggaagggqshkkgkgkrr-----------------------
+>PF01922 gi|260803340|ref|XP_002596548.1|
+---------------------------------------------------------------------------malek
+pysdkdrfiCIYPAYINSRRTIPQGRRIPQEKG--------VDNPTATEIRDVL-QAGG------FTIV---Le-NKAYA
+KElfhrdPNl---------------------rGRIRVQLknddgs-----pvndkYP-NRKSVYLYVAETIPKLktrvha
+sggassqqggdkgkkgkkkgkr--------------------------------
+>PF01922 gi|675848256|ref|XP_009009688.1|
+------------------------------------------------------------------atsanalrpwnpny
+nhadrerwlCIYPVYLNGKKTVAEGRRVPKTKA--------VDNPTASEIRDVL-SALG------LPIM---Me-DKVHP
+REr---dRNa---------------------kGRVRVQLknennv-----plnpqFT-NKYGVLEHVCQMIPKLktrtqn
+psslisqptqagqsnsatgggkknkgkr--------------------------
+>PF01922 gi|1009338518|emb|CTP81817.1|
+------------------------------------------------------------------------mavqyktk
+alsdecrwiCIYPLYMNSRKTVAQGRRVSKNKA--------VDSPTAQEIFDIL-SNAG------LKVK---LeKQKMHP
+LDpn-rdANs---------------------qGRVRVQLhnddgs-----lcdqkFP-TRMSLMLYACEMVPKLktrqfg
+ggatsqpssgggigggktnkkkkr------------------------------
+>PF01922 gi|72043106|ref|XP_784942.1|
+--------------------------------------------------------------------------mahlst
+npadknrwiCIYPAYINSKKTVAEGRKIPKERA--------LENPTLAELRDVC-QSVG------LPVA---MeGSKMYP
+RDqn-rdPTf---------------------rGRVRVQLknadgt-----yvleqFK-TRQDVMFQLTERIPMLksrtqk
+qgggeqqpqssagkkgkkkgkr--------------------------------
+>PF01922 gi|301767594|ref|XP_002919215.1|
+-------------------------------------------------------------------------macaaar
+spadqdrfiCIYPAYLNNKKTIAEGRRIPISKA--------VENPTATEIQDVC-SAVG------LNVF---LeKNKMYS
+REwn-rdVQy---------------------rGRVRVQLkqddgs-----lclvqFP-SRKSVMLYVAEMIPKLktrtqk
+tgggdqslqqgegskkgkgkkkk-------------------------------
+>PF01922 lcl|1_pfamImport
+--------------------------------------------------------------------------------
+---------CIYPAYLNSKKTIAEGRRIPIEKA--------VQNPTCSEIADIC-RANK------LNAV---VeGDKMYT
+RE-----WNrdt-----------------qfrGRVRVQLrnedgs-----scvdkLS-SRKAIMLRVAEEIPKL------
+------------------------------------------------------
+>PF01922 gi|573877655|ref|XP_006627071.1|
+--------------------------------------------------------------------------mahltq
+npaekerfiCIYPAYLNSKKTIAEGRRIPVEKA--------VENPTCTEMRDVL-TAAG------FNVL---Ve-NKMYT
+REln-rdVQf---------------------rGRVRVQLkredgs-----lylekFE-SRKDLMLYVAEMIPKLktrtqk
+tgggdqnaqqgeggkkgkkkkk--------------------------------
+>PF01922 lcl|2_pfamImport
+--------------------------------------------------------------------------------
+---------CVYPIYINSKKTLAEGRRIPAEKA--------VENPSCAEIRDVL-MAAG------LNVY---Ve-NKMHP
+REwn-rdVQf---------------------rGRVRVQVkeedgs-----fcmdkFT-SRREVMFYVAEMIPKL------
+------------------------------------------------------
+>PF01922 gi|1110909855|ref|XP_019202858.1|
+--------------------------------------------------------------------------mahltq
+npadkerfvCLYPVYINSKKTLAEGRRISVEKA--------VENPSCTEIRDVL-AAAG------MNVY---Me-NKIHP
+REwn-rdGQf---------------------kGRVRVQIkqadgs-----pcqdkFS-SRKDVMIYVAEMIPKLktrtqk
+sgggdtssqqgeggkkskkkkk--------------------------------
+>PF01922 gi|196001153|ref|XP_002110444.1|
+-------------------------------------------------------------------------msaylpk
+dpsapqrwiCVYPVYIDKNKKIPEGRRVCKEKA--------CENPTAEEIRDIC-RSQG------FDAE---Ie-RKQYP
+RNs---yFDnp-------------------skGRVRIRMfnndqt-----lanpkFK-TRKQLLVFIGEMIPKLksrqap
+kgaeggasgadaggnvggstskkkknkkgkr-----------------------
+>PF01922 gi|527504088|sp|O61749.4|SRP19_CAEEL
+-------------------------------------------------------------------------mtsvase
+plssqkrwiVIYPAYIDKKKTAKQGRKISQILA--------VENPTSVEIHDVL-AAVG------FNPL---LeRTKCYP
+RDge-rdFEv---------------------qGRVRVQLknddgt------akheqK-TRDEIFKMVAEMIPKLktrqpg
+ytapsvasssaaaagkknkkkk--------------------------------
+>PF01922 gi|156227256|gb|EDO48060.1|
+-------------------------------------------------------------------------mavylsd
+dpaskdrwvTVYPAYLNSRRTVCQGRRVPKAKA--------VDNPTVSEIRDIC-TSQN------LSCE---LeNNKFYP
+KEsa-kdVVc---------------------kGRVRIQLknsdgt-----pvnadIP-NRKALFCFLGEMIPKLktrqtk
+tgqsdgnssqqqaaaskkkkgkkakgk---------------------------
+>PF01922 gi|167535434|ref|XP_001749391.1|
+--------------------------------------------------------------------------mahmtk
+dpsnparfvVLYPAYINARLTVQEGRRIAKELA--------VENPTPREILTIL---LKlqaekgLTIK---FeGNKHYS
+RD-----YLq---------------------vGRARVQLknsdgs-----aicpdIQ-TRKQLWCYVAQQIKNIperkve
+lrlgelepqvdapteetaankgktnakpkpsgkpakanskgkkgkkk-------
+>PF01922 gi|326428758|gb|EGD74328.1|
+--------------------------------------------------------------------------mahqtt
+dptnperwvVVYPAYIDSEKTIAQGRRIPKEKA--------VDKPDIRDIIRAV-SSDDf----qLPAK---Ve-NKAYC
+RD-----YLt---------------------rGRLRAQLknadgs-----lvnpeFP-DRKALYCYLADKIKHseerklq
+kekeareeakakakaaskaskaaeprhdkrqgrrgrkkr---------------
+>PF01922 gi|470363299|ref|XP_004365571.1|
+--------------------------------------------------------------------------mahltt
+dptnvarwvVVYPIYINSRKTLEQGRRLGVGYC--------CDSPTAQEVALVVkANLK------LECI---LeWEKAYP
+RD-----FMq---------------------rGRVRVQLfdankk-----plnsgIP-NRQTLLKYIALQINKIpnrtlp
+ptddaaifaqfvptattssasatppanasaggntnnkknkkkk-----------
+>PF01922 gi|353231948|emb|CCD79303.1|
+-------------------------------------------------------------------merpllspfspnl
+pysakerwvCVYPAYLNNRRTRAQGRKLSVEHC--------VDNPKHSEVTMIL-GKLS------LDYL---Le-TKVHP
+KErdafePMn---------------------kWRVRVHLknddgs-----pvneqFP-NRQSLLSYLGKALPVvrsrrpa
+tsssstteqtfqgkknkrkrk---------------------------------
+>PF01922 gi|302328323|gb|ADL18518.1|
+-------------------------------------------------------------------------------m
+pkedfegkmVIWPVFLDCNYPRSLGRRLSLDAC--------VKSPSVQEIVKAA-RDLG------LNPAf----DEASYP
+RL-----WYei--------------------rGRVIVDK----------------KM-GRQETLKAIASRIKSMrs----
+------------------------------------------------------
+>PF01922 gi|12230646|sp|Q9YDZ7.1|SRP19_AERPE
+-----------------------------------------------------------------------mvflrekeg
+psggsgrriILWPAYFDSTLPRRLGRRVPRDMG--------VPSPKPEDVAEAA-RRAG------FEAV---Ve-ESSYP
+RL-----WWrv--------------------rRRIVVLAp--------------eDV-SKTDIIKAVATELRKIaaarrk
+rs----------------------------------------------------
+>PF01922 gi|158513002|sp|A1RX38.1|SRP19_THEPD
+--------------------------------------------------------------------------------
+--mlkkngfIVWPVYFDSTKPRKW-RRVPRKLA--------VEKPTLSEIVEAV-KREG------FSFT---VeENAKHP
+AY-----WYev--------------------qGRVIVQA----------------NV-KKSVLLKKIAENLQKIraeqss
+krrr--------------------------------------------------
+>PF01922 gi|211939176|pdb|3DLU|A
+--------------------------------------------------------------------------------
+-----mgrfVVWPSELDSRLSRKYGRIVPRSIA--------VESPRVEEIVRAA-EELK------FKVIr--VeEDKLNP
+RLsgideELrt--------------------fGMIVLES----------------PY-GKSKSLKLIAQKIREFrrrsag
+tlvpr-------------------------------------------------

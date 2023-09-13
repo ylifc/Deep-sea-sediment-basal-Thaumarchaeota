@@ -1,0 +1,7 @@
+Deep-sea_sediment_DRR121219_Bin1_contig1_6
+Deep-sea_sediment_ERR1730303_Bin1_contig1_6
+Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig1_6
+XS84_Bin1_contig190_11
+XS84_Bin1_contig93_1
+XS84_Bin2_contig168_11
+XS84_Bin2_contig76_1

@@ -1,0 +1,5 @@
+HMT_NADW_contig4_12	2.91e-88	GIU91197.1	MAG: tungsten formylmethanofuran dehydrogenase subunit E [Acidimicrobiia bacterium]
+HMT_NADW_contig4_21	5.75e-37	WP_094906781.1	SDR family oxidoreductase [Salinicoccus roseus]
+HMT_NADW_contig16_11	1.07e-97	MBX6342053.1	tungsten formylmethanofuran dehydrogenase [Thermomicrobiaceae bacterium]
+HMT_NADW_contig24_5	9.44e-112	GGN95214.1	tungsten formylmethanofuran dehydrogenase subunit E [Halomicroarcula pellucida]
+HMT_NADW_contig24_5	5.36e-111	GIU91197.1	MAG: tungsten formylmethanofuran dehydrogenase subunit E [Acidimicrobiia bacterium]

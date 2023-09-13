@@ -1,0 +1,1829 @@
+IQ-TREE multicore version 2.2.2.7 COVID-edition for Linux 64-bit built Jun  7 2023
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    ylifc (AVX2, FMA3, 1007 GB RAM)
+Command: iqtree2 --seqtype AA --threads-max 200 -B 5000 -s CAT_all_trimal.faa -m TEST
+Seed:    674700 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Aug 31 11:48:49 2023
+Kernel:  AVX+FMA - 1 threads (256 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 256 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file CAT_all_trimal.faa ... Fasta format detected
+Reading fasta file: done in 0.0119855 secs using 45.04% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.00296801 secs using 28.54% CPU
+WARNING: 1 sites contain only gaps or ambiguous characters.
+Alignment has 789 sequences with 232 columns, 232 distinct patterns
+225 parsimony-informative, 2 singleton sites, 5 constant sites
+WARNING: Some sequence names are changed as follows:
+OIO15311.1_hypothetical_protein_AUJ73_00860_[Candidatus_Gottesmanbacteria_bacterium_CG1_02_37_22]_REF_reference_III-c -> OIO15311.1_hypothetical_protein_AUJ73_00860__Candidatus_Gottesmanbacteria_bacterium_CG1_02_37_22__REF_reference_III-c
+OQX71191.1_type_III_ribulose-bisphosphate_carboxylase_[Candidatus_Parcubacteria_bacterium_4484_255]_REF_reference_III-c -> OQX71191.1_type_III_ribulose-bisphosphate_carboxylase__Candidatus_Parcubacteria_bacterium_4484_255__REF_reference_III-c
+OQX71398.1_type_III_ribulose-bisphosphate_carboxylase_[Candidatus_Parcubacteria_bacterium_4484_255]_REF_reference_III-c -> OQX71398.1_type_III_ribulose-bisphosphate_carboxylase__Candidatus_Parcubacteria_bacterium_4484_255__REF_reference_III-c
+
+                                                                                                                         Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000744096 secs using 99.85% CPU
+   1  Deep-sea_sediment_DRR121219_PGI                                                                                           44.40%    passed     33.49%
+   2  2_Hydrogenovibrio_marinus_BAD1531_REF_reference_I                                                                          2.59%    passed     75.49%
+   3  AAB41464_Aurantimonas_manganoxydans_SI85_I_REF_reference_I                                                                 3.02%    passed     87.95%
+   4  ABA23512_Anabaena_variabilis_ATCC_29413_I_REF_reference_I                                                                  2.59%    passed     81.94%
+   5  ABA56859_Nitrosococcus_oceani_ATCC_19707_I_REF_reference_I                                                                 3.02%    passed     92.97%
+   6  Acidimicrobium_ferrooxidans_YP_00310876_REF_reference_I                                                                    2.59%    passed     28.93%
+   7  Alkalilimnicola_ehrlichii_YP_74366_REF_reference_I                                                                         2.59%    passed     52.89%
+   8  Allochromatium_vinosum_YP_00344469_REF_reference_I                                                                         2.59%    passed     57.41%
+   9  Azoarcus_sp_KH32C_BAL2711_REF_reference_I                                                                                  3.02%    passed     90.25%
+  10  Bradyrhizobium_sp_ORS_278_YP_00120434_REF_reference_I                                                                      2.59%    passed     39.20%
+  11  Burkholderia_xenovorans_YP_55288_REF_reference_I                                                                           3.02%    passed     78.43%
+  12  Chondrophycus_papillosus_ABO3124_REF_reference_I                                                                           3.02%    passed     92.69%
+  13  Cupriavidus_metallidurans_YP_58365_REF_reference_I                                                                         2.59%    passed     67.07%
+  14  Galdieria_Partita_1IW_REF_reference_I                                                                                      3.02%    passed     90.26%
+  15  Halorhodospira_halophila_YP_00100262_REF_reference_I                                                                       2.59%    passed     69.84%
+  16  Isoetes_savatieri_AAM3458_REF_reference_I                                                                                  2.59%    passed     81.35%
+  17  NP_043654_Odontella_sinensis_I_REF_reference_I                                                                             3.02%    passed     86.78%
+  18  Nitrobacter_hamburgensis_YP_57154_REF_reference_I                                                                          3.02%    passed     97.28%
+  19  Nitrococcus_mobilis_ZP_0112568_REF_reference_I                                                                             2.59%    passed     78.12%
+  20  Nitrosomonas_eutropha_YP_74703_REF_reference_I                                                                             2.59%    passed     59.54%
+  21  P00876_Nicotiana_tabacum_I_REF_reference_I                                                                                 2.59%    passed     81.38%
+  22  Paracoccus_sp_TRP_ZP_0866487_REF_reference_I                                                                               3.02%    passed     96.44%
+  23  Picea_abies_CAA5320_REF_reference_I                                                                                        2.59%    passed     57.98%
+  24  Prochlorococcus_marinus_YP_00109080_REF_reference_I                                                                        2.59%    passed     35.00%
+  25  Pyropia_dentata_Q760S_REF_reference_I                                                                                      3.02%    passed     86.75%
+  26  Q08051_Pleurochrysis_carterae_I_REF_reference_I                                                                            3.02%    passed     86.45%
+  27  Q51856_Hydrogenophilus_thermoluteolus_I_REF_reference_I                                                                    2.59%    passed     98.12%
+  28  Q59613_Nitrobacter_vulgaris_I_REF_reference_I                                                                              2.59%    passed     53.53%
+  29  Rhodobacter_sphaeroides_YP_35436_REF_reference_I                                                                           3.02%    passed     97.99%
+  30  Rubrivivax_benzoatilyticus_ZP_0840404_REF_reference_I                                                                      3.02%    passed     94.17%
+  31  Sinorhizobium_medicae_YP_00131266_REF_reference_I                                                                          3.02%    passed     95.76%
+  32  Spinacia_oleracea_NP_05494_REF_reference_I                                                                                 2.59%    passed     70.90%
+  33  Stappia_aggregata_ZP_0154896_REF_reference_I                                                                               3.02%    passed     98.28%
+  34  Synechococcus_sp_WH8102_NP_89780_REF_reference_I                                                                           2.59%    passed     80.05%
+  35  Thioalkalimicrobium_cyclicum_YP_00453780_REF_reference_I                                                                   2.59%    passed     92.98%
+  36  Thiocapsa_marina_ZP_0877298_REF_reference_I                                                                                2.59%    passed     69.19%
+  37  Thiorhodovibrio_sp_970_ZP_0894247_REF_reference_I                                                                          2.59%    passed     79.97%
+  38  WP_002717593_Afipia_feli_REF_reference_I                                                                                   3.02%    passed     93.38%
+  39  WP_011316104_Nitrobacter_winogradsky_REF_reference_I                                                                       3.02%    passed     97.04%
+  40  WP_013076789_Kyrpidia_tuscia_REF_reference_I                                                                               3.02%    passed     86.12%
+  41  WP_028963129_Sulfobacillus_thermosulfidooxidan_REF_reference_I                                                             3.02%    passed     74.02%
+  42  WP_029927633_Nocardia_otitidiscaviaru_REF_reference_I                                                                      3.02%    passed     79.35%
+  43  YP_001020675_Methylibium_petroleiphilum_PM1_PutativeType1_REF_reference_I                                                  3.02%    passed     90.75%
+  44  YP_001416820_Xanthobacter_autotrophicus_Py2_PutativeType1_REF_reference_I                                                  3.02%    passed     92.52%
+  45  YP_411385_Nitrosospira_multiformis_ATCC_251966_I_REF_reference_I                                                           3.02%    passed     93.82%
+  46  emb_CDO21134_Mycobacterium_mageritense_DSM_4447_REF_reference_I                                                            3.02%    passed     94.29%
+  47  emb_CDP50020_Devosia_sp_DBB00_REF_reference_I                                                                              3.02%    passed     90.45%
+  48  gi_518884741_ref_WP_020040616_ribulose_bisophosphate_carboxylase_Salipiger_mucosu_REF_reference_I                          3.02%    passed     79.30%
+  49  uncultured_marine_typeA_Synechococcus_ABD9625_REF_reference_I                                                              2.59%    passed     80.72%
+  50  231173_pdb_5RUB_A_Rhodospirillum_Rubru_REF_reference_II                                                                    2.59%    passed     20.42%
+  51  AAA98748_Gonyaulax_polyedra_I_REF_reference_II                                                                             2.59%    passed     21.03%
+  52  AAC38280_Riftia_pachyptila_endosymbiont_I_REF_reference_II                                                                 2.59%    passed     20.61%
+  53  AAG37859_Symbiodinium_sp_I_REF_reference_II                                                                                2.59%    passed     16.50%
+  54  AAN52766_Rhodopseudomonas_palustris_I_REF_reference_II                                                                     2.59%    passed      8.82%
+  55  ABB41020_Thiomicrospira_crunogena_XCL_2_II__REF_reference_II                                                               2.59%    passed     50.49%
+  56  Desulfovibrio_aespoeensis_YP_00412229_REF_reference_II                                                                     2.59%    passed     48.22%
+  57  Halothiobacillus_neapolitanus_YP_00326297_REF_reference_II                                                                 2.59%    passed     60.25%
+  58  Mariprofundus_ferrooxydans_ZP_0145121_REF_reference_II                                                                     2.59%    passed     68.82%
+  59  P50922_Rhodobacter_capsulatus_ATCC11166_I_REF_reference_II                                                                 2.59%    passed     68.99%
+  60  Q59462_Hydrogenovibrio_marinus_I_REF_reference_II                                                                          2.59%    passed     86.10%
+  61  Thiobacillus_denitrificans_AAA9917_REF_reference_II                                                                        2.59%    passed     28.64%
+  62  YP002220242_Acidithiobacillus_ferrooxidans_ATCC_5399_REF_reference_II                                                      2.59%    passed     50.28%
+  63  YP003522651_Sideroxydans_lithotrophicus_ES_REF_reference_II                                                                2.59%    passed     32.25%
+  64  YP_422059_Magnetospirillum_magnetotacticum_AMB_1_I_REF_reference_II                                                        2.59%    passed     64.77%
+  65  YP_522655_Rhodoferax_ferrireducens_T118_I_REF_reference_II                                                                 2.59%    passed     53.18%
+  66  CG_2015-10_scaffold_113557_2_Dojkabacteria_II/III                                                                          7.76%    passed     34.28%
+  67  CG_4_10_14_0.2_scaffold_11904_c_5_Dojkabacteria_II/III                                                                     2.59%    passed     46.80%
+  68  CG_4_10_14_0.8_um_filter_scaffold_123569_1_Dojkabacteria_II/III                                                           13.36%    passed     82.93%
+  69  CG_4_9_14_3_um_filter_150_scaffold_194919_1_Dojkabacteria_II/III                                                          13.36%    passed     82.93%
+  70  UBA2022contig_15642_11_Dojkabacteria_II/III                                                                               11.21%    passed     81.82%
+  71  UBA5223contig_6548_20_Dojkabacteria_II/III                                                                                34.91%    passed     55.97%
+  72  UBA5232contig_5010_25_Dojkabacteria_II/III                                                                                 2.59%    passed     70.77%
+  73  bjp_ig2158_scaffold_0_9_Dojkabacteria_II/III                                                                               2.59%    passed     27.51%
+  74  gwd2_scaffold_5982_7_Dojkabacteria_II/III                                                                                  2.59%    passed     32.91%
+  75  gwf2_scaffold_5170_19_Dojkabacteria_II/III                                                                                 2.59%    passed     32.73%
+  76  gwf2_scaffold_9_343_Dojkabacteria_II/III                                                                                   2.59%    passed     79.51%
+  77  RIFCSPLOWO2_02_FULL_OP11_38_8_rifcsplowo2_02_scaffold_81990_5_Gottesmanbacteria_II/III                                     2.59%    passed     79.18%
+  78  rifcsplowo2_02_scaffold_81990_4_Gottesmanbacteria_II/III                                                                  10.34%    passed     69.10%
+  79  bjp_ig2599_sub10_scaffold_1302_18_Micrarchaeota_II/III                                                                    73.28%    failed      3.38%
+  80  cg1_0.2_scaffold_107_c_58_Micrarchaeota_II/III                                                                             2.59%    passed     68.44%
+  81  CG09_land_8_20_14_0.10_scaffold_8073_10_Pacearchaeota_II/III                                                              38.36%    passed     57.57%
+  82  CG10_big_fil_rev_8_21_14_0.10_scaffold_3250_c_3_Pacearchaeota_II/III                                                       2.59%    passed     71.45%
+  83  Ig5771_scaffold_652_7_Pacearchaeota_II/III                                                                                 2.59%    passed     85.28%
+  84  cg1_0.2_scaffold_360_c_42_Pacearchaeota_II/III                                                                             2.59%    passed     73.17%
+  85  rifoxyb2_full_scaffold_114_158_Pacearchaeota_II/III                                                                        2.59%    passed     88.80%
+  86  rifoxyc1_full_scaffold_2432_3_Pacearchaeota_II/III                                                                         2.59%    passed     70.52%
+  87  rifoxyc1_full_scaffold_336_27_Pacearchaeota_II/III                                                                         2.59%    passed     77.55%
+  88  rifoxyc1_full_scaffold_4459_6_Pacearchaeota_II/III                                                                         2.59%    passed     82.27%
+  89  rifoxyd1_full_scaffold_48_74_Pacearchaeota_II/III                                                                          2.59%    passed     45.67%
+  90  UBA4787contig_1245_80_Patescibacteria_II/III                                                                               2.59%    passed     73.51%
+  91  07M_4_2014_scaffold_14364_2_Peregrinibacteria_II/III                                                                       2.59%    passed     69.35%
+  92  CG08_land_8_20_14_0.20_scaffold_13131_3_Peregrinibacteria_II/III                                                           2.59%    passed     72.17%
+  93  Crystal_Geyser_CG15_big_fil_post_rev_8_21_14_0.20_scaffold_4700_5_Peregrinibacteria_II/III                                 2.59%    passed     51.21%
+  94  gwa2_scaffold_228_63_Peregrinibacteria_II/III                                                                              2.59%    passed     78.89%
+  95  gwa2_scaffold_61538_7_Peregrinibacteria_II/III                                                                            15.52%    passed     30.93%
+  96  gwf2_scaffold_150_90_Peregrinibacteria_II/III                                                                              2.59%    passed     35.71%
+  97  gwf2_scaffold_2732_6_Peregrinibacteria_II/III                                                                              2.59%    passed     77.10%
+  98  gwf2_scaffold_583_77_Peregrinibacteria_II/III                                                                              2.59%    passed     82.28%
+  99  rifixya3_full_scaffold_35984_2_Peregrinibacteria_II/III                                                                    2.59%    passed     38.83%
+ 100  rifoxyb2_full_scaffold_53823_1_Peregrinibacteria_II/III                                                                    2.59%    passed     65.00%
+ 101  CG02_land_8_20_14_3.00_150_scaffold_3515_6_SR1_II/III                                                                      3.45%    passed     68.59%
+ 102  OR1_SR1_3_148_SR1_II/III                                                                                                   3.02%    passed     63.53%
+ 103  RAAC1_SR1_1_647_SR1_II/III                                                                                                 2.59%    passed     50.24%
+ 104  cg2_3.0_scaffold_6121_5_SR1_II/III                                                                                         3.45%    passed     46.96%
+ 105  rifcsphigho2_02_scaffold_6968_22_Woesearchaeota_II/III                                                                     2.59%    passed     71.66%
+ 106  rifcsplowo2_01_scaffold_240_75_Woesearchaeota_II/III                                                                       2.59%    passed     93.79%
+ 107  rifcsplowo2_02_scaffold_6002_1_Woesearchaeota_II/III                                                                       2.59%    passed     84.93%
+ 108  rifoxyb1_full_scaffold_3633_1_Woesearchaeota_II/III                                                                       24.57%    passed     64.22%
+ 109  rifoxyb1_full_scaffold_364_31_Woesearchaeota_II/III                                                                        2.59%    passed     91.75%
+ 110  YP006921907_Methanolobus_psychrophilus_R1_REF_reference_II/III                                                             2.59%    passed     84.86%
+ 111  YP007313659_Methanomethylovorans_hollandica_DSM1597_REF_reference_II/III                                                   2.59%    passed     96.70%
+ 112  YP_003542093_Methanohalophilus_mahii_DSM_5219_Putative_IIandII_REF_reference_II/III                                        2.59%    passed     93.90%
+ 113  YP_004385218_Methanosaeta_concilii_GP6_Putative_IIandII_REF_reference_II/III                                               2.59%    passed     78.26%
+ 114  YP_004615354_Methanosalsum_zhilinae_DSM_4017_Putative_IIandII_REF_reference_II/III                                         2.59%    passed     76.01%
+ 115  YP_566926_Methanococcoides_burtonii_DSM_6242_IIandII_REF_reference_II/III                                                  2.59%    passed     92.58%
+ 116  scaffold_1669_9_REF_reference_II/III                                                                                       2.59%    passed     51.21%
+ 117  scaffold_360_42_REF_reference_II/III                                                                                       2.59%    passed     73.17%
+ 118  scaffold_6121_5_REF_reference_II/III                                                                                       3.88%    passed     22.14%
+ 119  07M_4_2014_scaffold_3235_2_unknown_II/III                                                                                  2.59%    passed     74.33%
+ 120  CG06_land_8_20_14_3.00_150_scaffold_21999_1_unknown_II/III                                                                52.16%    passed      7.67%
+ 121  CG_2015-01t_scaffold_70_76_unknown_II/III                                                                                  2.59%    passed     96.12%
+ 122  CG_2015-03_scaffold_6_523_unknown_II/III                                                                                   2.59%    passed     48.90%
+ 123  DolZOral124_scaffold_14485_4_unknown_II/III                                                                                2.59%    passed     31.89%
+ 124  Methanocella_arvoryzae_MRE5_REF_reference_III-a                                                                            2.59%    passed     44.48%
+ 125  Methanocella_paludicol_REF_reference_III-a                                                                                 2.59%    passed     53.87%
+ 126  Methanofollis_liminatans_DSM_414_REF_reference_III-a                                                                       2.59%    passed     35.04%
+ 127  Methanospirillum_hungatei_JF-_REF_reference_III-a                                                                          2.59%    passed     71.49%
+ 128  RifSed_csp2_13ft_1_scaffold_647396_2_Aenigmarchaeota_III-b                                                                44.40%    passed     72.61%
+ 129  gwa2_scaffold_63_236_Aenigmarchaeota_III-b                                                                                 2.59%    passed     98.85%
+ 130  rifcsphigho2_01_scaffold_412949_4_Aenigmarchaeota_III-b                                                                    9.91%    passed     98.93%
+ 131  rifcsphigho2_02_scaffold_22708_9_Aenigmarchaeota_III-b                                                                     2.59%    passed     95.52%
+ 132  rifcsphigho2_02_scaffold_49666_4_Aenigmarchaeota_III-b                                                                     2.59%    passed     99.31%
+ 133  rifcsphigho2_02_scaffold_58713_2_Aenigmarchaeota_III-b                                                                     2.59%    passed     98.62%
+ 134  rifcsphigho2_02_scaffold_69512_7_Aenigmarchaeota_III-b                                                                    19.83%    passed     76.72%
+ 135  rifcsphigho2_12_scaffold_32189_9_Aenigmarchaeota_III-b                                                                     2.59%    passed     81.10%
+ 136  rifcsplowo2_01_scaffold_126992_2_Aenigmarchaeota_III-b                                                                     2.59%    passed     99.38%
+ 137  rifcsplowo2_01_scaffold_211_122_Aenigmarchaeota_III-b                                                                      2.59%    passed     62.07%
+ 138  rifcsplowo2_02_scaffold_215139_2_Aenigmarchaeota_III-b                                                                    19.40%    passed     92.65%
+ 139  rifcsplowo2_12_scaffold_67979_10_Aenigmarchaeota_III-b                                                                     4.31%    passed     82.55%
+ 140  CG10_big_fil_rev_8_21_14_0.10_scaffold_7288_19_Amesbacteria_III-b                                                          2.59%    passed     85.04%
+ 141  MW-5_scaffold_28295_1_Amesbacteria_III-b                                                                                   2.59%    passed     97.66%
+ 142  gwa2_scaffold_13440_1_Amesbacteria_III-b                                                                                   2.59%    passed     98.57%
+ 143  rifcsphigho2_01_scaffold_12654_5_Amesbacteria_III-b                                                                        2.59%    passed     97.28%
+ 144  rifcsphigho2_02_scaffold_363598_1_Amesbacteria_III-b                                                                       2.59%    passed     98.12%
+ 145  rifcsplowo2_01_scaffold_118545_1_Amesbacteria_III-b                                                                        8.19%    passed     80.84%
+ 146  rifcsplowo2_01_scaffold_130404_3_Amesbacteria_III-b                                                                        2.59%    passed     96.97%
+ 147  rifcsplowo2_01_scaffold_141933_1_Amesbacteria_III-b                                                                        2.59%    passed     98.57%
+ 148  rifcsplowo2_02_scaffold_55575_5_Amesbacteria_III-b                                                                        11.21%    passed     95.27%
+ 149  rifcsplowo2_12_scaffold_170419_2_Amesbacteria_III-b                                                                        8.62%    passed     98.98%
+ 150  RIFCSPHIGHO2_01_FULL_OD1_39_14_rifcsphigho2_01_scaffold_71123_4_Buchananbacteria_III-b                                     2.59%    passed     92.58%
+ 151  CG13_big_fil_rev_8_21_14_2.50_scaffold_6700_4_CPR_III-b                                                                   17.67%    passed     63.70%
+ 152  CG08_land_8_20_14_0.20_scaffold_1314_c_7_Diapherotrites_III-b                                                              2.59%    passed     96.23%
+ 153  CG09_land_8_20_14_0.10_scaffold_6172_c_6_Diapherotrites_III-b                                                             10.78%    passed     79.06%
+ 154  ncbi_ASMR01000001.1_43_Diapherotrites_III-b                                                                                2.59%    passed     99.54%
+ 155  rifcsphigho2_01_scaffold_10007_6_Diapherotrites_III-b                                                                      2.59%    passed     75.40%
+ 156  rifcsplowo2_01_scaffold_43_141_Diapherotrites_III-b                                                                        2.59%    passed     97.38%
+ 157  RBG_16_scaffold_853_33_Levybacteria_III-b                                                                                  6.90%    passed     89.39%
+ 158  RifSed_csp2_13ft_1_scaffold_420248_2_Levybacteria_III-b                                                                    3.02%    passed     98.91%
+ 159  RifSed_csp2_13ft_2_scaffold_441897_1_Levybacteria_III-b                                                                   12.07%    passed     93.63%
+ 160  07M_4_2014_scaffold_1143_16_Micrarchaeota_III-b                                                                            2.59%    passed     99.99%
+ 161  CG01_land_8_20_14_3.00_scaffold_28014_2_Micrarchaeota_III-b                                                                2.59%    passed     72.93%
+ 162  CG02_land_8_20_14_3.00_150_scaffold_91997_1_Micrarchaeota_III-b                                                            2.59%    passed     69.53%
+ 163  CG03_land_8_20_14_0.80_scaffold_21801_2_Micrarchaeota_III-b                                                                2.59%    passed     62.83%
+ 164  CG03_land_8_20_14_0.80_scaffold_60991_1_Micrarchaeota_III-b                                                                3.45%    passed     65.84%
+ 165  CG06_land_8_20_14_3.00_150_scaffold_71672_c_2_Micrarchaeota_III-b                                                         24.14%    passed     85.52%
+ 166  CG07_land_8_20_14_0.80_scaffold_42665_1_Micrarchaeota_III-b                                                                2.59%    passed     65.79%
+ 167  CG08_land_8_20_14_0.20_scaffold_203273_1_Micrarchaeota_III-b                                                              18.97%    passed     26.04%
+ 168  CG08_land_8_20_14_0.20_scaffold_7644_c_2_Micrarchaeota_III-b                                                               2.16%    passed     99.85%
+ 169  CG08_land_8_20_14_0.20_scaffold_9016_6_Micrarchaeota_III-b                                                                 2.16%    passed     13.75%
+ 170  CG09_land_8_20_14_0.10_scaffold_28336_1_Micrarchaeota_III-b                                                                3.02%    passed     61.73%
+ 171  CG10_big_fil_rev_8_21_14_0.10_scaffold_133078_1_Micrarchaeota_III-b                                                        8.62%    passed     54.87%
+ 172  CG10_big_fil_rev_8_21_14_0.10_scaffold_13451_3_Micrarchaeota_III-b                                                         2.59%    passed     92.48%
+ 173  CG10_big_fil_rev_8_21_14_0.10_scaffold_160807_1_Micrarchaeota_III-b                                                       10.34%    passed     98.64%
+ 174  CG10_big_fil_rev_8_21_14_0.10_scaffold_1834_23_Micrarchaeota_III-b                                                         2.16%    passed     98.07%
+ 175  CG10_big_fil_rev_8_21_14_0.10_scaffold_31956_2_Micrarchaeota_III-b                                                         2.59%    passed     59.53%
+ 176  CG10_big_fil_rev_8_21_14_0.10_scaffold_3334_6_Micrarchaeota_III-b                                                          2.59%    passed     49.47%
+ 177  CG10_big_fil_rev_8_21_14_0.10_scaffold_34346_3_Micrarchaeota_III-b                                                         2.59%    passed     51.13%
+ 178  CG10_big_fil_rev_8_21_14_0.10_scaffold_63175_3_Micrarchaeota_III-b                                                         3.02%    passed     99.05%
+ 179  CG10_big_fil_rev_8_21_14_0.10_scaffold_87261_1_Micrarchaeota_III-b                                                         2.59%    passed     95.74%
+ 180  CG11_big_fil_rev_8_21_14_0.20_scaffold_98546_1_Micrarchaeota_III-b                                                        13.79%    passed     76.49%
+ 181  CG23_combo_of_CG06-09_8_20_14_all_150_scaffold_130068_2_Micrarchaeota_III-b                                               21.12%    passed     98.94%
+ 182  CG_2015-01_scaffold_106789_1_Micrarchaeota_III-b                                                                          30.60%    passed     48.70%
+ 183  CG_2015-13_scaffold_41721_2_Micrarchaeota_III-b                                                                            2.59%    passed     34.17%
+ 184  CG_2015-13_scaffold_88435_1_Micrarchaeota_III-b                                                                            6.03%    passed     65.41%
+ 185  CG_2015-18_scaffold_160514_1_Micrarchaeota_III-b                                                                           6.03%    passed     78.83%
+ 186  CG_2015-19_scaffold_56610_2_Micrarchaeota_III-b                                                                            6.47%    passed     39.21%
+ 187  CG_4_10_14_0.2_scaffold_37340_1_Micrarchaeota_III-b                                                                        8.62%    passed     65.19%
+ 188  CG_4_10_14_0.8_um_filter_scaffold_69571_1_Micrarchaeota_III-b                                                              2.59%    passed     61.23%
+ 189  CG_4_9_14_0.2_um_filter_scaffold_8702_1_Micrarchaeota_III-b                                                               15.95%    passed     39.58%
+ 190  CG_4_9_14_3_um_filter_150_scaffold_9172_2_Micrarchaeota_III-b                                                              2.59%    passed     94.94%
+ 191  RBG_16_Archaea_36_9_RBG_16_scaffold_36_87_Micrarchaeota_III-b                                                              2.59%    passed     92.29%
+ 192  RBG_16_scaffold_12677_9_Micrarchaeota_III-b                                                                                3.88%    passed     86.34%
+ 193  RBG_16_scaffold_1633_8_Micrarchaeota_III-b                                                                                 2.59%    passed     95.52%
+ 194  RifSed_csp2_13ft_1_scaffold_60832_1_Micrarchaeota_III-b                                                                   11.21%    passed     97.17%
+ 195  RifSed_csp2_16ft_2_scaffold_362462_2_Micrarchaeota_III-b                                                                   2.59%    passed     88.91%
+ 196  RifSed_csp2_16ft_2_scaffold_576471_1_Micrarchaeota_III-b                                                                  11.21%    passed     90.98%
+ 197  RifSed_csp2_19ft_2_scaffold_254614_2_Micrarchaeota_III-b                                                                   2.59%    passed     89.05%
+ 198  RifSed_csp2_19ft_2_scaffold_258162_1_Micrarchaeota_III-b                                                                  15.09%    passed     44.47%
+ 199  cg1_0.2_scaffold_44525_1_Micrarchaeota_III-b                                                                               2.59%    passed     66.48%
+ 200  cg1_0.2_scaffold_83715_1_Micrarchaeota_III-b                                                                               2.59%    passed     77.65%
+ 201  gwa2_scaffold_25721_1_Micrarchaeota_III-b                                                                                  2.59%    passed     70.61%
+ 202  gwa2_scaffold_48274_5_Micrarchaeota_III-b                                                                                  3.02%    passed     81.48%
+ 203  mol-32-15ef-016606_7_Micrarchaeota_III-b                                                                                   2.59%    passed     99.74%
+ 204  mol-32-1605-070610_1_Micrarchaeota_III-b                                                                                   2.59%    passed     85.09%
+ 205  rbg_19ft_combo_scaffold_2906_2_Micrarchaeota_III-b                                                                        11.21%    passed     97.93%
+ 206  rifcsp2_19_4_full_scaffold_215841_1_Micrarchaeota_III-b                                                                    2.59%    passed     91.59%
+ 207  rifcsphigho2_01_scaffold_346573_2_Micrarchaeota_III-b                                                                      5.17%    passed     67.26%
+ 208  rifcsphigho2_01_scaffold_440213_2_Micrarchaeota_III-b                                                                      7.76%    passed     80.36%
+ 209  rifcsphigho2_02_scaffold_173369_1_Micrarchaeota_III-b                                                                      2.59%    passed     98.05%
+ 210  rifcsphigho2_02_scaffold_2812_33_Micrarchaeota_III-b                                                                       2.59%    passed     35.72%
+ 211  rifcsphigho2_02_scaffold_38081_1_Micrarchaeota_III-b                                                                       3.02%    passed     94.83%
+ 212  rifcsplowo2_01_scaffold_119419_3_Micrarchaeota_III-b                                                                       3.02%    passed     56.64%
+ 213  rifcsplowo2_01_scaffold_135759_3_Micrarchaeota_III-b                                                                       4.31%    passed     32.16%
+ 214  rifcsplowo2_01_scaffold_17881_1_Micrarchaeota_III-b                                                                        2.59%    passed     96.38%
+ 215  rifcsplowo2_01_scaffold_45645_1_Micrarchaeota_III-b                                                                        8.62%    passed     99.01%
+ 216  rifcsplowo2_01_scaffold_465272_1_Micrarchaeota_III-b                                                                      22.41%    passed     86.81%
+ 217  rifcsplowo2_01_scaffold_4893_79_Micrarchaeota_III-b                                                                        2.16%    passed     91.70%
+ 218  rifcsplowo2_01_scaffold_49323_11_Micrarchaeota_III-b                                                                       2.59%    passed     77.89%
+ 219  rifcsplowo2_01_scaffold_51891_2_Micrarchaeota_III-b                                                                        2.16%    passed     81.14%
+ 220  rifcsplowo2_01_scaffold_58670_5_Micrarchaeota_III-b                                                                       15.09%    passed     92.55%
+ 221  rifcsplowo2_01_scaffold_68750_1_Micrarchaeota_III-b                                                                        8.62%    passed     85.45%
+ 222  rifcsplowo2_01_scaffold_93746_1_Micrarchaeota_III-b                                                                        2.16%    passed     90.80%
+ 223  rifcsplowo2_12_scaffold_17178_2_Micrarchaeota_III-b                                                                        2.59%    passed     61.22%
+ 224  rifoxyd1_full_scaffold_54939_2_Micrarchaeota_III-b                                                                        20.69%    passed     98.88%
+ 225  ncbi_ASMP01000003.1_19_Nanoarchaeota_III-b                                                                                 2.59%    passed     99.97%
+ 226  tara_45732_108_Nanoarchaeota_III-b                                                                                         2.59%    passed     68.12%
+ 227  07M_4_2014_scaffold_1566_11_Pacearchaeota_III-b                                                                            2.59%    passed     99.48%
+ 228  07M_4_2014_scaffold_64364_1_Pacearchaeota_III-b                                                                            8.19%    passed     96.06%
+ 229  16ft_4_scaffold_166118_1_Pacearchaeota_III-b                                                                              11.21%    passed     94.63%
+ 230  16ft_4_scaffold_39691_1_Pacearchaeota_III-b                                                                                8.62%    passed     99.89%
+ 231  19ft_2_nophage_noknown_scaffold_9330_1_Pacearchaeota_III-b                                                                 2.59%    passed     99.97%
+ 232  AR1-0.1_scaffold_8297_1_Pacearchaeota_III-b                                                                                9.05%    passed     87.41%
+ 233  CG02_land_8_20_14_3.00_150_scaffold_129462_2_Pacearchaeota_III-b                                                          11.21%    passed     96.27%
+ 234  CG06_land_8_20_14_3.00_150_scaffold_1834_c_8_Pacearchaeota_III-b                                                           2.59%    passed     97.03%
+ 235  CG09_land_8_20_14_0.10_scaffold_57150_2_Pacearchaeota_III-b                                                               20.69%    passed     74.13%
+ 236  CG10_big_fil_rev_8_21_14_0.10_scaffold_107_143_Pacearchaeota_III-b                                                         2.59%    passed     98.71%
+ 237  CG10_big_fil_rev_8_21_14_0.10_scaffold_127377_1_Pacearchaeota_III-b                                                        2.59%    passed     76.68%
+ 238  CG10_big_fil_rev_8_21_14_0.10_scaffold_139632_1_Pacearchaeota_III-b                                                        2.59%    passed     92.74%
+ 239  CG10_big_fil_rev_8_21_14_0.10_scaffold_22081_3_Pacearchaeota_III-b                                                         2.59%    passed     58.28%
+ 240  CG10_big_fil_rev_8_21_14_0.10_scaffold_2738_15_Pacearchaeota_III-b                                                         2.59%    passed     99.49%
+ 241  CG10_big_fil_rev_8_21_14_0.10_scaffold_28047_3_Pacearchaeota_III-b                                                         2.59%    passed     90.90%
+ 242  CG10_big_fil_rev_8_21_14_0.10_scaffold_5506_5_Pacearchaeota_III-b                                                          2.59%    passed     96.90%
+ 243  CG10_big_fil_rev_8_21_14_0.10_scaffold_8652_c_5_Pacearchaeota_III-b                                                        2.59%    passed     96.83%
+ 244  CG10_big_fil_rev_8_21_14_0.10_scaffold_92999_2_Pacearchaeota_III-b                                                         2.59%    passed     97.37%
+ 245  CG11_big_fil_rev_8_21_14_0.20_scaffold_64508_2_Pacearchaeota_III-b                                                         2.59%    passed     70.04%
+ 246  CG23_combo_of_CG06-09_8_20_14_all_150_scaffold_26480_3_Pacearchaeota_III-b                                                 2.59%    passed     70.04%
+ 247  CG23_combo_of_CG06-09_8_20_14_all_150_scaffold_29588_1_Pacearchaeota_III-b                                                 2.59%    passed     76.82%
+ 248  CG23_combo_of_CG06-09_8_20_14_all_150_scaffold_90018_1_Pacearchaeota_III-b                                                 2.59%    passed     99.53%
+ 249  CG_2015-01t_scaffold_89495_1_Pacearchaeota_III-b                                                                          11.21%    passed     87.68%
+ 250  CG_2015-09_scaffold_50799_3_Pacearchaeota_III-b                                                                            2.59%    passed     99.37%
+ 251  CG_2015-17_scaffold_79772_2_Pacearchaeota_III-b                                                                           10.78%    passed     90.28%
+ 252  CG_2015-18_scaffold_146281_1_Pacearchaeota_III-b                                                                          33.19%    passed     75.04%
+ 253  CG_2015-19_scaffold_109081_1_Pacearchaeota_III-b                                                                           6.90%    passed     92.71%
+ 254  CG_4_9_14_0.2_um_filter_scaffold_45485_3_Pacearchaeota_III-b                                                              11.21%    passed     71.87%
+ 255  GWB1_scaffold_10454_2_Pacearchaeota_III-b                                                                                  2.59%    passed     99.81%
+ 256  GWB1_scaffold_16004_5_Pacearchaeota_III-b                                                                                  2.59%    passed     99.92%
+ 257  GWB1_scaffold_22216_8_Pacearchaeota_III-b                                                                                  4.74%    passed     99.86%
+ 258  GWB1_scaffold_2416_28_Pacearchaeota_III-b                                                                                 12.93%    passed     99.55%
+ 259  GWB1_scaffold_6749_11_Pacearchaeota_III-b                                                                                  2.59%    passed     88.46%
+ 260  GWB1_scaffold_7630_9_Pacearchaeota_III-b                                                                                   2.59%    passed     99.79%
+ 261  RBG_13_Archaea_33_26_RBG_13_scaffold_69_17_Pacearchaeota_III-b                                                             2.59%    passed     91.64%
+ 262  RBG_13_Archaea_36_9_RBG_13_scaffold_1343_4_Pacearchaeota_III-b                                                             2.59%    passed     97.25%
+ 263  RBG_13_scaffold_1343_4_Pacearchaeota_III-b                                                                                 2.59%    passed     97.25%
+ 264  RBG_13_scaffold_1813_22_Pacearchaeota_III-b                                                                                2.59%    passed     89.11%
+ 265  RBG_13_scaffold_259_7_Pacearchaeota_III-b                                                                                  2.59%    passed     93.19%
+ 266  RBG_16_scaffold_11079_2_Pacearchaeota_III-b                                                                                2.59%    passed     98.43%
+ 267  RifSed_csp1_13ft_1_scaffold_35671_4_Pacearchaeota_III-b                                                                    2.59%    passed     99.63%
+ 268  RifSed_csp1_16ft_1_scaffold_25993_3_Pacearchaeota_III-b                                                                   19.83%    passed     96.56%
+ 269  RifSed_csp1_16ft_2_scaffold_53506_3_Pacearchaeota_III-b                                                                    2.59%    passed     98.34%
+ 270  RifSed_csp1_16ft_3_scaffold_247731_2_Pacearchaeota_III-b                                                                  21.55%    passed     99.77%
+ 271  RifSed_csp1_16ft_4_scaffold_172579_3_Pacearchaeota_III-b                                                                   2.59%    passed     99.98%
+ 272  RifSed_csp1_19ft_1_scaffold_43_1_Pacearchaeota_III-b                                                                       2.59%    passed     99.85%
+ 273  RifSed_csp1_19ft_1_scaffold_47266_3_Pacearchaeota_III-b                                                                    2.59%    passed     97.46%
+ 274  RifSed_csp1_19ft_2_scaffold_187283_2_Pacearchaeota_III-b                                                                   2.59%    passed     89.99%
+ 275  RifSed_csp1_19ft_3_scaffold_56327_3_Pacearchaeota_III-b                                                                    3.88%    passed     97.74%
+ 276  RifSed_csp1_19ft_4_scaffold_32161_5_Pacearchaeota_III-b                                                                    2.59%    passed     99.79%
+ 277  RifSed_csp1_19ft_4_scaffold_33260_6_Pacearchaeota_III-b                                                                    2.59%    passed     98.68%
+ 278  RifSed_csp2_10ft_1_scaffold_178317_3_Pacearchaeota_III-b                                                                  11.21%    passed     97.79%
+ 279  RifSed_csp2_10ft_2_scaffold_141884_1_Pacearchaeota_III-b                                                                   4.31%    passed     95.26%
+ 280  RifSed_csp2_10ft_3_scaffold_196980_2_Pacearchaeota_III-b                                                                   2.59%    passed     97.07%
+ 281  RifSed_csp2_10ft_3_scaffold_402847_1_Pacearchaeota_III-b                                                                   2.59%    failed      4.97%
+ 282  RifSed_csp2_10ft_3_scaffold_492694_2_Pacearchaeota_III-b                                                                  20.69%    passed     99.56%
+ 283  RifSed_csp2_13ft_1_scaffold_36185_8_Pacearchaeota_III-b                                                                    2.59%    passed     96.22%
+ 284  RifSed_csp2_13ft_2_scaffold_695229_1_Pacearchaeota_III-b                                                                  28.45%    passed     99.49%
+ 285  RifSed_csp2_13ft_2_scaffold_701908_1_Pacearchaeota_III-b                                                                   7.33%    passed     97.19%
+ 286  RifSed_csp2_16ft_2_scaffold_361294_1_Pacearchaeota_III-b                                                                  36.21%    passed     93.33%
+ 287  RifSed_csp2_16ft_2_scaffold_571319_1_Pacearchaeota_III-b                                                                   6.03%    passed     79.96%
+ 288  RifSed_csp2_16ft_3_scaffold_46608_6_Pacearchaeota_III-b                                                                    2.59%    passed     99.79%
+ 289  RifSed_csp2_16ft_3_scaffold_83149_1_Pacearchaeota_III-b                                                                    2.59%    passed     99.93%
+ 290  RifSed_csp2_19ft_2_scaffold_12174_2_Pacearchaeota_III-b                                                                    2.59%    passed     98.07%
+ 291  RifSed_csp2_19ft_2_scaffold_163929_2_Pacearchaeota_III-b                                                                   6.47%    passed     83.92%
+ 292  RifSed_csp2_19ft_3_scaffold_147407_1_Pacearchaeota_III-b                                                                   7.33%    passed     97.65%
+ 293  UBA284contig_56696_5_Pacearchaeota_III-b                                                                                   2.59%    passed     92.75%
+ 294  UBA92contig_3568_7_Pacearchaeota_III-b                                                                                     2.59%    passed     98.48%
+ 295  bjp_ig2599_scaffold_21435_3_Pacearchaeota_III-b                                                                            2.59%    passed     96.16%
+ 296  cg1_0.2_scaffold_115_c_6_Pacearchaeota_III-b                                                                               2.59%    passed     82.80%
+ 297  cg1_0.2_scaffold_3141_c_19_Pacearchaeota_III-b                                                                             2.59%    passed     98.48%
+ 298  cg1_0.2_scaffold_5501_c_7_Pacearchaeota_III-b                                                                              2.59%    passed     99.37%
+ 299  cg1_0.2_scaffold_82321_1_Pacearchaeota_III-b                                                                               9.48%    passed     96.43%
+ 300  gwa1_scaffold_12779_4_Pacearchaeota_III-b                                                                                  6.90%    passed     99.88%
+ 301  gwa1_scaffold_15687_9_Pacearchaeota_III-b                                                                                 40.52%    passed     88.79%
+ 302  gwa1_scaffold_1688_10_Pacearchaeota_III-b                                                                                  2.59%    passed    100.00%
+ 303  gwa1_scaffold_1760_30_Pacearchaeota_III-b                                                                                 18.10%    passed     99.35%
+ 304  gwa1_scaffold_6140_7_Pacearchaeota_III-b                                                                                   2.59%    passed     91.59%
+ 305  gwa1_scaffold_8053_8_Pacearchaeota_III-b                                                                                   2.59%    passed     99.65%
+ 306  gwa2_scaffold_43928_8_Pacearchaeota_III-b                                                                                  2.59%    passed     99.28%
+ 307  gwa2_scaffold_8105_21_Pacearchaeota_III-b                                                                                 15.52%    passed     98.66%
+ 308  gwc1_scaffold_2334_8_Pacearchaeota_III-b                                                                                   2.59%    passed     99.81%
+ 309  gwc1_scaffold_4584_2_Pacearchaeota_III-b                                                                                  11.21%    passed     81.87%
+ 310  gwc1_scaffold_4706_5_Pacearchaeota_III-b                                                                                   2.59%    passed     81.72%
+ 311  mol-32-15fa-021564_1_Pacearchaeota_III-b                                                                                   2.59%    passed     24.92%
+ 312  mol-32-15fa-031464_9_Pacearchaeota_III-b                                                                                   2.59%    passed     74.13%
+ 313  mol-32-1605-029005_8_Pacearchaeota_III-b                                                                                   3.45%    passed     99.49%
+ 314  rifcsp2_19_4_full_scaffold_35462_2_Pacearchaeota_III-b                                                                     2.59%    passed     99.98%
+ 315  rifcsp_13ft_1_scaffold_503499_2_Pacearchaeota_III-b                                                                       17.24%    passed     99.89%
+ 316  rifcsphigho2_01_scaffold_10367_34_Pacearchaeota_III-b                                                                      2.59%    passed     95.30%
+ 317  rifcsphigho2_01_scaffold_111818_5_Pacearchaeota_III-b                                                                      2.59%    passed     99.73%
+ 318  rifcsphigho2_01_scaffold_11863_1_Pacearchaeota_III-b                                                                       2.59%    passed     86.67%
+ 319  rifcsphigho2_01_scaffold_125633_2_Pacearchaeota_III-b                                                                      2.59%    passed     99.99%
+ 320  rifcsphigho2_01_scaffold_136210_1_Pacearchaeota_III-b                                                                      2.59%    passed     96.51%
+ 321  rifcsphigho2_01_scaffold_15374_6_Pacearchaeota_III-b                                                                       2.59%    passed     88.27%
+ 322  rifcsphigho2_01_scaffold_156759_4_Pacearchaeota_III-b                                                                      2.59%    passed     92.77%
+ 323  rifcsphigho2_01_scaffold_173637_10_Pacearchaeota_III-b                                                                    11.21%    passed    100.00%
+ 324  rifcsphigho2_01_scaffold_21619_3_Pacearchaeota_III-b                                                                       8.62%    passed     82.61%
+ 325  rifcsphigho2_01_scaffold_257738_1_Pacearchaeota_III-b                                                                     12.07%    passed     99.89%
+ 326  rifcsphigho2_01_scaffold_293991_4_Pacearchaeota_III-b                                                                      6.03%    passed     99.99%
+ 327  rifcsphigho2_01_scaffold_319644_1_Pacearchaeota_III-b                                                                     25.86%    passed     83.61%
+ 328  rifcsphigho2_01_scaffold_41251_2_Pacearchaeota_III-b                                                                       2.59%    passed     79.74%
+ 329  rifcsphigho2_01_scaffold_437666_1_Pacearchaeota_III-b                                                                      2.59%    passed     99.60%
+ 330  rifcsphigho2_01_scaffold_464599_1_Pacearchaeota_III-b                                                                      8.62%    passed     92.56%
+ 331  rifcsphigho2_01_scaffold_52038_9_Pacearchaeota_III-b                                                                       2.59%    passed     98.58%
+ 332  rifcsphigho2_01_scaffold_526185_2_Pacearchaeota_III-b                                                                     11.21%    passed     74.64%
+ 333  rifcsphigho2_01_scaffold_53648_5_Pacearchaeota_III-b                                                                       8.62%    passed     97.80%
+ 334  rifcsphigho2_01_scaffold_54027_7_Pacearchaeota_III-b                                                                       2.59%    passed     98.21%
+ 335  rifcsphigho2_01_scaffold_65352_11_Pacearchaeota_III-b                                                                      2.59%    passed     98.91%
+ 336  rifcsphigho2_01_scaffold_66616_16_Pacearchaeota_III-b                                                                      2.59%    passed     96.20%
+ 337  rifcsphigho2_01_scaffold_6966_11_Pacearchaeota_III-b                                                                       2.59%    passed     74.49%
+ 338  rifcsphigho2_01_scaffold_7201_13_Pacearchaeota_III-b                                                                       2.59%    passed     97.01%
+ 339  rifcsphigho2_01_scaffold_8061_16_Pacearchaeota_III-b                                                                       2.59%    passed     91.47%
+ 340  rifcsphigho2_01_scaffold_82070_3_Pacearchaeota_III-b                                                                       2.59%    passed     98.47%
+ 341  rifcsphigho2_01_scaffold_85698_3_Pacearchaeota_III-b                                                                       2.59%    passed     88.22%
+ 342  rifcsphigho2_01_scaffold_97976_8_Pacearchaeota_III-b                                                                       2.59%    passed     87.54%
+ 343  rifcsphigho2_01_sub10_scaffold_18411_1_Pacearchaeota_III-b                                                                 2.59%    passed     95.42%
+ 344  rifcsphigho2_01_sub10_scaffold_4260_8_Pacearchaeota_III-b                                                                  2.59%    passed     75.74%
+ 345  rifcsphigho2_02_scaffold_110943_6_Pacearchaeota_III-b                                                                      3.45%    passed     98.30%
+ 346  rifcsphigho2_02_scaffold_15332_15_Pacearchaeota_III-b                                                                      2.59%    passed     80.05%
+ 347  rifcsphigho2_02_scaffold_162351_1_Pacearchaeota_III-b                                                                      2.59%    passed     98.91%
+ 348  rifcsphigho2_02_scaffold_16976_10_Pacearchaeota_III-b                                                                      2.59%    passed     99.94%
+ 349  rifcsphigho2_02_scaffold_221194_1_Pacearchaeota_III-b                                                                      2.59%    passed     87.20%
+ 350  rifcsphigho2_02_scaffold_248456_1_Pacearchaeota_III-b                                                                     11.21%    passed    100.00%
+ 351  rifcsphigho2_02_scaffold_27808_2_Pacearchaeota_III-b                                                                       2.59%    passed     92.06%
+ 352  rifcsphigho2_02_scaffold_33630_15_Pacearchaeota_III-b                                                                      3.88%    passed     10.77%
+ 353  rifcsphigho2_02_scaffold_369452_2_Pacearchaeota_III-b                                                                     11.21%    passed     74.41%
+ 354  rifcsphigho2_02_scaffold_489089_1_Pacearchaeota_III-b                                                                     11.21%    passed     66.59%
+ 355  rifcsphigho2_02_scaffold_50705_4_Pacearchaeota_III-b                                                                       4.74%    passed     86.76%
+ 356  rifcsphigho2_02_scaffold_53546_4_Pacearchaeota_III-b                                                                       2.59%    passed     99.99%
+ 357  rifcsphigho2_02_scaffold_58627_1_Pacearchaeota_III-b                                                                      11.21%    passed     93.33%
+ 358  rifcsphigho2_02_scaffold_8518_20_Pacearchaeota_III-b                                                                       2.59%    passed     99.37%
+ 359  rifcsphigho2_12_scaffold_1445_63_Pacearchaeota_III-b                                                                       2.59%    passed    100.00%
+ 360  rifcsphigho2_12_scaffold_224551_2_Pacearchaeota_III-b                                                                      2.59%    passed     98.54%
+ 361  rifcsphigho2_12_scaffold_331687_2_Pacearchaeota_III-b                                                                     13.79%    passed     70.67%
+ 362  rifcsphigho2_12_scaffold_356730_1_Pacearchaeota_III-b                                                                      8.62%    passed     95.24%
+ 363  rifcsplowo2_01_scaffold_0_375_Pacearchaeota_III-b                                                                          2.59%    passed     93.70%
+ 364  rifcsplowo2_01_scaffold_102233_3_Pacearchaeota_III-b                                                                       2.59%    passed     99.99%
+ 365  rifcsplowo2_01_scaffold_108589_3_Pacearchaeota_III-b                                                                       2.59%    passed     99.55%
+ 366  rifcsplowo2_01_scaffold_112877_5_Pacearchaeota_III-b                                                                       8.62%    passed     98.37%
+ 367  rifcsplowo2_01_scaffold_13705_14_Pacearchaeota_III-b                                                                       2.59%    passed     83.99%
+ 368  rifcsplowo2_01_scaffold_1373_9_Pacearchaeota_III-b                                                                         2.59%    passed     97.96%
+ 369  rifcsplowo2_01_scaffold_143159_2_Pacearchaeota_III-b                                                                       2.59%    passed     84.61%
+ 370  rifcsplowo2_01_scaffold_157232_1_Pacearchaeota_III-b                                                                       2.59%    passed     88.40%
+ 371  rifcsplowo2_01_scaffold_159277_2_Pacearchaeota_III-b                                                                       2.59%    passed     96.77%
+ 372  rifcsplowo2_01_scaffold_159415_2_Pacearchaeota_III-b                                                                       2.59%    passed     97.40%
+ 373  rifcsplowo2_01_scaffold_160892_4_Pacearchaeota_III-b                                                                      21.55%    passed     91.44%
+ 374  rifcsplowo2_01_scaffold_178776_2_Pacearchaeota_III-b                                                                      20.69%    passed     99.05%
+ 375  rifcsplowo2_01_scaffold_183449_2_Pacearchaeota_III-b                                                                       2.59%    passed     55.22%
+ 376  rifcsplowo2_01_scaffold_193789_1_Pacearchaeota_III-b                                                                      12.50%    passed     93.41%
+ 377  rifcsplowo2_01_scaffold_200222_1_Pacearchaeota_III-b                                                                       4.74%    passed     95.72%
+ 378  rifcsplowo2_01_scaffold_202_72_Pacearchaeota_III-b                                                                         2.59%    passed     99.65%
+ 379  rifcsplowo2_01_scaffold_22357_10_Pacearchaeota_III-b                                                                      34.91%    passed     43.33%
+ 380  rifcsplowo2_01_scaffold_223977_1_Pacearchaeota_III-b                                                                       2.59%    passed     99.20%
+ 381  rifcsplowo2_01_scaffold_224073_1_Pacearchaeota_III-b                                                                      21.98%    passed     82.99%
+ 382  rifcsplowo2_01_scaffold_24480_6_Pacearchaeota_III-b                                                                       19.40%    passed     48.86%
+ 383  rifcsplowo2_01_scaffold_246509_2_Pacearchaeota_III-b                                                                       2.59%    passed     99.99%
+ 384  rifcsplowo2_01_scaffold_256272_1_Pacearchaeota_III-b                                                                       2.59%    passed     67.61%
+ 385  rifcsplowo2_01_scaffold_269943_3_Pacearchaeota_III-b                                                                      71.55%    passed      7.91%
+ 386  rifcsplowo2_01_scaffold_277111_1_Pacearchaeota_III-b                                                                      13.36%    passed     58.70%
+ 387  rifcsplowo2_01_scaffold_283644_2_Pacearchaeota_III-b                                                                      11.21%    passed     96.15%
+ 388  rifcsplowo2_01_scaffold_294211_1_Pacearchaeota_III-b                                                                       2.59%    passed     85.85%
+ 389  rifcsplowo2_01_scaffold_304868_2_Pacearchaeota_III-b                                                                       2.59%    passed     62.92%
+ 390  rifcsplowo2_01_scaffold_309117_2_Pacearchaeota_III-b                                                                       8.19%    passed     91.84%
+ 391  rifcsplowo2_01_scaffold_331279_1_Pacearchaeota_III-b                                                                      12.07%    passed     99.49%
+ 392  rifcsplowo2_01_scaffold_349272_1_Pacearchaeota_III-b                                                                      25.43%    passed     98.25%
+ 393  rifcsplowo2_01_scaffold_35063_9_Pacearchaeota_III-b                                                                        7.76%    passed     69.51%
+ 394  rifcsplowo2_01_scaffold_37901_5_Pacearchaeota_III-b                                                                        2.59%    passed     97.27%
+ 395  rifcsplowo2_01_scaffold_38123_6_Pacearchaeota_III-b                                                                        8.62%    passed     94.08%
+ 396  rifcsplowo2_01_scaffold_391963_1_Pacearchaeota_III-b                                                                       8.62%    passed     88.86%
+ 397  rifcsplowo2_01_scaffold_39879_1_Pacearchaeota_III-b                                                                        2.59%    passed     98.61%
+ 398  rifcsplowo2_01_scaffold_401896_1_Pacearchaeota_III-b                                                                       2.59%    passed     94.82%
+ 399  rifcsplowo2_01_scaffold_40614_6_Pacearchaeota_III-b                                                                        2.59%    passed     98.38%
+ 400  rifcsplowo2_01_scaffold_41118_9_Pacearchaeota_III-b                                                                        2.59%    passed     98.17%
+ 401  rifcsplowo2_01_scaffold_412156_2_Pacearchaeota_III-b                                                                      39.22%    passed     61.67%
+ 402  rifcsplowo2_01_scaffold_42386_8_Pacearchaeota_III-b                                                                        2.59%    passed     83.47%
+ 403  rifcsplowo2_01_scaffold_45660_7_Pacearchaeota_III-b                                                                        2.59%    passed     96.71%
+ 404  rifcsplowo2_01_scaffold_474979_2_Pacearchaeota_III-b                                                                      31.90%    passed     82.94%
+ 405  rifcsplowo2_01_scaffold_51839_11_Pacearchaeota_III-b                                                                       2.59%    passed     94.38%
+ 406  rifcsplowo2_01_scaffold_51844_6_Pacearchaeota_III-b                                                                       15.95%    passed     97.95%
+ 407  rifcsplowo2_01_scaffold_5197_14_Pacearchaeota_III-b                                                                        2.59%    passed     96.74%
+ 408  rifcsplowo2_01_scaffold_53007_11_Pacearchaeota_III-b                                                                       2.59%    passed     99.01%
+ 409  rifcsplowo2_01_scaffold_57929_6_Pacearchaeota_III-b                                                                        2.16%    passed     76.62%
+ 410  rifcsplowo2_01_scaffold_94273_4_Pacearchaeota_III-b                                                                        2.59%    passed     98.63%
+ 411  rifcsplowo2_01_scaffold_95698_5_Pacearchaeota_III-b                                                                        2.59%    passed     86.08%
+ 412  rifcsplowo2_01_sub10_scaffold_13483_3_Pacearchaeota_III-b                                                                  2.59%    passed     96.94%
+ 413  rifcsplowo2_01_sub10_scaffold_17928_1_Pacearchaeota_III-b                                                                  2.59%    passed     97.01%
+ 414  rifcsplowo2_01_sub10_scaffold_35299_1_Pacearchaeota_III-b                                                                  2.59%    passed     91.42%
+ 415  rifcsplowo2_02_scaffold_295114_1_Pacearchaeota_III-b                                                                       4.31%    passed     67.79%
+ 416  rifcsplowo2_02_scaffold_407950_1_Pacearchaeota_III-b                                                                      11.21%    passed     88.50%
+ 417  rifcsplowo2_02_scaffold_83872_4_Pacearchaeota_III-b                                                                        2.59%    passed     94.66%
+ 418  rifcsplowo2_12_scaffold_1860_42_Pacearchaeota_III-b                                                                        2.59%    passed     80.05%
+ 419  rifoxya1_full_scaffold_42954_2_Pacearchaeota_III-b                                                                        11.21%    passed     81.09%
+ 420  rifoxya1_sub10_scaffold_6_49_Pacearchaeota_III-b                                                                           2.59%    passed     97.93%
+ 421  rifoxyb1_full_scaffold_13298_4_Pacearchaeota_III-b                                                                        15.09%    passed     88.71%
+ 422  rifoxyb2_full_scaffold_57680_2_Pacearchaeota_III-b                                                                        22.84%    passed     62.92%
+ 423  rifoxyc1_full_scaffold_14429_1_Pacearchaeota_III-b                                                                         2.59%    passed     99.65%
+ 424  rifoxyc1_full_scaffold_21863_2_Pacearchaeota_III-b                                                                         2.59%    passed     96.23%
+ 425  rifoxyc1_full_scaffold_36956_1_Pacearchaeota_III-b                                                                         2.59%    passed     91.14%
+ 426  rifoxyc1_full_scaffold_38709_3_Pacearchaeota_III-b                                                                         2.59%    passed     80.05%
+ 427  rifoxyd1_full_scaffold_41945_2_Pacearchaeota_III-b                                                                         2.59%    passed     96.23%
+ 428  rifoxyd1_full_scaffold_4719_16_Pacearchaeota_III-b                                                                         2.59%    passed     80.05%
+ 429  rifoxyd1_full_scaffold_47708_2_Pacearchaeota_III-b                                                                        11.21%    passed     98.07%
+ 430  rifoxyd1_full_scaffold_56120_1_Pacearchaeota_III-b                                                                         2.59%    passed     97.08%
+ 431  tara_37404_15_Pacearchaeota_III-b                                                                                          2.59%    passed     99.59%
+ 432  tara_37686_27_Pacearchaeota_III-b                                                                                          2.59%    passed     93.75%
+ 433  tara_50434_27_Pacearchaeota_III-b                                                                                          2.59%    passed     91.47%
+ 434  tara_83453_5_Pacearchaeota_III-b                                                                                           2.59%    passed     99.51%
+ 435  tara_MHASMcontig_152320_17_Pacearchaeota_III-b                                                                             2.59%    passed     99.98%
+ 436  tara_MHASMcontig_158273_9_Pacearchaeota_III-b                                                                              2.59%    passed     79.27%
+ 437  tara_MHASMcontig_668995_27_Pacearchaeota_III-b                                                                             2.59%    passed     95.60%
+ 438  CG10_big_fil_rev_8_21_14_0.10_scaffold_48964_c_1_Woesearchaeota_III-b                                                     11.21%    passed     82.58%
+ 439  CG10_big_fil_rev_8_21_14_0.10_scaffold_756_c_32_Woesearchaeota_III-b                                                       2.59%    passed     70.21%
+ 440  UBA119contig_8444_4_Woesearchaeota_III-b                                                                                   2.59%    passed     96.01%
+ 441  UBA153contig_35505_2_Woesearchaeota_III-b                                                                                  2.16%    passed     99.87%
+ 442  cg1_0.2_scaffold_10457_2_Woesearchaeota_III-b                                                                              2.59%    passed     60.52%
+ 443  rifcsphigho2_01_scaffold_37456_9_Woesearchaeota_III-b                                                                      2.59%    passed     79.32%
+ 444  rifcsphigho2_01_scaffold_6465_9_Woesearchaeota_III-b                                                                       2.59%    passed     14.07%
+ 445  rifcsphigho2_01_scaffold_7865_10_Woesearchaeota_III-b                                                                      2.16%    passed     91.58%
+ 446  rifcsphigho2_02_scaffold_55123_15_Woesearchaeota_III-b                                                                     2.59%    passed     94.91%
+ 447  rifcsplowo2_01_scaffold_16673_1_Woesearchaeota_III-b                                                                       2.59%    passed     84.67%
+ 448  rifcsplowo2_01_scaffold_45370_2_Woesearchaeota_III-b                                                                       6.47%    passed     86.83%
+ 449  rifcsplowo2_01_scaffold_5191_1_Woesearchaeota_III-b                                                                        2.59%    passed     97.45%
+ 450  rifcsplowo2_01_scaffold_53096_8_Woesearchaeota_III-b                                                                       2.16%    passed     96.45%
+ 451  rifcsplowo2_02_scaffold_22033_7_Woesearchaeota_III-b                                                                       2.59%    passed     97.33%
+ 452  rifoxya1_full_scaffold_286_38_Woesearchaeota_III-b                                                                         2.59%    passed     99.96%
+ 453  rifoxyc1_full_scaffold_6493_4_Woesearchaeota_III-b                                                                         2.59%    passed     98.00%
+ 454  BAA30036_Pyrococcus_horikoshii_OT3_II_REF_reference_III-b                                                                  2.59%    passed     62.34%
+ 455  CAI49476_Natronomonas_pharaonis_DSM_2160_II_REF_reference_III-b                                                            2.59%    passed     30.08%
+ 456  Ferroglobus_placidus_YP_00343593_REF_reference_III-b                                                                       2.59%    passed     55.69%
+ 457  Ignisphaera_aggregans_YP_00386030_REF_reference_III-b                                                                      2.59%    passed     43.20%
+ 458  KCZ70371_Candidatus_Methanoperedens_nitroreducen_REF_reference_III-b                                                       2.59%    passed     98.06%
+ 459  KKS31468.1_Ribulose_bisphosphate_carboxylase                                                                               2.59%    passed     98.57%
+ 460  KON32451.1_ribulose_1                                                                                                      2.59%    passed     99.72%
+ 461  KON34323.1_ribulose_1                                                                                                      2.59%    passed     99.82%
+ 462  NP_070466_Archaeoglobus_fulgidus_DSM_4304_II_REF_reference_III-b                                                           2.59%    passed     51.55%
+ 463  WP004043974_Haloferax_volcanii_DS_REF_reference_III-b                                                                      2.59%    passed     23.65%
+ 464  WP004216495_Natrialba_magadii_ATCC_4309_REF_reference_III-b                                                                2.59%    passed      9.52%
+ 465  WP004971045_Haloferax_denitrificans_ATCC_3596_REF_reference_III-b                                                          2.59%    passed     29.90%
+ 466  WP004977657_Haloferax_gibbonsii_ATCC_3395_REF_reference_III-b                                                              2.59%    passed     22.11%
+ 467  WP006065604_Natronorubrum_bangense_JCM_1063_REF_reference_III-b                                                            2.59%    passed     21.23%
+ 468  WP006108853_Natrialba_asiatica_DSM_1227_REF_reference_III-b                                                                2.59%    passed      9.79%
+ 469  WP006167759_Natrialba_chahannaoensis_JCM_1099_REF_reference_III-b                                                          2.59%    passed      7.20%
+ 470  WP006651990_Natrialba_hulunbeirensis_JCM_1098_REF_reference_III-b                                                          2.59%    passed      6.19%
+ 471  WP006666558_Natrialba_aegyptia_DSM_1307_REF_reference_III-b                                                                2.59%    passed      7.67%
+ 472  WP006826142_Natrialba_taiwanensis_DSM_1228_REF_reference_III-b                                                             2.59%    passed     11.44%
+ 473  WP007539013_Haloferax_larsenii_JCM_1391_REF_reference_III-b                                                                2.59%    passed     51.04%
+ 474  WP007979331_Haladaptatus_paucihalophilus_DX25_REF_reference_III-b                                                          8.19%    passed     32.52%
+ 475  WP008012454_Haloterrigena_limicola_JCM_1356_REF_reference_III-b                                                            2.59%    passed     25.82%
+ 476  WP008092479_Haloferax_prahovense_DSM_1831_REF_reference_III-b                                                              2.59%    passed     28.66%
+ 477  WP008321381_Haloferax_mucosum_ATCC_BAA151_REF_reference_III-b                                                              2.59%    passed     29.25%
+ 478  WP008323546_Haloferax_elongans_ATCC_BAA151_REF_reference_III-b                                                             2.59%    passed     65.73%
+ 479  WP009365917_Halogranum_salarium_B_REF_reference_III-b                                                                      2.59%    passed     58.57%
+ 480  WP_006056824_Halogeometricum_borinquens_REF_reference_III-b                                                                2.59%    passed     41.67%
+ 481  YP001041057_Staphylothermus_marinus_F_REF_reference_III-b                                                                  2.59%    passed     64.31%
+ 482  YP001047237_Methanoculleus_marisnigri_JR_REF_reference_III-b                                                               2.59%    passed     52.32%
+ 483  YP002428833_Desulfurococcus_kamchatkensis_1221_REF_reference_III-b                                                         2.59%    passed     75.81%
+ 484  YP002960117_Thermococcus_gammatolerans_EJ_REF_reference_III-b                                                              2.59%    passed     29.00%
+ 485  YP003178578_Halomicrobium_mukohataei_DSM_1228_REF_reference_III-b                                                          2.59%    passed     18.71%
+ 486  YP004341517_Archaeoglobus_veneficus_SNP_REF_reference_III-b                                                                2.59%    passed     64.63%
+ 487  YP004424539_Pyrococcus_sp_NA_REF_reference_III-b                                                                           3.88%    passed     80.89%
+ 488  YP004622994_Pyrococcus_yayanosii_CH_REF_reference_III-b                                                                    3.88%    passed     92.93%
+ 489  YP006545805_Methanoculleus_bourgensis_MS_REF_reference_III-b                                                               2.59%    passed     69.82%
+ 490  YP007907939_Archaeoglobus_sulfaticallidus_PM70_REF_reference_III-b                                                         2.59%    passed     82.21%
+ 491  YP_001012710_Hyperthermus_butylicus_DSM_5456_II_REF_reference_III-b                                                        2.59%    passed     61.33%
+ 492  YP_003669400_Staphylothermus_hellenicus_DSM_12710_II_REF_reference_III-b                                                   2.59%    passed     75.57%
+ 493  YP_920628_Thermofilum_pendens_Hrk_5_II_REF_reference_III-b                                                                 2.59%    passed     31.62%
+ 494  ZP_09027197_Desulfurococcus_fermentans_DSM_16532_II_REF_reference_III-b                                                    2.59%    passed     72.26%
+ 495  LSDeep1_scaffold_252_71_unknown_III-b                                                                                      2.59%    passed     99.86%
+ 496  LSDeep1_scaffold_26_533_unknown_III-b                                                                                      2.59%    passed     99.89%
+ 497  gwd2_scaffold_498_27_unknown_III-b                                                                                         2.59%    passed     97.38%
+ 498  rifcsphigho2_01_scaffold_5232_2_unknown_III-b                                                                              9.91%    passed      5.30%
+ 499  rifoxyb2_full_scaffold_25016_1_unknown_III-b                                                                               8.62%    passed     95.62%
+ 500  RBG_13_scaffold_14099_11_Dojkabacteria_III-c                                                                               2.59%    passed     45.60%
+ 501  RIFOXYC2_FULL_OD1_48_21_rifoxyc2_full_scaffold_977_4_Falkowbacteria_III-c                                                  2.59%    passed     64.36%
+ 502  cg1_0.2_scaffold_64959_1_Falkowbacteria_III-c                                                                              2.59%    passed     78.83%
+ 503  gwa2_scaffold_40962_2_Falkowbacteria_III-c                                                                                 2.59%    passed     64.97%
+ 504  rifoxyd2_full_scaffold_3430_5_Falkowbacteria_III-c                                                                         8.19%    passed     59.42%
+ 505  AR1-0.1_scaffold_1790_3_Gottesmanbacteria_III-c                                                                            2.59%    passed     65.17%
+ 506  CG11_big_fil_rev_8_21_14_0.20_scaffold_1948_c_6_Gottesmanbacteria_III-c                                                    2.59%    passed     97.18%
+ 507  RBG_13_scaffold_5391_5_Gottesmanbacteria_III-c                                                                            11.21%    passed     95.33%
+ 508  UBA2393contig_52368_1_Gottesmanbacteria_III-c                                                                              2.59%    passed     96.03%
+ 509  UBA927contig_123_73_Gottesmanbacteria_III-c                                                                                2.59%    passed     95.46%
+ 510  gwa2_scaffold_47144_2_Gottesmanbacteria_III-c                                                                              9.05%    passed     99.59%
+ 511  gwc2_scaffold_9210_4_Gottesmanbacteria_III-c                                                                               3.45%    passed     96.86%
+ 512  mol-32-1605-030446_1_Gottesmanbacteria_Gottesmanbacteria_III-c                                                             3.88%    passed     87.66%
+ 513  rifcsphigho2_01_scaffold_5271_63_Gottesmanbacteria_III-c                                                                   2.59%    passed     88.82%
+ 514  rifcsplowo2_01_scaffold_7182_31_Gottesmanbacteria_III-c                                                                    2.59%    passed     85.22%
+ 515  rifoxyb1_full_scaffold_633_14_Gottesmanbacteria_III-c                                                                      5.60%    passed     86.47%
+ 516  rifoxyc1_full_scaffold_26262_2_Gottesmanbacteria_III-c                                                                     5.60%    passed     84.32%
+ 517  CG08_land_8_20_14_0.20_scaffold_141789_1_Kuenenbacteria_III-c                                                             19.40%    passed     76.23%
+ 518  CG10_big_fil_rev_8_21_14_0.10_scaffold_1094_21_Kuenenbacteria_III-c                                                        2.59%    passed     68.51%
+ 519  CG_2015-11_scaffold_25419_1_Kuenenbacteria_III-c                                                                           2.59%    passed     96.53%
+ 520  CG_2015-13_scaffold_124523_1_Kuenenbacteria_III-c                                                                          2.59%    passed     95.01%
+ 521  CG_4_9_14_0.2_um_filter_scaffold_23606_2_Kuenenbacteria_III-c                                                             31.90%    passed     55.22%
+ 522  RifSed_csp2_16ft_2_scaffold_214444_1_Kuenenbacteria_III-c                                                                 25.00%    passed     89.49%
+ 523  cg1_0.2_scaffold_10592_2_Kuenenbacteria_III-c                                                                              2.59%    passed     63.13%
+ 524  cgr2_combo_scaffold_6030_4_Kuenenbacteria_III-c                                                                            2.59%    passed     95.07%
+ 525  rifcsphigho2_01_scaffold_155436_2_Kuenenbacteria_III-c                                                                     2.59%    passed     95.16%
+ 526  rifcsphigho2_01_scaffold_71747_2_Kuenenbacteria_III-c                                                                      2.59%    passed     50.58%
+ 527  img_2698597071_3_Microgenomates_III-c                                                                                      3.88%    passed     61.11%
+ 528  07M_4_2014_scaffold_5663_3_Parcubacteria_III-c                                                                             8.19%    passed     83.82%
+ 529  CG03_land_8_20_14_0.80_scaffold_45401_2_Parcubacteria_III-c                                                                9.91%    passed     56.69%
+ 530  CG08_land_8_20_14_0.20_scaffold_311_25_Parcubacteria_III-c                                                                 2.59%    passed     92.25%
+ 531  CG22_combo_CG10-13_8_21_14_all_scaffold_27032_2_Parcubacteria_Parcubacteria_III-c                                          2.59%    passed     69.93%
+ 532  CG23_combo_of_CG06-09_8_20_14_all_150_scaffold_8060_3_Parcubacteria_III-c                                                  2.59%    passed     99.27%
+ 533  CG_4_10_14_0.8_um_filter_scaffold_1033_22_Parcubacteria_III-c                                                              2.59%    passed     98.83%
+ 534  Ig5770_scaffold_3414_3_Parcubacteria_III-c                                                                                 2.59%    passed     90.42%
+ 535  bjp_ig2599_scaffold_5183_11_Parcubacteria_III-c                                                                            2.59%    passed     90.42%
+ 536  bjp_ig2599_sub10_scaffold_364_11_Parcubacteria_III-c                                                                       2.59%    passed     90.42%
+ 537  bjp_ig3402_scaffold_5048_11_Parcubacteria_III-c                                                                            7.76%    passed     85.77%
+ 538  gwa2_scaffold_5659_22_Parcubacteria_III-c                                                                                  2.59%    passed     70.07%
+ 539  gwc2_scaffold_11863_3_Parcubacteria_III-c                                                                                  2.59%    passed     69.91%
+ 540  gwc2_scaffold_633_23_Parcubacteria_III-c                                                                                   2.59%    passed     89.37%
+ 541  ncbi_NATD01000013.1_9_Parcubacteria_III-c                                                                                  2.59%    passed     94.51%
+ 542  ncbi_NATD01000022.1_13_Parcubacteria_III-c                                                                                 2.59%    passed     39.56%
+ 543  UBA1441contig_19953_11_Patescibacteria_III-c                                                                               2.59%    passed     56.26%
+ 544  UBA1558contig_16814_5_Patescibacteria_III-c                                                                                2.59%    passed     80.53%
+ 545  UBA6264contig_60200_23_Patescibacteria_III-c                                                                               2.59%    passed     87.66%
+ 546  OIO15311.1_hypothetical_protein_AUJ73_00860__Candidatus_Gottesmanbacteria_bacterium_CG1_02_37_22__REF_reference_III-c      2.59%    passed     97.18%
+ 547  OQX71191.1_type_III_ribulose-bisphosphate_carboxylase__Candidatus_Parcubacteria_bacterium_4484_255__REF_reference_III-c    2.59%    passed     39.56%
+ 548  OQX71398.1_type_III_ribulose-bisphosphate_carboxylase__Candidatus_Parcubacteria_bacterium_4484_255__REF_reference_III-c    2.59%    passed     94.51%
+ 549  img_2264877716_46_unknown_III-c                                                                                            2.59%    passed     47.26%
+ 550  GWF1_WS6_37_7_1_127_Dojkabacteria_III-like                                                                                 2.59%    passed     92.91%
+ 551  Ig5185_scaffold_2729_7_Dojkabacteria_III-like                                                                              2.59%    passed     99.34%
+ 552  RIFOXYB1_FULL_GWC1_WS6_33_15_rifoxyb1_full_scaffold_291_15_Dojkabacteria_III-like                                          2.59%    passed     97.71%
+ 553  UBA2177contig_38184_3_Dojkabacteria_III-like                                                                               2.59%    passed     96.81%
+ 554  UBA2222contig_92676_9_Dojkabacteria_III-like                                                                               2.59%    passed     97.04%
+ 555  UBA2259contig_3196_71_Dojkabacteria_III-like                                                                               2.59%    passed     98.83%
+ 556  UBA2278contig_10362_8_Dojkabacteria_III-like                                                                               2.59%    passed     94.94%
+ 557  UBA3081contig_986_14_Dojkabacteria_III-like                                                                                2.59%    passed     90.76%
+ 558  UBA4813contig_29569_18_Dojkabacteria_III-like                                                                              2.59%    passed     98.15%
+ 559  UBA5749contig_21275_3_Dojkabacteria_III-like                                                                               2.59%    passed     95.75%
+ 560  bjp_ig2158_scaffold_0_692_Dojkabacteria_III-like                                                                           2.59%    passed     94.98%
+ 561  gwc1_scaffold_1390_11_Dojkabacteria_III-like                                                                               2.59%    passed     81.06%
+ 562  gwd1_scaffold_806_10_Dojkabacteria_III-like                                                                                2.59%    passed     99.62%
+ 563  gwd1_scaffold_9197_5_Dojkabacteria_III-like                                                                               15.09%    passed     89.39%
+ 564  gwe2_scaffold_12031_6_Dojkabacteria_III-like                                                                              43.10%    passed     76.53%
+ 565  gwf1_scaffold_4493_1_Dojkabacteria_III-like                                                                                2.59%    passed     84.34%
+ 566  gwf2_scaffold_35647_6_Dojkabacteria_III-like                                                                              40.52%    passed     80.25%
+ 567  rifoxya1_full_scaffold_23855_2_Dojkabacteria_III-like                                                                      2.59%    passed     97.71%
+ 568  rifoxyc3_full_scaffold_48488_1_Dojkabacteria_III-like                                                                      2.59%    passed     92.16%
+ 569  rifoxyd1_full_scaffold_4223_4_Dojkabacteria_III-like                                                                      13.36%    passed     92.70%
+ 570  16ft_4_scaffold_46755_1_Gottesmanbacteria_III-like                                                                        17.24%    passed     81.62%
+ 571  MW-5_scaffold_55805_2_Gottesmanbacteria_III-like                                                                          16.38%    passed     16.16%
+ 572  RBG_13_OP11_45_10_RBG_13_scaffold_565_32_Gottesmanbacteria_III-like                                                        2.59%    passed     83.60%
+ 573  RBG_13_scaffold_565_33_Gottesmanbacteria_III-like                                                                          5.17%    passed     85.13%
+ 574  RBG_16_OP11_37_8_RBG_16_scaffold_34109_9_Gottesmanbacteria_III-like                                                        2.59%    passed     93.33%
+ 575  RBG_16_OP11_38_7b_RBG_16_scaffold_13163_2_Gottesmanbacteria_III-like                                                       2.59%    passed     98.04%
+ 576  RIFCSPHIGHO2_02_FULL_OP11_39_11_rifcsphigho2_02_scaffold_11740_29_Gottesmanbacteria_III-like                               2.59%    passed     99.66%
+ 577  RifSed_csp1_13ft_1_scaffold_2112_6_Gottesmanbacteria_III-like                                                             16.81%    passed     90.99%
+ 578  RifSed_csp1_13ft_4_scaffold_30323_4_Gottesmanbacteria_III-like                                                             7.33%    passed     98.13%
+ 579  RifSed_csp1_19ft_4_scaffold_94308_4_Gottesmanbacteria_III-like                                                             5.60%    passed     90.15%
+ 580  RifSed_csp2_13ft_2_scaffold_388165_1_Gottesmanbacteria_III-like                                                            2.59%    passed     81.61%
+ 581  mol-32-1605-013658_7_Gottesmanbacteria_III-like                                                                            2.59%    passed     85.22%
+ 582  rifcsp10_1_full_scaffold_5396_9_Gottesmanbacteria_III-like                                                                 2.59%    passed     97.42%
+ 583  rifcsp2_19_4_full_scaffold_90165_2_Gottesmanbacteria_III-like                                                              7.76%    passed     75.29%
+ 584  rifcsphigho2_01_scaffold_206378_7_Gottesmanbacteria_III-like                                                               6.03%    passed     85.99%
+ 585  rifcsphigho2_01_scaffold_387592_2_Gottesmanbacteria_III-like                                                              23.71%    passed     52.24%
+ 586  rifcsphigho2_01_scaffold_9117_11_Gottesmanbacteria_III-like                                                                2.59%    passed     94.59%
+ 587  rifcsphigho2_02_scaffold_255720_1_Gottesmanbacteria_III-like                                                               2.59%    passed     85.02%
+ 588  rifcsphigho2_02_scaffold_287381_2_Gottesmanbacteria_III-like                                                               8.19%    passed     95.53%
+ 589  rifcsphigho2_02_scaffold_83541_5_Gottesmanbacteria_III-like                                                                2.59%    passed     97.59%
+ 590  rifcsplowo2_01_scaffold_1259_4_Gottesmanbacteria_III-like                                                                  2.59%    passed     81.61%
+ 591  rifcsplowo2_01_scaffold_1975_18_Gottesmanbacteria_III-like                                                                33.19%    passed     82.94%
+ 592  rifcsplowo2_01_scaffold_312661_3_Gottesmanbacteria_III-like                                                               34.48%    passed     64.58%
+ 593  rifoxyc3_full_scaffold_6738_7_Gottesmanbacteria_III-like                                                                  33.62%    passed     67.51%
+ 594  gwa2_scaffold_134_63_Microgenomates_III-like                                                                               2.59%    passed     92.86%
+ 595  mol-32-1605-051349_9_Microgenomates_III-like                                                                               2.59%    passed     95.40%
+ 596  CG10_big_fil_rev_8_21_14_0.10_scaffold_617_c_46_Pacearchaeota_III-like                                                     2.59%    passed     99.43%
+ 597  CG10_big_fil_rev_8_21_14_0.10_scaffold_76659_1_Pacearchaeota_III-like                                                     20.69%    passed     68.43%
+ 598  CG10_big_fil_rev_8_21_14_0.10_scaffold_9756_11_Pacearchaeota_III-like                                                      2.59%    passed     97.89%
+ 599  CG11_big_fil_rev_8_21_14_0.20_scaffold_5804_7_Pacearchaeota_III-like                                                       2.59%    passed     86.37%
+ 600  CG_2015-10_scaffold_33734_2_Pacearchaeota_III-like                                                                         2.59%    passed     77.19%
+ 601  GWB1_scaffold_11255_2_Pacearchaeota_III-like                                                                               2.59%    passed     91.91%
+ 602  GWB1_scaffold_7111_3_Pacearchaeota_III-like                                                                                2.59%    passed     93.68%
+ 603  rifcsphigho2_01_scaffold_1015_10_Pacearchaeota_III-like                                                                    2.59%    passed     96.84%
+ 604  rifcsphigho2_01_scaffold_113321_3_Pacearchaeota_III-like                                                                   2.59%    passed     93.54%
+ 605  rifcsphigho2_01_scaffold_125366_1_Pacearchaeota_III-like                                                                   2.59%    passed     86.52%
+ 606  rifcsphigho2_01_scaffold_14826_13_Pacearchaeota_III-like                                                                   2.59%    passed     93.12%
+ 607  rifcsphigho2_01_scaffold_156249_3_Pacearchaeota_III-like                                                                  22.84%    passed     66.62%
+ 608  rifcsphigho2_01_scaffold_42348_2_Pacearchaeota_III-like                                                                    2.59%    passed     91.52%
+ 609  rifcsphigho2_01_scaffold_44408_3_Pacearchaeota_III-like                                                                    2.59%    passed     91.04%
+ 610  rifcsphigho2_01_sub10_scaffold_15638_2_Pacearchaeota_III-like                                                              2.59%    passed     95.70%
+ 611  rifcsphigho2_02_scaffold_332588_3_Pacearchaeota_III-like                                                                   2.59%    passed     95.70%
+ 612  rifcsphigho2_02_scaffold_438502_1_Pacearchaeota_III-like                                                                  20.69%    passed     94.85%
+ 613  rifcsphigho2_02_scaffold_440038_1_Pacearchaeota_III-like                                                                  11.21%    passed     76.31%
+ 614  rifcsphigho2_02_scaffold_900_36_Pacearchaeota_III-like                                                                     2.59%    passed     90.60%
+ 615  rifcsplowo2_01_scaffold_107583_2_Pacearchaeota_III-like                                                                    2.59%    passed     91.74%
+ 616  rifcsplowo2_01_scaffold_118_122_Pacearchaeota_III-like                                                                     2.59%    passed     99.57%
+ 617  rifcsplowo2_01_scaffold_11977_10_Pacearchaeota_III-like                                                                    2.59%    passed    100.00%
+ 618  rifcsplowo2_01_scaffold_142244_2_Pacearchaeota_III-like                                                                    2.59%    passed     91.39%
+ 619  rifcsplowo2_01_scaffold_156696_4_Pacearchaeota_III-like                                                                    2.59%    passed     92.84%
+ 620  rifcsplowo2_01_scaffold_352176_1_Pacearchaeota_III-like                                                                    7.76%    passed     91.12%
+ 621  rifcsplowo2_01_scaffold_36463_6_Pacearchaeota_III-like                                                                     2.59%    passed     95.09%
+ 622  rifcsplowo2_01_scaffold_369553_1_Pacearchaeota_III-like                                                                   25.00%    passed     80.76%
+ 623  rifcsplowo2_01_scaffold_97081_1_Pacearchaeota_III-like                                                                     2.59%    passed     90.08%
+ 624  rifcsplowo2_12_scaffold_228026_1_Pacearchaeota_III-like                                                                    2.59%    passed     89.08%
+ 625  rifoxya1_full_scaffold_21555_2_Pacearchaeota_III-like                                                                      2.59%    passed     91.05%
+ 626  rifoxya1_full_scaffold_39886_1_Pacearchaeota_III-like                                                                      2.59%    passed     95.92%
+ 627  rifoxya2_sub10_scaffold_3412_1_Pacearchaeota_III-like                                                                      2.59%    passed     51.36%
+ 628  rifoxyb1_full_scaffold_56378_1_Pacearchaeota_III-like                                                                      8.62%    passed     89.52%
+ 629  rifoxyc1_sub10_scaffold_612_2_Pacearchaeota_III-like                                                                       2.59%    passed     95.70%
+ 630  rifoxyd1_full_scaffold_17021_2_Pacearchaeota_III-like                                                                      2.59%    passed     95.70%
+ 631  rifoxyd1_full_scaffold_35748_2_Pacearchaeota_III-like                                                                     40.52%    passed     70.59%
+ 632  tara_38885_13_Pacearchaeota_III-like                                                                                       2.59%    passed     60.55%
+ 633  tara_MHASMcontig_673921_7_Pacearchaeota_III-like                                                                           2.59%    passed     92.46%
+ 634  rifcsplowo2_02_scaffold_12225_10_Parcubacteria_III-like                                                                    3.45%    passed     57.02%
+ 635  gwa2_scaffold_143220_2_Roizmanbacteria_III-like                                                                           11.21%    passed     61.43%
+ 636  rifoxyb2_full_scaffold_37565_5_Roizmanbacteria_III-like                                                                   11.21%    passed     47.45%
+ 637  RIFOXYC1_FULL_GWE2_OD1_42_9_rifoxyc1_full_scaffold_781_14_Veblenbacteria_III-like                                          3.45%    passed     77.43%
+ 638  rifcsphigho2_02_sub10_scaffold_110_79_Woesearchaeota_III-like                                                             26.29%    passed      7.75%
+ 639  scaffold_31901_2_REF_reference_III-like                                                                                    2.59%    passed     80.12%
+ 640  rifcsphigho2_12_scaffold_16902_10_Micrarchaeota_IV                                                                         3.02%    failed      4.83%
+ 641  14_1009_16_20cm_scaffold_137301_2_Parcubacteria_IV                                                                        21.98%    failed      2.51%
+ 642  gwd1_scaffold_1521_5_Parcubacteria_IV                                                                                      3.02%    passed      9.69%
+ 643  rifcsphigho2_01_scaffold_24034_3_Parcubacteria_IV                                                                          3.02%    passed     29.24%
+ 644  rifcsplowo2_01_scaffold_68480_2_Parcubacteria_IV                                                                           3.02%    passed     10.51%
+ 645  rifcsplowo2_02_scaffold_9609_9_Parcubacteria_IV                                                                            3.02%    passed     10.62%
+ 646  rifcsplowo2_12_scaffold_29845_1_Parcubacteria_IV                                                                           3.02%    passed      6.41%
+ 647  rifoxyb1_full_scaffold_10500_4_Parcubacteria_IV                                                                            3.02%    passed      8.97%
+ 648  rifoxyc1_full_scaffold_13163_3_Parcubacteria_IV                                                                            3.02%    passed      5.79%
+ 649  AAM72993_Chlorobium_tepidum_TLS1_IV_Phot_REF_reference_IV                                                                  2.59%    passed     77.72%
+ 650  AAU16474_Bacillus_cereus_E33L_IV_Ykr_REF_reference_IV                                                                      3.88%    passed     14.48%
+ 651  AAU23062_Bacillus_licheniformis_ATCC_14580_IV_Ykr_REF_reference_IV                                                         3.88%    passed     58.83%
+ 652  ABB28892_Chlorobium_chlorochromatii_CaD3_IV_Phot_REF_reference_IV                                                          2.59%    passed     52.85%
+ 653  ABC22798_Rhodospirillum_rubrum_IV_DeepYk_REF_reference_IV                                                                  9.05%    failed      0.04%
+ 654  ABH04879_Heliobacillus_mobilis_IV_DeepYk_REF_reference_IV                                                                  9.05%    passed     24.89%
+ 655  BAB44150_Allochromatium_vinosum_IV_Phot_REF_reference_IV                                                                   2.59%    failed      0.29%
+ 656  BAB53192_Mesorhizobium_loti_IV_Non_phot_REF_reference_IV                                                                   2.59%    passed     87.76%
+ 657  BAD64310_Bacillus_clausii_KSM_K16_IV_Ykr_REF_reference_IV                                                                  3.88%    passed     34.78%
+ 658  CAB13232_Bacillus_subtilis_subsp_subtilis_str_168_IV_Ykr_REF_reference_IV                                                  3.88%    passed     61.63%
+ 659  CAC48779_Sinorhizobium_meliloti_1021_IV_Non_phot_REF_reference_IV                                                          2.59%    passed     90.17%
+ 660  CAE27610_Rhodopseudomonas_palustris_CGA009_IV_DeepYk_REF_reference_IV                                                      9.05%    failed      0.00%
+ 661  CAE31534_Bordetella_bronchiseptica_RB50_IV_Non_phot_REF_reference_IV                                                       3.02%    failed      0.21%
+ 662  Clostridium_asparagiforme_REF_reference_IV                                                                                 3.45%    passed     69.51%
+ 663  Mesorhizobium_sp._L2C085B00_REF_reference_IV                                                                               3.02%    passed     24.93%
+ 664  YP_001002057_Halorhodospira_halophila_SL1_IV_DeepYk_REF_reference_IV                                                       9.48%    failed      1.07%
+ 665  YP_511005_Jannaschia_sp_CCS1_IV_Non_phot_REF_reference_IV                                                                  3.02%    failed      1.33%
+ 666  YP_530146_Rhodopseudomonas_palustris_BisB18_IV_Phot_REF_reference_IV                                                       2.59%    failed      0.29%
+ 667  YP_532057_Rhodopseudomonas_palustris_BisB18_IV_DeepYk_REF_reference_IV                                                     9.05%    failed      0.02%
+ 668  YP_569369_Rhodopseudomonas_palustris_BisB5_IV_DeepYk_REF_reference_IV                                                      9.05%    failed      0.02%
+ 669  YP_742007_Alkalilimnicola_ehrlichei_MLHE_1_IV_DeepYk_REF_reference_IV                                                      9.48%    failed      0.00%
+ 670  YP_782588_Rhodopseudomonas_palustris_BisA53_IV_DeepYk_REF_reference_IV                                                     9.05%    failed      0.51%
+ 671  ZP_01056409_Roseobacter_sp_MED193_IV_Non_phot_REF_reference_IV                                                             3.02%    passed      7.74%
+ 672  ZP_01438569__Fulvimarina_pelagi_HTCC2506_IV_Non_phot_REF_reference_IV                                                      3.02%    passed      9.05%
+ 673  CG_2015-09_scaffold_5489_2_unknown_IV                                                                                      9.48%    passed     12.63%
+ 674  CG09_land_8_20_14_0.10_scaffold_14070_3_Beckwithbacteria_IV-like                                                           5.60%    passed      9.57%
+ 675  gwa2_scaffold_24083_5_Beckwithbacteria_IV-like                                                                             5.60%    passed      8.54%
+ 676  CG_2015-01t_scaffold_2353_6_PHAGE_putative_phage_IV-like                                                                   5.60%    passed     30.31%
+ 677  GS605_3p0_scaffold_7_49_PHAGE_putative_phage_IV-like                                                                       5.60%    failed      0.04%
+ 678  PH2015_07_scaffold_0_448_PHAGE_putative_phage_IV-like                                                                      8.19%    passed     24.86%
+ 679  imgVR_3300000116_____DelMOSpr2010_c10000825_24_PHAGE_putative_phage_IV-like                                                6.03%    failed      2.35%
+ 680  imgVR_3300000116_____DelMOSpr2010_c10001115_19_PHAGE_putative_phage_IV-like                                                6.03%    failed      0.76%
+ 681  imgVR_3300000116_____DelMOSpr2010_c10002632_7_PHAGE_putative_phage_IV-like                                                 4.74%    failed      0.07%
+ 682  imgVR_3300000117_____DelMOWin2010_c10001624_5_PHAGE_putative_phage_IV-like                                                46.98%    passed      6.92%
+ 683  imgVR_3300000117_____DelMOWin2010_c10004565_18_PHAGE_putative_phage_IV-like                                               30.60%    passed      8.88%
+ 684  imgVR_3300000439_____TBL_comb48_EPIDRAFT_1000912_4_PHAGE_putative_phage_IV-like                                            5.60%    failed      0.37%
+ 685  imgVR_3300000553_____TBL_comb47_HYPODRAFT_10006500_13_PHAGE_putative_phage_IV-like                                         5.60%    passed     15.43%
+ 686  imgVR_3300001346_____JGI20151J14362_10002242_5_PHAGE_putative_phage_IV-like                                                5.60%    passed     11.22%
+ 687  imgVR_3300001450_____JGI24006J15134_10000144_30_PHAGE_putative_phage_IV-like                                               4.74%    failed      4.77%
+ 688  imgVR_3300001450_____JGI24006J15134_10002570_9_PHAGE_putative_phage_IV-like                                                4.74%    failed      0.36%
+ 689  imgVR_3300001472_____JGI24004J15324_10000002_33_PHAGE_putative_phage_IV-like                                               5.60%    passed     34.19%
+ 690  imgVR_3300001472_____JGI24004J15324_10000511_11_PHAGE_putative_phage_IV-like                                               6.03%    failed      4.79%
+ 691  imgVR_3300001589_____JGI24005J15628_10000085_3_PHAGE_putative_phage_IV-like                                                5.60%    passed     48.86%
+ 692  imgVR_3300002835_____B570J40625_100002082_7_PHAGE_putative_phage_IV-like                                                   5.60%    passed      8.11%
+ 693  imgVR_3300002835_____B570J40625_100027887_6_PHAGE_putative_phage_IV-like                                                   5.60%    failed      1.21%
+ 694  imgVR_3300003277_____JGI25908J49247_10000163_14_PHAGE_putative_phage_IV-like                                               5.60%    failed      0.02%
+ 695  imgVR_3300003410_____JGI26086J50260_1000284_21_PHAGE_putative_phage_IV-like                                                4.74%    failed      0.04%
+ 696  imgVR_3300003410_____JGI26086J50260_1002745_8_PHAGE_putative_phage_IV-like                                                 4.74%    passed     64.62%
+ 697  imgVR_3300004686_____Ga0065173_1000025_12_PHAGE_putative_phage_IV-like                                                     4.74%    passed     59.85%
+ 698  imgVR_3300004691_____Ga0065176_1000054_16_PHAGE_putative_phage_IV-like                                                     4.74%    passed      6.71%
+ 699  imgVR_3300004770_____Ga0007804_1000749_8_PHAGE_putative_phage_IV-like                                                      4.74%    passed     41.30%
+ 700  imgVR_3300005528_____Ga0068872_10000195_49_PHAGE_putative_phage_IV-like                                                    4.74%    failed      0.11%
+ 701  imgVR_3300005581_____Ga0049081_10002534_4_PHAGE_putative_phage_IV-like                                                     4.74%    passed     66.27%
+ 702  imgVR_3300005605_____Ga0066850_10002422_3_PHAGE_putative_phage_IV-like                                                     4.74%    failed      0.39%
+ 703  imgVR_3300005662_____Ga0078894_10000568_30_PHAGE_putative_phage_IV-like                                                    5.60%    passed     19.29%
+ 704  imgVR_3300005662_____Ga0078894_10001118_13_PHAGE_putative_phage_IV-like                                                    4.74%    failed      0.00%
+ 705  imgVR_3300005683_____Ga0074432_100043_78_PHAGE_putative_phage_IV-like                                                      5.60%    failed      0.15%
+ 706  imgVR_3300005805_____Ga0079957_1000004_32_PHAGE_putative_phage_IV-like                                                     4.74%    failed      0.09%
+ 707  imgVR_3300005805_____Ga0079957_1000649_25_PHAGE_putative_phage_IV-like                                                     4.74%    failed      0.04%
+ 708  imgVR_3300006026_____Ga0075478_10000002_49_PHAGE_putative_phage_IV-like                                                    4.74%    failed      0.98%
+ 709  imgVR_3300006027_____Ga0075462_10000321_14_PHAGE_putative_phage_IV-like                                                    6.03%    failed      3.03%
+ 710  imgVR_3300006030_____Ga0075470_10000039_31_PHAGE_putative_phage_IV-like                                                    4.74%    passed     14.66%
+ 711  imgVR_3300006108_____Ga0007862_1000138_16_PHAGE_putative_phage_IV-like                                                     5.60%    failed      0.80%
+ 712  imgVR_3300006121_____Ga0007824_1000696_6_PHAGE_putative_phage_IV-like                                                      4.74%    passed     47.84%
+ 713  imgVR_3300006129_____Ga0007834_1000020_33_PHAGE_putative_phage_IV-like                                                     5.60%    passed      8.55%
+ 714  imgVR_3300006193_____Ga0075445_10001210_10_PHAGE_putative_phage_IV-like                                                    5.60%    failed      0.00%
+ 715  imgVR_3300006193_____Ga0075445_10002989_10_PHAGE_putative_phage_IV-like                                                    5.60%    failed      0.02%
+ 716  imgVR_3300006305_____Ga0068468_1000608_36_PHAGE_putative_phage_IV-like                                                     6.03%    passed     20.26%
+ 717  imgVR_3300006484_____Ga0070744_10000091_14_PHAGE_putative_phage_IV-like                                                    4.74%    passed     57.95%
+ 718  imgVR_3300006484_____Ga0070744_10000432_2_PHAGE_putative_phage_IV-like                                                     5.60%    failed      0.15%
+ 719  imgVR_3300006641_____Ga0075471_10002405_15_PHAGE_putative_phage_IV-like                                                    4.74%    failed      0.06%
+ 720  imgVR_3300006749_____Ga0098042_1000004_15_PHAGE_putative_phage_IV-like                                                     5.60%    failed      0.47%
+ 721  imgVR_3300006754_____Ga0098044_1000148_36_PHAGE_putative_phage_IV-like                                                     4.74%    failed      1.83%
+ 722  imgVR_3300006790_____Ga0098074_1002816_5_PHAGE_putative_phage_IV-like                                                      5.60%    passed      8.23%
+ 723  imgVR_3300006793_____Ga0098055_1001775_7_PHAGE_putative_phage_IV-like                                                      5.60%    failed      0.18%
+ 724  imgVR_3300006802_____Ga0070749_10000052_38_PHAGE_putative_phage_IV-like                                                    6.03%    passed     16.09%
+ 725  imgVR_3300006802_____Ga0070749_10000694_17_PHAGE_putative_phage_IV-like                                                    4.74%    failed      0.01%
+ 726  imgVR_3300006810_____Ga0070754_10000068_66_PHAGE_putative_phage_IV-like                                                    5.60%    passed      9.35%
+ 727  imgVR_3300006810_____Ga0070754_10000142_45_PHAGE_putative_phage_IV-like                                                    5.60%    passed      9.67%
+ 728  imgVR_3300006810_____Ga0070754_10002591_16_PHAGE_putative_phage_IV-like                                                    4.74%    failed      0.00%
+ 729  imgVR_3300007516_____Ga0105050_10000484_9_PHAGE_putative_phage_IV-like                                                     4.74%    failed      3.49%
+ 730  imgVR_3300009058_____Ga0102854_1000016_27_PHAGE_putative_phage_IV-like                                                     5.60%    failed      0.52%
+ 731  imgVR_3300009068_____Ga0114973_10000306_11_PHAGE_putative_phage_IV-like                                                    5.60%    failed      0.01%
+ 732  imgVR_3300009154_____Ga0114963_10001892_12_PHAGE_putative_phage_IV-like                                                    4.74%    failed      1.39%
+ 733  imgVR_3300009155_____Ga0114968_10000900_19_PHAGE_putative_phage_IV-like                                                    5.60%    failed      4.59%
+ 734  imgVR_3300009158_____Ga0114977_10008854_1_PHAGE_putative_phage_IV-like                                                    10.78%    failed      0.17%
+ 735  imgVR_3300009164_____Ga0114975_10000049_44_PHAGE_putative_phage_IV-like                                                    5.60%    failed      0.04%
+ 736  imgVR_3300009164_____Ga0114975_10000143_17_PHAGE_putative_phage_IV-like                                                    5.60%    failed      4.45%
+ 737  imgVR_3300009181_____Ga0114969_10000030_77_PHAGE_putative_phage_IV-like                                                    5.60%    failed      2.68%
+ 738  imgVR_3300009181_____Ga0114969_10002748_1_PHAGE_putative_phage_IV-like                                                    55.17%    failed      1.94%
+ 739  imgVR_3300009182_____Ga0114959_10000174_59_PHAGE_putative_phage_IV-like                                                    4.74%    failed      0.22%
+ 740  imgVR_3300009182_____Ga0114959_10000188_47_PHAGE_putative_phage_IV-like                                                    3.02%    failed      0.08%
+ 741  imgVR_3300009182_____Ga0114959_10006311_8_PHAGE_putative_phage_IV-like                                                     5.60%    failed      0.00%
+ 742  imgVR_3300009183_____Ga0114974_10000026_102_PHAGE_putative_phage_IV-like                                                   5.60%    passed      5.13%
+ 743  imgVR_3300010334_____Ga0136644_10000002_223_PHAGE_putative_phage_IV-like                                                   5.60%    failed      0.17%
+ 744  imgVR_3300012953_____Ga0163179_10002555_5_PHAGE_putative_phage_IV-like                                                     6.03%    failed      0.00%
+ 745  imgVR_3300012953_____Ga0163179_10002609_6_PHAGE_putative_phage_IV-like                                                     6.03%    failed      4.07%
+ 746  imgVR_3300013093_____Ga0164296_1000036_79_PHAGE_putative_phage_IV-like                                                     4.74%    failed      3.07%
+ 747  imgVR_3300013093_____Ga0164296_1001304_19_PHAGE_putative_phage_IV-like                                                     4.74%    failed      3.94%
+ 748  imgVR_3300013093_____Ga0164296_1006299_14_PHAGE_putative_phage_IV-like                                                     5.60%    failed      0.79%
+ 749  imgVR_3300013131_____Ga0172373_10003100_23_PHAGE_putative_phage_IV-like                                                    4.31%    failed      0.00%
+ 750  imgVR_3300013132_____Ga0172372_10011093_16_PHAGE_putative_phage_IV-like                                                    6.03%    passed     60.90%
+ 751  imgVR_3300017818_____Ga0181565_10006269_7_PHAGE_putative_phage_IV-like                                                     4.74%    failed      0.01%
+ 752  imgVR_3300017967_____Ga0181590_10000756_38_PHAGE_putative_phage_IV-like                                                    5.60%    passed     14.40%
+ 753  imgVR_3300017986_____Ga0181569_10001190_17_PHAGE_putative_phage_IV-like                                                    6.03%    passed     20.41%
+ 754  imgVR_3300017989_____Ga0180432_10000539_12_PHAGE_putative_phage_IV-like                                                    4.74%    failed      0.00%
+ 755  imgVR_3300018423_____Ga0181593_10013560_4_PHAGE_putative_phage_IV-like                                                     4.74%    failed      0.00%
+ 756  imgVR_3300018790_____Ga0187842_1000009_46_PHAGE_putative_phage_IV-like                                                     4.74%    passed     15.40%
+ 757  rifcsphigho2_12_scaffold_162_94_PHAGE_putative_phage_IV-like                                                               5.60%    failed      0.00%
+ 758  RBG_13_scaffold_9498_7_unknown_IV-like                                                                                     3.02%    passed     51.58%
+ 759  rifcsplowo2_01_scaffold_4908_46_Aenigmarchaeota_unknown                                                                    2.59%    passed     35.06%
+ 760  CG08_land_8_20_14_0.20_scaffold_15999_2_Gottesmanbacteria_unknown                                                          2.59%    passed     74.83%
+ 761  RBG_16_scaffold_32845_14_Micrarchaeota_unknown                                                                             2.59%    passed     98.58%
+ 762  RBG_16_scaffold_41955_19_Micrarchaeota_unknown                                                                             3.45%    passed     98.09%
+ 763  RifSed_csp2_16ft_2_scaffold_590394_1_Micrarchaeota_unknown                                                                 2.59%    passed     99.37%
+ 764  UBA93contig_1572_78_Micrarchaeota_unknown                                                                                  2.59%    passed     95.79%
+ 765  UBA96contig_21807_17_Micrarchaeota_unknown                                                                                 2.59%    passed     53.85%
+ 766  mol-32-15fa-040034_9_Micrarchaeota_unknown                                                                                 2.59%    passed     98.25%
+ 767  rifcsphigho2_01_scaffold_100504_5_Micrarchaeota_unknown                                                                    2.59%    passed     99.83%
+ 768  ncbi_AWOG01000022.1_5_Nanoarchaeota_unknown                                                                                2.59%    passed     74.88%
+ 769  LSDeep1_scaffold_289_96_Peregrinibacteria_unknown                                                                          2.59%    passed     80.86%
+ 770  HMT_NADW                                                                                                                  54.74%    passed     10.28%
+ 771  HMT_PAC                                                                                                                   54.74%    passed     10.28%
+ 772  HMT_AAIW_ATL                                                                                                              54.74%    passed     10.28%
+ 773  Thaumarchaeota_ASW2_bin45_contig2_30                                                                                       6.03%    passed      7.03%
+ 774  D197_116_contig1_70                                                                                                       43.10%    passed     22.49%
+ 775  Deep-sea_sediment_DRR121219_Bin1_contig252_4                                                                              74.14%    failed      0.79%
+ 776  Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig252_4                                                                      74.14%    failed      0.79%
+ 777  Thaumarchaeota_archaeon_RBG_16_49_8-contig29_19                                                                           69.40%    passed     41.87%
+ 778  Thaumarchaeota_archaeon_RBG_16_49_8-contig66_17                                                                           57.76%    passed      8.62%
+ 779  Thaumarchaeota_archaeon_strain_DS1-contig18_13                                                                            43.10%    passed     27.72%
+ 780  Thaumarchaeota_archaeon_UBA141-contig65_4                                                                                 36.64%    passed     10.39%
+ 781  Thaumarchaeota_archaeon_UBA160-contig41_1                                                                                 43.10%    passed     13.97%
+ 782  Thaumarchaeota_archaeon_UBA160-contig66_16                                                                                38.79%    passed     27.46%
+ 783  Thaumarchaeota_archaeon_UBA164-contig3_78                                                                                 43.10%    passed     11.18%
+ 784  Unclassified_Thaumarchaeota_DRTY_7_bin_36-contig57_2                                                                      35.78%    passed     20.26%
+ 785  Unclassified_Thaumarchaeota_DRTY_7_bin_36-contig59_8                                                                      43.10%    passed     22.99%
+ 786  XS84_Bin1_contig83_2                                                                                                      74.14%    failed      0.79%
+ 787  XS84_Bin2_contig70_2                                                                                                      77.16%    failed      2.16%
+ 788  XS84_Bin3_contig134_10                                                                                                    69.40%    passed     22.09%
+ 789  Thaumarchaeota_ASW8_contig42_3                                                                                             6.03%    failed      4.66%
+WARNING: 14 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                                                                                                      7.18%  73 sequences failed composition chi2 test (p-value<5%; df=19)
+NOTE: CG_4_9_14_3_um_filter_150_scaffold_194919_1_Dojkabacteria_II/III is identical to CG_4_10_14_0.8_um_filter_scaffold_123569_1_Dojkabacteria_II/III but kept for subsequent analysis
+NOTE: scaffold_360_42_REF_reference_II/III is identical to cg1_0.2_scaffold_360_c_42_Pacearchaeota_II/III but kept for subsequent analysis
+NOTE: scaffold_1669_9_REF_reference_II/III is identical to Crystal_Geyser_CG15_big_fil_post_rev_8_21_14_0.20_scaffold_4700_5_Peregrinibacteria_II/III but kept for subsequent analysis
+NOTE: rifcsplowo2_01_scaffold_141933_1_Amesbacteria_III-b is identical to gwa2_scaffold_13440_1_Amesbacteria_III-b but kept for subsequent analysis
+NOTE: CG23_combo_of_CG06-09_8_20_14_all_150_scaffold_26480_3_Pacearchaeota_III-b is identical to CG11_big_fil_rev_8_21_14_0.20_scaffold_64508_2_Pacearchaeota_III-b but kept for subsequent analysis
+NOTE: cg1_0.2_scaffold_5501_c_7_Pacearchaeota_III-b is identical to CG_2015-09_scaffold_50799_3_Pacearchaeota_III-b but kept for subsequent analysis
+NOTE: RifSed_csp1_19ft_4_scaffold_32161_5_Pacearchaeota_III-b is identical to GWB1_scaffold_7630_9_Pacearchaeota_III-b but kept for subsequent analysis
+NOTE: RBG_13_scaffold_1343_4_Pacearchaeota_III-b is identical to RBG_13_Archaea_36_9_RBG_13_scaffold_1343_4_Pacearchaeota_III-b but kept for subsequent analysis
+NOTE: rifcsphigho2_02_scaffold_162351_1_Pacearchaeota_III-b is identical to rifcsphigho2_01_scaffold_65352_11_Pacearchaeota_III-b but kept for subsequent analysis
+NOTE: rifcsplowo2_01_sub10_scaffold_17928_1_Pacearchaeota_III-b is identical to rifcsphigho2_01_scaffold_7201_13_Pacearchaeota_III-b but kept for subsequent analysis
+NOTE: rifcsplowo2_12_scaffold_1860_42_Pacearchaeota_III-b is identical to rifcsphigho2_02_scaffold_15332_15_Pacearchaeota_III-b but kept for subsequent analysis
+NOTE: rifoxyd1_full_scaffold_41945_2_Pacearchaeota_III-b is identical to rifoxyc1_full_scaffold_21863_2_Pacearchaeota_III-b but kept for subsequent analysis
+NOTE: OIO15311.1_hypothetical_protein_AUJ73_00860__Candidatus_Gottesmanbacteria_bacterium_CG1_02_37_22__REF_reference_III-c is identical to CG11_big_fil_rev_8_21_14_0.20_scaffold_1948_c_6_Gottesmanbacteria_III-c but kept for subsequent analysis
+NOTE: bjp_ig2599_scaffold_5183_11_Parcubacteria_III-c is identical to Ig5770_scaffold_3414_3_Parcubacteria_III-c but kept for subsequent analysis
+NOTE: OQX71398.1_type_III_ribulose-bisphosphate_carboxylase__Candidatus_Parcubacteria_bacterium_4484_255__REF_reference_III-c is identical to ncbi_NATD01000013.1_9_Parcubacteria_III-c but kept for subsequent analysis
+NOTE: OQX71191.1_type_III_ribulose-bisphosphate_carboxylase__Candidatus_Parcubacteria_bacterium_4484_255__REF_reference_III-c is identical to ncbi_NATD01000022.1_13_Parcubacteria_III-c but kept for subsequent analysis
+NOTE: rifcsplowo2_01_scaffold_1259_4_Gottesmanbacteria_III-like is identical to RifSed_csp2_13ft_2_scaffold_388165_1_Gottesmanbacteria_III-like but kept for subsequent analysis
+NOTE: rifcsphigho2_02_scaffold_332588_3_Pacearchaeota_III-like is identical to rifcsphigho2_01_sub10_scaffold_15638_2_Pacearchaeota_III-like but kept for subsequent analysis
+NOTE: imgVR_3300018423_____Ga0181593_10013560_4_PHAGE_putative_phage_IV-like is identical to imgVR_3300006810_____Ga0070754_10002591_16_PHAGE_putative_phage_IV-like but kept for subsequent analysis
+NOTE: HMT_PAC is identical to HMT_NADW but kept for subsequent analysis
+NOTE: Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig252_4 is identical to Deep-sea_sediment_DRR121219_Bin1_contig252_4 but kept for subsequent analysis
+Checking for duplicate sequences: done in 0.00496531 secs using 89.92% CPU
+Identifying sites to remove: done in 0.00261354 secs using 99.94% CPU
+NOTE: 7 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: KKS31468.1_Ribulose_bisphosphate_carboxylase (identical to gwa2_scaffold_13440_1_Amesbacteria_III-b) is ignored but added at the end
+NOTE: rifoxyc1_full_scaffold_38709_3_Pacearchaeota_III-b (identical to rifcsphigho2_02_scaffold_15332_15_Pacearchaeota_III-b) is ignored but added at the end
+NOTE: rifoxyd1_full_scaffold_4719_16_Pacearchaeota_III-b (identical to rifcsphigho2_02_scaffold_15332_15_Pacearchaeota_III-b) is ignored but added at the end
+NOTE: bjp_ig2599_sub10_scaffold_364_11_Parcubacteria_III-c (identical to Ig5770_scaffold_3414_3_Parcubacteria_III-c) is ignored but added at the end
+NOTE: rifoxyd1_full_scaffold_17021_2_Pacearchaeota_III-like (identical to rifcsphigho2_01_sub10_scaffold_15638_2_Pacearchaeota_III-like) is ignored but added at the end
+NOTE: HMT_AAIW_ATL (identical to HMT_NADW) is ignored but added at the end
+NOTE: XS84_Bin1_contig83_2 (identical to Deep-sea_sediment_DRR121219_Bin1_contig252_4) is ignored but added at the end
+Alignment was printed to CAT_all_trimal.faa.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to CAT_all_trimal.faa.uniqueseq.phy
+
+Creating fast initial parsimony tree by random order stepwise addition...
+1.389 seconds, parsimony score: 20295 (based on 227 sites)
+Perform fast likelihood tree search using LG+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Optimizing NNI: done in 28.6668 secs using 98.86% CPU
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -101550.229
+Optimal log-likelihood: -101550.081
+Proportion of invariable sites: 0.004
+Gamma shape alpha: 1.088
+Parameters optimization took 1 rounds (2.679 sec)
+Time for fast ML tree search: 49.641 seconds
+
+NOTE: ModelFinder requires 126 MB RAM!
+ModelFinder will test up to 224 protein models (sample size: 232) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  LG            106950.120   1561 217022.240   5093586.240  222402.597
+  2  LG+I          106897.711   1562 216919.422   5099731.422  222303.226
+  3  LG+G4         101553.685   1562 206231.370   5089043.370  211615.174
+  4  LG+I+G4       101547.290   1563 206220.579   5095284.579  211607.830
+  7  LG+F+G4       101682.353   1581 206526.705   5208810.705  211975.997
+  8  LG+F+I+G4     101675.891   1582 206515.782   5215127.782  211968.521
+ 11  WAG+G4        102716.525   1562 208557.050   5091369.050  213940.854
+ 12  WAG+I+G4      102709.233   1563 208544.467   5097608.467  213931.717
+ 15  WAG+F+G4      102575.352   1581 208312.704   5210596.704  213761.995
+ 16  WAG+F+I+G4    102569.204   1582 208302.408   5216914.408  213755.146
+ 19  JTT+G4        103567.938   1562 210259.876   5093071.876  215643.680
+ 20  JTT+I+G4      103558.687   1563 210243.373   5099307.373  215630.624
+ 23  JTT+F+G4      103666.175   1581 210494.349   5212778.349  215943.641
+ 24  JTT+F+I+G4    103657.427   1582 210478.854   5219090.854  215931.593
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 27  Q.pfam+G4     101707.855   1562 206539.710   5089351.710  211923.514
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 28  Q.pfam+I+G4   101701.085   1563 206528.171   5095592.171  211915.421
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 31  Q.pfam+F+G4   101863.575   1581 206889.150   5209173.150  212338.442
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 32  Q.pfam+F+I+G4 101855.991   1582 206875.981   5215487.981  212328.720
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 35  Q.bird+G4     106431.389   1562 215986.778   5098798.778  221370.582
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 36  Q.bird+I+G4   106419.246   1563 215964.491   5105028.491  221351.742
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 39  Q.bird+F+G4   106857.454   1581 216876.907   5219160.907  222326.199
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 40  Q.bird+F+I+G4 106846.813   1582 216857.626   5225469.626  222310.365
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 43  Q.mammal+G4   105275.744   1562 213675.489   5096487.489  219059.293
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 44  Q.mammal+I+G4 105263.207   1563 213652.413   5102716.413  219039.664
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 47  Q.mammal+F+G4 105528.220   1581 214218.439   5216502.439  219667.731
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 48  Q.mammal+F+I+G4 105517.112   1582 214198.225   5222810.225  219650.963
+ 51  Q.insect+G4   102149.645   1562 207423.290   5090235.290  212807.094
+ 52  Q.insect+I+G4 102139.249   1563 207404.498   5096468.498  212791.749
+ 55  Q.insect+F+G4 102589.962   1581 208341.924   5210625.924  213791.216
+ 56  Q.insect+F+I+G4 102579.020   1582 208322.041   5216934.041  213774.779
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 59  Q.plant+G4    103690.982   1562 210505.965   5093317.965  215889.769
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 60  Q.plant+I+G4  103682.915   1563 210491.829   5099555.829  215879.080
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 63  Q.plant+F+G4  104079.153   1581 211320.306   5213604.306  216769.598
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 64  Q.plant+F+I+G4 104071.190   1582 211306.379   5219918.379  216759.118
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 67  Q.yeast+G4    101961.898   1562 207047.796   5089859.796  212431.600
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 68  Q.yeast+I+G4  101952.555   1563 207031.110   5096095.110  212418.361
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 71  Q.yeast+F+G4  102155.933   1581 207473.866   5209757.866  212923.158
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+ 72  Q.yeast+F+I+G4 102145.704   1582 207455.408   5216067.408  212908.147
+ 75  JTTDCMut+G4   103538.838   1562 210201.677   5093013.677  215585.480
+ 76  JTTDCMut+I+G4 103530.115   1563 210186.231   5099250.231  215573.481
+ 79  JTTDCMut+F+G4 103607.047   1581 210376.094   5212660.094  215825.386
+ 80  JTTDCMut+F+I+G4 103598.770   1582 210361.541   5218973.541  215814.279
+ 83  DCMut+G4      104653.664   1562 212431.328   5095243.328  217815.132
+ 84  DCMut+I+G4    104644.425   1563 212414.849   5101478.849  217802.100
+ 87  DCMut+F+G4    104387.577   1581 211937.154   5214221.154  217386.446
+ 88  DCMut+F+I+G4  104380.035   1582 211924.070   5220536.070  217376.809
+ 91  VT+G4         102849.712   1562 208823.424   5091635.424  214207.227
+ 92  VT+I+G4       102841.121   1563 208808.243   5097872.243  214195.493
+ 95  VT+F+G4       102837.724   1581 208837.448   5211121.448  214286.740
+ 96  VT+F+I+G4     102829.980   1582 208823.961   5217435.961  214276.699
+ 99  PMB+G4        103145.570   1562 209415.140   5092227.140  214798.944
+100  PMB+I+G4      103137.767   1563 209401.534   5098465.534  214788.785
+103  PMB+F+G4      103243.272   1581 209648.545   5211932.545  215097.836
+104  PMB+F+I+G4    103235.850   1582 209635.699   5218247.699  215088.438
+107  Blosum62+G4   102888.539   1562 208901.077   5091713.077  214284.881
+108  Blosum62+I+G4 102880.339   1563 208886.678   5097950.678  214273.929
+111  Blosum62+F+G4 103168.641   1581 209499.283   5211783.283  214948.575
+112  Blosum62+F+I+G4 103160.291   1582 209484.583   5218096.583  214937.321
+115  Dayhoff+G4    104650.374   1562 212424.748   5095236.748  217808.551
+116  Dayhoff+I+G4  104641.175   1563 212408.351   5101472.351  217795.601
+119  Dayhoff+F+G4  104386.156   1581 211934.313   5214218.313  217383.605
+120  Dayhoff+F+I+G4 104378.653   1582 211921.307   5220533.307  217374.045
+123  mtREV+G4      107827.348   1562 218778.695   5101590.695  224162.499
+124  mtREV+I+G4    107826.208   1563 218778.416   5107842.416  224165.666
+127  mtREV+F+G4    104711.479   1581 212584.958   5214868.958  218034.250
+128  mtREV+F+I+G4  104707.816   1582 212579.632   5221191.632  218032.371
+131  mtART+G4      107652.068   1562 218428.137   5101240.137  223811.941
+132  mtART+I+G4    107648.508   1563 218423.016   5107487.016  223810.266
+135  mtART+F+G4    104745.805   1581 212653.609   5214937.609  218102.901
+136  mtART+F+I+G4  104742.644   1582 212649.287   5221261.287  218102.026
+139  mtZOA+G4      104959.824   1562 213043.648   5095855.648  218427.451
+140  mtZOA+I+G4    104956.245   1563 213038.491   5102102.491  218425.741
+143  mtZOA+F+G4    103273.190   1581 209708.380   5211992.380  215157.672
+144  mtZOA+F+I+G4  103267.125   1582 209698.250   5218310.250  215150.989
+147  mtMet+G4      106986.475   1562 217096.950   5099908.950  222480.754
+148  mtMet+I+G4    106981.843   1563 217089.686   5106153.686  222476.936
+151  mtMet+F+G4    104450.428   1581 212062.856   5214346.856  217512.148
+152  mtMet+F+I+G4  104443.337   1582 212050.673   5220662.673  217503.412
+155  mtVer+G4      109315.104   1562 221754.207   5104566.207  227138.011
+156  mtVer+I+G4    109312.700   1563 221751.400   5110815.400  227138.650
+159  mtVer+F+G4    106842.889   1581 216847.777   5219131.777  222297.069
+160  mtVer+F+I+G4  106836.641   1582 216837.282   5225449.282  222290.021
+163  mtInv+G4      106632.931   1562 216389.862   5099201.862  221773.666
+164  mtInv+I+G4    106626.029   1563 216378.057   5105442.057  221765.308
+167  mtInv+F+G4    103291.701   1581 209745.403   5212029.403  215194.695
+168  mtInv+F+I+G4  103282.952   1582 209729.903   5218341.903  215182.642
+171  mtMAM+G4      111305.456   1562 225734.911   5108546.911  231118.715
+172  mtMAM+I+G4    111305.421   1563 225736.841   5114800.841  231124.092
+175  mtMAM+F+G4    108454.402   1581 220070.804   5222354.804  225520.096
+176  mtMAM+F+I+G4  108452.711   1582 220069.422   5228681.422  225522.160
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+179  FLAVI+G4      109606.119   1562 222336.239   5105148.239  227720.042
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+180  FLAVI+I+G4    109599.521   1563 222325.042   5111389.042  227712.293
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+183  FLAVI+F+G4    109813.985   1581 222789.969   5225073.969  228239.261
+WARNING: Normalizing state frequencies so that sum of them equals to 1
+184  FLAVI+F+I+G4  109808.859   1582 222781.718   5231393.718  228234.457
+187  HIVb+G4       107389.005   1562 217902.011   5100714.011  223285.815
+188  HIVb+I+G4     107379.743   1563 217885.485   5106949.485  223272.736
+191  HIVb+F+G4     107484.186   1581 218130.372   5220414.372  223579.664
+192  HIVb+F+I+G4   107476.668   1582 218117.336   5226729.336  223570.074
+195  HIVw+G4       112363.201   1562 227850.402   5110662.402  233234.206
+196  HIVw+I+G4     112349.034   1563 227824.068   5116888.068  233211.318
+199  HIVw+F+G4     111670.201   1581 226502.401   5228786.401  231951.693
+200  HIVw+F+I+G4   111656.244   1582 226476.487   5235088.487  231929.226
+203  FLU+G4        106209.969   1562 215543.938   5098355.938  220927.742
+204  FLU+I+G4      106201.446   1563 215528.891   5104592.891  220916.142
+207  FLU+F+G4      106494.082   1581 216150.164   5218434.164  221599.455
+208  FLU+F+I+G4    106486.558   1582 216137.115   5224749.115  221589.854
+211  rtREV+G4      102732.438   1562 208588.876   5091400.876  213972.680
+212  rtREV+I+G4    102728.442   1563 208582.884   5097646.884  213970.135
+215  rtREV+F+G4    102108.023   1581 207378.045   5209662.045  212827.337
+216  rtREV+F+I+G4  102102.560   1582 207369.119   5215981.119  212821.858
+219  cpREV+G4      103031.083   1562 209186.166   5091998.166  214569.970
+220  cpREV+I+G4    103025.945   1563 209177.890   5098241.890  214565.140
+223  cpREV+F+G4    102829.416   1581 208820.832   5211104.832  214270.124
+224  cpREV+F+I+G4  102825.243   1582 208814.487   5217426.487  214267.225
+Akaike Information Criterion:           LG+I+G4
+Corrected Akaike Information Criterion: LG+G4
+Bayesian Information Criterion:         LG+I+G4
+Best-fit model: LG+I+G4 chosen according to BIC
+
+All model information printed to CAT_all_trimal.faa.model.gz
+CPU time for ModelFinder: 1480.660 seconds (0h:24m:40s)
+Wall-clock time for ModelFinder: 1488.225 seconds (0h:24m:48s)
+Generating 5000 samples for ultrafast bootstrap (seed: 674700)...
+
+NOTE: 126 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.087 / Estimate: 0.004, 1.086 / LogL: -101547.257
+Init pinv, alpha: 0.002, 1.087 / Estimate: 0.004, 1.087 / LogL: -101547.263
+Init pinv, alpha: 0.005, 1.087 / Estimate: 0.004, 1.087 / LogL: -101547.270
+Init pinv, alpha: 0.007, 1.087 / Estimate: 0.004, 1.086 / LogL: -101547.262
+Init pinv, alpha: 0.010, 1.087 / Estimate: 0.004, 1.087 / LogL: -101547.256
+Init pinv, alpha: 0.012, 1.087 / Estimate: 0.004, 1.087 / LogL: -101547.256
+Init pinv, alpha: 0.014, 1.087 / Estimate: 0.004, 1.087 / LogL: -101547.255
+Init pinv, alpha: 0.017, 1.087 / Estimate: 0.004, 1.087 / LogL: -101547.255
+Init pinv, alpha: 0.019, 1.087 / Estimate: 0.004, 1.087 / LogL: -101547.255
+Init pinv, alpha: 0.022, 1.087 / Estimate: 0.004, 1.087 / LogL: -101547.254
+Optimal pinv,alpha: 0.004, 1.087 / LogL: -101547.254
+
+Parameters optimization took 49.499 sec
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 166.562 secs using 99.97% CPU
+Computing ML distances took 166.570073 sec (of wall-clock time) 166.516796 sec (of CPU time)
+WARNING: Some pairwise ML distances are too long (saturated)
+Setting up auxiliary I and S matrices: done in 0.0168531 secs using 168.8% CPU
+Constructing RapidNJ tree: done in 0.0405059 secs using 188.8% CPU
+Computing RapidNJ tree took 0.057705 sec (of wall-clock time) 0.105297 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -102931.716
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 127.885 second
+Computing log-likelihood of 98 initial trees ... 83.256 seconds
+Current best score: -101547.254
+
+Do NNI search on 20 best initial trees
+Optimizing NNI: done in 12.4266 secs using 99.67% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -101455.858
+Optimizing NNI: done in 29.4155 secs using 99.64% CPU
+Optimizing NNI: done in 25.5037 secs using 99.9% CPU
+Optimizing NNI: done in 25.3993 secs using 99.82% CPU
+Optimizing NNI: done in 25.5988 secs using 99.68% CPU
+Optimizing NNI: done in 27.7895 secs using 99.88% CPU
+Optimizing NNI: done in 26.8379 secs using 99.75% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 7: -101454.299
+Optimizing NNI: done in 23.6083 secs using 99.8% CPU
+Optimizing NNI: done in 27.9258 secs using 99.74% CPU
+Optimizing NNI: done in 28.4647 secs using 99.8% CPU
+Iteration 10 / LogL: -101546.535 / Time: 0h:11m:36s
+Optimizing NNI: done in 26.6585 secs using 99.72% CPU
+Optimizing NNI: done in 26.498 secs using 99.78% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 12: -101430.531
+Optimizing NNI: done in 31.9404 secs using 99.83% CPU
+Optimizing NNI: done in 31.0895 secs using 99.86% CPU
+Optimizing NNI: done in 40.2278 secs using 99.8% CPU
+Optimizing NNI: done in 35.7655 secs using 99.89% CPU
+Optimizing NNI: done in 32.5238 secs using 99.76% CPU
+Optimizing NNI: done in 30.8291 secs using 99.87% CPU
+Optimizing NNI: done in 33.0289 secs using 99.82% CPU
+Optimizing NNI: done in 28.0647 secs using 99.89% CPU
+Iteration 20 / LogL: -101607.855 / Time: 0h:16m:59s
+Finish initializing candidate tree set (20)
+Current best tree score: -101430.531 / CPU time: 794.463
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Optimizing NNI: done in 23.5041 secs using 99.56% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 21: -101362.021
+Optimizing NNI: done in 25.1242 secs using 99.76% CPU
+Optimizing NNI: done in 27.4043 secs using 99.54% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 23: -101306.157
+Optimizing NNI: done in 22.9772 secs using 99.77% CPU
+Optimizing NNI: done in 23.4354 secs using 99.62% CPU
+Optimizing NNI: done in 24.9136 secs using 99.82% CPU
+Optimizing NNI: done in 24.9765 secs using 99.78% CPU
+Optimizing NNI: done in 23.3558 secs using 99.81% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 28: -101208.635
+Optimizing NNI: done in 22.7585 secs using 99.88% CPU
+Optimizing NNI: done in 24.3471 secs using 99.72% CPU
+Iteration 30 / LogL: -101279.475 / Time: 0h:21m:17s (1h:11m:55s left)
+Optimizing NNI: done in 21.9045 secs using 99.84% CPU
+Optimizing NNI: done in 22.1302 secs using 99.82% CPU
+Optimizing NNI: done in 23.0893 secs using 99.7% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 33: -101183.884
+Optimizing NNI: done in 24.3408 secs using 99.83% CPU
+Optimizing NNI: done in 25.0443 secs using 99.67% CPU
+Optimizing NNI: done in 21.0724 secs using 99.72% CPU
+Optimizing NNI: done in 22.0087 secs using 99.79% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 37: -101169.033
+Optimizing NNI: done in 21.837 secs using 99.88% CPU
+Optimizing NNI: done in 25.2227 secs using 99.85% CPU
+Optimizing NNI: done in 26.4487 secs using 99.63% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 40: -101164.223
+Iteration 40 / LogL: -101164.223 / Time: 0h:25m:22s (1h:5m:2s left)
+Optimizing NNI: done in 54.9455 secs using 99.8% CPU
+Optimizing NNI: done in 20.9688 secs using 99.8% CPU
+Optimizing NNI: done in 22.9038 secs using 99.77% CPU
+Optimizing NNI: done in 21.1946 secs using 99.71% CPU
+Optimizing NNI: done in 20.9177 secs using 99.72% CPU
+Optimizing NNI: done in 23.0651 secs using 99.7% CPU
+Optimizing NNI: done in 29.9323 secs using 99.86% CPU
+Optimizing NNI: done in 24.4446 secs using 99.84% CPU
+Optimizing NNI: done in 21.0325 secs using 99.77% CPU
+Optimizing NNI: done in 21.6698 secs using 99.86% CPU
+Iteration 50 / LogL: -101266.089 / Time: 0h:29m:46s (0h:54m:41s left)
+Log-likelihood cutoff on original alignment: -101599.658
+Optimizing NNI: done in 27.6136 secs using 99.78% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 51: -101137.417
+Optimizing NNI: done in 37.3432 secs using 99.74% CPU
+Optimizing NNI: done in 33.3115 secs using 99.81% CPU
+Optimizing NNI: done in 35.5702 secs using 99.88% CPU
+Optimizing NNI: done in 25.8494 secs using 99.8% CPU
+Optimizing NNI: done in 21.0983 secs using 99.4% CPU
+Optimizing NNI: done in 19.1916 secs using 99.59% CPU
+Optimizing NNI: done in 20.9427 secs using 99.73% CPU
+Optimizing NNI: done in 20.304 secs using 99.6% CPU
+Optimizing NNI: done in 22.8455 secs using 99.7% CPU
+Iteration 60 / LogL: -101201.621 / Time: 0h:34m:40s (0h:53m:28s left)
+Optimizing NNI: done in 20.8958 secs using 99.72% CPU
+Optimizing NNI: done in 19.787 secs using 99.57% CPU
+Optimizing NNI: done in 21.1151 secs using 99.56% CPU
+Optimizing NNI: done in 22.5925 secs using 99.62% CPU
+Optimizing NNI: done in 23.675 secs using 99.6% CPU
+Optimizing NNI: done in 21.1006 secs using 99.73% CPU
+Optimizing NNI: done in 21.9292 secs using 99.69% CPU
+Optimizing NNI: done in 19.2141 secs using 99.79% CPU
+Optimizing NNI: done in 21.3685 secs using 99.41% CPU
+Optimizing NNI: done in 20.546 secs using 99.67% CPU
+Iteration 70 / LogL: -101168.493 / Time: 0h:38m:16s (0h:44m:55s left)
+Optimizing NNI: done in 20.2285 secs using 99.69% CPU
+Optimizing NNI: done in 20.9521 secs using 99.8% CPU
+Optimizing NNI: done in 20.6875 secs using 99.7% CPU
+Optimizing NNI: done in 22.1038 secs using 99.78% CPU
+Optimizing NNI: done in 21.4564 secs using 99.66% CPU
+Optimizing NNI: done in 21.8311 secs using 99.73% CPU
+Optimizing NNI: done in 22.014 secs using 99.77% CPU
+Optimizing NNI: done in 24.2221 secs using 99.75% CPU
+Optimizing NNI: done in 22.0244 secs using 99.69% CPU
+Optimizing NNI: done in 20.821 secs using 99.52% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 80: -101111.487
+Iteration 80 / LogL: -101111.487 / Time: 0h:42m:0s (0h:53m:10s left)
+Optimizing NNI: done in 21.3779 secs using 99.54% CPU
+Optimizing NNI: done in 19.8944 secs using 99.78% CPU
+Optimizing NNI: done in 23.838 secs using 99.37% CPU
+Optimizing NNI: done in 21.9513 secs using 99.63% CPU
+Optimizing NNI: done in 19.7939 secs using 99.26% CPU
+Optimizing NNI: done in 19.0339 secs using 99.43% CPU
+Optimizing NNI: done in 24.8328 secs using 99.61% CPU
+Optimizing NNI: done in 19.0955 secs using 99.71% CPU
+Optimizing NNI: done in 23.2722 secs using 99.57% CPU
+Optimizing NNI: done in 21.2083 secs using 99.7% CPU
+Iteration 90 / LogL: -101156.381 / Time: 0h:45m:38s (0h:46m:8s left)
+Optimizing NNI: done in 23.9018 secs using 99.58% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 91: -101111.160
+Optimizing NNI: done in 23.1972 secs using 99.68% CPU
+Optimizing NNI: done in 21.7519 secs using 99.79% CPU
+Optimizing NNI: done in 18.751 secs using 99.78% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 94: -101107.482
+Optimizing NNI: done in 21.6186 secs using 99.85% CPU
+Optimizing NNI: done in 22.3608 secs using 99.78% CPU
+Optimizing NNI: done in 20.1221 secs using 99.67% CPU
+Optimizing NNI: done in 24.325 secs using 99.71% CPU
+Optimizing NNI: done in 20.5345 secs using 99.71% CPU
+Optimizing NNI: done in 24.6353 secs using 99.64% CPU
+Iteration 100 / LogL: -101229.230 / Time: 0h:49m:30s (0h:47m:0s left)
+Log-likelihood cutoff on original alignment: -101370.855
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.936
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Optimizing NNI: done in 21.0692 secs using 99.75% CPU
+Optimizing NNI: done in 23.2593 secs using 99.71% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 102: -101094.065
+Optimizing NNI: done in 23.2426 secs using 99.82% CPU
+Optimizing NNI: done in 20.9209 secs using 99.84% CPU
+Optimizing NNI: done in 22.1524 secs using 99.82% CPU
+Optimizing NNI: done in 20.6396 secs using 99.71% CPU
+Optimizing NNI: done in 21.453 secs using 99.7% CPU
+Optimizing NNI: done in 20.8214 secs using 99.71% CPU
+Optimizing NNI: done in 19.4413 secs using 99.56% CPU
+Optimizing NNI: done in 21.9498 secs using 99.71% CPU
+Iteration 110 / LogL: -101184.596 / Time: 0h:53m:34s (0h:45m:12s left)
+Optimizing NNI: done in 22.4928 secs using 99.76% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 111: -101090.429
+Optimizing NNI: done in 20.1634 secs using 99.8% CPU
+Optimizing NNI: done in 20.9174 secs using 99.75% CPU
+Optimizing NNI: done in 22.6413 secs using 99.75% CPU
+Optimizing NNI: done in 21.2161 secs using 99.73% CPU
+Optimizing NNI: done in 21.2837 secs using 99.62% CPU
+Optimizing NNI: done in 22.7265 secs using 99.66% CPU
+Optimizing NNI: done in 20.8763 secs using 99.82% CPU
+Optimizing NNI: done in 20.6346 secs using 99.8% CPU
+Optimizing NNI: done in 25.7058 secs using 99.69% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 120: -101080.888
+Iteration 120 / LogL: -101080.888 / Time: 0h:57m:21s (0h:48m:11s left)
+Optimizing NNI: done in 21.877 secs using 99.7% CPU
+Optimizing NNI: done in 20.6017 secs using 99.71% CPU
+Optimizing NNI: done in 23.7393 secs using 99.57% CPU
+Optimizing NNI: done in 25.1707 secs using 99.62% CPU
+Optimizing NNI: done in 26.2821 secs using 99.66% CPU
+Optimizing NNI: done in 22.5197 secs using 99.75% CPU
+Optimizing NNI: done in 22.1245 secs using 99.62% CPU
+Optimizing NNI: done in 20.7005 secs using 99.64% CPU
+Optimizing NNI: done in 22.4562 secs using 99.71% CPU
+Optimizing NNI: done in 27.5292 secs using 99.72% CPU
+Iteration 130 / LogL: -101179.358 / Time: 1h:1m:18s (0h:42m:46s left)
+Optimizing NNI: done in 23.0203 secs using 99.55% CPU
+Optimizing NNI: done in 21.1837 secs using 99.73% CPU
+Optimizing NNI: done in 23.0182 secs using 99.72% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 133: -101077.229
+Optimizing NNI: done in 22.6821 secs using 99.84% CPU
+Optimizing NNI: done in 24.6674 secs using 99.49% CPU
+Optimizing NNI: done in 36.2038 secs using 99.75% CPU
+Optimizing NNI: done in 29.5043 secs using 99.71% CPU
+Optimizing NNI: done in 22.4524 secs using 99.75% CPU
+Optimizing NNI: done in 23.2714 secs using 99.76% CPU
+Optimizing NNI: done in 19.1225 secs using 99.58% CPU
+Iteration 140 / LogL: -101249.398 / Time: 1h:5m:32s (0h:43m:51s left)
+Optimizing NNI: done in 21.6804 secs using 99.74% CPU
+Optimizing NNI: done in 22.0132 secs using 99.69% CPU
+Optimizing NNI: done in 23.5054 secs using 99.66% CPU
+Optimizing NNI: done in 22.5148 secs using 99.73% CPU
+Optimizing NNI: done in 28.417 secs using 99.67% CPU
+Optimizing NNI: done in 30.8927 secs using 99.69% CPU
+Optimizing NNI: done in 25.4275 secs using 99.56% CPU
+Optimizing NNI: done in 22.4087 secs using 99.76% CPU
+Optimizing NNI: done in 22.951 secs using 99.71% CPU
+Optimizing NNI: done in 21.1655 secs using 99.67% CPU
+Iteration 150 / LogL: -101134.303 / Time: 1h:9m:38s (0h:38m:47s left)
+Log-likelihood cutoff on original alignment: -101357.072
+Optimizing NNI: done in 22.8751 secs using 99.61% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 151: -101065.970
+Optimizing NNI: done in 23.0383 secs using 99.66% CPU
+Optimizing NNI: done in 19.6004 secs using 99.75% CPU
+Optimizing NNI: done in 19.2096 secs using 99.61% CPU
+Optimizing NNI: done in 22.0693 secs using 99.54% CPU
+Optimizing NNI: done in 21.5009 secs using 99.77% CPU
+Optimizing NNI: done in 20.0215 secs using 99.66% CPU
+Optimizing NNI: done in 25.8333 secs using 99.72% CPU
+Optimizing NNI: done in 30.0454 secs using 99.77% CPU
+Optimizing NNI: done in 34.3274 secs using 99.68% CPU
+Iteration 160 / LogL: -101101.733 / Time: 1h:14m:4s (0h:42m:23s left)
+Optimizing NNI: done in 33.8289 secs using 99.92% CPU
+Optimizing NNI: done in 34.4068 secs using 99.71% CPU
+Optimizing NNI: done in 30.078 secs using 99.82% CPU
+Optimizing NNI: done in 28.9141 secs using 99.79% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 164: -101059.750
+Optimizing NNI: done in 26.6214 secs using 99.8% CPU
+Optimizing NNI: done in 24.3677 secs using 99.78% CPU
+Optimizing NNI: done in 29.1731 secs using 99.83% CPU
+Optimizing NNI: done in 32.8114 secs using 99.78% CPU
+Optimizing NNI: done in 28.6775 secs using 99.78% CPU
+Optimizing NNI: done in 27.8837 secs using 99.74% CPU
+Iteration 170 / LogL: -101161.571 / Time: 1h:19m:13s (0h:44m:3s left)
+Optimizing NNI: done in 25.1268 secs using 99.77% CPU
+Optimizing NNI: done in 26.2273 secs using 99.72% CPU
+Optimizing NNI: done in 25.0861 secs using 99.82% CPU
+Optimizing NNI: done in 24.6045 secs using 99.85% CPU
+Optimizing NNI: done in 25.8619 secs using 99.54% CPU
+Optimizing NNI: done in 23.732 secs using 99.9% CPU
+Optimizing NNI: done in 21.2647 secs using 99.73% CPU
+Optimizing NNI: done in 24.7259 secs using 99.9% CPU
+Optimizing NNI: done in 30.7972 secs using 99.85% CPU
+Optimizing NNI: done in 24.845 secs using 99.87% CPU
+Iteration 180 / LogL: -101126.506 / Time: 1h:23m:30s (0h:39m:11s left)
+Optimizing NNI: done in 22.8635 secs using 99.8% CPU
+Optimizing NNI: done in 22.5554 secs using 99.78% CPU
+Optimizing NNI: done in 20.1296 secs using 99.88% CPU
+Optimizing NNI: done in 21.9858 secs using 99.78% CPU
+Optimizing NNI: done in 34.0795 secs using 99.72% CPU
+Optimizing NNI: done in 25.4874 secs using 99.83% CPU
+Optimizing NNI: done in 28.6766 secs using 99.79% CPU
+Optimizing NNI: done in 36.45 secs using 99.88% CPU
+Optimizing NNI: done in 35.3465 secs using 99.8% CPU
+Optimizing NNI: done in 37.9481 secs using 99.82% CPU
+Iteration 190 / LogL: -101097.517 / Time: 1h:28m:21s (0h:34m:35s left)
+Optimizing NNI: done in 41.1243 secs using 99.77% CPU
+Optimizing NNI: done in 42.8727 secs using 99.8% CPU
+Optimizing NNI: done in 24.935 secs using 99.9% CPU
+Optimizing NNI: done in 23.958 secs using 99.71% CPU
+Optimizing NNI: done in 22.1984 secs using 99.76% CPU
+Optimizing NNI: done in 24.7028 secs using 99.79% CPU
+Optimizing NNI: done in 25.3462 secs using 99.87% CPU
+Optimizing NNI: done in 22.8209 secs using 99.75% CPU
+Optimizing NNI: done in 21.4612 secs using 99.88% CPU
+Optimizing NNI: done in 20.7765 secs using 99.86% CPU
+Iteration 200 / LogL: -101104.847 / Time: 1h:32m:56s (0h:29m:53s left)
+Log-likelihood cutoff on original alignment: -101357.072
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.949
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Optimizing NNI: done in 24.044 secs using 99.74% CPU
+Optimizing NNI: done in 24.1253 secs using 99.66% CPU
+Optimizing NNI: done in 23.1891 secs using 99.86% CPU
+Optimizing NNI: done in 24.8089 secs using 99.85% CPU
+Optimizing NNI: done in 26.3 secs using 99.74% CPU
+Optimizing NNI: done in 28.2134 secs using 99.9% CPU
+Optimizing NNI: done in 25.0051 secs using 99.68% CPU
+Optimizing NNI: done in 28.2298 secs using 99.85% CPU
+Optimizing NNI: done in 26.7111 secs using 99.77% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 209: -101058.193
+Optimizing NNI: done in 26.6947 secs using 99.82% CPU
+Iteration 210 / LogL: -101080.601 / Time: 1h:37m:43s (0h:46m:17s left)
+Optimizing NNI: done in 27.3211 secs using 99.73% CPU
+Optimizing NNI: done in 25.7828 secs using 99.69% CPU
+Optimizing NNI: done in 21.0263 secs using 99.8% CPU
+Optimizing NNI: done in 22.7383 secs using 99.66% CPU
+Optimizing NNI: done in 22.3075 secs using 99.85% CPU
+Optimizing NNI: done in 24.5614 secs using 99.78% CPU
+Optimizing NNI: done in 28.2165 secs using 99.78% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 217: -101052.791
+Optimizing NNI: done in 24.2063 secs using 99.78% CPU
+Optimizing NNI: done in 27.0124 secs using 99.74% CPU
+Optimizing NNI: done in 28.4426 secs using 99.85% CPU
+Iteration 220 / LogL: -101185.645 / Time: 1h:42m:3s (0h:45m:12s left)
+Optimizing NNI: done in 26.1477 secs using 99.84% CPU
+Optimizing NNI: done in 29.0096 secs using 99.76% CPU
+Optimizing NNI: done in 26.221 secs using 99.78% CPU
+Optimizing NNI: done in 28.0082 secs using 99.84% CPU
+Optimizing NNI: done in 28.8287 secs using 99.68% CPU
+Optimizing NNI: done in 25.1906 secs using 99.77% CPU
+Optimizing NNI: done in 27.2363 secs using 99.7% CPU
+Optimizing NNI: done in 23.713 secs using 99.83% CPU
+Optimizing NNI: done in 35.0318 secs using 99.8% CPU
+Optimizing NNI: done in 29.059 secs using 99.8% CPU
+Iteration 230 / LogL: -101137.472 / Time: 1h:46m:47s (0h:40m:34s left)
+Optimizing NNI: done in 23.6134 secs using 99.75% CPU
+Optimizing NNI: done in 24.7217 secs using 99.75% CPU
+Optimizing NNI: done in 24.6545 secs using 99.91% CPU
+Optimizing NNI: done in 22.8488 secs using 99.82% CPU
+Optimizing NNI: done in 24.8204 secs using 99.86% CPU
+Optimizing NNI: done in 23.4648 secs using 99.72% CPU
+Optimizing NNI: done in 25.3041 secs using 99.88% CPU
+Optimizing NNI: done in 23.1288 secs using 99.91% CPU
+Optimizing NNI: done in 26.7771 secs using 99.72% CPU
+Optimizing NNI: done in 24.2838 secs using 99.84% CPU
+Iteration 240 / LogL: -101087.062 / Time: 1h:50m:56s (0h:35m:44s left)
+Optimizing NNI: done in 27.9425 secs using 99.59% CPU
+Optimizing NNI: done in 25.9341 secs using 99.84% CPU
+Optimizing NNI: done in 28.3837 secs using 99.71% CPU
+Optimizing NNI: done in 19.7889 secs using 99.77% CPU
+Optimizing NNI: done in 24.4425 secs using 99.88% CPU
+Optimizing NNI: done in 24.3728 secs using 99.81% CPU
+Optimizing NNI: done in 29.7341 secs using 99.9% CPU
+Optimizing NNI: done in 31.5906 secs using 99.67% CPU
+Optimizing NNI: done in 24.6125 secs using 99.77% CPU
+Optimizing NNI: done in 26.7723 secs using 99.71% CPU
+Iteration 250 / LogL: -101098.223 / Time: 1h:55m:25s (0h:31m:3s left)
+Log-likelihood cutoff on original alignment: -101357.072
+Optimizing NNI: done in 24.3748 secs using 99.6% CPU
+Optimizing NNI: done in 20.822 secs using 99.75% CPU
+Optimizing NNI: done in 35.1442 secs using 99.79% CPU
+Optimizing NNI: done in 24.086 secs using 99.8% CPU
+Optimizing NNI: done in 22.3901 secs using 99.78% CPU
+Optimizing NNI: done in 23.5856 secs using 99.74% CPU
+Optimizing NNI: done in 26.0112 secs using 99.83% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 257: -101048.673
+Optimizing NNI: done in 25.5352 secs using 99.71% CPU
+Optimizing NNI: done in 22.4022 secs using 99.77% CPU
+Optimizing NNI: done in 24.0507 secs using 99.79% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 260: -101036.012
+Iteration 260 / LogL: -101036.012 / Time: 2h:0m:12s (0h:46m:24s left)
+Optimizing NNI: done in 21.4707 secs using 99.7% CPU
+Optimizing NNI: done in 20.6713 secs using 99.8% CPU
+Optimizing NNI: done in 20.9175 secs using 99.71% CPU
+Optimizing NNI: done in 23.7522 secs using 99.81% CPU
+Optimizing NNI: done in 24.2026 secs using 99.88% CPU
+Optimizing NNI: done in 22.3003 secs using 99.71% CPU
+Optimizing NNI: done in 22.6887 secs using 99.71% CPU
+Optimizing NNI: done in 23.0304 secs using 99.77% CPU
+Optimizing NNI: done in 23.2746 secs using 99.74% CPU
+Optimizing NNI: done in 26.5002 secs using 99.87% CPU
+Iteration 270 / LogL: -101162.135 / Time: 2h:4m:6s (0h:41m:31s left)
+Optimizing NNI: done in 23.4352 secs using 99.84% CPU
+Optimizing NNI: done in 25.5569 secs using 99.85% CPU
+Optimizing NNI: done in 23.4439 secs using 99.65% CPU
+Optimizing NNI: done in 24.2247 secs using 99.78% CPU
+Optimizing NNI: done in 22.8074 secs using 99.92% CPU
+Optimizing NNI: done in 24.5664 secs using 99.67% CPU
+Optimizing NNI: done in 27.114 secs using 99.85% CPU
+Optimizing NNI: done in 35.2433 secs using 99.79% CPU
+Optimizing NNI: done in 37.1703 secs using 99.8% CPU
+Optimizing NNI: done in 34.5387 secs using 99.73% CPU
+Iteration 280 / LogL: -101054.389 / Time: 2h:8m:50s (0h:36m:56s left)
+Optimizing NNI: done in 39.3125 secs using 99.75% CPU
+Optimizing NNI: done in 41.617 secs using 99.82% CPU
+Optimizing NNI: done in 43.3928 secs using 99.78% CPU
+Optimizing NNI: done in 40.991 secs using 99.76% CPU
+Optimizing NNI: done in 39.7181 secs using 99.78% CPU
+Optimizing NNI: done in 36.4848 secs using 99.81% CPU
+Optimizing NNI: done in 27.7951 secs using 99.77% CPU
+Optimizing NNI: done in 27.0695 secs using 99.83% CPU
+Optimizing NNI: done in 23.7935 secs using 99.78% CPU
+Optimizing NNI: done in 25.6445 secs using 99.7% CPU
+Iteration 290 / LogL: -101123.030 / Time: 2h:14m:43s (0h:32m:37s left)
+Optimizing NNI: done in 26.2725 secs using 99.91% CPU
+Optimizing NNI: done in 24.7957 secs using 99.69% CPU
+Optimizing NNI: done in 25.6185 secs using 99.92% CPU
+Optimizing NNI: done in 23.7979 secs using 99.81% CPU
+Optimizing NNI: done in 25.1168 secs using 99.88% CPU
+Optimizing NNI: done in 23.715 secs using 99.86% CPU
+Optimizing NNI: done in 23.2705 secs using 99.74% CPU
+Optimizing NNI: done in 22.839 secs using 99.7% CPU
+Optimizing NNI: done in 23.3392 secs using 99.73% CPU
+Optimizing NNI: done in 26.7751 secs using 99.85% CPU
+Iteration 300 / LogL: -101084.301 / Time: 2h:18m:54s (0h:27m:52s left)
+Log-likelihood cutoff on original alignment: -101357.072
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.977
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Optimizing NNI: done in 23.8855 secs using 99.63% CPU
+Optimizing NNI: done in 24.4632 secs using 99.72% CPU
+Optimizing NNI: done in 23.4469 secs using 99.64% CPU
+Optimizing NNI: done in 23.1277 secs using 99.63% CPU
+Optimizing NNI: done in 23.5138 secs using 99.79% CPU
+Optimizing NNI: done in 22.4295 secs using 99.66% CPU
+Optimizing NNI: done in 31.9714 secs using 99.92% CPU
+Optimizing NNI: done in 37.7322 secs using 99.81% CPU
+Optimizing NNI: done in 35.1304 secs using 99.8% CPU
+Optimizing NNI: done in 32.1661 secs using 99.88% CPU
+Iteration 310 / LogL: -101072.549 / Time: 2h:24m:4s (0h:41m:57s left)
+Optimizing NNI: done in 35.0124 secs using 99.72% CPU
+Optimizing NNI: done in 36.6333 secs using 99.89% CPU
+Optimizing NNI: done in 40.6825 secs using 99.81% CPU
+Optimizing NNI: done in 30.3769 secs using 99.82% CPU
+Optimizing NNI: done in 38.4301 secs using 99.89% CPU
+Optimizing NNI: done in 31.2175 secs using 99.77% CPU
+Optimizing NNI: done in 31.7444 secs using 99.94% CPU
+Optimizing NNI: done in 20.6262 secs using 99.65% CPU
+Optimizing NNI: done in 25.8335 secs using 99.81% CPU
+Optimizing NNI: done in 21.3149 secs using 99.73% CPU
+Iteration 320 / LogL: -101175.420 / Time: 2h:29m:23s (0h:37m:27s left)
+Optimizing NNI: done in 21.4556 secs using 99.75% CPU
+Optimizing NNI: done in 21.6369 secs using 99.9% CPU
+Optimizing NNI: done in 20.5715 secs using 99.72% CPU
+Optimizing NNI: done in 23.3042 secs using 99.75% CPU
+Optimizing NNI: done in 21.5459 secs using 99.84% CPU
+Optimizing NNI: done in 24.343 secs using 99.71% CPU
+Optimizing NNI: done in 24.5208 secs using 99.88% CPU
+Optimizing NNI: done in 23.7287 secs using 99.83% CPU
+Optimizing NNI: done in 23.0675 secs using 99.8% CPU
+Optimizing NNI: done in 25.0605 secs using 99.76% CPU
+Iteration 330 / LogL: -101089.378 / Time: 2h:33m:17s (0h:32m:37s left)
+Optimizing NNI: done in 24.2099 secs using 99.7% CPU
+Optimizing NNI: done in 26.5057 secs using 99.86% CPU
+Optimizing NNI: done in 21.8479 secs using 99.76% CPU
+Optimizing NNI: done in 26.2653 secs using 99.86% CPU
+Optimizing NNI: done in 26.4677 secs using 99.91% CPU
+Optimizing NNI: done in 23.2018 secs using 99.72% CPU
+Optimizing NNI: done in 25.1078 secs using 99.85% CPU
+Optimizing NNI: done in 27.2558 secs using 99.74% CPU
+Optimizing NNI: done in 26.7935 secs using 99.91% CPU
+Optimizing NNI: done in 22.7734 secs using 99.66% CPU
+Iteration 340 / LogL: -101078.524 / Time: 2h:37m:34s (0h:27m:53s left)
+Optimizing NNI: done in 23.662 secs using 99.91% CPU
+Optimizing NNI: done in 22.9681 secs using 99.8% CPU
+Optimizing NNI: done in 28.1781 secs using 99.58% CPU
+Optimizing NNI: done in 23.957 secs using 99.84% CPU
+Optimizing NNI: done in 23.0113 secs using 99.82% CPU
+Optimizing NNI: done in 22.6616 secs using 99.92% CPU
+Optimizing NNI: done in 31.6734 secs using 99.74% CPU
+Optimizing NNI: done in 36.5695 secs using 99.91% CPU
+Optimizing NNI: done in 23.4572 secs using 99.65% CPU
+Optimizing NNI: done in 30.9004 secs using 99.84% CPU
+Iteration 350 / LogL: -101082.209 / Time: 2h:42m:8s (0h:23m:13s left)
+Log-likelihood cutoff on original alignment: -101357.072
+Optimizing NNI: done in 28.0839 secs using 99.65% CPU
+Optimizing NNI: done in 25.1167 secs using 99.68% CPU
+Optimizing NNI: done in 25.173 secs using 99.81% CPU
+Optimizing NNI: done in 27.0696 secs using 99.83% CPU
+Optimizing NNI: done in 27.8022 secs using 99.77% CPU
+Optimizing NNI: done in 22.4129 secs using 99.82% CPU
+Optimizing NNI: done in 30.5793 secs using 99.81% CPU
+Optimizing NNI: done in 23.2 secs using 99.77% CPU
+Optimizing NNI: done in 22.0458 secs using 99.74% CPU
+Optimizing NNI: done in 29.7633 secs using 99.69% CPU
+Iteration 360 / LogL: -101078.257 / Time: 2h:47m:3s (0h:18m:36s left)
+Optimizing NNI: done in 19.9752 secs using 99.63% CPU
+Optimizing NNI: done in 22.9377 secs using 99.71% CPU
+Optimizing NNI: done in 21.5679 secs using 99.92% CPU
+Optimizing NNI: done in 25.9803 secs using 99.64% CPU
+Optimizing NNI: done in 22.2603 secs using 99.87% CPU
+Optimizing NNI: done in 23.6477 secs using 99.87% CPU
+Optimizing NNI: done in 22.7469 secs using 99.61% CPU
+Optimizing NNI: done in 21.8034 secs using 99.92% CPU
+Optimizing NNI: done in 20.2136 secs using 99.87% CPU
+Optimizing NNI: done in 21.0595 secs using 99.65% CPU
+Iteration 370 / LogL: -101064.042 / Time: 2h:50m:52s (0h:13m:53s left)
+Optimizing NNI: done in 24.8889 secs using 99.85% CPU
+Optimizing NNI: done in 29.1643 secs using 99.79% CPU
+Optimizing NNI: done in 26.8273 secs using 99.8% CPU
+Optimizing NNI: done in 31.1385 secs using 99.68% CPU
+Optimizing NNI: done in 22.3817 secs using 99.79% CPU
+Optimizing NNI: done in 27.3287 secs using 99.7% CPU
+Optimizing NNI: done in 24.0858 secs using 99.63% CPU
+Optimizing NNI: done in 22.9962 secs using 99.73% CPU
+Optimizing NNI: done in 26.936 secs using 99.72% CPU
+Optimizing NNI: done in 22.4432 secs using 99.87% CPU
+Iteration 380 / LogL: -101072.667 / Time: 2h:55m:16s (0h:9m:14s left)
+Optimizing NNI: done in 24.4603 secs using 99.8% CPU
+Optimizing NNI: done in 23.2875 secs using 99.84% CPU
+Optimizing NNI: done in 22.9713 secs using 99.85% CPU
+Optimizing NNI: done in 29.3973 secs using 99.57% CPU
+Optimizing NNI: done in 27.988 secs using 99.76% CPU
+Optimizing NNI: done in 23.5831 secs using 99.82% CPU
+Optimizing NNI: done in 23.8057 secs using 99.81% CPU
+Optimizing NNI: done in 21.4905 secs using 99.73% CPU
+Optimizing NNI: done in 23.2037 secs using 99.68% CPU
+Optimizing NNI: done in 26.876 secs using 99.86% CPU
+Iteration 390 / LogL: -101181.641 / Time: 2h:59m:29s (0h:4m:36s left)
+Optimizing NNI: done in 26.8153 secs using 99.71% CPU
+Optimizing NNI: done in 31.5391 secs using 99.84% CPU
+Optimizing NNI: done in 29.0092 secs using 99.73% CPU
+Optimizing NNI: done in 24.9944 secs using 99.98% CPU
+Optimizing NNI: done in 24.7696 secs using 99.73% CPU
+Optimizing NNI: done in 24.8588 secs using 99.91% CPU
+Optimizing NNI: done in 24.2655 secs using 99.78% CPU
+Optimizing NNI: done in 26.4559 secs using 99.84% CPU
+Optimizing NNI: done in 22.965 secs using 99.89% CPU
+Optimizing NNI: done in 24.9287 secs using 99.62% CPU
+Iteration 400 / LogL: -101086.221 / Time: 3h:3m:56s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -101357.072
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.987
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Optimizing NNI: done in 22.3507 secs using 99.6% CPU
+Optimizing NNI: done in 22.195 secs using 99.71% CPU
+Optimizing NNI: done in 25.6463 secs using 99.78% CPU
+Optimizing NNI: done in 22.4126 secs using 99.79% CPU
+Optimizing NNI: done in 22.2804 secs using 99.87% CPU
+Optimizing NNI: done in 20.8777 secs using 99.93% CPU
+Optimizing NNI: done in 27.6352 secs using 99.77% CPU
+Optimizing NNI: done in 23.6595 secs using 99.89% CPU
+Optimizing NNI: done in 23.7122 secs using 99.79% CPU
+Optimizing NNI: done in 26.443 secs using 99.84% CPU
+Iteration 410 / LogL: -101077.327 / Time: 3h:8m:22s (0h:41m:27s left)
+Optimizing NNI: done in 22.4885 secs using 99.78% CPU
+Optimizing NNI: done in 26.8284 secs using 99.86% CPU
+Optimizing NNI: done in 25.2693 secs using 99.82% CPU
+Optimizing NNI: done in 23.6678 secs using 99.74% CPU
+Optimizing NNI: done in 25.8713 secs using 99.82% CPU
+Optimizing NNI: done in 21.6444 secs using 99.77% CPU
+Optimizing NNI: done in 19.9483 secs using 99.89% CPU
+Optimizing NNI: done in 23.2947 secs using 99.78% CPU
+Optimizing NNI: done in 23.1949 secs using 99.63% CPU
+Optimizing NNI: done in 23.5771 secs using 99.77% CPU
+Iteration 420 / LogL: -101093.612 / Time: 3h:12m:25s (0h:36m:44s left)
+Optimizing NNI: done in 26.9442 secs using 99.8% CPU
+Optimizing NNI: done in 25.447 secs using 99.83% CPU
+Optimizing NNI: done in 26.4968 secs using 99.74% CPU
+Optimizing NNI: done in 21.2981 secs using 99.86% CPU
+Optimizing NNI: done in 22.9751 secs using 99.86% CPU
+Optimizing NNI: done in 23.0778 secs using 99.65% CPU
+Optimizing NNI: done in 24.9419 secs using 99.8% CPU
+Optimizing NNI: done in 25.3851 secs using 99.69% CPU
+Optimizing NNI: done in 23.3786 secs using 99.81% CPU
+Optimizing NNI: done in 26.1331 secs using 99.83% CPU
+Iteration 430 / LogL: -101101.516 / Time: 3h:16m:37s (0h:32m:5s left)
+Optimizing NNI: done in 42.3069 secs using 99.71% CPU
+Optimizing NNI: done in 41.5845 secs using 99.83% CPU
+Optimizing NNI: done in 30.3555 secs using 99.69% CPU
+Optimizing NNI: done in 24.2541 secs using 99.74% CPU
+Optimizing NNI: done in 25.5649 secs using 99.89% CPU
+Optimizing NNI: done in 22.2663 secs using 99.73% CPU
+Optimizing NNI: done in 25.7846 secs using 99.82% CPU
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 437: -101031.799
+Optimizing NNI: done in 22.3556 secs using 99.72% CPU
+Optimizing NNI: done in 24.1328 secs using 99.82% CPU
+Optimizing NNI: done in 26.3092 secs using 99.68% CPU
+Iteration 440 / LogL: -101065.585 / Time: 3h:21m:33s (0h:44m:32s left)
+Optimizing NNI: done in 20.3609 secs using 99.66% CPU
+Optimizing NNI: done in 21.9174 secs using 99.85% CPU
+Optimizing NNI: done in 20.1787 secs using 99.77% CPU
+Optimizing NNI: done in 26.2533 secs using 99.75% CPU
+Optimizing NNI: done in 30.5536 secs using 99.8% CPU
+Optimizing NNI: done in 30.7959 secs using 99.71% CPU
+Optimizing NNI: done in 30.5139 secs using 99.81% CPU
+Optimizing NNI: done in 34.3472 secs using 99.77% CPU
+Optimizing NNI: done in 28.8426 secs using 99.79% CPU
+Optimizing NNI: done in 23.2009 secs using 99.68% CPU
+Iteration 450 / LogL: -101126.848 / Time: 3h:26m:7s (0h:39m:56s left)
+Log-likelihood cutoff on original alignment: -101357.072
+Optimizing NNI: done in 24.1959 secs using 99.62% CPU
+Optimizing NNI: done in 27.2591 secs using 99.6% CPU
+Optimizing NNI: done in 29.1296 secs using 99.77% CPU
+Optimizing NNI: done in 28.0843 secs using 99.7% CPU
+Optimizing NNI: done in 24.9797 secs using 99.75% CPU
+Optimizing NNI: done in 23.8941 secs using 99.82% CPU
+Optimizing NNI: done in 25.9348 secs using 99.76% CPU
+Optimizing NNI: done in 24.6778 secs using 99.7% CPU
+Optimizing NNI: done in 23.9077 secs using 99.75% CPU
+Optimizing NNI: done in 25.8374 secs using 99.67% CPU
+Iteration 460 / LogL: -101133.958 / Time: 3h:30m:58s (0h:35m:23s left)
+Optimizing NNI: done in 26.2423 secs using 99.8% CPU
+Optimizing NNI: done in 23.8235 secs using 99.67% CPU
+Optimizing NNI: done in 23.2161 secs using 99.51% CPU
+Optimizing NNI: done in 29.3735 secs using 99.44% CPU
+Optimizing NNI: done in 32.2727 secs using 99.32% CPU
+Optimizing NNI: done in 34.5945 secs using 99.62% CPU
+Optimizing NNI: done in 35.7502 secs using 99.71% CPU
+Optimizing NNI: done in 34.8898 secs using 99.81% CPU
+Optimizing NNI: done in 35.6113 secs using 99.81% CPU
+Optimizing NNI: done in 31.9318 secs using 99.64% CPU
+Iteration 470 / LogL: -101069.831 / Time: 3h:36m:14s (0h:30m:53s left)
+Optimizing NNI: done in 30.9199 secs using 99.8% CPU
+Optimizing NNI: done in 24.7422 secs using 99.76% CPU
+Optimizing NNI: done in 23.0559 secs using 99.73% CPU
+Optimizing NNI: done in 26.4433 secs using 99.72% CPU
+Optimizing NNI: done in 29.7139 secs using 99.74% CPU
+Optimizing NNI: done in 22.8696 secs using 99.77% CPU
+Optimizing NNI: done in 23.2028 secs using 99.7% CPU
+Optimizing NNI: done in 21.497 secs using 99.94% CPU
+Optimizing NNI: done in 19.8181 secs using 99.51% CPU
+Optimizing NNI: done in 20.361 secs using 99.76% CPU
+Iteration 480 / LogL: -101046.507 / Time: 3h:40m:24s (0h:26m:13s left)
+Optimizing NNI: done in 25.5775 secs using 99.68% CPU
+Optimizing NNI: done in 34.493 secs using 99.75% CPU
+Optimizing NNI: done in 35.4332 secs using 99.82% CPU
+Optimizing NNI: done in 37.1471 secs using 99.76% CPU
+Optimizing NNI: done in 38.0134 secs using 99.77% CPU
+Optimizing NNI: done in 39.4079 secs using 99.8% CPU
+Optimizing NNI: done in 24.8795 secs using 99.88% CPU
+Optimizing NNI: done in 26.1765 secs using 99.75% CPU
+Optimizing NNI: done in 22.4489 secs using 99.67% CPU
+Optimizing NNI: done in 25.5193 secs using 99.95% CPU
+Iteration 490 / LogL: -101057.509 / Time: 3h:45m:42s (0h:21m:41s left)
+Optimizing NNI: done in 21.432 secs using 99.62% CPU
+Optimizing NNI: done in 30.0855 secs using 99.79% CPU
+Optimizing NNI: done in 26.0931 secs using 99.79% CPU
+Optimizing NNI: done in 21.8859 secs using 99.68% CPU
+Optimizing NNI: done in 22.0579 secs using 99.7% CPU
+Optimizing NNI: done in 24.9229 secs using 99.88% CPU
+Optimizing NNI: done in 25.9933 secs using 99.68% CPU
+Optimizing NNI: done in 23.5903 secs using 99.75% CPU
+Optimizing NNI: done in 23.837 secs using 99.79% CPU
+Optimizing NNI: done in 22.7591 secs using 99.71% CPU
+Iteration 500 / LogL: -101137.722 / Time: 3h:49m:51s (0h:17m:2s left)
+Log-likelihood cutoff on original alignment: -101357.072
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.988
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Optimizing NNI: done in 21.2141 secs using 99.63% CPU
+Optimizing NNI: done in 24.2716 secs using 99.66% CPU
+Optimizing NNI: done in 23.1676 secs using 99.76% CPU
+Optimizing NNI: done in 22.4641 secs using 99.79% CPU
+Optimizing NNI: done in 21.9449 secs using 99.81% CPU
+Optimizing NNI: done in 23.4422 secs using 99.85% CPU
+Optimizing NNI: done in 21.3531 secs using 99.63% CPU
+Optimizing NNI: done in 23.8591 secs using 99.77% CPU
+Optimizing NNI: done in 21.0886 secs using 99.82% CPU
+Optimizing NNI: done in 22.5769 secs using 99.76% CPU
+Iteration 510 / LogL: -101077.753 / Time: 3h:54m:6s (0h:41m:23s left)
+Optimizing NNI: done in 21.5113 secs using 99.77% CPU
+Optimizing NNI: done in 21.5945 secs using 99.73% CPU
+Optimizing NNI: done in 20.6013 secs using 99.82% CPU
+Optimizing NNI: done in 22.7968 secs using 99.7% CPU
+Optimizing NNI: done in 23.7743 secs using 99.81% CPU
+Optimizing NNI: done in 23.5296 secs using 99.86% CPU
+Optimizing NNI: done in 20.8611 secs using 99.62% CPU
+Optimizing NNI: done in 22.2824 secs using 99.85% CPU
+Optimizing NNI: done in 24.075 secs using 99.71% CPU
+Optimizing NNI: done in 25.502 secs using 99.79% CPU
+Iteration 520 / LogL: -101094.857 / Time: 3h:58m:0s (0h:36m:41s left)
+Optimizing NNI: done in 26.734 secs using 99.78% CPU
+Optimizing NNI: done in 24.0934 secs using 99.83% CPU
+Optimizing NNI: done in 24.0345 secs using 99.86% CPU
+Optimizing NNI: done in 24.5069 secs using 99.73% CPU
+Optimizing NNI: done in 20.8919 secs using 99.84% CPU
+Optimizing NNI: done in 26.3886 secs using 99.68% CPU
+Optimizing NNI: done in 23.5424 secs using 99.69% CPU
+Optimizing NNI: done in 21.8791 secs using 99.79% CPU
+Optimizing NNI: done in 26.4914 secs using 99.78% CPU
+Optimizing NNI: done in 25.0629 secs using 99.9% CPU
+Iteration 530 / LogL: -101124.624 / Time: 4h:2m:11s (0h:32m:2s left)
+Optimizing NNI: done in 21.9039 secs using 99.63% CPU
+Optimizing NNI: done in 24.4907 secs using 99.91% CPU
+Optimizing NNI: done in 25.2414 secs using 99.8% CPU
+Optimizing NNI: done in 23.4183 secs using 99.77% CPU
+Optimizing NNI: done in 26.7026 secs using 99.8% CPU
+Optimizing NNI: done in 24.8404 secs using 99.67% CPU
+Optimizing NNI: done in 24.1485 secs using 99.86% CPU
+Optimizing NNI: done in 24.4112 secs using 99.75% CPU
+Optimizing NNI: done in 23.1096 secs using 99.85% CPU
+Optimizing NNI: done in 24.1067 secs using 99.71% CPU
+Iteration 540 / LogL: -101135.016 / Time: 4h:6m:21s (0h:27m:25s left)
+Optimizing NNI: done in 27.3483 secs using 99.75% CPU
+Optimizing NNI: done in 23.167 secs using 99.7% CPU
+Optimizing NNI: done in 23.2995 secs using 99.72% CPU
+Optimizing NNI: done in 25.7647 secs using 99.85% CPU
+Optimizing NNI: done in 24.6303 secs using 99.59% CPU
+Optimizing NNI: done in 25.1484 secs using 99.88% CPU
+Optimizing NNI: done in 26.2908 secs using 99.74% CPU
+Optimizing NNI: done in 25.3584 secs using 99.73% CPU
+Optimizing NNI: done in 25.0934 secs using 99.77% CPU
+Optimizing NNI: done in 26.645 secs using 99.72% CPU
+Iteration 550 / LogL: -101078.248 / Time: 4h:10m:42s (0h:22m:49s left)
+Log-likelihood cutoff on original alignment: -101357.072
+Optimizing NNI: done in 28.4442 secs using 99.52% CPU
+Optimizing NNI: done in 22.6284 secs using 99.63% CPU
+Optimizing NNI: done in 23.5435 secs using 99.74% CPU
+Optimizing NNI: done in 25.0655 secs using 99.78% CPU
+Optimizing NNI: done in 29.1425 secs using 99.84% CPU
+Optimizing NNI: done in 22.7653 secs using 99.64% CPU
+Optimizing NNI: done in 23.6671 secs using 99.77% CPU
+Optimizing NNI: done in 25.7647 secs using 99.71% CPU
+Optimizing NNI: done in 24.1546 secs using 99.84% CPU
+Optimizing NNI: done in 28.722 secs using 99.4% CPU
+Iteration 560 / LogL: -101101.029 / Time: 4h:15m:30s (0h:18m:17s left)
+Optimizing NNI: done in 26.9207 secs using 99.86% CPU
+Optimizing NNI: done in 25.5558 secs using 99.7% CPU
+Optimizing NNI: done in 27.461 secs using 99.66% CPU
+Optimizing NNI: done in 24.2791 secs using 99.87% CPU
+Optimizing NNI: done in 24.3604 secs using 99.74% CPU
+Optimizing NNI: done in 24.9686 secs using 99.68% CPU
+Optimizing NNI: done in 25.4908 secs using 99.82% CPU
+Optimizing NNI: done in 27.1906 secs using 99.78% CPU
+Optimizing NNI: done in 26.5813 secs using 99.84% CPU
+Optimizing NNI: done in 25.6636 secs using 99.78% CPU
+Iteration 570 / LogL: -101072.208 / Time: 4h:19m:57s (0h:13m:42s left)
+Optimizing NNI: done in 25.7318 secs using 99.68% CPU
+Optimizing NNI: done in 29.2981 secs using 99.74% CPU
+Optimizing NNI: done in 28.1578 secs using 99.8% CPU
+Optimizing NNI: done in 23.9017 secs using 99.84% CPU
+Optimizing NNI: done in 25.3019 secs using 99.83% CPU
+Optimizing NNI: done in 29.4135 secs using 99.76% CPU
+Optimizing NNI: done in 22.522 secs using 99.85% CPU
+Optimizing NNI: done in 27.3403 secs using 99.77% CPU
+Optimizing NNI: done in 28.0398 secs using 99.74% CPU
+Optimizing NNI: done in 26.7851 secs using 99.76% CPU
+Iteration 580 / LogL: -101079.443 / Time: 4h:24m:31s (0h:9m:8s left)
+Optimizing NNI: done in 21.659 secs using 99.69% CPU
+Optimizing NNI: done in 21.7503 secs using 99.84% CPU
+Optimizing NNI: done in 24.1067 secs using 99.76% CPU
+Optimizing NNI: done in 26.7246 secs using 99.76% CPU
+Optimizing NNI: done in 20.1468 secs using 99.84% CPU
+Optimizing NNI: done in 22.172 secs using 99.75% CPU
+Optimizing NNI: done in 26.2253 secs using 99.82% CPU
+Optimizing NNI: done in 33.5282 secs using 99.81% CPU
+Optimizing NNI: done in 36.4636 secs using 99.78% CPU
+Optimizing NNI: done in 40.1399 secs using 99.74% CPU
+Iteration 590 / LogL: -101064.923 / Time: 4h:29m:13s (0h:4m:34s left)
+Optimizing NNI: done in 34.0124 secs using 99.81% CPU
+Optimizing NNI: done in 34.2842 secs using 99.76% CPU
+Optimizing NNI: done in 25.91 secs using 99.75% CPU
+Optimizing NNI: done in 23.1897 secs using 99.85% CPU
+Optimizing NNI: done in 23.2581 secs using 99.72% CPU
+Optimizing NNI: done in 21.2626 secs using 99.83% CPU
+Optimizing NNI: done in 23.6445 secs using 99.73% CPU
+Optimizing NNI: done in 21.1719 secs using 99.74% CPU
+Optimizing NNI: done in 22.0373 secs using 99.74% CPU
+Optimizing NNI: done in 24.9229 secs using 99.79% CPU
+Iteration 600 / LogL: -101107.610 / Time: 4h:33m:35s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -101357.072
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.995
+TREE SEARCH COMPLETED AFTER 600 ITERATIONS / Time: 4h:33m:59s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -101031.799
+Optimal log-likelihood: -101031.796
+Proportion of invariable sites: 0.004
+Gamma shape alpha: 1.081
+Parameters optimization took 1 rounds (2.832 sec)
+BEST SCORE FOUND : -101031.796
+Creating bootstrap support values...
+Split supports printed to NEXUS file CAT_all_trimal.faa.splits.nex
+Total tree length: 153.805
+
+Total number of iterations: 600
+CPU time used for tree search: 16134.481 sec (4h:28m:54s)
+Wall-clock time used for tree search: 16214.009 sec (4h:30m:14s)
+Total CPU time used: 16384.735 sec (4h:33m:4s)
+Total wall-clock time used: 16464.602 sec (4h:34m:24s)
+
+Computing bootstrap consensus tree...
+Reading input file CAT_all_trimal.faa.splits.nex...
+782 taxa and 5324 splits.
+Consensus tree written to CAT_all_trimal.faa.contree
+Reading input trees file CAT_all_trimal.faa.contree
+Log-likelihood of consensus tree: -101023.246
+
+Analysis results written to: 
+  IQ-TREE report:                CAT_all_trimal.faa.iqtree
+  Maximum-likelihood tree:       CAT_all_trimal.faa.treefile
+  Likelihood distances:          CAT_all_trimal.faa.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          CAT_all_trimal.faa.splits.nex
+  Consensus tree:                CAT_all_trimal.faa.contree
+  Screen log file:               CAT_all_trimal.faa.log
+
+Date and Time: Thu Aug 31 16:48:18 2023

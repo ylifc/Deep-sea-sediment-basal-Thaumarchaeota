@@ -1,0 +1,46 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.521173
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Haladaptatus_paucihalophilus_DX253_renamed/Haladaptatus_paucihalophilus_DX253_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Haladaptatus_paucihalophilus_DX253-contig1_1373      3    145      3    146 PF01280.21  Ribosomal_L19e    Family     1   143   144    193.1   5.4e-58   1 No_clan  
+Haladaptatus_paucihalophilus_DX253-contig1_1376      5    130      5    130 PF00410.20  Ribosomal_S8      Domain     1   126   126     79.3   5.3e-23   1 No_clan  
+Haladaptatus_paucihalophilus_DX253-contig1_1379     91    165     90    165 PF00900.21  Ribosomal_S4e     Family     2    75    75     77.6   1.2e-22   1 CL0021   
+Haladaptatus_paucihalophilus_DX253-contig1_1677      3    139      3    141 PF01090.20  Ribosomal_S19e    Family     1   135   137    152.8   1.1e-45   1 CL0123   
+Haladaptatus_paucihalophilus_DX253-contig1_233      19    207     12    207 PF00687.22  Ribosomal_L1      Domain     6   204   204    149.9   1.8e-44   1 No_clan  
+Haladaptatus_paucihalophilus_DX253-contig1_234      13    108     11    109 PF00466.21  Ribosomal_L10     Family     3    98   100     79.8   3.2e-23   1 No_clan  
+Haladaptatus_paucihalophilus_DX253-contig1_2813      4    189      4    191 PF00827.18  Ribosomal_L15e    Family     1   187   189    278.5     6e-84   1 CL0652   
+Haladaptatus_paucihalophilus_DX253-contig1_313      10     71      9     72 PF01200.19  Ribosomal_S28e    Family     2    63    64    100.1   1.2e-29   1 CL0021   
+Haladaptatus_paucihalophilus_DX253-contig1_330       9    188      8    188 PF04919.13  DUF655            Family     2   181   181    214.2   3.3e-64   1 CL0198   
+Haladaptatus_paucihalophilus_DX253-contig1_36      118    230    117    230 PF07541.13  EIF_2_alpha       Family     2   114   114     92.7   3.7e-27   1 No_clan  
+Haladaptatus_paucihalophilus_DX253-contig1_393       7    131      7    131 PF00380.20  Ribosomal_S9      Family     1   121   121    117.5   1.1e-34   1 CL0329   
+Haladaptatus_paucihalophilus_DX253-contig1_396      49    143     48    144 PF01000.27  RNA_pol_A_bac     Domain     2   111   112     70.4   3.7e-20   1 No_clan  
+Haladaptatus_paucihalophilus_DX253-contig1_791       4    191      1    191 PF01015.19  Ribosomal_S3Ae    Family     4   195   195    211.2   2.5e-63   1 No_clan  
+Haladaptatus_paucihalophilus_DX253-contig1_85       56    211     49    212 PF01025.20  GrpE              Family     8   165   166    139.0   2.7e-41   1 No_clan  

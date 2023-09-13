@@ -1,0 +1,45 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.159631
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Methanopyrus_kandleri_AV19_renamed/Methanopyrus_kandleri_AV19_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Methanopyrus_kandleri_AV19-contig1_1306     99    178     99    180 PF00900.21  Ribosomal_S4e     Family     1    72    75     76.1   1.5e-22   1 CL0021   
+Methanopyrus_kandleri_AV19-contig1_1309      5    130      5    130 PF00410.20  Ribosomal_S8      Domain     1   126   126     99.8     1e-29   1 No_clan  
+Methanopyrus_kandleri_AV19-contig1_1558     10     73     10     73 PF01200.19  Ribosomal_S28e    Family     1    64    64    116.4   4.1e-35   1 CL0021   
+Methanopyrus_kandleri_AV19-contig1_1574      2    191      1    191 PF01015.19  Ribosomal_S3Ae    Family     6   195   195    249.0   2.5e-75   1 No_clan  
+Methanopyrus_kandleri_AV19-contig1_1587     47    156     47    156 PF01000.27  RNA_pol_A_bac     Domain     1   112   112     97.3   6.8e-29   1 No_clan  
+Methanopyrus_kandleri_AV19-contig1_1590      9    134      9    134 PF00380.20  Ribosomal_S9      Family     1   121   121    116.1   1.3e-34   1 CL0329   
+Methanopyrus_kandleri_AV19-contig1_1739      5    138      3    138 PF01090.20  Ribosomal_S19e    Family     3   137   137    197.5   6.7e-60   1 CL0123   
+Methanopyrus_kandleri_AV19-contig1_1779     16    194     15    195 PF04919.13  DUF655            Family     2   180   181    219.5   3.1e-66   1 CL0198   
+Methanopyrus_kandleri_AV19-contig1_34        3    144      2    145 PF01280.21  Ribosomal_L19e    Family     2   143   144    203.7   1.2e-61   1 No_clan  
+Methanopyrus_kandleri_AV19-contig1_419       2    188      2    189 PF00827.18  Ribosomal_L15e    Family     1   188   189    284.0   4.9e-86   1 CL0652   
+Methanopyrus_kandleri_AV19-contig1_452     121    233    121    233 PF07541.13  EIF_2_alpha       Family     1   114   114    104.3   3.8e-31   1 No_clan  
+Methanopyrus_kandleri_AV19-contig1_877      21    209     13    209 PF00687.22  Ribosomal_L1      Domain     6   204   204    159.3   9.7e-48   1 No_clan  
+Methanopyrus_kandleri_AV19-contig1_878      18    117     16    118 PF00466.21  Ribosomal_L10     Family     3    98   100     96.8   6.6e-29   1 No_clan  

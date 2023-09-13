@@ -1,0 +1,46 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.420458
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Halorubrum_lacusprofundi_ATCC_49239_renamed/Halorubrum_lacusprofundi_ATCC_49239_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Halorubrum_lacusprofundi_ATCC_49239-contig1_1008    118    230    117    230 PF07541.13  EIF_2_alpha       Family     2   114   114     86.8   2.1e-25   1 No_clan  
+Halorubrum_lacusprofundi_ATCC_49239-contig1_1291     59    214     24    215 PF01025.20  GrpE              Family     6   165   166    120.8   8.7e-36   1 No_clan  
+Halorubrum_lacusprofundi_ATCC_49239-contig1_1820     49    144     49    152 PF01000.27  RNA_pol_A_bac     Domain     1   111   112     71.6   1.3e-20   1 No_clan  
+Halorubrum_lacusprofundi_ATCC_49239-contig1_1823      7    132      7    132 PF00380.20  Ribosomal_S9      Family     1   121   121    112.4   3.5e-33   1 CL0329   
+Halorubrum_lacusprofundi_ATCC_49239-contig1_1844     10     70      8     71 PF01200.19  Ribosomal_S28e    Family     3    63    64     98.3   3.5e-29   1 CL0021   
+Halorubrum_lacusprofundi_ATCC_49239-contig1_2105     17    188     14    189 PF04919.13  DUF655            Family     5   180   181    195.3   1.7e-58   1 CL0198   
+Halorubrum_lacusprofundi_ATCC_49239-contig1_2316      3    140      3    141 PF01090.20  Ribosomal_S19e    Family     1   136   137    146.0   1.1e-43   1 CL0123   
+Halorubrum_lacusprofundi_ATCC_49239-contig1_2436      3    145      3    147 PF01280.21  Ribosomal_L19e    Family     1   142   144    179.0     1e-53   1 No_clan  
+Halorubrum_lacusprofundi_ATCC_49239-contig1_2439      5    130      5    130 PF00410.20  Ribosomal_S8      Domain     1   126   126     85.3   6.3e-25   1 No_clan  
+Halorubrum_lacusprofundi_ATCC_49239-contig1_2442     91    164     90    165 PF00900.21  Ribosomal_S4e     Family     2    74    75     76.4   2.4e-22   1 CL0021   
+Halorubrum_lacusprofundi_ATCC_49239-contig1_2537     11    105      9    107 PF00466.21  Ribosomal_L10     Family     3    97   100     71.7   8.8e-21   1 No_clan  
+Halorubrum_lacusprofundi_ATCC_49239-contig1_2538     18    206     12    206 PF00687.22  Ribosomal_L1      Domain     6   204   204    137.9     7e-41   1 No_clan  
+Halorubrum_lacusprofundi_ATCC_49239-contig1_414       4    189      4    191 PF00827.18  Ribosomal_L15e    Family     1   187   189    270.4   1.5e-81   1 CL0652   
+Halorubrum_lacusprofundi_ATCC_49239-contig1_620       6    191      2    191 PF01015.19  Ribosomal_S3Ae    Family     6   195   195    198.8   1.2e-59   1 No_clan  

@@ -1,0 +1,46 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.272273
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Candidatus_Caldiarchaeum_subterraneum_renamed/Candidatus_Caldiarchaeum_subterraneum_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Candidatus_Caldiarchaeum_subterraneum-contig1_14        8    156      3    157 PF01025.20  GrpE              Family    17   165   166    131.3   2.7e-39   1 No_clan  
+Candidatus_Caldiarchaeum_subterraneum-contig1_1650    119    221    113    224 PF07541.13  EIF_2_alpha       Family    10   111   114     45.0   9.9e-13   1 No_clan  
+Candidatus_Caldiarchaeum_subterraneum-contig1_171      21    211     11    212 PF00687.22  Ribosomal_L1      Domain     6   203   204    140.4   6.5e-42   1 No_clan  
+Candidatus_Caldiarchaeum_subterraneum-contig1_172      22    116     19    118 PF00466.21  Ribosomal_L10     Family     5    98   100     64.5   7.8e-19   1 No_clan  
+Candidatus_Caldiarchaeum_subterraneum-contig1_197       8    188      7    188 PF04919.13  DUF655            Family     2   181   181    161.4   2.2e-48   1 CL0198   
+Candidatus_Caldiarchaeum_subterraneum-contig1_340      44    156     42    156 PF01000.27  RNA_pol_A_bac     Domain     3   112   112     84.0   9.3e-25   1 No_clan  
+Candidatus_Caldiarchaeum_subterraneum-contig1_343      10    131     10    131 PF00380.20  Ribosomal_S9      Family     1   121   121    107.4   6.6e-32   1 CL0329   
+Candidatus_Caldiarchaeum_subterraneum-contig1_457      10     72      9     72 PF01200.19  Ribosomal_S28e    Family     2    64    64    106.2   6.2e-32   1 CL0021   
+Candidatus_Caldiarchaeum_subterraneum-contig1_475       4    190      2    191 PF01015.19  Ribosomal_S3Ae    Family     3   193   195    203.8   1.9e-61   1 No_clan  
+Candidatus_Caldiarchaeum_subterraneum-contig1_478       1    139      1    140 PF00827.18  Ribosomal_L15e    Family     2   141   189    148.8   1.5e-44   1 CL0652   
+Candidatus_Caldiarchaeum_subterraneum-contig1_498      89    168     88    168 PF00900.21  Ribosomal_S4e     Family     2    75    75     72.5   1.9e-21   1 CL0021   
+Candidatus_Caldiarchaeum_subterraneum-contig1_501       3    127      3    127 PF00410.20  Ribosomal_S8      Domain     1   126   126     82.2   2.9e-24   1 No_clan  
+Candidatus_Caldiarchaeum_subterraneum-contig1_504       3    137      2    138 PF01280.21  Ribosomal_L19e    Family     2   143   144    159.4   5.6e-48   1 No_clan  
+Candidatus_Caldiarchaeum_subterraneum-contig1_838       5    138      4    140 PF01090.20  Ribosomal_S19e    Family     2   135   137    173.7   1.5e-52   1 CL0123   

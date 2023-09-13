@@ -1,0 +1,46 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:51.808355
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Nitrosarchaeum_koreense_MY1_renamed/Nitrosarchaeum_koreense_MY1_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Nitrosarchaeum_koreense_MY1-contig1_1368     56    179     40    183 PF00827.18  Ribosomal_L15e    Family    22   145   189    153.1   7.2e-46   1 CL0652   
+Nitrosarchaeum_koreense_MY1-contig1_1457     12    187     11    187 PF04919.13  DUF655            Family     2   181   181    165.5   1.3e-49   1 CL0198   
+Nitrosarchaeum_koreense_MY1-contig1_1564      4    193      3    194 PF01015.19  Ribosomal_S3Ae    Family     2   194   195    213.1   2.8e-64   1 No_clan  
+Nitrosarchaeum_koreense_MY1-contig1_16      122    226    121    227 PF07541.13  EIF_2_alpha       Family     3   113   114     71.1   8.3e-21   1 No_clan  
+Nitrosarchaeum_koreense_MY1-contig1_168       7     69      6     69 PF01200.19  Ribosomal_S28e    Family     2    64    64     97.3   3.8e-29   1 CL0021   
+Nitrosarchaeum_koreense_MY1-contig1_1682      3    137      3    138 PF01090.20  Ribosomal_S19e    Family     1   136   137    162.1     6e-49   1 CL0123   
+Nitrosarchaeum_koreense_MY1-contig1_317       8    105      7    107 PF00466.21  Ribosomal_L10     Family     2    98   100     70.2   1.4e-20   1 No_clan  
+Nitrosarchaeum_koreense_MY1-contig1_318      19    206     11    207 PF00687.22  Ribosomal_L1      Domain     5   203   204    130.9   5.3e-39   1 No_clan  
+Nitrosarchaeum_koreense_MY1-contig1_325       4    144      4    146 PF01280.21  Ribosomal_L19e    Family     1   142   144    132.1   1.5e-39   1 No_clan  
+Nitrosarchaeum_koreense_MY1-contig1_35       40    189     13    189 PF01025.20  GrpE              Family    14   166   166    130.9   3.6e-39   1 No_clan  
+Nitrosarchaeum_koreense_MY1-contig1_364      12    149     11    149 PF00380.20  Ribosomal_S9      Family     2   121   121    117.2   6.2e-35   1 CL0329   
+Nitrosarchaeum_koreense_MY1-contig1_367      45    157     45    157 PF01000.27  RNA_pol_A_bac     Domain     1   112   112     88.8     3e-26   1 No_clan  
+Nitrosarchaeum_koreense_MY1-contig1_831       6    130      5    130 PF00410.20  Ribosomal_S8      Domain     2   126   126     72.2   3.8e-21   1 No_clan  
+Nitrosarchaeum_koreense_MY1-contig1_834      98    169     96    169 PF00900.21  Ribosomal_S4e     Family     3    75    75     66.5   1.5e-19   1 CL0021   

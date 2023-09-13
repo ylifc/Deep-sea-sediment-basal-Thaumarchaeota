@@ -1,0 +1,4 @@
+Thaumarchaeota_archaeon_strain_BS1_contig6_2	2.26e-41	WP_022627702.1	SDR family oxidoreductase [Alkalihalophilus marmarensis]
+Thaumarchaeota_archaeon_strain_BS1_contig17_7	6.45e-109	GIU91197.1	MAG: tungsten formylmethanofuran dehydrogenase subunit E [Acidimicrobiia bacterium]
+Thaumarchaeota_archaeon_strain_BS1_contig41_10	8.26e-22	XP_024179074.1	protein LONG AFTER FAR-RED 3 isoform X2 [Rosa chinensis]
+Thaumarchaeota_archaeon_strain_BS1_contig63_102	1.65e-61	MBF6613166.1	tungsten formylmethanofuran dehydrogenase [Chloroflexota bacterium]

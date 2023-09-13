@@ -1,0 +1,11 @@
+Deep-sea_sediment_DRR121219_Bin1_contig1_6	36.0	K01810	glucose-6-phosphate isomerase [EC:5.3.1.9]	pgi
+Deep-sea_sediment_ERR1730303_Bin1_contig1_6	36.0	K01810	glucose-6-phosphate isomerase [EC:5.3.1.9]	pgi
+Mariana_Trench_sediment_5533m_4-6cm_Bin1_contig1_6	36.0	K01810	glucose-6-phosphate isomerase [EC:5.3.1.9]	pgi
+XS84_Bin1_contig93_1	38.0	K01810	glucose-6-phosphate isomerase [EC:5.3.1.9]	glucose-6-phosphate isomerase
+XS84_Bin1_contig93_1	41.2	K01810	glucose-6-phosphate isomerase [EC:5.3.1.9]	glucose-6-phosphate isomerase (EC:5.3.1.9)
+XS84_Bin1_contig190_11	35.3	K01810	glucose-6-phosphate isomerase [EC:5.3.1.9]	glucose-6-phosphate isomerase
+XS84_Bin1_contig190_11	36.5	K01810	glucose-6-phosphate isomerase [EC:5.3.1.9]	pgi
+XS84_Bin2_contig76_1	38.0	K01810	glucose-6-phosphate isomerase [EC:5.3.1.9]	glucose-6-phosphate isomerase
+XS84_Bin2_contig76_1	41.2	K01810	glucose-6-phosphate isomerase [EC:5.3.1.9]	glucose-6-phosphate isomerase (EC:5.3.1.9)
+XS84_Bin2_contig168_11	35.3	K01810	glucose-6-phosphate isomerase [EC:5.3.1.9]	glucose-6-phosphate isomerase
+XS84_Bin2_contig168_11	36.5	K01810	glucose-6-phosphate isomerase [EC:5.3.1.9]	pgi

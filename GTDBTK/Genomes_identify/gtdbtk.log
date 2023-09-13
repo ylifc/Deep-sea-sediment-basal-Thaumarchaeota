@@ -1,0 +1,14 @@
+[2023-07-11 23:43:39] INFO: GTDB-Tk v1.0.2
+[2023-07-11 23:43:39] INFO: gtdbtk identify --genome_dir renamed/ --out_dir renamed_identify --cpus 200
+[2023-07-11 23:43:39] INFO: Using GTDB-Tk reference data version r214: /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/
+[2023-07-11 23:43:39] ERROR: No genomes found in directory: renamed/. Check the --extension flag used to identify genomes.
+[2023-07-11 23:43:39] ERROR: Controlled exit resulting from an unrecoverable error or warning.
+[2023-07-11 23:43:46] INFO: GTDB-Tk v1.0.2
+[2023-07-11 23:43:46] INFO: gtdbtk identify -x fa --genome_dir renamed/ --out_dir renamed_identify --cpus 200
+[2023-07-11 23:43:46] INFO: Using GTDB-Tk reference data version r214: /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/
+[2023-07-11 23:43:46] INFO: Identifying markers in 163 genomes with 200 threads.
+[2023-07-11 23:43:46] INFO: Running Prodigal V2.6.3 to identify genes.
+[2023-07-11 23:44:36] INFO: Identifying TIGRFAM protein families.
+[2023-07-11 23:44:51] INFO: Identifying Pfam protein families.
+[2023-07-11 23:44:52] INFO: Annotations done using HMMER 3.3.2 (Nov 2020)
+[2023-07-11 23:44:54] INFO: Done.

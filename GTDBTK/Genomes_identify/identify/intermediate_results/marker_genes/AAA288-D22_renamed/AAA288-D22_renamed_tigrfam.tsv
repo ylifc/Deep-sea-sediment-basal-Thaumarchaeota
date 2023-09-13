@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+AAA288-D22-contig40_3 -          TIGR00037            TIGR00037      6e-38  125.0   0.1   6.8e-38  124.8   0.1   1.0   1   0   0   1   1   1   1 # 1472 # 1885 # 1 # ID=40_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.367
+AAA288-D22-contig6_6 -          TIGR00134            TIGR00134   5.6e-197  651.1   7.6  6.3e-197  650.9   7.6   1.0   1   0   0   1   1   1   1 # 3921 # 5807 # 1 # ID=6_6;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.358
+AAA288-D22-contig3_17 -          TIGR00291            TIGR00291    5.6e-36  119.4   0.4   6.1e-36  119.3   0.4   1.0   1   0   0   1   1   1   1 # 8009 # 8422 # -1 # ID=3_17;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.370
+AAA288-D22-contig13_14 -          TIGR00323            TIGR00323    7.8e-51  167.8   1.3   8.6e-51  167.7   1.3   1.0   1   0   0   1   1   1   1 # 6173 # 6838 # -1 # ID=13_14;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.344
+AAA288-D22-contig23_3 -          TIGR00335            TIGR00335    1.6e-34  115.1   4.1   3.5e-13   45.0   0.7   3.1   2   1   0   3   3   0   0 # 829 # 1950 # 1 # ID=23_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.348
+AAA288-D22-contig1_33 -          TIGR00373            TIGR00373    3.6e-33  109.7   2.8   4.4e-33  109.4   2.8   1.0   1   0   0   1   1   1   1 # 20359 # 20868 # -1 # ID=1_33;partial=00;start_type=TTG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.343
+AAA288-D22-contig2_53 -          TIGR00405            TIGR00405    2.9e-37  123.2   1.7   3.5e-37  123.0   1.7   1.1   1   0   0   1   1   1   1 # 35649 # 36275 # -1 # ID=2_53;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.391
+AAA288-D22-contig3_38 -          TIGR00431            TIGR00431    8.1e-34  112.5   0.3   5.1e-18   60.9   0.0   3.2   1   1   2   3   3   1   1 # 20852 # 21865 # -1 # ID=3_38;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.381
+AAA288-D22-contig15_3 -          TIGR00522            TIGR00522    1.5e-60  200.1   0.4     2e-60  199.7   0.4   1.1   1   0   0   1   1   1   1 # 911 # 1948 # 1 # ID=15_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.335
+AAA288-D22-contig3_42 -          TIGR00967            TIGR00967    8.2e-80  264.0  15.9   9.6e-80  263.8  15.9   1.0   1   0   0   1   1   1   1 # 23631 # 25064 # -1 # ID=3_42;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.404
+AAA288-D22-contig3_45 -          TIGR01020            TIGR01020    2.6e-72  238.0   0.8   3.2e-72  237.7   0.8   1.0   1   0   0   1   1   1   1 # 26032 # 26736 # -1 # ID=3_45;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.373
+AAA288-D22-contig20_8 -          TIGR02338            TIGR02338      3e-29   96.6  17.8   3.4e-29   96.4  17.8   1.0   1   0   0   1   1   1   1 # 4785 # 5162 # -1 # ID=20_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.357
+AAA288-D22-contig3_9  -          TIGR02338            TIGR02338    5.2e-18   60.4  11.6   5.7e-18   60.3  11.6   1.0   1   0   0   1   1   1   1 # 4247 # 4540 # -1 # ID=3_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.354
+AAA288-D22-contig6_9 -          TIGR02350            TIGR02350   8.6e-213  703.3  23.5  9.8e-213  703.1  23.5   1.0   1   0   0   1   1   1   1 # 7247 # 8851 # -1 # ID=6_9;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.388
+AAA288-D22-contig7_27 -          TIGR03680            TIGR03680   1.5e-175  579.6   2.1  1.7e-175  579.4   2.1   1.0   1   0   0   1   1   1   1 # 11933 # 13198 # -1 # ID=7_27;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.380
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/tigrfam/tigrfam.hmm
+# Target file:     renamed_identify/identify/intermediate_results/marker_genes/AAA288-D22_renamed/AAA288-D22_renamed_protein.faa
+# Option settings: hmmsearch -o renamed_identify/identify/intermediate_results/marker_genes/AAA288-D22_renamed/AAA288-D22_renamed_tigrfam.out --tblout renamed_identify/identify/intermediate_results/marker_genes/AAA288-D22_renamed/AAA288-D22_renamed_tigrfam.tsv --noali --notextw --cut_nc --cpu 1 /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/tigrfam/tigrfam.hmm renamed_identify/identify/intermediate_results/marker_genes/AAA288-D22_renamed/AAA288-D22_renamed_protein.faa 
+# Current dir:     /home/ylifc/Desktop/non-AOA/all_genomes
+# Date:            Tue Jul 11 23:44:39 2023
+# [ok]

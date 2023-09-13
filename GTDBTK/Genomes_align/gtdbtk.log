@@ -1,0 +1,477 @@
+[2023-07-11 23:45:44] INFO: GTDB-Tk v1.0.2
+[2023-07-11 23:45:44] INFO: gtdbtk align --identify_dir renamed_identify/ --out_dir renamed_align --cpus 200 --skip_gtdb_refs
+[2023-07-11 23:45:44] INFO: Using GTDB-Tk reference data version r214: /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/
+[2023-07-11 23:45:44] INFO: Aligning markers in 163 genomes with 200 threads.
+[2023-07-11 23:45:44] INFO: Processing 7 genomes identified as bacterial.
+[2023-07-11 23:45:47] INFO: Masking columns of multiple sequence alignment using canonical mask.
+[2023-07-11 23:45:47] ERROR: Controlled exit resulting from an unrecoverable error or warning.
+
+================================================================================
+EXCEPTION: MSAMaskLengthMismatch
+  MESSAGE: Mask and alignment length do not match.
+________________________________________________________________________________
+
+Traceback (most recent call last):
+  File "/home/ylifc/anaconda3/envs/gtdbtk/bin/gtdbtk", line 449, in <module>
+    gt_parser.parse_options(args)
+  File "/home/ylifc/anaconda3/envs/gtdbtk/lib/python3.8/site-packages/gtdbtk/main.py", line 629, in parse_options
+    self.align(options)
+  File "/home/ylifc/anaconda3/envs/gtdbtk/lib/python3.8/site-packages/gtdbtk/main.py", line 263, in align
+    markers.align(options.identify_dir,
+  File "/home/ylifc/anaconda3/envs/gtdbtk/lib/python3.8/site-packages/gtdbtk/markers.py", line 591, in align
+    trimmed_seqs, pruned_seqs = self._apply_mask(gtdb_msa,
+  File "/home/ylifc/anaconda3/envs/gtdbtk/lib/python3.8/site-packages/gtdbtk/markers.py", line 353, in _apply_mask
+    raise MSAMaskLengthMismatch(
+gtdbtk.exceptions.MSAMaskLengthMismatch: Mask and alignment length do not match.
+================================================================================
+[2023-07-11 23:46:27] INFO: GTDB-Tk v1.0.2
+[2023-07-11 23:46:27] INFO: gtdbtk align --identify_dir renamed_identify/ --out_dir renamed_align --cpus 200 --skip_gtdb_refs --custom_msa_filters --cols_per_gene 88
+[2023-07-11 23:46:27] INFO: Using GTDB-Tk reference data version r214: /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/
+[2023-07-11 23:46:27] INFO: Aligning markers in 163 genomes with 200 threads.
+[2023-07-11 23:46:27] INFO: Processing 7 genomes identified as bacterial.
+[2023-07-11 23:46:31] INFO: Performing custom filtering and selection of columns.
+[2023-07-11 23:46:31] INFO: Reading marker info.
+[2023-07-11 23:46:31] INFO: Length of MSA and length of marker genes both equal 41155 columns
+[2023-07-11 23:46:31] INFO: Randomly sampling 88 columns passing filtering criteria from each marker gene.
+[2023-07-11 23:46:31] INFO: Ribosomal_S9: Ribosomal protein S9/S16: S:0, E:121, LEN:121, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: Ribosomal_S8: Ribosomal protein S8: S:121, E:250, LEN:129, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: Ribosomal_L10: Ribosomal protein L10: S:250, E:350, LEN:100, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: GrpE: GrpE: S:350, E:516, LEN:166, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: DUF150: Uncharacterised BCR, YhbC family COG0779: S:516, E:657, LEN:141, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: PNPase: Polyribonucleotide nucleotidyltransferase, RNA binding domain: S:657, E:740, LEN:83, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00006: TIGR00006: 16S rRNA (cytosine(1402)-N(4))-methyltransferase: S:740, E:1050, LEN:310, COLS:138, PERC:44.5
+[2023-07-11 23:46:31] INFO: TIGR00019: prfA: peptide chain release factor 1: S:1050, E:1411, LEN:361, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00020: prfB: peptide chain release factor 2: S:1411, E:1776, LEN:365, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00029: S20: ribosomal protein bS20: S:1776, E:1863, LEN:87, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00043: TIGR00043: rRNA maturation RNase YbeY: S:1863, E:1974, LEN:111, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00054: TIGR00054: RIP metalloprotease RseP: S:1974, E:2395, LEN:421, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00059: L17: ribosomal protein bL17: S:2395, E:2507, LEN:112, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00061: L21: ribosomal protein bL21: S:2507, E:2608, LEN:101, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00064: ftsY: signal recognition particle-docking protein FtsY: S:2608, E:2887, LEN:279, COLS:197, PERC:70.6
+[2023-07-11 23:46:31] INFO: TIGR00065: ftsZ: cell division protein FtsZ: S:2887, E:3240, LEN:353, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00082: rbfA: ribosome-binding factor A: S:3240, E:3355, LEN:115, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00083: ribF: riboflavin biosynthesis protein RibF: S:3355, E:3645, LEN:290, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00084: ruvA: Holliday junction DNA helicase RuvA: S:3645, E:3837, LEN:192, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00086: smpB: SsrA-binding protein: S:3837, E:3981, LEN:144, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00088: trmD: tRNA (guanine(37)-N(1))-methyltransferase: S:3981, E:4214, LEN:233, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00090: rsfS_iojap_ybeB: ribosome silencing factor: S:4214, E:4313, LEN:99, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00092: TIGR00092: GTP-binding protein YchF: S:4313, E:4681, LEN:368, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00095: TIGR00095: 16S rRNA (guanine(966)-N(2))-methyltransferase RsmD: S:4681, E:4875, LEN:194, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00115: tig: trigger factor: S:4875, E:5285, LEN:410, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00116: tsf: translation elongation factor Ts: S:5285, E:5578, LEN:293, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00138: rsmG_gidB: 16S rRNA (guanine(527)-N(7))-methyltransferase RsmG: S:5578, E:5761, LEN:183, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00158: L9: ribosomal protein bL9: S:5761, E:5909, LEN:148, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00166: S6: ribosomal protein bS6: S:5909, E:6004, LEN:95, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00168: infC: translation initiation factor IF-3: S:6004, E:6169, LEN:165, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00186: rRNA_methyl_3: RNA methyltransferase, TrmH family, group 3: S:6169, E:6409, LEN:240, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00194: uvrC: excinuclease ABC subunit C: S:6409, E:6983, LEN:574, COLS:316, PERC:55.1
+[2023-07-11 23:46:31] INFO: TIGR00250: RNAse_H_YqgF: putative transcription antitermination factor YqgF: S:6983, E:7113, LEN:130, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00337: PyrG: CTP synthase: S:7113, E:7639, LEN:526, COLS:177, PERC:33.7
+[2023-07-11 23:46:31] INFO: TIGR00344: alaS: alanine--tRNA ligase: S:7639, E:8486, LEN:847, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00362: DnaA: chromosomal replication initiator protein DnaA: S:8486, E:8923, LEN:437, COLS:228, PERC:52.2
+[2023-07-11 23:46:31] INFO: TIGR00382: clpX: ATP-dependent Clp protease, ATP-binding subunit ClpX: S:8923, E:9337, LEN:414, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00392: ileS: isoleucine--tRNA ligase: S:9337, E:10198, LEN:861, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00396: leuS_bact: leucine--tRNA ligase: S:10198, E:11041, LEN:843, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00398: metG: methionine--tRNA ligase: S:11041, E:11571, LEN:530, COLS:66, PERC:12.5
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00414: serS: serine--tRNA ligase: S:11571, E:11989, LEN:418, COLS:319, PERC:76.3
+[2023-07-11 23:46:31] INFO: TIGR00416: sms: DNA repair protein RadA: S:11989, E:12443, LEN:454, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00420: trmU: tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase: S:12443, E:12794, LEN:351, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00431: TruB: tRNA pseudouridine(55) synthase: S:12794, E:13004, LEN:210, COLS:98, PERC:46.7
+[2023-07-11 23:46:31] INFO: TIGR00435: cysS: cysteine--tRNA ligase: S:13004, E:13470, LEN:466, COLS:218, PERC:46.8
+[2023-07-11 23:46:31] INFO: TIGR00436: era: GTP-binding protein Era: S:13470, E:13740, LEN:270, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00442: hisS: histidine--tRNA ligase: S:13740, E:14146, LEN:406, COLS:329, PERC:81.0
+[2023-07-11 23:46:31] INFO: TIGR00445: mraY: phospho-N-acetylmuramoyl-pentapeptide-transferase: S:14146, E:14467, LEN:321, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00456: argS: arginine--tRNA ligase: S:14467, E:15036, LEN:569, COLS:73, PERC:12.8
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00459: aspS_bact: aspartate--tRNA ligase: S:15036, E:15622, LEN:586, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00460: fmt: methionyl-tRNA formyltransferase: S:15622, E:15937, LEN:315, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00468: pheS: phenylalanine--tRNA ligase, alpha subunit: S:15937, E:16261, LEN:324, COLS:210, PERC:64.8
+[2023-07-11 23:46:31] INFO: TIGR00472: pheT_bact: phenylalanine--tRNA ligase, beta subunit: S:16261, E:17059, LEN:798, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00487: IF-2: translation initiation factor IF-2: S:17059, E:17646, LEN:587, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00496: frr: ribosome recycling factor: S:17646, E:17822, LEN:176, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00539: hemN_rel: putative oxygen-independent coproporphyrinogen III oxidase: S:17822, E:18183, LEN:361, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00580: mfd: transcription-repair coupling factor: S:18183, E:19106, LEN:923, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00593: pola: DNA polymerase I: S:19106, E:19996, LEN:890, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00615: recR: recombination protein RecR: S:19996, E:20192, LEN:196, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00631: uvrb: excinuclease ABC subunit B: S:20192, E:20850, LEN:658, COLS:172, PERC:26.1
+[2023-07-11 23:46:31] INFO: TIGR00634: recN: DNA repair protein RecN: S:20850, E:21413, LEN:563, COLS:175, PERC:31.1
+[2023-07-11 23:46:31] INFO: TIGR00635: ruvB: Holliday junction DNA helicase RuvB: S:21413, E:21718, LEN:305, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00643: recG: ATP-dependent DNA helicase RecG: S:21718, E:22347, LEN:629, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00663: dnan: DNA polymerase III, beta subunit: S:22347, E:22714, LEN:367, COLS:304, PERC:82.8
+[2023-07-11 23:46:31] INFO: TIGR00717: rpsA: ribosomal protein bS1: S:22714, E:23230, LEN:516, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00755: ksgA: ribosomal RNA small subunit methyltransferase A: S:23230, E:23486, LEN:256, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00810: secG: preprotein translocase, SecG subunit: S:23486, E:23559, LEN:73, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00922: nusG: transcription termination/antitermination factor NusG: S:23559, E:23731, LEN:172, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00928: purB: adenylosuccinate lyase: S:23731, E:24167, LEN:436, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00959: ffh: signal recognition particle protein: S:24167, E:24595, LEN:428, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00963: secA: preprotein translocase, SecA subunit: S:24595, E:25382, LEN:787, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00964: secE_bact: preprotein translocase, SecE subunit: S:25382, E:25439, LEN:57, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR00967: 3a0501s007: preprotein translocase, SecY subunit: S:25439, E:25853, LEN:414, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01009: rpsC_bact: ribosomal protein uS3: S:25853, E:26065, LEN:212, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01011: rpsB_bact: ribosomal protein uS2: S:26065, E:26290, LEN:225, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01017: rpsD_bact: ribosomal protein uS4: S:26290, E:26490, LEN:200, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01021: rpsE_bact: ribosomal protein uS5: S:26490, E:26646, LEN:156, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01029: rpsG_bact: ribosomal protein uS7: S:26646, E:26800, LEN:154, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01032: rplT_bact: ribosomal protein bL20: S:26800, E:26914, LEN:114, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01039: atpD: ATP synthase F1, beta subunit: S:26914, E:27376, LEN:462, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01044: rplV_bact: ribosomal protein uL22: S:27376, E:27479, LEN:103, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01059: gyrB: DNA gyrase, B subunit: S:27479, E:28118, LEN:639, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01063: gyrA: DNA gyrase, A subunit: S:28118, E:28918, LEN:800, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01066: rplM_bact: ribosomal protein uL13: S:28918, E:29059, LEN:141, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01071: rplO_bact: ribosomal protein uL15: S:29059, E:29203, LEN:144, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01079: rplX_bact: ribosomal protein uL24: S:29203, E:29307, LEN:104, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01082: murC: UDP-N-acetylmuramate--L-alanine ligase: S:29307, E:29756, LEN:449, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01087: murD: UDP-N-acetylmuramoylalanine--D-glutamate ligase: S:29756, E:30197, LEN:441, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01128: holA: DNA polymerase III, delta subunit: S:30197, E:30511, LEN:314, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01146: ATPsyn_F1gamma: ATP synthase F1, gamma subunit: S:30511, E:30797, LEN:286, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01164: rplP_bact: ribosomal protein uL16: S:30797, E:30923, LEN:126, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01169: rplA_bact: ribosomal protein uL1: S:30923, E:31150, LEN:227, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01171: rplB_bact: ribosomal protein uL2: S:31150, E:31425, LEN:275, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01302: IMP_dehydrog: inosine-5'-monophosphate dehydrogenase: S:31425, E:31875, LEN:450, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01391: dnaG: DNA primase: S:31875, E:32289, LEN:414, COLS:102, PERC:24.6
+[2023-07-11 23:46:31] INFO: TIGR01393: lepA: elongation factor 4: S:32289, E:32884, LEN:595, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01394: TypA_BipA: GTP-binding protein TypA/BipA: S:32884, E:33478, LEN:594, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01510: coaD_prev_kdtB: pantetheine-phosphate adenylyltransferase: S:33478, E:33633, LEN:155, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01632: L11_bact: ribosomal protein uL11: S:33633, E:33773, LEN:140, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01951: nusB: transcription antitermination factor NusB: S:33773, E:33904, LEN:131, COLS:73, PERC:55.7
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR01953: NusA: transcription termination factor NusA: S:33904, E:34244, LEN:340, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR02012: tigrfam_recA: protein RecA: S:34244, E:34565, LEN:321, COLS:62, PERC:19.3
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR02013: rpoB: DNA-directed RNA polymerase, beta subunit: S:34565, E:35803, LEN:1238, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR02027: rpoA: DNA-directed RNA polymerase, alpha subunit: S:35803, E:36101, LEN:298, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR02075: pyrH_bact: UMP kinase: S:36101, E:36334, LEN:233, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR02191: RNaseIII: ribonuclease III: S:36334, E:36553, LEN:219, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR02273: 16S_RimM: 16S rRNA processing protein RimM: S:36553, E:36719, LEN:166, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR02350: prok_dnaK: chaperone protein DnaK: S:36719, E:37315, LEN:596, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR02386: rpoC_TIGR: DNA-directed RNA polymerase, beta' subunit: S:37315, E:38462, LEN:1147, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR02397: dnaX_nterm: DNA polymerase III, subunit gamma and tau: S:38462, E:38817, LEN:355, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR02432: lysidine_TilS_N: tRNA(Ile)-lysidine synthetase: S:38817, E:39006, LEN:189, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR02729: Obg_CgtA: Obg family GTPase CgtA: S:39006, E:39335, LEN:329, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR03263: guanyl_kin: guanylate kinase: S:39335, E:39515, LEN:180, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR03594: GTPase_EngA: ribosome-associated GTPase EngA: S:39515, E:39947, LEN:432, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR03625: L3_bact: 50S ribosomal protein uL3: S:39947, E:40149, LEN:202, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR03632: uS11_bact: ribosomal protein uS11: S:40149, E:40266, LEN:117, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR03654: L6_bact: ribosomal protein uL6: S:40266, E:40441, LEN:175, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR03723: T6A_TsaD_YgjD: tRNA threonylcarbamoyl adenosine modification protein TsaD: S:40441, E:40755, LEN:314, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR03725: T6A_YeaZ: tRNA threonylcarbamoyl adenosine modification protein YeaZ: S:40755, E:40967, LEN:212, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:31] INFO: TIGR03953: rplD_bact: 50S ribosomal protein uL4: S:40967, E:41155, LEN:188, COLS:0, PERC:0.0
+[2023-07-11 23:46:31] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:32] INFO: Identified 106 of 120 marker genes with <88 columns for sampling:
+[2023-07-11 23:46:32] INFO: PF00380.14, PF00410.14, PF00466.15, PF01025.14, PF02576.12, PF03726.9, TIGR00019, TIGR00020, TIGR00029, TIGR00043, TIGR00054, TIGR00059, TIGR00061, TIGR00065, TIGR00082, TIGR00083, TIGR00084, TIGR00086, TIGR00088, TIGR00090, TIGR00092, TIGR00095, TIGR00115, TIGR00116, TIGR00138, TIGR00158, TIGR00166, TIGR00168, TIGR00186, TIGR00250, TIGR00344, TIGR00382, TIGR00392, TIGR00396, TIGR00398, TIGR00416, TIGR00420, TIGR00436, TIGR00445, TIGR00456, TIGR00459, TIGR00460, TIGR00472, TIGR00487, TIGR00496, TIGR00539, TIGR00580, TIGR00593, TIGR00615, TIGR00635, TIGR00643, TIGR00717, TIGR00755, TIGR00810, TIGR00922, TIGR00928, TIGR00959, TIGR00963, TIGR00964, TIGR00967, TIGR01009, TIGR01011, TIGR01017, TIGR01021, TIGR01029, TIGR01032, TIGR01039, TIGR01044, TIGR01059, TIGR01063, TIGR01066, TIGR01071, TIGR01079, TIGR01082, TIGR01087, TIGR01128, TIGR01146, TIGR01164, TIGR01169, TIGR01171, TIGR01302, TIGR01393, TIGR01394, TIGR01510, TIGR01632, TIGR01951, TIGR01953, TIGR02012, TIGR02013, TIGR02027, TIGR02075, TIGR02191, TIGR02273, TIGR02350, TIGR02386, TIGR02397, TIGR02432, TIGR02729, TIGR03263, TIGR03594, TIGR03625, TIGR03632, TIGR03654, TIGR03723, TIGR03725, TIGR03953
+[2023-07-11 23:46:32] INFO: Marker genes had 7.0+/-18.7% of columns available for selection on average.
+[2023-07-11 23:46:32] INFO: Final MSA contains 1506 columns.
+[2023-07-11 23:46:32] INFO: Filtered MSA from 41155 to 1506 AAs.
+[2023-07-11 23:46:32] INFO: Filtered 0 genomes with amino acids in <10.0% of columns in filtered MSA.
+[2023-07-11 23:46:32] INFO: Creating concatenated alignment for 7 user genomes.
+[2023-07-11 23:46:32] INFO: Processing 156 genomes identified as archaeal.
+[2023-07-11 23:46:37] INFO: Performing custom filtering and selection of columns.
+[2023-07-11 23:46:37] INFO: Reading marker info.
+[2023-07-11 23:46:37] INFO: Length of MSA and length of marker genes both equal 32675 columns
+[2023-07-11 23:46:37] INFO: Randomly sampling 88 columns passing filtering criteria from each marker gene.
+[2023-07-11 23:46:37] INFO: UPF0086: Domain of unknown function UPF0086: S:0, E:89, LEN:89, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Ribosomal_S24e: Ribosomal protein S24e: S:89, E:173, LEN:84, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Ribosomal_L32e: Ribosomal protein L32: S:173, E:283, LEN:110, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Ribosomal_S6e: Ribosomal protein S6e: S:283, E:410, LEN:127, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: RNA_pol_A_bac: RNA polymerase Rpb3/RpoA insert domain: S:410, E:522, LEN:112, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: HMG-CoA_red: Hydroxymethylglutaryl-coenzyme A reductase: S:522, E:895, LEN:373, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Ribosomal_L15e: Ribosomal L15: S:895, E:1087, LEN:192, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Fibrillarin: Fibrillarin: S:1087, E:1316, LEN:229, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Ribosomal_L10: Ribosomal protein L10: S:1316, E:1416, LEN:100, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Ribosomal_S3Ae: Ribosomal S3Ae family: S:1416, E:1611, LEN:195, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Fe-ADH_2: Iron-containing alcohol dehydrogenase: S:1611, E:1861, LEN:250, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: SRP_SPB: Signal peptide binding domain: S:1861, E:1965, LEN:104, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: DUF655: Protein of unknown function (DUF655): S:1965, E:2146, LEN:181, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: dsDNA_bind: Double-stranded DNA-binding domain: S:2146, E:2253, LEN:107, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: DNA_primase_lrg: Eukaryotic and archaeal DNA primase, large subunit: S:2253, E:2513, LEN:260, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Ribosomal_S8: Ribosomal protein S8: S:2513, E:2642, LEN:129, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Nop: Putative snoRNA binding domain: S:2642, E:2792, LEN:150, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: DUF46: Putative integral membrane protein DUF46: S:2792, E:2967, LEN:175, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: ATP-synt_F: ATP synthase (F/14-kDa) subunit: S:2967, E:3062, LEN:95, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: EIF_2_alpha: Eukaryotic translation initiation factor 2 alpha subunit: S:3062, E:3176, LEN:114, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: DUF359: Protein of unknown function (DUF359): S:3176, E:3297, LEN:121, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Ribosomal_S4e: Ribosomal family S4e: S:3297, E:3374, LEN:77, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Ribosomal_S19e: Ribosomal protein S19e: S:3374, E:3514, LEN:140, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: DUF137: Protein of unknown function DUF137: S:3514, E:3692, LEN:178, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Ribosomal_L21e: Ribosomal protein L21e: S:3692, E:3791, LEN:99, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: RNA_pol_Rpb5_C: RNA polymerase Rpb5, C-terminal domain: S:3791, E:3865, LEN:74, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Diphthamide_syn: Putative diphthamide synthesis protein: S:3865, E:4172, LEN:307, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Ribosomal_L31e: Ribosomal protein L31e: S:4172, E:4255, LEN:83, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: V_ATPase_I: V-type ATPase 116kDa subunit family: S:4255, E:5014, LEN:759, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Ribosomal_L1: Ribosomal protein L1p/L10e family: S:5014, E:5234, LEN:220, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: RNA_pol_Rpb4: RNA polymerase Rpb4: S:5234, E:5351, LEN:117, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: RNA_pol_N: RNA polymerases N / 8 kDa subunit: S:5351, E:5411, LEN:60, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Ribosomal_S28e: Ribosomal protein S28e: S:5411, E:5480, LEN:69, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: RNA_pol_L_2: RNA polymerase Rpb3/Rpb11 dimerisation domain: S:5480, E:5557, LEN:77, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: Ribosomal_L19e: Ribosomal protein L19e: S:5557, E:5705, LEN:148, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00468: pheS: phenylalanine--tRNA ligase, alpha subunit: S:5705, E:6029, LEN:324, COLS:85, PERC:26.2
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR01060: eno: phosphopyruvate hydratase: S:6029, E:6454, LEN:425, COLS:195, PERC:45.9
+[2023-07-11 23:46:37] INFO: TIGR03627: uS9_arch: ribosomal protein uS9: S:6454, E:6584, LEN:130, COLS:98, PERC:75.4
+[2023-07-11 23:46:37] INFO: TIGR01020: uS5_euk_arch: ribosomal protein uS5: S:6584, E:6796, LEN:212, COLS:177, PERC:83.5
+[2023-07-11 23:46:37] INFO: TIGR02258: 2_5_ligase: 2'-5' RNA ligase: S:6796, E:6976, LEN:180, COLS:140, PERC:77.8
+[2023-07-11 23:46:37] INFO: TIGR00293: TIGR00293: prefoldin, alpha subunit: S:6976, E:7105, LEN:129, COLS:91, PERC:70.5
+[2023-07-11 23:46:37] INFO: TIGR00389: glyS_dimeric: glycine--tRNA ligase: S:7105, E:7670, LEN:565, COLS:315, PERC:55.8
+[2023-07-11 23:46:37] INFO: TIGR01012: uS2_euk_arch: ribosomal protein uS2: S:7670, E:7866, LEN:196, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00490: aEF-2: translation elongation factor aEF-2: S:7866, E:8586, LEN:720, COLS:329, PERC:45.7
+[2023-07-11 23:46:37] INFO: TIGR03677: eL8_ribo: ribosomal protein eL8: S:8586, E:8703, LEN:117, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR03636: uL23_arch: ribosomal protein uL23: S:8703, E:8780, LEN:77, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR03722: arch_KAE1: universal archaeal protein Kae1: S:8780, E:9103, LEN:323, COLS:38, PERC:11.8
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00458: aspS_nondisc: aspartate--tRNA(Asn) ligase: S:9103, E:9531, LEN:428, COLS:188, PERC:43.9
+[2023-07-11 23:46:37] INFO: TIGR00291: RNA_SBDS: rRNA metabolism protein, SBDS family: S:9531, E:9762, LEN:231, COLS:138, PERC:59.7
+[2023-07-11 23:46:37] INFO: TIGR00670: asp_carb_tr: aspartate carbamoyltransferase: S:9762, E:10066, LEN:304, COLS:72, PERC:23.7
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00064: ftsY: signal recognition particle-docking protein FtsY: S:10066, E:10345, LEN:279, COLS:203, PERC:72.8
+[2023-07-11 23:46:37] INFO: TIGR03629: uS13_arch: ribosomal protein uS13: S:10345, E:10489, LEN:144, COLS:101, PERC:70.1
+[2023-07-11 23:46:37] INFO: TIGR00021: rpiA: ribose 5-phosphate isomerase A: S:10489, E:10707, LEN:218, COLS:128, PERC:58.7
+[2023-07-11 23:46:37] INFO: TIGR03672: rpl4p_arch: 50S ribosomal protein uL4: S:10707, E:10958, LEN:251, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00111: pelota: mRNA surveillance protein pelota: S:10958, E:11309, LEN:351, COLS:81, PERC:23.1
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR03684: arCOG00985: arCOG04150 universal archaeal PUA-domain protein: S:11309, E:11463, LEN:154, COLS:120, PERC:77.9
+[2023-07-11 23:46:37] INFO: TIGR01077: L13_A_E: ribosomal protein uL13: S:11463, E:11604, LEN:141, COLS:116, PERC:82.3
+[2023-07-11 23:46:37] INFO: TIGR01213: pseudo_Pus10arc: tRNA pseudouridine(54/55) synthase: S:11604, E:11991, LEN:387, COLS:318, PERC:82.2
+[2023-07-11 23:46:37] INFO: TIGR01080: rplX_A_E: ribosomal protein uL24: S:11991, E:12107, LEN:116, COLS:93, PERC:80.2
+[2023-07-11 23:46:37] INFO: TIGR00501: met_pdase_II: methionine aminopeptidase, type II: S:12107, E:12402, LEN:295, COLS:244, PERC:82.7
+[2023-07-11 23:46:37] INFO: TIGR00729: TIGR00729: ribonuclease HII: S:12402, E:12609, LEN:207, COLS:175, PERC:84.5
+[2023-07-11 23:46:37] INFO: TIGR01038: uL22_arch_euk: ribosomal protein uL22: S:12609, E:12757, LEN:148, COLS:115, PERC:77.7
+[2023-07-11 23:46:37] INFO: TIGR00270: TIGR00270: TIGR00270 family protein: S:12757, E:12911, LEN:154, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR03628: arch_S11P: ribosomal protein uS11: S:12911, E:13028, LEN:117, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR01028: uS7_euk_arch: ribosomal protein uS7: S:13028, E:13214, LEN:186, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00521: coaBC_dfp: phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase: S:13214, E:13606, LEN:392, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR03671: cca_archaeal: CCA-adding enzyme: S:13606, E:14016, LEN:410, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00240: ATCase_reg: aspartate carbamoyltransferase, regulatory subunit: S:14016, E:14166, LEN:150, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR02390: RNA_pol_rpoA1: DNA-directed RNA polymerase subunit A': S:14166, E:15033, LEN:867, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR02338: gimC_beta: prefoldin, beta subunit: S:15033, E:15143, LEN:110, COLS:91, PERC:82.7
+[2023-07-11 23:46:37] INFO: TIGR00037: eIF_5A: translation elongation factor IF5A: S:15143, E:15273, LEN:130, COLS:98, PERC:75.4
+[2023-07-11 23:46:37] INFO: TIGR02076: pyrH_arch: putative uridylate kinase: S:15273, E:15495, LEN:222, COLS:177, PERC:79.7
+[2023-07-11 23:46:37] INFO: TIGR00335: primase_sml: putative DNA primase, eukaryotic-type, small subunit: S:15495, E:15819, LEN:324, COLS:259, PERC:79.9
+[2023-07-11 23:46:37] INFO: TIGR01025: uS19_arch: ribosomal protein uS19: S:15819, E:15954, LEN:135, COLS:116, PERC:85.9
+[2023-07-11 23:46:37] INFO: TIGR00471: pheT_arch: phenylalanine--tRNA ligase, beta subunit: S:15954, E:16505, LEN:551, COLS:193, PERC:35.0
+[2023-07-11 23:46:37] INFO: TIGR00336: pyrE: orotate phosphoribosyltransferase: S:16505, E:16678, LEN:173, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00522: dph5: diphthine synthase: S:16678, E:16936, LEN:258, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR02153: gatD_arch: glutamyl-tRNA(Gln) amidotransferase, subunit D: S:16936, E:17341, LEN:405, COLS:111, PERC:27.4
+[2023-07-11 23:46:37] INFO: TIGR02651: RNase_Z: ribonuclease Z: S:17341, E:17643, LEN:302, COLS:126, PERC:41.7
+[2023-07-11 23:46:37] INFO: TIGR03674: fen_arch: flap structure-specific endonuclease: S:17643, E:17981, LEN:338, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00323: eIF-6: putative translation initiation factor eIF-6: S:17981, E:18196, LEN:215, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00134: gatE_arch: glutamyl-tRNA(Gln) amidotransferase, subunit E: S:18196, E:18818, LEN:622, COLS:29, PERC:4.7
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR02236: recomb_radA: DNA repair and recombination protein RadA: S:18818, E:19129, LEN:311, COLS:244, PERC:78.5
+[2023-07-11 23:46:37] INFO: TIGR03683: A-tRNA_syn_arch: alanine--tRNA ligase: S:19129, E:20031, LEN:902, COLS:194, PERC:21.5
+[2023-07-11 23:46:37] INFO: TIGR00491: aIF-2: translation initiation factor aIF-2: S:20031, E:20625, LEN:594, COLS:205, PERC:34.5
+[2023-07-11 23:46:37] INFO: TIGR00658: orni_carb_tr: ornithine carbamoyltransferase: S:20625, E:20929, LEN:304, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR03680: eif2g_arch: translation initiation factor 2, gamma subunit: S:20929, E:21336, LEN:407, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00392: ileS: isoleucine--tRNA ligase: S:21336, E:22197, LEN:861, COLS:284, PERC:33.0
+[2023-07-11 23:46:37] INFO: TIGR00422: valS: valine--tRNA ligase: S:22197, E:23060, LEN:863, COLS:542, PERC:62.8
+[2023-07-11 23:46:37] INFO: TIGR00279: uL16_euk_arch: ribosomal protein uL16: S:23060, E:23232, LEN:172, COLS:34, PERC:19.8
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR01052: top6b: DNA topoisomerase VI, B subunit: S:23232, E:23720, LEN:488, COLS:406, PERC:83.2
+[2023-07-11 23:46:37] INFO: TIGR00442: hisS: histidine--tRNA ligase: S:23720, E:24126, LEN:406, COLS:49, PERC:12.1
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00308: TRM1: N2,N2-dimethylguanosine tRNA methyltransferase: S:24126, E:24501, LEN:375, COLS:33, PERC:8.8
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00398: metG: methionine--tRNA ligase: S:24501, E:25031, LEN:530, COLS:294, PERC:55.5
+[2023-07-11 23:46:37] INFO: TIGR00456: argS: arginine--tRNA ligase: S:25031, E:25600, LEN:569, COLS:95, PERC:16.7
+[2023-07-11 23:46:37] INFO: TIGR00549: mevalon_kin: mevalonate kinase: S:25600, E:25876, LEN:276, COLS:89, PERC:32.2
+[2023-07-11 23:46:37] INFO: TIGR00408: proS_fam_I: proline--tRNA ligase: S:25876, E:26351, LEN:475, COLS:240, PERC:50.5
+[2023-07-11 23:46:37] INFO: TIGR00432: arcsn_tRNA_tgt: tRNA-guanine(15) transglycosylase: S:26351, E:26988, LEN:637, COLS:198, PERC:31.1
+[2023-07-11 23:46:37] INFO: TIGR00264: TIGR00264: alpha-NAC homolog: S:26988, E:27104, LEN:116, COLS:66, PERC:56.9
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00982: uS12_E_A: ribosomal protein uS12: S:27104, E:27243, LEN:139, COLS:83, PERC:59.7
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00324: endA: tRNA-intron lyase: S:27243, E:27420, LEN:177, COLS:149, PERC:84.2
+[2023-07-11 23:46:37] INFO: TIGR01952: nusA_arch: NusA family KH domain protein, archaeal: S:27420, E:27561, LEN:141, COLS:90, PERC:63.8
+[2023-07-11 23:46:37] INFO: TIGR03626: L3_arch: ribosomal protein uL3: S:27561, E:27892, LEN:331, COLS:30, PERC:9.1
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR03670: rpoB_arch: DNA-directed RNA polymerase subunit B: S:27892, E:28491, LEN:599, COLS:327, PERC:54.6
+[2023-07-11 23:46:37] INFO: TIGR00337: PyrG: CTP synthase: S:28491, E:29017, LEN:526, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR01046: uS10_euk_arch: ribosomal protein uS10: S:29017, E:29116, LEN:99, COLS:64, PERC:64.6
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR01018: uS4_arch: ribosomal protein uS4: S:29116, E:29278, LEN:162, COLS:118, PERC:72.8
+[2023-07-11 23:46:37] INFO: TIGR00936: ahcY: adenosylhomocysteinase: S:29278, E:29694, LEN:416, COLS:274, PERC:65.9
+[2023-07-11 23:46:37] INFO: TIGR00463: gltX_arch: glutamate--tRNA ligase: S:29694, E:30254, LEN:560, COLS:446, PERC:79.6
+[2023-07-11 23:46:37] INFO: TIGR01309: uL30_arch: ribosomal protein uL30: S:30254, E:30405, LEN:151, COLS:37, PERC:24.5
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR03653: uL6_arch: ribosomal protein uL6: S:30405, E:30575, LEN:170, COLS:117, PERC:68.8
+[2023-07-11 23:46:37] INFO: TIGR00042: TIGR00042: non-canonical purine NTP pyrophosphatase, RdgB/HAM1 family: S:30575, E:30759, LEN:184, COLS:149, PERC:81.0
+[2023-07-11 23:46:37] INFO: TIGR02389: RNA_pol_rpoA2: DNA-directed RNA polymerase, subunit A'': S:30759, E:31126, LEN:367, COLS:184, PERC:50.1
+[2023-07-11 23:46:37] INFO: TIGR00307: eS8: ribosomal protein eS8: S:31126, E:31253, LEN:127, COLS:106, PERC:83.5
+[2023-07-11 23:46:37] INFO: TIGR03673: uL14_arch: 50S ribosomal protein uL14: S:31253, E:31384, LEN:131, COLS:35, PERC:26.7
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00373: TIGR00373: transcription factor E: S:31384, E:31546, LEN:162, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR01008: uS3_euk_arch: ribosomal protein uS3: S:31546, E:31741, LEN:195, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00283: arch_pth2: peptidyl-tRNA hydrolase: S:31741, E:31856, LEN:115, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00425: CBF5: putative rRNA pseudouridine synthase: S:31856, E:32178, LEN:322, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00405: KOW_elon_Spt5: transcription elongation factor Spt5: S:32178, E:32323, LEN:145, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR03665: arCOG04150: arCOG04150 universal archaeal KH domain protein: S:32323, E:32496, LEN:173, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:37] INFO: TIGR00448: rpoE: DNA-directed RNA polymerase: S:32496, E:32675, LEN:179, COLS:0, PERC:0.0
+[2023-07-11 23:46:37] WARNING: Marker has <88 columns after filtering.
+[2023-07-11 23:46:39] INFO: Identified 74 of 122 marker genes with <88 columns for sampling:
+[2023-07-11 23:46:39] INFO: PF01868.11, PF01282.14, PF01655.13, PF01092.14, PF01000.21, PF00368.13, PF00827.12, PF01269.12, PF00466.15, PF01015.13, PF13685.1, PF02978.14, PF04919.7, PF01984.15, PF04104.9, PF00410.14, PF01798.13, PF01864.12, PF01990.12, PF07541.7, PF04019.7, PF00900.15, PF01090.14, PF02006.11, PF01157.13, PF01191.14, PF01866.12, PF01198.14, PF01496.14, PF00687.16, PF03874.11, PF01194.12, PF01200.13, PF13656.1, PF01280.15, TIGR00468, TIGR01012, TIGR03677, TIGR03636, TIGR03722, TIGR00670, TIGR03672, TIGR00111, TIGR00270, TIGR03628, TIGR01028, TIGR00521, TIGR03671, TIGR00240, TIGR02390, TIGR00336, TIGR00522, TIGR03674, TIGR00323, TIGR00134, TIGR00658, TIGR03680, TIGR00279, TIGR00442, TIGR00308, TIGR00264, TIGR00982, TIGR03626, TIGR00337, TIGR01046, TIGR01309, TIGR03673, TIGR00373, TIGR01008, TIGR00283, TIGR00425, TIGR00405, TIGR03665, TIGR00448
+[2023-07-11 23:46:39] INFO: Marker genes had 28.0+/-32.7% of columns available for selection on average.
+[2023-07-11 23:46:39] INFO: Final MSA contains 4960 columns.
+[2023-07-11 23:46:39] INFO: Filtered MSA from 32675 to 4960 AAs.
+[2023-07-11 23:46:39] INFO: Filtered 0 genomes with amino acids in <10.0% of columns in filtered MSA.
+[2023-07-11 23:46:39] INFO: Creating concatenated alignment for 156 user genomes.
+[2023-07-11 23:46:39] INFO: Done.

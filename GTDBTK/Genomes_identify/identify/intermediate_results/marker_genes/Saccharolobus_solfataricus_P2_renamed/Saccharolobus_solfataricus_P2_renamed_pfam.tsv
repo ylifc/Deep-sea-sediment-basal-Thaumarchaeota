@@ -1,0 +1,45 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-07-11 23:44:52.420459
+# Query sequence file:      renamed_identify/identify/intermediate_results/marker_genes/Saccharolobus_solfataricus_P2_renamed/Saccharolobus_solfataricus_P2_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /home/ylifc/anaconda3/envs/gtdbtk/share/gtdbtk-1.0.2/db/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Saccharolobus_solfataricus_P2-contig1_1044    122    232    121    235 PF07541.13  EIF_2_alpha       Family     2   110   114     84.0   1.4e-24   1 No_clan  
+Saccharolobus_solfataricus_P2-contig1_227      34     94     31     94 PF01200.19  Ribosomal_S28e    Family     4    64    64    110.0     7e-33   1 CL0021   
+Saccharolobus_solfataricus_P2-contig1_335      12    106      9    107 PF00466.21  Ribosomal_L10     Family     4    98   100     89.4   2.4e-26   1 No_clan  
+Saccharolobus_solfataricus_P2-contig1_336      24    210     15    211 PF00687.22  Ribosomal_L1      Domain     6   203   204    118.6   5.2e-35   1 No_clan  
+Saccharolobus_solfataricus_P2-contig1_347       3    141      3    141 PF01090.20  Ribosomal_S19e    Family     1   137   137    170.6   2.4e-51   1 CL0123   
+Saccharolobus_solfataricus_P2-contig1_699       3    145      3    147 PF01280.21  Ribosomal_L19e    Family     1   142   144    149.8   9.1e-45   1 No_clan  
+Saccharolobus_solfataricus_P2-contig1_702       5    133      5    133 PF00410.20  Ribosomal_S8      Domain     1   126   126     88.7     5e-26   1 No_clan  
+Saccharolobus_solfataricus_P2-contig1_705      91    167     90    167 PF00900.21  Ribosomal_S4e     Family     2    75    75     78.5   4.7e-23   1 CL0021   
+Saccharolobus_solfataricus_P2-contig1_71       13    137     12    137 PF00380.20  Ribosomal_S9      Family     2   121   121     95.4     6e-28   1 CL0329   
+Saccharolobus_solfataricus_P2-contig1_738       4    186      4    205 PF00827.18  Ribosomal_L15e    Family     1   184   189    247.7   1.2e-74   1 CL0652   
+Saccharolobus_solfataricus_P2-contig1_74       44    156     44    157 PF01000.27  RNA_pol_A_bac     Domain     1   111   112    102.8   2.4e-30   1 No_clan  
+Saccharolobus_solfataricus_P2-contig1_741       6    193      3    193 PF01015.19  Ribosomal_S3Ae    Family     4   195   195    237.7   1.4e-71   1 No_clan  
+Saccharolobus_solfataricus_P2-contig1_745       9    183      8    184 PF04919.13  DUF655            Family     2   180   181    241.1   1.3e-72   1 CL0198   
